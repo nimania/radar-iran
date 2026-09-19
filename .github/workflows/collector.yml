@@ -1,0 +1,23 @@
+name: Market collector
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */12 * * *"
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm run collect
+      - run: npm run build
+      - run: |
+          git config user.name "radar-iran-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data dist
+          git diff --cached --quiet || git commit -m "data: refresh market snapshot"
+          git push
