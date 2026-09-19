@@ -1,0 +1,4 @@
+import fs from "node:fs/promises"; import {callTool} from "./mcp-client.mjs";
+const cfg=JSON.parse(await fs.readFile("config/categories.json","utf8")); const now=new Date().toISOString(); const out={generated_at:now,source:"digikala-mcp",categories:{}};
+for(const c of cfg.categories){try{out.categories[c.key]={label:c.label,query:c.query,result:await callTool("search_digikala",{query:c.query,limit:10})};}catch(e){out.categories[c.key]={label:c.label,error:String(e)}} await new Promise(r=>setTimeout(r,700));}
+await fs.mkdir("data/snapshots",{recursive:true}); const day=now.slice(0,10); await fs.writeFile(`data/snapshots/${day}.json`,JSON.stringify(out,null,2)); await fs.writeFile("data/latest.json",JSON.stringify(out,null,2)); console.log("snapshot",day);
