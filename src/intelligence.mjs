@@ -1,0 +1,2 @@
+export function percentChange(current,previous){if(current==null||previous==null||previous===0)return null;return Math.round(((current-previous)/previous)*10000)/100}
+export function enrich(products=[],previous=[]){const old=new Map(previous.map(p=>[p.source_id,p]));return products.map(p=>{const prev=old.get(p.source_id);return {...p,signals:{price_change_pct:percentChange(p.price,prev?.price),rank_change:prev?.rank!=null&&p.rank!=null?prev.rank-p.rank:null,is_new:!prev}}})}
