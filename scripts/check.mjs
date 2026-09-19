@@ -1,0 +1,1 @@
+import fs from "node:fs/promises"; for(const p of ["config/categories.json","scripts/mcp-client.mjs","scripts/collect.mjs","scripts/build-site.mjs"]){await fs.access(p)} JSON.parse(await fs.readFile("config/categories.json","utf8")); console.log("OK");
