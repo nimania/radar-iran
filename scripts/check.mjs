@@ -1,4 +1,5 @@
-import fs from "node:fs/promises"; import assert from "node:assert/strict"; import {normalizeProduct} from "../src/normalize.mjs"; import {percentChange} from "../src/intelligence.mjs";
+import fs from "node:fs/promises"; import assert from "node:assert/strict"; import {normalizeProduct,extractProducts} from "../src/normalize.mjs"; import {percentChange} from "../src/intelligence.mjs";
 for(const p of ["config/categories.json","scripts/mcp-client.mjs","scripts/collect.mjs","scripts/build-site.mjs","src/normalize.mjs","src/intelligence.mjs"])await fs.access(p);
-JSON.parse(await fs.readFile("config/categories.json","utf8"));const p=normalizeProduct({id:123,title_fa:"نمونه",price:{selling_price:900,rrp_price:1000,discount_percent:10},rating:{rate:4.2,count:7}},{rank:2});
-assert.equal(p.source_id,"123");assert.equal(p.price,900);assert.equal(p.rating,4.2);assert.equal(percentChange(90,100),-10);console.log("OK");
+JSON.parse(await fs.readFile("config/categories.json","utf8"));
+const raw={content:[{type:"text",text:JSON.stringify({items:[{id:123,title:"نمونه",price_toman:900,price_before_toman:1000,discount_percent:10,rating_stars:4.2,rating_count:7,in_stock:true,seller:"فروشنده"}]})}]};
+const [p]=extractProducts(raw,{rank:2});assert.equal(p.source_id,"123");assert.equal(p.price,900);assert.equal(p.list_price,1000);assert.equal(p.rating,4.2);assert.equal(p.available,true);assert.equal(percentChange(90,100),-10);console.log("OK");
