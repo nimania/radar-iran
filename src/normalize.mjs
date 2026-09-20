@@ -1,4 +1,4 @@
-function num(v){const n=Number(v);return Number.isFinite(n)?n:null}
+function num(v){if(v===null||v===undefined||v==="")return null;const n=Number(v);return Number.isFinite(n)?n:null}
 function first(...v){return v.find(x=>x!==undefined&&x!==null&&x!=="")??null}
 function unwrap(result){
  if(Array.isArray(result?.content)){
