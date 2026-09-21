@@ -2,7 +2,8 @@ name: Market collector
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "7 * * * *"
+    - cron: "37 * * * *"
 concurrency:
   group: radar-market-collector
   cancel-in-progress: false
