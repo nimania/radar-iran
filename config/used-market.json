@@ -1,0 +1,28 @@
+{
+  "cities": ["تهران", "کرج", "مشهد", "اصفهان", "نوشهر"],
+  "categories": [
+    {
+      "key": "restaurant-equipment",
+      "label": "تجهیزات رستوران و کافه",
+      "query": "تجهیزات رستوران",
+      "category": "cafe-and-restaurant"
+    },
+    {
+      "key": "coffee-equipment",
+      "label": "تجهیزات قهوه",
+      "query": "اسپرسوساز صنعتی",
+      "category": "cafe-and-restaurant"
+    },
+    {
+      "key": "mobile",
+      "label": "موبایل دست‌دوم",
+      "query": "گوشی موبایل",
+      "category": "mobile-phones"
+    },
+    {
+      "key": "laptop",
+      "label": "لپ‌تاپ دست‌دوم",
+      "query": "لپ تاپ"
+    }
+  ]
+}
