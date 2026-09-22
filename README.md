@@ -3,16 +3,17 @@
 **نبض بازار مصرف ایران** — an experimental, source-agnostic market-intelligence project for tracking products, prices, brands and market signals in Iran.
 
 ## MVP
-The first adapter uses [Digikala MCP](https://github.com/mmdju/digikala-mcp). Radar Iran stores periodic observations so it can eventually derive signals that a one-off marketplace search cannot provide.
+The first adapters use [Digikala MCP](https://github.com/mmdju/digikala-mcp) for new retail products and [Divar MCP](https://github.com/mmdju/divar-mcp) for public used-market listings. Radar Iran stores periodic observations so it can eventually derive signals that a one-off marketplace search cannot provide.
 
 ### Pipeline
-`Digikala MCP → Collector → Historical snapshots → Intelligence → JSON/API → Dashboard / Telegram`
+`Digikala + Divar MCP → source collectors → historical snapshots → intelligence → JSON/API → dashboard / Telegram`
 
 Current bootstrap includes an MCP client, scheduled collector, historical JSON snapshots, RTL static dashboard builder, CI checks, and an architecture ready for additional sources.
 
 ## Local
 ```bash
 npm run collect
+npm run collect:used
 npm run build
 npm run check
 ```

@@ -12,3 +12,7 @@ Derived signals live under `signals`. V1 supports price change, rank change and 
 - `data/products/latest.json`: latest normalized view
 
 The schema is designed so additional marketplaces can be added later.
+
+## Used-market observations
+
+Divar classified listings are stored separately under `data/used/`. A listing includes its token, title, URL, image, asking price, placeholder/negotiable flags, city, district, photo/chat metadata, category and observation time. A classified asking price is not treated as a completed transaction, and disappearance from a search page is not treated as proof of sale.

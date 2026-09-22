@@ -23,6 +23,7 @@ jobs:
         with:
           node-version: 20
       - run: npm run collect
+      - run: npm run collect:used
       - run: npm run build
       - run: |
           git config user.name "radar-iran-bot"

@@ -1,1 +1,1 @@
-{"name":"radar-iran","version":"0.1.0","private":true,"type":"module","scripts":{"collect":"node scripts/collect.mjs","build":"node scripts/build-site.mjs","check":"node scripts/check.mjs"},"engines":{"node":">=20"}}
+{"name":"radar-iran","version":"0.2.0","private":true,"type":"module","scripts":{"collect":"node scripts/collect.mjs","collect:used":"node scripts/collect-used.mjs","collect:all":"npm run collect && npm run collect:used","build":"node scripts/build-site.mjs","check":"node scripts/check.mjs"},"engines":{"node":">=20"}}
