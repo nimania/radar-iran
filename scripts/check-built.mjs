@@ -13,7 +13,7 @@ try { new vm.Script(code, { filename: "dist-inline.js" }); } catch (e) {
   let snippet="";
   if(caretLine>0){
     const caret=st[caretLine].indexOf("^");
-    if(caret>=0) snippet=code.slice(Math.max(0,caret-220),caret+220);
+    if(caret>=0){const a=Math.max(0,caret-220),b=caret+220;snippet=code.slice(a,caret)+"<<<HERE>>>"+code.slice(caret,b);}
   }
   console.error("INLINE_SYNTAX_ERROR:", e.name, e.message);
   if(snippet) console.error("AROUND_ERROR:", snippet);
