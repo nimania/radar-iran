@@ -10,3 +10,4 @@ jobs:
           node-version: 20
       - run: npm run check
       - run: npm run build
+      - run: node scripts/check-built.mjs
