@@ -16,7 +16,7 @@ try { new vm.Script(code, { filename: "dist-inline.js" }); } catch (e) {
     if(caret>=0){const a=Math.max(0,caret-220),b=caret+220;snippet=code.slice(a,caret)+"<<<HERE>>>"+code.slice(caret,b);}
   }
   console.error("INLINE_SYNTAX_ERROR:", e.name, e.message);
-  if(snippet) console.error("AROUND_ERROR:", snippet);
+  if(snippet) console.error("AROUND_ERROR:", snippet); else console.error("TAIL:", code.slice(-1200));
   process.exit(2);
 }
 
