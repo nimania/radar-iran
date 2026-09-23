@@ -9,4 +9,5 @@ jobs:
         with:
           node-version: 20
       - run: npm run check
+      - run: npm run service:check
       - run: npm run build
