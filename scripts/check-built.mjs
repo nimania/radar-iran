@@ -7,7 +7,18 @@ if (!match) throw new Error("inline script not found");
 const code = match[1];
 
 // Syntax check first.
-try { new vm.Script(code, { filename: "dist-inline.js" }); } catch (e) { console.error("INLINE_SYNTAX_ERROR:", e.name, e.message); process.exit(2); }
+try { new vm.Script(code, { filename: "dist-inline.js" }); } catch (e) {
+  const st=String(e.stack||"").split("\n");
+  const caretLine=st.findIndex(x=>x.includes("^"));
+  let snippet="";
+  if(caretLine>0){
+    const caret=st[caretLine].indexOf("^");
+    if(caret>=0) snippet=code.slice(Math.max(0,caret-220),caret+220);
+  }
+  console.error("INLINE_SYNTAX_ERROR:", e.name, e.message);
+  if(snippet) console.error("AROUND_ERROR:", snippet);
+  process.exit(2);
+}
 
 const ids = new Set([...html.matchAll(/id="([^"]+)"/g)].map((m) => m[1]));
 const fake = (id = "") => ({
