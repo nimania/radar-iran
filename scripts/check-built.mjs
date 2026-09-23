@@ -7,7 +7,7 @@ if (!match) throw new Error("inline script not found");
 const code = match[1];
 
 // Syntax check first.
-new vm.Script(code, { filename: "dist-inline.js" });
+try { new vm.Script(code, { filename: "dist-inline.js" }); } catch (e) { console.error("INLINE_SYNTAX_ERROR:", e.name, e.message); process.exit(2); }
 
 const ids = new Set([...html.matchAll(/id="([^"]+)"/g)].map((m) => m[1]));
 const fake = (id = "") => ({
