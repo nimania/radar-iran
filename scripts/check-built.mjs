@@ -6,6 +6,21 @@ const match = html.match(/<script>([\s\S]*?)<\/script>/);
 if (!match) throw new Error("inline script not found");
 const code = match[1];
 
+function scanUnterminated(src){
+  let q=null,start=-1,esc=false;
+  for(let i=0;i<src.length;i++){
+    const ch=src[i];
+    if(q){
+      if(esc){esc=false;continue}
+      if(ch==="\\"){esc=true;continue}
+      if(ch===q){q=null;start=-1}
+      continue;
+    }
+    if(ch==="'"||ch==='"'||ch==="`"){q=ch;start=i}
+  }
+  return q?{quote:q,start,snippet:src.slice(Math.max(0,start-250),Math.min(src.length,start+600))}:null;
+}
+
 // Syntax check first.
 try { new vm.Script(code, { filename: "dist-inline.js" }); } catch (e) {
   const st=String(e.stack||"").split("\n");
@@ -16,7 +31,7 @@ try { new vm.Script(code, { filename: "dist-inline.js" }); } catch (e) {
     if(caret>=0){const a=Math.max(0,caret-220),b=caret+220;snippet=code.slice(a,caret)+"<<<HERE>>>"+code.slice(caret,b);}
   }
   console.error("INLINE_SYNTAX_ERROR:", e.name, e.message);
-  if(snippet) console.error("AROUND_ERROR:", snippet); else console.error("TAIL:", code.slice(-1200));
+  if(snippet) console.error("AROUND_ERROR:", snippet); else { const u=scanUnterminated(code); if(u) console.error("UNTERMINATED:",u.quote,u.start,u.snippet); else console.error("TAIL:", code.slice(-1200)); }
   process.exit(2);
 }
 
