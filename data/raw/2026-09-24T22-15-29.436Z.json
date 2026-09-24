@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-09-24T22:15:29.436Z",
+  "source": "digikala-mcp",
+  "mode": "rotating",
+  "categories": {
+    "tablet": {
+      "label": "تبلت و کتاب‌خوان",
+      "queries": [
+        "تبلت",
+        "تبلت و کتاب‌خوان"
+      ],
+      "results": [
+        {
+          "query": "تبلت",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "تبلت و کتاب‌خوان",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "cleaning": {
+      "label": "نظافت و شست‌وشو",
+      "queries": [
+        "جارو شوینده",
+        "نظافت و شست‌وشو",
+        "جارو"
+      ],
+      "results": [
+        {
+          "query": "جارو شوینده",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "نظافت و شست‌وشو",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "جارو",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "fashion-women": {
+      "label": "مد و پوشاک زنانه",
+      "queries": [
+        "لباس زنانه",
+        "مد و پوشاک زنانه",
+        "لباس"
+      ],
+      "results": [
+        {
+          "query": "لباس زنانه",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "مد و پوشاک زنانه",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "لباس",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "books": {
+      "label": "کتاب",
+      "queries": [
+        "کتاب"
+      ],
+      "results": [
+        {
+          "query": "کتاب",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    }
+  }
+}
