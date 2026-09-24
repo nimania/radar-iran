@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-09-24T21:43:26.648Z",
+  "source": "digikala-mcp",
+  "mode": "rotating",
+  "categories": {
+    "laptop": {
+      "label": "لپ‌تاپ و کامپیوتر",
+      "queries": [
+        "لپ تاپ کامپیوتر",
+        "لپ‌تاپ و کامپیوتر",
+        "تاپ"
+      ],
+      "results": [
+        {
+          "query": "لپ تاپ کامپیوتر",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "لپ‌تاپ و کامپیوتر",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "تاپ",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "home-decor": {
+      "label": "دکوراسیون و مبلمان",
+      "queries": [
+        "دکوراسیون خانه مبلمان",
+        "دکوراسیون و مبلمان",
+        "دکوراسیون"
+      ],
+      "results": [
+        {
+          "query": "دکوراسیون خانه مبلمان",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "دکوراسیون و مبلمان",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "دکوراسیون",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "perfume": {
+      "label": "عطر و ادکلن",
+      "queries": [
+        "عطر ادکلن",
+        "عطر و ادکلن",
+        "عطر"
+      ],
+      "results": [
+        {
+          "query": "عطر ادکلن",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "عطر و ادکلن",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "عطر",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "travel": {
+      "label": "سفر و کمپینگ",
+      "queries": [
+        "کمپینگ سفر",
+        "سفر و کمپینگ",
+        "کمپینگ"
+      ],
+      "results": [
+        {
+          "query": "کمپینگ سفر",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "سفر و کمپینگ",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "کمپینگ",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    }
+  }
+}
