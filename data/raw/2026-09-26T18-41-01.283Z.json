@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-09-26T18:41:01.283Z",
+  "source": "digikala-mcp",
+  "mode": "rotating",
+  "categories": {
+    "gaming": {
+      "label": "گیمینگ",
+      "queries": [
+        "کنسول بازی گیمینگ",
+        "گیمینگ",
+        "کنسول"
+      ],
+      "results": [
+        {
+          "query": "کنسول بازی گیمینگ",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "گیمینگ",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "کنسول",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "beverages": {
+      "label": "نوشیدنی",
+      "queries": [
+        "نوشیدنی"
+      ],
+      "results": [
+        {
+          "query": "نوشیدنی",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "jewelry": {
+      "label": "ساعت و زیورآلات",
+      "queries": [
+        "زیورآلات ساعت",
+        "ساعت و زیورآلات",
+        "زیورآلات"
+      ],
+      "results": [
+        {
+          "query": "زیورآلات ساعت",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "ساعت و زیورآلات",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "زیورآلات",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "auto": {
+      "label": "خودرو و موتورسیکلت",
+      "queries": [
+        "لوازم خودرو موتور سیکلت",
+        "خودرو و موتورسیکلت",
+        "لوازم"
+      ],
+      "results": [
+        {
+          "query": "لوازم خودرو موتور سیکلت",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "خودرو و موتورسیکلت",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "لوازم",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    }
+  }
+}

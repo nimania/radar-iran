@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-09-26T18:41:10.704Z",
+  "source": "divar-mcp",
+  "cities": [
+    "تهران",
+    "کرج",
+    "مشهد",
+    "اصفهان",
+    "نوشهر"
+  ],
+  "searches": [
+    {
+      "key": "restaurant-equipment",
+      "label": "تجهیزات رستوران و کافه",
+      "query": "تجهیزات رستوران",
+      "error": "Error: Divar MCP HTTP 429"
+    },
+    {
+      "key": "coffee-equipment",
+      "label": "تجهیزات قهوه",
+      "query": "اسپرسوساز صنعتی",
+      "error": "Error: Divar MCP HTTP 429"
+    },
+    {
+      "key": "mobile",
+      "label": "موبایل دست‌دوم",
+      "query": "گوشی موبایل",
+      "error": "Error: Divar MCP HTTP 429"
+    },
+    {
+      "key": "laptop",
+      "label": "لپ‌تاپ دست‌دوم",
+      "query": "لپ تاپ",
+      "error": "Error: Divar MCP HTTP 429"
+    }
+  ]
+}
