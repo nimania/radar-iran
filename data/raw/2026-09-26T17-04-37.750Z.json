@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-09-26T17:04:37.750Z",
+  "source": "digikala-mcp",
+  "mode": "rotating",
+  "categories": {
+    "camera": {
+      "label": "دوربین و تجهیزات عکاسی",
+      "queries": [
+        "دوربین عکاسی",
+        "دوربین و تجهیزات عکاسی",
+        "دوربین"
+      ],
+      "results": [
+        {
+          "query": "دوربین عکاسی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "دوربین و تجهیزات عکاسی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "دوربین",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "coffee": {
+      "label": "قهوه و تجهیزات",
+      "queries": [
+        "قهوه",
+        "قهوه و تجهیزات"
+      ],
+      "results": [
+        {
+          "query": "قهوه",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "قهوه و تجهیزات",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "bags": {
+      "label": "کیف و اکسسوری",
+      "queries": [
+        "کیف اکسسوری",
+        "کیف و اکسسوری",
+        "کیف"
+      ],
+      "results": [
+        {
+          "query": "کیف اکسسوری",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "کیف و اکسسوری",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "کیف",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "tools": {
+      "label": "ابزار و تجهیزات",
+      "queries": [
+        "ابزار",
+        "ابزار و تجهیزات"
+      ],
+      "results": [
+        {
+          "query": "ابزار",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "ابزار و تجهیزات",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    }
+  }
+}
