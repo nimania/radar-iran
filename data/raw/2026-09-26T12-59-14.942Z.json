@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-09-26T12:59:14.942Z",
+  "source": "digikala-mcp",
+  "mode": "rotating",
+  "categories": {
+    "mobile": {
+      "label": "موبایل",
+      "queries": [
+        "گوشی موبایل",
+        "موبایل",
+        "گوشی"
+      ],
+      "results": [
+        {
+          "query": "گوشی موبایل",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "موبایل",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "گوشی",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "kitchen": {
+      "label": "خانه و آشپزخانه",
+      "queries": [
+        "لوازم آشپزخانه",
+        "خانه و آشپزخانه",
+        "لوازم"
+      ],
+      "results": [
+        {
+          "query": "لوازم آشپزخانه",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "خانه و آشپزخانه",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "لوازم",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "health": {
+      "label": "سلامت و بهداشت",
+      "queries": [
+        "محصولات بهداشتی سلامت",
+        "سلامت و بهداشت",
+        "محصولات"
+      ],
+      "results": [
+        {
+          "query": "محصولات بهداشتی سلامت",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "سلامت و بهداشت",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "محصولات",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "sports": {
+      "label": "ورزش و تناسب اندام",
+      "queries": [
+        "لوازم ورزشی",
+        "ورزش و تناسب اندام",
+        "لوازم"
+      ],
+      "results": [
+        {
+          "query": "لوازم ورزشی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "ورزش و تناسب اندام",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "لوازم",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    }
+  }
+}
