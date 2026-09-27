@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-09-27T17:54:36.564Z",
+  "source": "digikala-mcp",
+  "mode": "rotating",
+  "categories": {
+    "home-appliances": {
+      "label": "لوازم خانگی",
+      "queries": [
+        "لوازم خانگی",
+        "لوازم",
+        "خانگی"
+      ],
+      "results": [
+        {
+          "query": "لوازم خانگی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "لوازم",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "خانگی",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "beauty": {
+      "label": "زیبایی و مراقبت شخصی",
+      "queries": [
+        "آرایشی بهداشتی",
+        "زیبایی و مراقبت شخصی",
+        "آرایشی"
+      ],
+      "results": [
+        {
+          "query": "آرایشی بهداشتی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "زیبایی و مراقبت شخصی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "آرایشی",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "stationery": {
+      "label": "تحریر و لوازم آموزشی",
+      "queries": [
+        "لوازم تحریر",
+        "تحریر و لوازم آموزشی",
+        "لوازم"
+      ],
+      "results": [
+        {
+          "query": "لوازم تحریر",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "تحریر و لوازم آموزشی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "لوازم",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "industrial": {
+      "label": "تجهیزات صنعتی و کسب‌وکار",
+      "queries": [
+        "تجهیزات صنعتی کسب و کار",
+        "تجهیزات صنعتی و کسب‌وکار",
+        "تجهیزات"
+      ],
+      "results": [
+        {
+          "query": "تجهیزات صنعتی کسب و کار",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "تجهیزات صنعتی و کسب‌وکار",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "تجهیزات",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    }
+  }
+}
