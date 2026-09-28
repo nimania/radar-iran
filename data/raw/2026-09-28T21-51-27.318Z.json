@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-09-28T21:51:27.318Z",
+  "source": "digikala-mcp",
+  "mode": "rotating",
+  "categories": {
+    "network": {
+      "label": "شبکه و ذخیره‌سازی",
+      "queries": [
+        "مودم هارد حافظه",
+        "شبکه و ذخیره‌سازی",
+        "مودم"
+      ],
+      "results": [
+        {
+          "query": "مودم هارد حافظه",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "شبکه و ذخیره‌سازی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "مودم",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "snacks": {
+      "label": "تنقلات و شیرینی",
+      "queries": [
+        "تنقلات شکلات بیسکویت",
+        "تنقلات و شیرینی",
+        "تنقلات"
+      ],
+      "results": [
+        {
+          "query": "تنقلات شکلات بیسکویت",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "تنقلات و شیرینی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "تنقلات",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "baby": {
+      "label": "کودک و نوزاد",
+      "queries": [
+        "کودک نوزاد",
+        "کودک و نوزاد",
+        "کودک"
+      ],
+      "results": [
+        {
+          "query": "کودک نوزاد",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "کودک و نوزاد",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "کودک",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "garden": {
+      "label": "باغبانی",
+      "queries": [
+        "لوازم باغبانی",
+        "باغبانی",
+        "لوازم"
+      ],
+      "results": [
+        {
+          "query": "لوازم باغبانی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "باغبانی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "لوازم",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    }
+  }
+}
