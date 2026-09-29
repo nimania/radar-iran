@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-09-29T23:09:14.539Z",
+  "source": "digikala-mcp",
+  "mode": "rotating",
+  "categories": {
+    "wearables": {
+      "label": "ساعت و گجت پوشیدنی",
+      "queries": [
+        "ساعت هوشمند",
+        "ساعت و گجت پوشیدنی",
+        "ساعت"
+      ],
+      "results": [
+        {
+          "query": "ساعت هوشمند",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "ساعت و گجت پوشیدنی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "ساعت",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "lighting": {
+      "label": "روشنایی",
+      "queries": [
+        "چراغ روشنایی",
+        "روشنایی",
+        "چراغ"
+      ],
+      "results": [
+        {
+          "query": "چراغ روشنایی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "روشنایی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "چراغ",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "fashion-men": {
+      "label": "مد و پوشاک مردانه",
+      "queries": [
+        "لباس مردانه",
+        "مد و پوشاک مردانه",
+        "لباس"
+      ],
+      "results": [
+        {
+          "query": "لباس مردانه",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "مد و پوشاک مردانه",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "لباس",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "music": {
+      "label": "موسیقی و ساز",
+      "queries": [
+        "ساز موسیقی",
+        "موسیقی و ساز",
+        "ساز"
+      ],
+      "results": [
+        {
+          "query": "ساز موسیقی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "موسیقی و ساز",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "ساز",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    }
+  }
+}
