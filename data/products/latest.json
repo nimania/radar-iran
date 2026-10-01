@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-01T20:28:09.260Z",
-  "count": 2326,
+  "generated_at": "2026-10-01T23:05:22.337Z",
+  "count": 2327,
   "collection": {
     "mode": "rotating",
     "categories_scanned": 4,
@@ -21393,7 +21393,7 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 170000,
       "list_price": null,
       "discount_percent": 0,
@@ -21426,7 +21426,7 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 430000,
       "list_price": null,
       "discount_percent": 0,
@@ -21445,7 +21445,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -21459,7 +21459,7 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 300000,
       "list_price": null,
       "discount_percent": 0,
@@ -21475,41 +21475,6 @@
       "supplier": {
         "name": "مرسانا شاپینگ",
         "url": "https://www.digikala.com/seller/AFNYM/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "10455847",
-      "title": "نیمکت مدل سنتی مشبک ROOS 03",
-      "url": "https://www.digikala.com/product/dkp-10455847/نیمکت-مدل-سنتی-مشبک-roos-03",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/388c93c56539ed6be62a250cb2ad3b076ff451ce_1784121479.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "home-decor",
-      "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-09-29T01:48:18.585Z",
-      "price": 13160000,
-      "list_price": 14000000,
-      "discount_percent": 6,
-      "rating": null,
-      "rating_count": 8,
-      "seller": "صنایع استیل",
-      "rank": 2,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "دکوراسیون و مبلمان"
-      },
-      "supplier": {
-        "name": "صنایع استیل",
-        "url": "https://www.digikala.com/seller/FN3U3/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -21563,7 +21528,7 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 11700000,
       "list_price": null,
       "discount_percent": 0,
@@ -21585,43 +21550,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 5,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "17999856",
-      "title": "ماکت دکوری مدل کتابخانه مینیاتوری",
-      "url": "https://www.digikala.com/product/dkp-17999856/ماکت-دکوری-مدل-کتابخانه-مینیاتوری",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/99e5af44edfdb7774f7587bf6ecfa6c54b01afd7_1736699966.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "home-decor",
-      "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 533600,
-      "list_price": 580000,
-      "discount_percent": 8,
-      "rating": 4.3,
-      "rating_count": 35,
-      "seller": "صنایع دستی لیدا",
-      "rank": 3,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "دکوراسیون"
-      },
-      "supplier": {
-        "name": "صنایع دستی لیدا",
-        "url": "https://www.digikala.com/seller/GCRVW/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -21635,7 +21564,7 @@
       "brand": "میم کاف",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 7700000,
       "list_price": null,
       "discount_percent": 0,
@@ -21656,8 +21585,143 @@
         "url": "https://www.digikala.com/seller/5ANA5/"
       },
       "signals": {
-        "price_change_pct": 11.59,
-        "rank_change": 15,
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "2426136",
+      "title": "کنسول دکوراسیون مدرن هادیذ مدل کالچو 1 کد HC-1",
+      "url": "https://www.digikala.com/product/dkp-2426136/کنسول-دکوراسیون-مدرن-هادیذ-مدل-کالچو-1-کد-hc-1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e36aa3028ce118e3bcb45a9c2ba49144c820f99e_1778497115.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "home-decor",
+      "category_label": "دکوراسیون و مبلمان",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 14000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 174,
+      "seller": "ویرا آکاژو",
+      "rank": 3,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "دکوراسیون"
+      },
+      "supplier": {
+        "name": "ویرا آکاژو",
+        "url": "https://www.digikala.com/seller/J9M33/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 8,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "10455847",
+      "title": "نیمکت مدل سنتی مشبک ROOS 03",
+      "url": "https://www.digikala.com/product/dkp-10455847/نیمکت-مدل-سنتی-مشبک-roos-03",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/388c93c56539ed6be62a250cb2ad3b076ff451ce_1784121479.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "home-decor",
+      "category_label": "دکوراسیون و مبلمان",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 14000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 8,
+      "seller": "صنایع استیل",
+      "rank": 4,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "دکوراسیون و مبلمان"
+      },
+      "supplier": {
+        "name": "صنایع استیل",
+        "url": "https://www.digikala.com/seller/FN3U3/"
+      },
+      "signals": {
+        "price_change_pct": 6.38,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17999856",
+      "title": "ماکت دکوری مدل کتابخانه مینیاتوری",
+      "url": "https://www.digikala.com/product/dkp-17999856/ماکت-دکوری-مدل-کتابخانه-مینیاتوری",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/99e5af44edfdb7774f7587bf6ecfa6c54b01afd7_1736699966.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "home-decor",
+      "category_label": "دکوراسیون و مبلمان",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 533600,
+      "list_price": 580000,
+      "discount_percent": 8,
+      "rating": 4.3,
+      "rating_count": 35,
+      "seller": "صنایع دستی لیدا",
+      "rank": 4,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "دکوراسیون"
+      },
+      "supplier": {
+        "name": "صنایع دستی لیدا",
+        "url": "https://www.digikala.com/seller/GCRVW/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "13232780",
+      "title": "گلدان دکوری مینیمال دوناتی پلی‌استر مدل دونات با ابعاد 10x9x3 سانتی‌متر، رنگ شده با رنگ سوپر مات اکریلیک و طراحی مدرن و دست‌ساز برای دکوراسیون منزل و کتابخانه",
+      "url": "https://www.digikala.com/product/dkp-13232780/گلدان-دکوری-مینیمال-دوناتی-پلیاستر-مدل-دونات-با-ابعاد-10x9x3-سانتیمتر-رنگ-شده-با-رنگ-سوپر-مات-اکریلیک-و-طراحی-مدرن-و-دستساز-برای-دکوراسیون-منزل-و-کتابخانه",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/bab2d7c470ee64529274b23c65e09238a40564c4_1699074641.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "home-decor",
+      "category_label": "دکوراسیون و مبلمان",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 113000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.6,
+      "rating_count": 106,
+      "seller": "دست سازه های لبخند تو",
+      "rank": 4,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "دکوراسیون خانه مبلمان"
+      },
+      "supplier": {
+        "name": "ویشنو دکو",
+        "url": "https://www.digikala.com/seller/F2T45/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 4,
         "is_new": false
       }
     },
@@ -21671,14 +21735,14 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 7500000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 28,
       "seller": "موناستار",
-      "rank": 4,
+      "rank": 5,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -21704,14 +21768,14 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 15000000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.9,
       "rating_count": 237,
       "seller": "نفیس صنعت",
-      "rank": 4,
+      "rank": 5,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -21725,7 +21789,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -21767,6 +21831,39 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "5474765",
+      "title": "ماکت دکوری مدل اشپزخانه کد 2004",
+      "url": "https://www.digikala.com/product/dkp-5474765/ماکت-دکوری-مدل-آشپزخانه-کد-2004",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aed33b11717fbab9592be0fb56614cbac7322718_1623747156.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "home-decor",
+      "category_label": "دکوراسیون و مبلمان",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 820000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 133,
+      "seller": "دکو مارکت",
+      "rank": 5,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "دکوراسیون خانه مبلمان"
+      },
+      "supplier": {
+        "name": "دکو مارکت",
+        "url": "https://www.digikala.com/seller/AGFDW/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "19198411",
       "title": "کتاب دکوراتیو مدل پاریس کد 74",
       "url": "https://www.digikala.com/product/dkp-19198411/کتاب-دکوراتیو-مدل-پاریس-کد-74",
@@ -21774,14 +21871,14 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 278000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.8,
-      "rating_count": 82,
+      "rating_count": 83,
       "seller": "کوچرو کمپانی",
-      "rank": 5,
+      "rank": 6,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -21793,7 +21890,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -21842,7 +21939,7 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 165000,
       "list_price": null,
       "discount_percent": 0,
@@ -21863,7 +21960,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -21877,14 +21974,14 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 278000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.7,
-      "rating_count": 130,
+      "rating_count": 131,
       "seller": "کوچرو کمپانی",
-      "rank": 6,
+      "rank": 7,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -21893,39 +21990,6 @@
       "supplier": {
         "name": "کوچرو کمپانی",
         "url": "https://www.digikala.com/seller/GYCXX/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "5474765",
-      "title": "ماکت دکوری مدل اشپزخانه کد 2004",
-      "url": "https://www.digikala.com/product/dkp-5474765/ماکت-دکوری-مدل-آشپزخانه-کد-2004",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/aed33b11717fbab9592be0fb56614cbac7322718_1623747156.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "home-decor",
-      "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 820000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 133,
-      "seller": "دکو مارکت",
-      "rank": 7,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "دکوراسیون خانه مبلمان"
-      },
-      "supplier": {
-        "name": "دکو مارکت",
-        "url": "https://www.digikala.com/seller/AGFDW/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -21943,14 +22007,14 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 275000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
       "rating_count": 391,
       "seller": "چاپ دکوراتیو آدرین",
-      "rank": 7,
+      "rank": 8,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -21964,75 +22028,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "13232780",
-      "title": "گلدان دکوری مینیمال دوناتی پلی‌استر مدل دونات با ابعاد 10x9x3 سانتی‌متر، رنگ شده با رنگ سوپر مات اکریلیک و طراحی مدرن و دست‌ساز برای دکوراسیون منزل و کتابخانه",
-      "url": "https://www.digikala.com/product/dkp-13232780/گلدان-دکوری-مینیمال-دوناتی-پلیاستر-مدل-دونات-با-ابعاد-10x9x3-سانتیمتر-رنگ-شده-با-رنگ-سوپر-مات-اکریلیک-و-طراحی-مدرن-و-دستساز-برای-دکوراسیون-منزل-و-کتابخانه",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/bab2d7c470ee64529274b23c65e09238a40564c4_1699074641.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "home-decor",
-      "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 113000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.6,
-      "rating_count": 106,
-      "seller": "دست سازه های لبخند تو",
-      "rank": 8,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "دکوراسیون خانه مبلمان"
-      },
-      "supplier": {
-        "name": "ویشنو دکو",
-        "url": "https://www.digikala.com/seller/F2T45/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "4453382",
-      "title": "کتاب دکوراتیو کد HOME DSGN 202 مجموعه دو عددی",
-      "url": "https://www.digikala.com/product/dkp-4453382/کتاب-دکوراتیو-کد-home-dsgn-202-مجموعه-دو-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/fd559bfe263ee7e260e45abe2296fe9d3b4980d6_1786445932.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "home-decor",
-      "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 539000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 118,
-      "seller": "چاپ دکوراتیو آدرین",
-      "rank": 8,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "دکوراسیون"
-      },
-      "supplier": {
-        "name": "چاپ دکوراتیو آدرین",
-        "url": "https://www.digikala.com/seller/FJNC2/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -22046,12 +22042,12 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 14750000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 15,
+      "rating": 4.4,
+      "rating_count": 16,
       "seller": "چوب کده ایرانیان",
       "rank": 8,
       "available": true,
@@ -22065,40 +22061,75 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 6,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "9814037",
-      "title": "استند گلدان اهنی با ابعاد 20×20×55 سانتی‌متر، مدل شایان، روکش رنگ، طراحی مینیمال، مقاوم در برابر استفاده روزمره، مناسب دکوراسیون داخلی خانه و اپارتمان",
-      "url": "https://www.digikala.com/product/dkp-9814037/استند-گلدان-آهنی-با-ابعاد-202055-سانتیمتر-مدل-شایان-روکش-رنگ-طراحی-مینیمال-مقاوم-در-برابر-استفاده-روزمره-مناسب-دکوراسیون-داخلی-خانه-و-آپارتمان",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9d35eb8bf5d5c658069d6148d37953e73bf223e5_1667734633.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "20744153",
+      "title": "دکوری مدل روح کتابخانه کد DM01",
+      "url": "https://www.digikala.com/product/dkp-20744153/دکوری-مدل-روح-کتابخانه-کد-dm01",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/552991e2e0f34ca95db4fa87fe957a25d2b4ed35_1786788529.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-09-23T05:02:56.261Z",
-      "price": 2200000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 144990,
       "list_price": null,
       "discount_percent": 0,
-      "rating": null,
-      "rating_count": 4,
-      "seller": "نیلارت",
-      "rank": 9,
+      "rating": 4.6,
+      "rating_count": 1413,
+      "seller": "پیکسیو",
+      "rank": 8,
       "available": true,
       "badges": [],
       "raw_ref": {
         "query": "دکوراسیون خانه مبلمان"
       },
       "supplier": {
-        "name": "نیلارت",
-        "url": "https://www.digikala.com/seller/AVXCK/"
+        "name": "خانه لایه ها",
+        "url": "https://www.digikala.com/seller/HPMT9/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "4453382",
+      "title": "کتاب دکوراتیو کد HOME DSGN 202 مجموعه دو عددی",
+      "url": "https://www.digikala.com/product/dkp-4453382/کتاب-دکوراتیو-کد-home-dsgn-202-مجموعه-دو-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/fd559bfe263ee7e260e45abe2296fe9d3b4980d6_1786445932.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "home-decor",
+      "category_label": "دکوراسیون و مبلمان",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 539000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 118,
+      "seller": "چاپ دکوراتیو آدرین",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "دکوراسیون"
+      },
+      "supplier": {
+        "name": "چاپ دکوراتیو آدرین",
+        "url": "https://www.digikala.com/seller/FJNC2/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -22112,7 +22143,7 @@
       "brand": "هیدیکا مبلمان",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 6800000,
       "list_price": null,
       "discount_percent": 0,
@@ -22133,7 +22164,40 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "5306008",
+      "title": "ماکت دکوری مدل اشپزخانه کد D0136",
+      "url": "https://www.digikala.com/product/dkp-5306008/ماکت-دکوری-مدل-آشپزخانه-کد-d0136",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/eb5326ee154ab27256ef7103025c5750cd509555_1622266045.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "home-decor",
+      "category_label": "دکوراسیون و مبلمان",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 440000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 12,
+      "seller": "دکو مارکت",
+      "rank": 9,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "دکوراسیون خانه مبلمان"
+      },
+      "supplier": {
+        "name": "دکو مارکت",
+        "url": "https://www.digikala.com/seller/AGFDW/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 3,
         "is_new": false
       }
     },
@@ -22147,14 +22211,14 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 275000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 204,
       "seller": "چاپ دکوراتیو آدرین",
-      "rank": 9,
+      "rank": 10,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -22168,44 +22232,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "2041524",
-      "title": "دکوری طرح میز و صندلی ناهار خوری مدل m2",
-      "url": "https://www.digikala.com/product/dkp-2041524/دکوری-طرح-میز-و-صندلی-ناهار-خوری-مدل-m2",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/113428322.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "home-decor",
-      "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 275000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 29,
-      "seller": "چوب ارا",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "دکوراسیون و مبلمان"
-      },
-      "supplier": {
-        "name": "چوب ارا",
-        "url": "https://www.digikala.com/seller/5AN5T/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -22254,7 +22281,7 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 410000,
       "list_price": null,
       "discount_percent": 0,
@@ -22275,7 +22302,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -22318,39 +22345,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "2426136",
-      "title": "کنسول دکوراسیون مدرن هادیذ مدل کالچو 1 کد HC-1",
-      "url": "https://www.digikala.com/product/dkp-2426136/کنسول-دکوراسیون-مدرن-هادیذ-مدل-کالچو-1-کد-hc-1",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e36aa3028ce118e3bcb45a9c2ba49144c820f99e_1778497115.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "home-decor",
-      "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 14000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 174,
-      "seller": "ویرا آکاژو",
-      "rank": 11,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "دکوراسیون"
-      },
-      "supplier": {
-        "name": "ویرا آکاژو",
-        "url": "https://www.digikala.com/seller/J9M33/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -8,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "8737931",
       "title": "گل مصنوعی اویز شمشاد پا کوتاه، اویز دیواری با طراحی منحصربه‌فرد، جنس پلاستیک مقاوم، ابعاد 70x15x60 سانتی‌متر، دوام بالا، بدون نیاز به مراقبت و مناسب دکوراسیون داخلی",
       "url": "https://www.digikala.com/product/dkp-8737931/گل-مصنوعی-آویز-شمشاد-پا-کوتاه-آویز-دیواری-با-طراحی-منحصربهفرد-جنس-پلاستیک-مقاوم-ابعاد-70x15x60-سانتیمتر-دوام-بالا-بدون-نیاز-به-مراقبت-و-مناسب-دکوراسیون-داخلی",
@@ -22358,14 +22352,14 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 162000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
-      "rating_count": 4290,
+      "rating_count": 4291,
       "seller": "پوشاک تیکو",
-      "rank": 11,
+      "rank": 10,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -22379,39 +22373,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 1,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20744153",
-      "title": "دکوری مدل روح کتابخانه کد DM01",
-      "url": "https://www.digikala.com/product/dkp-20744153/دکوری-مدل-روح-کتابخانه-کد-dm01",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/552991e2e0f34ca95db4fa87fe957a25d2b4ed35_1786788529.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "2041524",
+      "title": "دکوری طرح میز و صندلی ناهار خوری مدل m2",
+      "url": "https://www.digikala.com/product/dkp-2041524/دکوری-طرح-میز-و-صندلی-ناهار-خوری-مدل-m2",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/113428322.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 144990,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 275000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 1409,
-      "seller": "پیکسیو",
+      "rating": 4.4,
+      "rating_count": 29,
+      "seller": "چوب ارا",
       "rank": 11,
       "available": true,
-      "badges": [],
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
       "raw_ref": {
-        "query": "دکوراسیون خانه مبلمان"
+        "query": "دکوراسیون و مبلمان"
       },
       "supplier": {
-        "name": "خانه لایه ها",
-        "url": "https://www.digikala.com/seller/HPMT9/"
+        "name": "چوب ارا",
+        "url": "https://www.digikala.com/seller/5AN5T/"
       },
       "signals": {
-        "price_change_pct": -0.01,
+        "price_change_pct": 0,
         "rank_change": -1,
         "is_new": false
       }
@@ -22455,74 +22453,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "5306008",
-      "title": "ماکت دکوری مدل اشپزخانه کد D0136",
-      "url": "https://www.digikala.com/product/dkp-5306008/ماکت-دکوری-مدل-آشپزخانه-کد-d0136",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/eb5326ee154ab27256ef7103025c5750cd509555_1622266045.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "home-decor",
-      "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 440000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 12,
-      "seller": "دکو مارکت",
-      "rank": 12,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "دکوراسیون خانه مبلمان"
-      },
-      "supplier": {
-        "name": "دکو مارکت",
-        "url": "https://www.digikala.com/seller/AGFDW/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20805133",
-      "title": "مبل تختخواب شو 7 نفره ریوا مبل مدل مینیمال",
-      "url": "https://www.digikala.com/product/dkp-20805133/مبل-تختخواب-شو-7-نفره-ریوا-مبل-مدل-مینیمال",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e7c0b808a899691d76353d2a71e6651100b29cb9_1777963059.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "home-decor",
-      "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 47000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.5,
-      "rating_count": 54,
-      "seller": "مبلمان ملودی",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "دکوراسیون و مبلمان"
-      },
-      "supplier": {
-        "name": "مبلمان ملودی",
-        "url": "https://www.digikala.com/seller/HUM2W/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "20934462",
       "title": "دکوری مدل SN-0013DP",
       "url": "https://www.digikala.com/product/dkp-20934462/دکوری-مدل-sn-0013dp",
@@ -22530,14 +22460,14 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 499900,
       "list_price": 552000,
       "discount_percent": 9,
       "rating": 3.6,
       "rating_count": 21,
       "seller": "هانا تریدی",
-      "rank": 12,
+      "rank": 11,
       "available": true,
       "badges": [
         "فروش ویژه"
@@ -22551,7 +22481,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 5,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -22565,14 +22495,14 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 120000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
       "seller": "میناگر",
-      "rank": 13,
+      "rank": 12,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -22586,7 +22516,111 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "5735174",
+      "title": "ست میز و صندلی کودک مدل ROSE",
+      "url": "https://www.digikala.com/product/dkp-5735174/ست-میز-و-صندلی-کودک-مدل-rose",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/12aa4e8cfbc34aaa4576669faecf15e7f866eff1_1626088355.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "home-decor",
+      "category_label": "دکوراسیون و مبلمان",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 2200000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 215,
+      "seller": "بازرگانی یاقوت آبی",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "دکوراسیون و مبلمان"
+      },
+      "supplier": {
+        "name": "رانا هوم",
+        "url": "https://www.digikala.com/seller/C2RST/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "22461400",
+      "title": "کتاب دکوراتیو مدل گاردن",
+      "url": "https://www.digikala.com/product/dkp-22461400/کتاب-دکوراتیو-مدل-گاردن",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0abbc9d2c7e8485816afcc785e278da21c851f99_1786213147.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "home-decor",
+      "category_label": "دکوراسیون و مبلمان",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 280000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 4,
+      "seller": "مرسانا شاپینگ",
+      "rank": 12,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "دکوراسیون"
+      },
+      "supplier": {
+        "name": "مرسانا شاپینگ",
+        "url": "https://www.digikala.com/seller/AFNYM/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20805133",
+      "title": "مبل تختخواب شو 7 نفره ریوا مبل مدل مینیمال",
+      "url": "https://www.digikala.com/product/dkp-20805133/مبل-تختخواب-شو-7-نفره-ریوا-مبل-مدل-مینیمال",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e7c0b808a899691d76353d2a71e6651100b29cb9_1777963059.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "home-decor",
+      "category_label": "دکوراسیون و مبلمان",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 47000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.5,
+      "rating_count": 54,
+      "seller": "مبلمان ملودی",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "دکوراسیون و مبلمان"
+      },
+      "supplier": {
+        "name": "مبلمان ملودی",
+        "url": "https://www.digikala.com/seller/HUM2W/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -22626,56 +22660,20 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "5735174",
-      "title": "ست میز و صندلی کودک مدل ROSE",
-      "url": "https://www.digikala.com/product/dkp-5735174/ست-میز-و-صندلی-کودک-مدل-rose",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/12aa4e8cfbc34aaa4576669faecf15e7f866eff1_1626088355.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "21137658",
+      "title": "جعبه دکوری مدل کتاب دکوراتیو طرح مینیمال کد 55",
+      "url": "https://www.digikala.com/product/dkp-21137658/جعبه-دکوری-مدل-کتاب-دکوراتیو-طرح-مینیمال-کد-55",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b7656360e901e944977f684eb96ccf1a259a385b_1786788532.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 2200000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 278000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 215,
-      "seller": "بازرگانی یاقوت آبی",
-      "rank": 13,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "دکوراسیون و مبلمان"
-      },
-      "supplier": {
-        "name": "رانا هوم",
-        "url": "https://www.digikala.com/seller/C2RST/"
-      },
-      "signals": {
-        "price_change_pct": 10.06,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "22461400",
-      "title": "کتاب دکوراتیو مدل گاردن",
-      "url": "https://www.digikala.com/product/dkp-22461400/کتاب-دکوراتیو-مدل-گاردن",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0abbc9d2c7e8485816afcc785e278da21c851f99_1786213147.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "home-decor",
-      "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 280000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 4,
-      "seller": "مرسانا شاپینگ",
+      "rating": 4.8,
+      "rating_count": 78,
+      "seller": "کوچرو کمپانی",
       "rank": 13,
       "available": true,
       "badges": [],
@@ -22683,12 +22681,47 @@
         "query": "دکوراسیون"
       },
       "supplier": {
-        "name": "مرسانا شاپینگ",
-        "url": "https://www.digikala.com/seller/AFNYM/"
+        "name": "کوچرو کمپانی",
+        "url": "https://www.digikala.com/seller/GYCXX/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "9123650",
+      "title": "ماکت دکوری مدل خانه چوبی کد 01",
+      "url": "https://www.digikala.com/product/dkp-9123650/ماکت-چوبی-مدل-خانه-کد-01",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a73ae4f76e9ac0778d924724a13831fa62ef1a12_1659513465.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "home-decor",
+      "category_label": "دکوراسیون و مبلمان",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 185000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 6,
+      "seller": "کالا میکس",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "دکوراسیون خانه مبلمان"
+      },
+      "supplier": {
+        "name": "کالا میکس",
+        "url": "https://www.digikala.com/seller/DXXTG/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -22702,7 +22735,7 @@
       "brand": "میم کاف",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 8900000,
       "list_price": null,
       "discount_percent": 0,
@@ -22722,107 +22755,6 @@
         "url": "https://www.digikala.com/seller/5ANA5/"
       },
       "signals": {
-        "price_change_pct": 4.71,
-        "rank_change": -8,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21137658",
-      "title": "جعبه دکوری مدل کتاب دکوراتیو طرح مینیمال کد 55",
-      "url": "https://www.digikala.com/product/dkp-21137658/جعبه-دکوری-مدل-کتاب-دکوراتیو-طرح-مینیمال-کد-55",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/b7656360e901e944977f684eb96ccf1a259a385b_1786788532.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "home-decor",
-      "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 278000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.8,
-      "rating_count": 78,
-      "seller": "کوچرو کمپانی",
-      "rank": 14,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "دکوراسیون"
-      },
-      "supplier": {
-        "name": "کوچرو کمپانی",
-        "url": "https://www.digikala.com/seller/GYCXX/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "18159129",
-      "title": "دکوری مدل رو میزی مجموعه دو عددی",
-      "url": "https://www.digikala.com/product/dkp-18159129/دکوری-مدل-رو-میزی-مجموعه-دو-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/cd3e352c04c1330c10e8442194d4772839a123fb_1788939403.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "home-decor",
-      "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-09-29T01:48:18.585Z",
-      "price": 350000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 84,
-      "seller": " هنرکده نادری",
-      "rank": 14,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "دکوراسیون"
-      },
-      "supplier": {
-        "name": " هنرکده نادری",
-        "url": "https://www.digikala.com/seller/G2Z6Z/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "9123650",
-      "title": "ماکت دکوری مدل خانه چوبی کد 01",
-      "url": "https://www.digikala.com/product/dkp-9123650/ماکت-چوبی-مدل-خانه-کد-01",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a73ae4f76e9ac0778d924724a13831fa62ef1a12_1659513465.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "home-decor",
-      "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-09-29T01:48:18.585Z",
-      "price": 185000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 6,
-      "seller": "کالا میکس",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "دکوراسیون خانه مبلمان"
-      },
-      "supplier": {
-        "name": "کالا میکس",
-        "url": "https://www.digikala.com/seller/DXXTG/"
-      },
-      "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
@@ -22838,7 +22770,7 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 870000,
       "list_price": null,
       "discount_percent": 0,
@@ -22857,7 +22789,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -22871,14 +22803,14 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 16500000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 189,
       "seller": "نفیس صنعت",
-      "rank": 15,
+      "rank": 14,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -22892,7 +22824,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -8,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -22906,7 +22838,7 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 350000,
       "list_price": null,
       "discount_percent": 0,
@@ -22927,7 +22859,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -22941,7 +22873,7 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 310000,
       "list_price": null,
       "discount_percent": 0,
@@ -22959,6 +22891,41 @@
       "supplier": {
         "name": "کالا میکس",
         "url": "https://www.digikala.com/seller/DXXTG/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "22693980",
+      "title": "دکوری مدل کتاب دکوراتیو کد B4",
+      "url": "https://www.digikala.com/product/dkp-22693980/دکوری-مدل-کتاب-دکوراتیو-کد-b4",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/cb1e499258226260b388fc2168dd32fbaecb285b_1788885711.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "home-decor",
+      "category_label": "دکوراسیون و مبلمان",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 420000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "رویای دیانا",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "دکوراسیون"
+      },
+      "supplier": {
+        "name": "رویای دیانا",
+        "url": "https://www.digikala.com/seller/H72W4/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -23047,7 +23014,7 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 310000,
       "list_price": null,
       "discount_percent": 0,
@@ -23068,42 +23035,42 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22693980",
-      "title": "دکوری مدل کتاب دکوراتیو کد B4",
-      "url": "https://www.digikala.com/product/dkp-22693980/دکوری-مدل-کتاب-دکوراتیو-کد-b4",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/cb1e499258226260b388fc2168dd32fbaecb285b_1788885711.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "12364108",
+      "title": "جعبه دکوری مدل کتاب دکوراتیو طرح مدرن مجموعه 2 عددی",
+      "url": "https://www.digikala.com/product/dkp-12364108/جعبه-دکوری-مدل-کتاب-دکوراتیو-طرح-مدرن-مجموعه-2-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/60c98f9b458be340da43dff6b3ad4289f7bb38e2_1786445935.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 420000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 539000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "رویای دیانا",
+      "rating": 4.4,
+      "rating_count": 82,
+      "seller": "چاپ دکوراتیو آدرین",
       "rank": 16,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "دکوراسیون"
       },
       "supplier": {
-        "name": "رویای دیانا",
-        "url": "https://www.digikala.com/seller/H72W4/"
+        "name": "چاپ دکوراتیو آدرین",
+        "url": "https://www.digikala.com/seller/FJNC2/"
       },
       "signals": {
-        "price_change_pct": 11.11,
-        "rank_change": 4,
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -23185,7 +23152,7 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 748000,
       "list_price": null,
       "discount_percent": 0,
@@ -23206,42 +23173,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "12364108",
-      "title": "جعبه دکوری مدل کتاب دکوراتیو طرح مدرن مجموعه 2 عددی",
-      "url": "https://www.digikala.com/product/dkp-12364108/جعبه-دکوری-مدل-کتاب-دکوراتیو-طرح-مدرن-مجموعه-2-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/60c98f9b458be340da43dff6b3ad4289f7bb38e2_1786445935.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "home-decor",
-      "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 539000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 82,
-      "seller": "چاپ دکوراتیو آدرین",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "دکوراسیون"
-      },
-      "supplier": {
-        "name": "چاپ دکوراتیو آدرین",
-        "url": "https://www.digikala.com/seller/FJNC2/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -23255,7 +23187,7 @@
       "brand": "گروه صنعتی اراز",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 34800000,
       "list_price": 60000000,
       "discount_percent": 42,
@@ -23276,7 +23208,40 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "15939318",
+      "title": "دکوری مدل ست رومیزی مجموعه 3 عددی",
+      "url": "https://www.digikala.com/product/dkp-15939318/دکوری-مدل-ست-رومیزی-مجموعه-3-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e7341126de0e7811820c40f098132e4abbc98399_1786445936.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "home-decor",
+      "category_label": "دکوراسیون و مبلمان",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 284170,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.5,
+      "rating_count": 114,
+      "seller": "دست سازه های لبخند تو",
+      "rank": 17,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "دکوراسیون"
+      },
+      "supplier": {
+        "name": "شمع پاتریس",
+        "url": "https://www.digikala.com/seller/ERWGJ/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -23290,7 +23255,7 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 272490,
       "list_price": null,
       "discount_percent": 0,
@@ -23311,8 +23276,8 @@
         "url": "https://www.digikala.com/seller/DSZ4N/"
       },
       "signals": {
-        "price_change_pct": -0.19,
-        "rank_change": -1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -23392,33 +23357,68 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "15939318",
-      "title": "دکوری مدل ست رومیزی مجموعه 3 عددی",
-      "url": "https://www.digikala.com/product/dkp-15939318/دکوری-مدل-ست-رومیزی-مجموعه-3-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e7341126de0e7811820c40f098132e4abbc98399_1786445936.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "20375602",
+      "title": "کتاب دکوراتیو مدل Home design کد 001",
+      "url": "https://www.digikala.com/product/dkp-20375602/کتاب-دکوراتیو-مدل-home-design-کد-001",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9b1c689c3039189e4717bcf980df7ed8adbb99cb_1757251832.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 284170,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 278000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.5,
-      "rating_count": 113,
-      "seller": "دست سازه های لبخند تو",
+      "rating": 4.6,
+      "rating_count": 17,
+      "seller": "گروه آموزشی درنا",
       "rank": 18,
       "available": true,
-      "badges": [],
+      "badges": [
+        "فروشنده معتبر"
+      ],
       "raw_ref": {
         "query": "دکوراسیون"
       },
       "supplier": {
-        "name": "شمع پاتریس",
-        "url": "https://www.digikala.com/seller/ERWGJ/"
+        "name": "گروه آموزشی درنا",
+        "url": "https://www.digikala.com/seller/6Y7NG/"
       },
       "signals": {
         "price_change_pct": 0,
         "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "9814037",
+      "title": "استند گلدان اهنی با ابعاد 20×20×55 سانتی‌متر، مدل شایان، روکش رنگ، طراحی مینیمال، مقاوم در برابر استفاده روزمره، مناسب دکوراسیون داخلی خانه و اپارتمان",
+      "url": "https://www.digikala.com/product/dkp-9814037/استند-گلدان-آهنی-با-ابعاد-202055-سانتیمتر-مدل-شایان-روکش-رنگ-طراحی-مینیمال-مقاوم-در-برابر-استفاده-روزمره-مناسب-دکوراسیون-داخلی-خانه-و-آپارتمان",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9d35eb8bf5d5c658069d6148d37953e73bf223e5_1667734633.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "home-decor",
+      "category_label": "دکوراسیون و مبلمان",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 2400000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 4,
+      "seller": "نیلارت",
+      "rank": 19,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "دکوراسیون خانه مبلمان"
+      },
+      "supplier": {
+        "name": "نیلارت",
+        "url": "https://www.digikala.com/seller/AVXCK/"
+      },
+      "signals": {
+        "price_change_pct": 9.09,
+        "rank_change": -10,
         "is_new": false
       }
     },
@@ -23432,7 +23432,7 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 5600000,
       "list_price": null,
       "discount_percent": 0,
@@ -23559,19 +23559,19 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20375602",
-      "title": "کتاب دکوراتیو مدل Home design کد 001",
-      "url": "https://www.digikala.com/product/dkp-20375602/کتاب-دکوراتیو-مدل-home-design-کد-001",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9b1c689c3039189e4717bcf980df7ed8adbb99cb_1757251832.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "20376179",
+      "title": "ماکت دکوری مدل کتاب دکوراتیو HOME DESIGN &amp;VOGUE 002 مجموعه دو عددی",
+      "url": "https://www.digikala.com/product/dkp-20376179/ماکت-دکوری-مدل-کتاب-دکوراتیو-home-design-ampvogue-002-مجموعه-دو-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/dff88a575b4fe8b7bb47945b77d6506bf40d361b_1786788528.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 278000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 543000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 17,
+      "rating": 4.2,
+      "rating_count": 21,
       "seller": "گروه آموزشی درنا",
       "rank": 19,
       "available": true,
@@ -23594,35 +23594,33 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20376179",
-      "title": "ماکت دکوری مدل کتاب دکوراتیو HOME DESIGN &amp;VOGUE 002 مجموعه دو عددی",
-      "url": "https://www.digikala.com/product/dkp-20376179/ماکت-دکوری-مدل-کتاب-دکوراتیو-home-design-ampvogue-002-مجموعه-دو-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/dff88a575b4fe8b7bb47945b77d6506bf40d361b_1786788528.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "18159129",
+      "title": "دکوری مدل رو میزی مجموعه دو عددی",
+      "url": "https://www.digikala.com/product/dkp-18159129/دکوری-مدل-رو-میزی-مجموعه-دو-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/cd3e352c04c1330c10e8442194d4772839a123fb_1788939403.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 543000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 350000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
-      "rating_count": 21,
-      "seller": "گروه آموزشی درنا",
+      "rating_count": 84,
+      "seller": " هنرکده نادری",
       "rank": 20,
       "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
+      "badges": [],
       "raw_ref": {
         "query": "دکوراسیون"
       },
       "supplier": {
-        "name": "گروه آموزشی درنا",
-        "url": "https://www.digikala.com/seller/6Y7NG/"
+        "name": " هنرکده نادری",
+        "url": "https://www.digikala.com/seller/G2Z6Z/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
+        "rank_change": -6,
         "is_new": false
       }
     },
@@ -23636,7 +23634,7 @@
       "brand": "متفرقه",
       "category_key": "home-decor",
       "category_label": "دکوراسیون و مبلمان",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 47000000,
       "list_price": null,
       "discount_percent": 0,
@@ -23657,7 +23655,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -26657,43 +26655,6 @@
       "supplier": {
         "name": "رخشا نور",
         "url": "https://www.digikala.com/seller/GRJE3/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "15983892",
-      "title": "چراغ کمپینگ مدل 2-W891",
-      "url": "https://www.digikala.com/product/dkp-15983892/چراغ-کمپینگ-مدل-2-w891",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/19f3bac5cad30c9ca125f24435b5438e480f25b4_1720175068.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "lighting",
-      "category_label": "روشنایی",
-      "observed_at": "2026-10-01T15:36:31.649Z",
-      "price": 2370000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 209,
-      "seller": "بازرگانی آرم ترید",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "چراغ"
-      },
-      "supplier": {
-        "name": "لاله زار استور",
-        "url": "https://www.digikala.com/seller/CZW3W/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -36870,7 +36831,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 304200,
       "list_price": 390000,
       "discount_percent": 22,
@@ -36893,7 +36854,7 @@
         "url": "https://www.digikala.com/seller/AFWMT/"
       },
       "signals": {
-        "price_change_pct": -2.5,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -36908,7 +36869,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 3980000,
       "list_price": null,
       "discount_percent": 0,
@@ -36929,7 +36890,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -36982,7 +36943,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 3500000,
       "list_price": null,
       "discount_percent": 0,
@@ -37003,8 +36964,8 @@
         "url": "https://www.digikala.com/seller/5AND6/"
       },
       "signals": {
-        "price_change_pct": 11.11,
-        "rank_change": 6,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -37018,18 +36979,17 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 1000000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 989000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
       "rating_count": 2128,
-      "seller": " کوه و ورزش",
+      "seller": "شادکس",
       "rank": 3,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "کمپینگ"
@@ -37039,8 +36999,8 @@
         "url": "https://www.digikala.com/seller/CACEE/"
       },
       "signals": {
-        "price_change_pct": 1.11,
-        "rank_change": -1,
+        "price_change_pct": -1.1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -37087,7 +37047,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 315060,
       "list_price": 350000,
       "discount_percent": 10,
@@ -37111,7 +37071,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -37125,14 +37085,14 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 295000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
       "rating_count": 160,
       "seller": "صفاهان کمپینگ",
-      "rank": 5,
+      "rank": 4,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -37146,7 +37106,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -37160,14 +37120,14 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 900000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 145,
       "seller": "آرتمیس غرب",
-      "rank": 6,
+      "rank": 5,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -37179,7 +37139,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -37193,7 +37153,7 @@
       "brand": "لایف کمپ",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1700000,
       "list_price": null,
       "discount_percent": 0,
@@ -37214,8 +37174,8 @@
         "url": "https://www.digikala.com/seller/AGM2W/"
       },
       "signals": {
-        "price_change_pct": 5.26,
-        "rank_change": -1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -37229,14 +37189,14 @@
       "brand": "لایف کمپ",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 7600000,
       "list_price": 8000000,
       "discount_percent": 5,
       "rating": 4.3,
       "rating_count": 144,
       "seller": "کاپری استور",
-      "rank": 7,
+      "rank": 6,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -37250,8 +37210,44 @@
         "url": "https://www.digikala.com/seller/D56FU/"
       },
       "signals": {
-        "price_change_pct": 1.06,
-        "rank_change": 0,
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "15983892",
+      "title": "چراغ کمپینگ مدل 2-W891",
+      "url": "https://www.digikala.com/product/dkp-15983892/چراغ-کمپینگ-مدل-2-w891",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19f3bac5cad30c9ca125f24435b5438e480f25b4_1720175068.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "travel",
+      "category_label": "سفر و کمپینگ",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 2350000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 209,
+      "seller": "بازرگانی آرم ترید",
+      "rank": 7,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کمپینگ"
+      },
+      "supplier": {
+        "name": "لاله زار استور",
+        "url": "https://www.digikala.com/seller/CZW3W/"
+      },
+      "signals": {
+        "price_change_pct": -0.84,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -37265,7 +37261,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 259000,
       "list_price": 350000,
       "discount_percent": 26,
@@ -37288,7 +37284,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -37302,7 +37298,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 240000,
       "list_price": null,
       "discount_percent": 0,
@@ -37323,7 +37319,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -37337,7 +37333,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 288700,
       "list_price": null,
       "discount_percent": 0,
@@ -37355,8 +37351,8 @@
         "url": "https://www.digikala.com/seller/FV9DK/"
       },
       "signals": {
-        "price_change_pct": 9.48,
-        "rank_change": 3,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -37370,7 +37366,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 229000,
       "list_price": 300000,
       "discount_percent": 24,
@@ -37392,7 +37388,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -37406,14 +37402,14 @@
       "brand": "لایف کمپ",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1480000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
       "rating_count": 813,
       "seller": "ستاره صنعت",
-      "rank": 11,
+      "rank": 10,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -37426,8 +37422,8 @@
         "url": "https://www.digikala.com/seller/CCVRX/"
       },
       "signals": {
-        "price_change_pct": 3.86,
-        "rank_change": 0,
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -37474,7 +37470,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 229000,
       "list_price": 300000,
       "discount_percent": 24,
@@ -37510,7 +37506,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 988560,
       "list_price": 1086330,
       "discount_percent": 9,
@@ -37531,8 +37527,8 @@
         "url": "https://www.digikala.com/seller/CERYV/"
       },
       "signals": {
-        "price_change_pct": -9,
-        "rank_change": -2,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -37546,7 +37542,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 229000,
       "list_price": 300000,
       "discount_percent": 24,
@@ -37568,7 +37564,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -37617,7 +37613,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 240000,
       "list_price": null,
       "discount_percent": 0,
@@ -37638,7 +37634,40 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "2585270",
+      "title": "استند سفری مدل T451",
+      "url": "https://www.digikala.com/product/dkp-2585270/استند-سفری-مدل-t451",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/119935076.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "travel",
+      "category_label": "سفر و کمپینگ",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 221470,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 346,
+      "seller": "خانه وآشپزخانه آبان",
+      "rank": 13,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "سفر و کمپینگ"
+      },
+      "supplier": {
+        "name": "خانه وآشپزخانه آبان",
+        "url": "https://www.digikala.com/seller/GZ3K4/"
+      },
+      "signals": {
+        "price_change_pct": -1.28,
+        "rank_change": 4,
         "is_new": false
       }
     },
@@ -37652,14 +37681,14 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 269000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
       "rating_count": 141,
       "seller": "کوه پیما",
-      "rank": 13,
+      "rank": 14,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -37672,8 +37701,8 @@
         "url": "https://www.digikala.com/seller/D5NT9/"
       },
       "signals": {
-        "price_change_pct": -2.18,
-        "rank_change": 2,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -37723,7 +37752,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 240000,
       "list_price": null,
       "discount_percent": 0,
@@ -37744,7 +37773,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -37758,14 +37787,14 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 2250000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.7,
       "rating_count": 92,
       "seller": "دومتیشو",
-      "rank": 14,
+      "rank": 15,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -37780,43 +37809,6 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21858321",
-      "title": "خودشور سفری لایف کمپ مدل 45891",
-      "url": "https://www.digikala.com/product/dkp-21858321/خودشور-سفری-لایف-کمپ-مدل-45891",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8416f398323f7b8344a76e4098ecdc6eb04262c9_1779356768.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "لایف کمپ",
-      "category_key": "travel",
-      "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 210000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 298,
-      "seller": "کوه مان",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "سفر و کمپینگ"
-      },
-      "supplier": {
-        "name": "کوه مان",
-        "url": "https://www.digikala.com/seller/AGM2W/"
-      },
-      "signals": {
-        "price_change_pct": 5.26,
         "rank_change": -1,
         "is_new": false
       }
@@ -37831,7 +37823,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 229000,
       "list_price": 300000,
       "discount_percent": 24,
@@ -37853,7 +37845,44 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21858321",
+      "title": "خودشور سفری لایف کمپ مدل 45891",
+      "url": "https://www.digikala.com/product/dkp-21858321/خودشور-سفری-لایف-کمپ-مدل-45891",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8416f398323f7b8344a76e4098ecdc6eb04262c9_1779356768.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "لایف کمپ",
+      "category_key": "travel",
+      "category_label": "سفر و کمپینگ",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 210000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 299,
+      "seller": "کوه مان",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "سفر و کمپینگ"
+      },
+      "supplier": {
+        "name": "کوه مان",
+        "url": "https://www.digikala.com/seller/AGM2W/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -37903,7 +37932,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 259000,
       "list_price": 350000,
       "discount_percent": 26,
@@ -37926,7 +37955,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -37940,14 +37969,14 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 230000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 308,
       "seller": "کوه مان",
-      "rank": 16,
+      "rank": 17,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -37961,8 +37990,8 @@
         "url": "https://www.digikala.com/seller/5A9JJ/"
       },
       "signals": {
-        "price_change_pct": 5.26,
-        "rank_change": 3,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -37976,14 +38005,14 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1280000,
       "list_price": 1600000,
       "discount_percent": 20,
       "rating": null,
       "rating_count": 0,
       "seller": " کیف استار",
-      "rank": 16,
+      "rank": 17,
       "available": true,
       "badges": [
         "فروش ویژه"
@@ -37997,75 +38026,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21375167",
-      "title": "نظم دهنده خندالو مدل کوهنوردی کمپینگ Camping کد 3230-S",
-      "url": "https://www.digikala.com/product/dkp-21375167/نظم-دهنده-خندالو-مدل-کوهنوردی-کمپینگ-camping-کد-3230-s",
-      "image": "https://dkstatics-public.digikala.com/digikala-content-creation-requests/4bba334a45b4c77a7c97c6f2bea4a3b2a65ea413_1770059551.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "خندالو",
-      "category_key": "travel",
-      "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 240000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "خندالو",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "کمپینگ"
-      },
-      "supplier": {
-        "name": "خندالو",
-        "url": "https://www.digikala.com/seller/5A9HF/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "2585270",
-      "title": "استند سفری مدل T451",
-      "url": "https://www.digikala.com/product/dkp-2585270/استند-سفری-مدل-t451",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/119935076.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "travel",
-      "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 224340,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 345,
-      "seller": "خانه وآشپزخانه آبان",
-      "rank": 17,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "سفر و کمپینگ"
-      },
-      "supplier": {
-        "name": "خانه وآشپزخانه آبان",
-        "url": "https://www.digikala.com/seller/GZ3K4/"
-      },
-      "signals": {
-        "price_change_pct": 12.14,
-        "rank_change": 2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -38079,14 +38040,14 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 229000,
       "list_price": 300000,
       "discount_percent": 24,
       "rating": null,
       "rating_count": 0,
       "seller": "خندالو",
-      "rank": 18,
+      "rank": 17,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -38101,7 +38062,42 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21375167",
+      "title": "نظم دهنده خندالو مدل کوهنوردی کمپینگ Camping کد 3230-S",
+      "url": "https://www.digikala.com/product/dkp-21375167/نظم-دهنده-خندالو-مدل-کوهنوردی-کمپینگ-camping-کد-3230-s",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-creation-requests/4bba334a45b4c77a7c97c6f2bea4a3b2a65ea413_1770059551.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "خندالو",
+      "category_key": "travel",
+      "category_label": "سفر و کمپینگ",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 240000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "خندالو",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کمپینگ"
+      },
+      "supplier": {
+        "name": "خندالو",
+        "url": "https://www.digikala.com/seller/5A9HF/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -38185,7 +38181,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 990000,
       "list_price": null,
       "discount_percent": 0,
@@ -38205,9 +38201,9 @@
         "url": "https://www.digikala.com/seller/5A9JJ/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
       }
     },
     {
@@ -38220,7 +38216,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 259000,
       "list_price": 350000,
       "discount_percent": 26,
@@ -38327,7 +38323,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 252000,
       "list_price": null,
       "discount_percent": 0,
@@ -38348,9 +38344,9 @@
         "url": "https://www.digikala.com/seller/FWZSE/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
       }
     },
     {
@@ -38401,7 +38397,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 229000,
       "list_price": 300000,
       "discount_percent": 24,
@@ -38614,7 +38610,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 195000,
       "list_price": null,
       "discount_percent": 0,
@@ -38632,6 +38628,42 @@
       "supplier": {
         "name": "اوای پخش تهران",
         "url": "https://www.digikala.com/seller/C3GNH/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17764368",
+      "title": "نظم دهنده سفری صفاهان کمپ مدل جا ادویه کد SC-J700 بسته 5 عددی",
+      "url": "https://www.digikala.com/product/dkp-17764368/نظم-دهنده-سفری-صفاهان-کمپ-مدل-جا-ادویه-کد-sc-j700-بسته-5-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/841201b808618a1d091bde0baa0b46ea6a3cb972_1734620014.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "travel",
+      "category_label": "سفر و کمپینگ",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 270000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 336,
+      "seller": "تکهام کالا",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کمپینگ سفر"
+      },
+      "supplier": {
+        "name": "تکهام کالا",
+        "url": "https://www.digikala.com/seller/ATJ29/"
       },
       "signals": {
         "price_change_pct": null,
@@ -43270,12 +43302,12 @@
       "brand": "نیفتی",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1499000,
       "list_price": 3300000,
       "discount_percent": 55,
       "rating": 3.8,
-      "rating_count": 16870,
+      "rating_count": 16871,
       "seller": " اسپیدروم",
       "rank": 1,
       "available": true,
@@ -43305,12 +43337,12 @@
       "brand": "هارلینگن",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1199000,
       "list_price": 3500000,
       "discount_percent": 66,
       "rating": 3.8,
-      "rating_count": 2549,
+      "rating_count": 2551,
       "seller": "گالری سوسپیرو",
       "rank": 2,
       "available": true,
@@ -43326,7 +43358,7 @@
         "url": "https://www.digikala.com/seller/A259N/"
       },
       "signals": {
-        "price_change_pct": 3.81,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -43341,7 +43373,7 @@
       "brand": "تن فور اور",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 10000000,
       "list_price": null,
       "discount_percent": 0,
@@ -43362,7 +43394,7 @@
         "url": "https://www.digikala.com/seller/ANJVD/"
       },
       "signals": {
-        "price_change_pct": -2.21,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -43377,7 +43409,7 @@
       "brand": "کراون استار",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1600000,
       "list_price": 2000000,
       "discount_percent": 20,
@@ -43414,12 +43446,12 @@
       "brand": "زدفون",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1399000,
       "list_price": 3340000,
       "discount_percent": 58,
       "rating": 3.4,
-      "rating_count": 1649,
+      "rating_count": 1654,
       "seller": "گالاردیا",
       "rank": 3,
       "available": true,
@@ -43438,7 +43470,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -43452,12 +43484,12 @@
       "brand": "هارلینگن",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1397000,
       "list_price": 3500000,
       "discount_percent": 60,
       "rating": 3.6,
-      "rating_count": 1198,
+      "rating_count": 1199,
       "seller": "گالری سوسپیرو",
       "rank": 4,
       "available": true,
@@ -43474,7 +43506,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -43488,8 +43520,8 @@
       "brand": "دندلیون",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 2220990,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 2223870,
       "list_price": 2902000,
       "discount_percent": 23,
       "rating": 4.2,
@@ -43508,8 +43540,8 @@
         "url": "https://www.digikala.com/seller/DYK59/"
       },
       "signals": {
-        "price_change_pct": -7.46,
-        "rank_change": 2,
+        "price_change_pct": 0.13,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -43523,7 +43555,7 @@
       "brand": "کلپک",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 748000,
       "list_price": 1700000,
       "discount_percent": 56,
@@ -43545,7 +43577,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -43595,7 +43627,7 @@
       "brand": "متفرقه",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 7000000,
       "list_price": null,
       "discount_percent": 0,
@@ -43616,7 +43648,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -43630,14 +43662,14 @@
       "brand": "گلان",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 417160,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.7,
       "rating_count": 13072,
       "seller": "کیامی شاپ",
-      "rank": 7,
+      "rank": 6,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -43651,7 +43683,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -43665,10 +43697,10 @@
       "brand": "کلپک",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 940000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 1060000,
       "list_price": 2000000,
-      "discount_percent": 53,
+      "discount_percent": 47,
       "rating": 3.6,
       "rating_count": 239,
       "seller": "مهتاب پرفیوم",
@@ -43687,8 +43719,8 @@
         "url": "https://www.digikala.com/seller/GXTE5/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
+        "price_change_pct": 12.77,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -43738,19 +43770,19 @@
       "brand": "اسکلاره",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 693000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 693500,
       "list_price": 1280090,
       "discount_percent": 46,
       "rating": 4,
       "rating_count": 1314,
-      "seller": "دیجی‌کالا",
+      "seller": "کانتینر",
       "rank": 8,
       "available": true,
       "badges": [
-        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "عطر"
@@ -43760,8 +43792,8 @@
         "url": "https://www.digikala.com/seller/AVRZR/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
+        "price_change_pct": 0.07,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -43775,7 +43807,7 @@
       "brand": "هارلینگن",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1099000,
       "list_price": 3000000,
       "discount_percent": 63,
@@ -43797,7 +43829,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8059378",
+      "title": "ادو پرفیوم مردانه بایلندو مدل اینوکتوس اسپرت حجم 100 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-8059378/ادو-پرفیوم-مردانه-بایلندو-مدل-اینوکتوس-اسپرت-حجم-100-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/22810b1d7dd6b39d61bad032a131bd30dd53c41d_1788951811.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "بایلندو",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 1154720,
+      "list_price": 3391500,
+      "discount_percent": 66,
+      "rating": 4.1,
+      "rating_count": 1000,
+      "seller": "مانا ایده",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "عطر"
+      },
+      "supplier": {
+        "name": "کانتینر",
+        "url": "https://www.digikala.com/seller/AVRZR/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 5,
         "is_new": false
       }
     },
@@ -43811,48 +43879,12 @@
       "brand": "کلپک",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 564000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 540000,
       "list_price": 1200000,
-      "discount_percent": 53,
+      "discount_percent": 55,
       "rating": 3.9,
       "rating_count": 673,
-      "seller": "کلپک پرفیوم",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "عطر"
-      },
-      "supplier": {
-        "name": "مهتاب پرفیوم",
-        "url": "https://www.digikala.com/seller/H9N5R/"
-      },
-      "signals": {
-        "price_change_pct": 2.17,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20252898",
-      "title": "ادو پرفیوم مردانه کلپک مدل ساواج دیور با رایحه خنک حجم 100 میلی لیتر مجموعه 2 عددی",
-      "url": "https://www.digikala.com/product/dkp-20252898/ادو-پرفیوم-مردانه-کلپک-مدل-ساواج-دیور-با-رایحه-خنک-حجم-100-میلی-لیتر-مجموعه-2-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8f6a6fc27e0d4d35b1637d7091951aa30be28ed4_1788950358.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "کلپک",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 2100000,
-      "list_price": 5000000,
-      "discount_percent": 58,
-      "rating": 3.9,
-      "rating_count": 231,
       "seller": "کلپک پرفیوم",
       "rank": 10,
       "available": true,
@@ -43868,8 +43900,8 @@
         "url": "https://www.digikala.com/seller/H9N5R/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
+        "price_change_pct": -4.26,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -43883,12 +43915,12 @@
       "brand": "نیفتی",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1190000,
       "list_price": 2600000,
       "discount_percent": 54,
       "rating": 3.7,
-      "rating_count": 6131,
+      "rating_count": 6132,
       "seller": " اسپیدروم",
       "rank": 11,
       "available": true,
@@ -43903,8 +43935,44 @@
         "url": "https://www.digikala.com/seller/GP6NR/"
       },
       "signals": {
-        "price_change_pct": 8.28,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20252898",
+      "title": "ادو پرفیوم مردانه کلپک مدل ساواج دیور با رایحه خنک حجم 100 میلی لیتر مجموعه 2 عددی",
+      "url": "https://www.digikala.com/product/dkp-20252898/ادو-پرفیوم-مردانه-کلپک-مدل-ساواج-دیور-با-رایحه-خنک-حجم-100-میلی-لیتر-مجموعه-2-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8f6a6fc27e0d4d35b1637d7091951aa30be28ed4_1788950358.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "کلپک",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 2150000,
+      "list_price": 5000000,
+      "discount_percent": 57,
+      "rating": 3.9,
+      "rating_count": 231,
+      "seller": "کلپک پرفیوم",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "عطر"
+      },
+      "supplier": {
+        "name": "مهتاب پرفیوم",
+        "url": "https://www.digikala.com/seller/H9N5R/"
+      },
+      "signals": {
+        "price_change_pct": 2.38,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -43918,14 +43986,14 @@
       "brand": "کلپک",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 1056000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 1166000,
       "list_price": 2200000,
-      "discount_percent": 52,
+      "discount_percent": 47,
       "rating": 3.9,
-      "rating_count": 2341,
+      "rating_count": 2342,
       "seller": "مهتاب پرفیوم",
-      "rank": 12,
+      "rank": 13,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -43940,8 +44008,8 @@
         "url": "https://www.digikala.com/seller/GXTE5/"
       },
       "signals": {
-        "price_change_pct": 11.63,
-        "rank_change": 2,
+        "price_change_pct": 10.42,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -43985,44 +44053,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "18332229",
-      "title": "ادو پرفیوم مردانه زدفون مدل کرید اونتوس با رایحه خنک حجم 100 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-18332229/ادو-پرفیوم-مردانه-زدفون-مدل-کرید-اونتوس-با-رایحه-خنک-حجم-100-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/b7f09d04f7cd7fbdc8fdeedc1fcc0decb155dad8_1754240192.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "زدفون",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 1579000,
-      "list_price": 3760000,
-      "discount_percent": 58,
-      "rating": 3.6,
-      "rating_count": 852,
-      "seller": "گالاردیا",
-      "rank": 13,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "عطر"
-      },
-      "supplier": {
-        "name": "گالاردیا",
-        "url": "https://www.digikala.com/seller/EM6DP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 6,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "22126078",
       "title": "ادکلن ادوپرفیوم مردانه پارلمنت مدل gleoma de aqua با رایحه خنک حجم 100 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-22126078/ادکلن-ادوپرفیوم-مردانه-پارلمنت-مدل-gleoma-de-aqua-با-رایحه-خنک-حجم-۱۰۰-میلی-لیتر",
@@ -44056,41 +44086,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8059378",
-      "title": "ادو پرفیوم مردانه بایلندو مدل اینوکتوس اسپرت حجم 100 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-8059378/ادو-پرفیوم-مردانه-بایلندو-مدل-اینوکتوس-اسپرت-حجم-100-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/22810b1d7dd6b39d61bad032a131bd30dd53c41d_1788951811.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "بایلندو",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 1154720,
-      "list_price": 3391500,
-      "discount_percent": 66,
-      "rating": 4.1,
-      "rating_count": 998,
-      "seller": "مانا ایده",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "عطر"
-      },
-      "supplier": {
-        "name": "کانتینر",
-        "url": "https://www.digikala.com/seller/AVRZR/"
-      },
-      "signals": {
-        "price_change_pct": 0.02,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "564855",
       "title": "ادوتویلت مردانه لومانی مدل Best با رایحه گرم و تند حجم 100 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-564855/ادوتویلت-مردانه-لومانی-مدل-best-حجم-100-میلی-لیتر",
@@ -44098,7 +44093,7 @@
       "brand": "لومانی",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1580000,
       "list_price": 2700000,
       "discount_percent": 41,
@@ -44119,8 +44114,82 @@
         "url": "https://www.digikala.com/seller/DWDEM/"
       },
       "signals": {
-        "price_change_pct": 251.11,
-        "rank_change": 5,
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "18706897",
+      "title": "ادو پرفیوم مردانه کلپک مدل دیور هوم اینتنس حجم 50 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-18706897/ادو-پرفیوم-مردانه-کلپک-مدل-دیور-هوم-اینتنس-حجم-50-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/bfaca4562ed8811f330ed63ff522f6c8aae7fa3a_1788947914.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "کلپک",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 672000,
+      "list_price": 1200000,
+      "discount_percent": 44,
+      "rating": 3.6,
+      "rating_count": 533,
+      "seller": "کلپک پرفیوم",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "عطر"
+      },
+      "supplier": {
+        "name": "مهتاب پرفیوم",
+        "url": "https://www.digikala.com/seller/H9N5R/"
+      },
+      "signals": {
+        "price_change_pct": -1.75,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "18332229",
+      "title": "ادو پرفیوم مردانه زدفون مدل کرید اونتوس با رایحه خنک حجم 100 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-18332229/ادو-پرفیوم-مردانه-زدفون-مدل-کرید-اونتوس-با-رایحه-خنک-حجم-100-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b7f09d04f7cd7fbdc8fdeedc1fcc0decb155dad8_1754240192.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "زدفون",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 1579000,
+      "list_price": 3760000,
+      "discount_percent": 58,
+      "rating": 3.6,
+      "rating_count": 853,
+      "seller": "گالاردیا",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "عطر"
+      },
+      "supplier": {
+        "name": "گالاردیا",
+        "url": "https://www.digikala.com/seller/EM6DP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -44163,42 +44232,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "18706897",
-      "title": "ادو پرفیوم مردانه کلپک مدل دیور هوم اینتنس حجم 50 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-18706897/ادو-پرفیوم-مردانه-کلپک-مدل-دیور-هوم-اینتنس-حجم-50-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/bfaca4562ed8811f330ed63ff522f6c8aae7fa3a_1788947914.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "کلپک",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 684000,
-      "list_price": 1200000,
-      "discount_percent": 43,
-      "rating": 3.6,
-      "rating_count": 533,
-      "seller": "کلپک پرفیوم",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "عطر"
-      },
-      "supplier": {
-        "name": "مهتاب پرفیوم",
-        "url": "https://www.digikala.com/seller/H9N5R/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "16131785",
       "title": "ادو پرفیوم مردانه ایفوریا مدل اینوکتوس پاکو رابان با رایحه خنک و تند حجم 100 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-16131785/ادو-پرفیوم-مردانه-ایفوریا-مدل-اینوکتوس-پاکو-رابان-حجم-100-میلی-لیتر",
@@ -44206,7 +44239,7 @@
       "brand": "ایفوریا",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 2100000,
       "list_price": 2550000,
       "discount_percent": 18,
@@ -44224,8 +44257,8 @@
         "url": "https://www.digikala.com/seller/E5RUJ/"
       },
       "signals": {
-        "price_change_pct": 0.43,
-        "rank_change": 5,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -44239,10 +44272,10 @@
       "brand": "کلپک",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 990000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 1170000,
       "list_price": 1800000,
-      "discount_percent": 45,
+      "discount_percent": 35,
       "rating": 3.8,
       "rating_count": 302,
       "seller": "مهتاب پرفیوم",
@@ -44261,8 +44294,8 @@
         "url": "https://www.digikala.com/seller/GXTE5/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 4,
+        "price_change_pct": 18.18,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -44311,7 +44344,7 @@
       "brand": "گرموشا",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1170000,
       "list_price": 1570000,
       "discount_percent": 25,
@@ -44348,10 +44381,10 @@
       "brand": "کلپک",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 1144000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 1254000,
       "list_price": 2200000,
-      "discount_percent": 48,
+      "discount_percent": 43,
       "rating": 3.6,
       "rating_count": 183,
       "seller": "مهتاب پرفیوم",
@@ -44370,42 +44403,7 @@
         "url": "https://www.digikala.com/seller/GXTE5/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "18198719",
-      "title": "ادو پرفیوم مردانه ایفوریا مدل لالیک بلک با رایحه گرم و تلخ حجم 100 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-18198719/ادو-پرفیوم-مردانه-ایفوریا-مدل-لالیک-بلک-با-رایحه-گرم-و-تلخ-حجم-100-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/082cc53143116f94cdbdc341a7b181e1d804f4c6_1754239831.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "ایفوریا",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 2580000,
-      "list_price": 2750000,
-      "discount_percent": 6,
-      "rating": 2.8,
-      "rating_count": 47,
-      "seller": "رایحه سیتی",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "عطر و ادکلن"
-      },
-      "supplier": {
-        "name": "رایحه سیتی",
-        "url": "https://www.digikala.com/seller/E5RUJ/"
-      },
-      "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": 9.62,
         "rank_change": 0,
         "is_new": false
       }
@@ -44490,7 +44488,7 @@
       "brand": "زدفون",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1429000,
       "list_price": 3380000,
       "discount_percent": 58,
@@ -44513,9 +44511,9 @@
         "url": "https://www.digikala.com/seller/EM6DP/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
       }
     },
     {
@@ -44601,7 +44599,7 @@
       "brand": "نایس پاپت",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 628900,
       "list_price": 1280090,
       "discount_percent": 51,
@@ -44623,9 +44621,44 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "18198719",
+      "title": "ادو پرفیوم مردانه ایفوریا مدل لالیک بلک با رایحه گرم و تلخ حجم 100 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-18198719/ادو-پرفیوم-مردانه-ایفوریا-مدل-لالیک-بلک-با-رایحه-گرم-و-تلخ-حجم-100-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/082cc53143116f94cdbdc341a7b181e1d804f4c6_1754239831.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "ایفوریا",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 2580000,
+      "list_price": 2750000,
+      "discount_percent": 6,
+      "rating": 2.8,
+      "rating_count": 47,
+      "seller": "رایحه سیتی",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "عطر و ادکلن"
+      },
+      "supplier": {
+        "name": "رایحه سیتی",
+        "url": "https://www.digikala.com/seller/E5RUJ/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
       }
     },
     {
@@ -44638,12 +44671,12 @@
       "brand": "نوو اکسپرس",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1546310,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.5,
-      "rating_count": 473,
+      "rating_count": 474,
       "seller": "گلد آفر",
       "rank": 20,
       "available": true,
@@ -44661,7 +44694,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -10,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -56601,7 +56634,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 288030,
       "list_price": null,
       "discount_percent": 0,
@@ -56672,7 +56705,7 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 104200000,
       "list_price": null,
       "discount_percent": 0,
@@ -56693,7 +56726,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -56707,7 +56740,7 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 87000000,
       "list_price": null,
       "discount_percent": 0,
@@ -56729,7 +56762,7 @@
         "url": "https://www.digikala.com/seller/5AJH7/"
       },
       "signals": {
-        "price_change_pct": 7.41,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -56744,7 +56777,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 6500000,
       "list_price": null,
       "discount_percent": 0,
@@ -56765,8 +56798,8 @@
         "url": "https://www.digikala.com/seller/AHEWX/"
       },
       "signals": {
-        "price_change_pct": 39.62,
-        "rank_change": 2,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -56780,12 +56813,12 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 998000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.6,
-      "rating_count": 236,
+      "rating_count": 237,
       "seller": "سون صدف",
       "rank": 3,
       "available": true,
@@ -56810,6 +56843,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "18991772",
+      "title": "لپ‌تاپ لنوو مدل IdeaPad 1 15IJL7 با پردازنده Celeron N4500، رم DDR4 8GB با فرکانس 2933MHz، حافظه SSD با ظرفیت 256GB، نمایشگر 15.6 اینچ TN با وضوح Full HD",
+      "url": "https://www.digikala.com/product/dkp-18991772/لپتاپ-لنوو-مدل-ideapad-1-15ijl7-با-پردازنده-celeron-n4500-رم-ddr4-8gb-با-فرکانس-2933mhz-حافظه-ssd-با-ظرفیت-256gb-نمایشگر-156-اینچ-tn-با-وضوح-full-hd",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/509ef6a33068c0d055e624baf07569faa72ea082_1786538650.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "لنوو",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 81000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 210,
+      "seller": "دیجی‌کالا",
+      "rank": 3,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "لپ‌تاپ و کامپیوتر"
+      },
+      "supplier": {
+        "name": "طرح اندیشان سمت نو",
+        "url": "https://www.digikala.com/seller/CH4KA/"
+      },
+      "signals": {
+        "price_change_pct": 3.85,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "20390747",
       "title": "کامپیوتر همه کاره 23.8 لنوو مدل A100 با پردازنده Core i3 N305 رم 8 گیگابایت از نوع DDR4 حافظه داخلی 512 گیگابایت SSD کارت گرافیک Intel Graphics (integrated) نمایشگر از نوع IPS",
       "url": "https://www.digikala.com/product/dkp-20390747/کامپیوتر-همه-کاره-238-لنوو-مدل-a100-با-پردازنده-core-i3-n305-رم-8-گیگابایت-از-نوع-ddr4-حافظه-داخلی-512-گیگابایت-ssd-کارت-گرافیک-intel-graphics-integrated-نمایشگر-از-نوع-ips",
@@ -56817,14 +56886,14 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 149700000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 9,
       "seller": "ارست",
-      "rank": 3,
+      "rank": 4,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -56837,8 +56906,8 @@
         "url": "https://www.digikala.com/seller/9PFN6/"
       },
       "signals": {
-        "price_change_pct": 5.5,
-        "rank_change": 4,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -56881,110 +56950,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21961450",
-      "title": "تاپ زنانه مدل Top02",
-      "url": "https://www.digikala.com/product/dkp-21961450/تاپ-زنانه-مدل-top02",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/6c85cc23e0092bd1b41985c355b7916f7c9c6918_1780833089.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 638000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 13,
-      "seller": "تولیدی پوشاک نیدل",
-      "rank": 4,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "تاپ"
-      },
-      "supplier": {
-        "name": "تولیدی پوشاک نیدل",
-        "url": "https://www.digikala.com/seller/HSWPM/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "17487848",
-      "title": "میز کامپیوتر و لپ تاپ مدل A20",
-      "url": "https://www.digikala.com/product/dkp-17487848/میز-کامپیوتر-و-لپ-تاپ-مدل-a20",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/587077535f8559cecfe3c28a834012abd7a94430_1778569571.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "اوا نور",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 687000,
-      "list_price": 799000,
-      "discount_percent": 14,
-      "rating": 3.9,
-      "rating_count": 35,
-      "seller": "آوا نور",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "لپ‌تاپ و کامپیوتر"
-      },
-      "supplier": {
-        "name": "آوا نور",
-        "url": "https://www.digikala.com/seller/C7SA7/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "18991772",
-      "title": "لپ‌تاپ لنوو مدل IdeaPad 1 15IJL7 با پردازنده Celeron N4500، رم DDR4 8GB با فرکانس 2933MHz، حافظه SSD با ظرفیت 256GB، نمایشگر 15.6 اینچ TN با وضوح Full HD",
-      "url": "https://www.digikala.com/product/dkp-18991772/لپتاپ-لنوو-مدل-ideapad-1-15ijl7-با-پردازنده-celeron-n4500-رم-ddr4-8gb-با-فرکانس-2933mhz-حافظه-ssd-با-ظرفیت-256gb-نمایشگر-156-اینچ-tn-با-وضوح-full-hd",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/509ef6a33068c0d055e624baf07569faa72ea082_1786538650.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "لنوو",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-09-29T01:48:18.585Z",
-      "price": 78000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 210,
-      "seller": "دیجی‌کالا",
-      "rank": 5,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "لپ‌تاپ و کامپیوتر"
-      },
-      "supplier": {
-        "name": "طرح اندیشان سمت نو",
-        "url": "https://www.digikala.com/seller/CH4KA/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "9563731",
       "title": "تاپ زنانه مدل بندی",
       "url": "https://www.digikala.com/product/dkp-9563731/تاپ-زنانه-مدل-بندی",
@@ -56992,14 +56957,14 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 271400,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.7,
       "rating_count": 285,
       "seller": " فرنوشک",
-      "rank": 5,
+      "rank": 4,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -57020,6 +56985,74 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "21961450",
+      "title": "تاپ زنانه مدل Top02",
+      "url": "https://www.digikala.com/product/dkp-21961450/تاپ-زنانه-مدل-top02",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6c85cc23e0092bd1b41985c355b7916f7c9c6918_1780833089.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 638000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 13,
+      "seller": "تولیدی پوشاک نیدل",
+      "rank": 5,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "تاپ"
+      },
+      "supplier": {
+        "name": "تولیدی پوشاک نیدل",
+        "url": "https://www.digikala.com/seller/HSWPM/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17487848",
+      "title": "میز کامپیوتر و لپ تاپ مدل A20",
+      "url": "https://www.digikala.com/product/dkp-17487848/میز-کامپیوتر-و-لپ-تاپ-مدل-a20",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/587077535f8559cecfe3c28a834012abd7a94430_1778569571.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "اوا نور",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 687000,
+      "list_price": 799000,
+      "discount_percent": 14,
+      "rating": 3.9,
+      "rating_count": 35,
+      "seller": "آوا نور",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "فروش ویژه"
+      ],
+      "raw_ref": {
+        "query": "لپ‌تاپ و کامپیوتر"
+      },
+      "supplier": {
+        "name": "آوا نور",
+        "url": "https://www.digikala.com/seller/C7SA7/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "16228820",
       "title": "لپ‌تاپ لنوو مدل V15 G4 IRU با پردازنده Core i3-1315U، رم DDR4 8GB با فرکانس 3200MHz، حافظه SSD با ظرفیت 256GB، نمایشگر 15.6 اینچ TN با وضوح Full HD",
       "url": "https://www.digikala.com/product/dkp-16228820/لپتاپ-لنوو-مدل-v15-g4-iru-با-پردازنده-core-i3-1315u-رم-ddr4-8gb-با-فرکانس-3200mhz-حافظه-ssd-با-ظرفیت-256gb-نمایشگر-156-اینچ-tn-با-وضوح-full-hd",
@@ -57027,19 +57060,18 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 115000000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 113000000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
       "rating_count": 112,
-      "seller": "آی تی صنف",
-      "rank": 5,
+      "seller": "دیجی‌کالا",
+      "rank": 6,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
         "query": "لپ‌تاپ و کامپیوتر"
@@ -57049,8 +57081,8 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 10.58,
-        "rank_change": 4,
+        "price_change_pct": -1.74,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -57064,7 +57096,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 289000,
       "list_price": null,
       "discount_percent": 0,
@@ -57085,7 +57117,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -57099,14 +57131,14 @@
       "brand": "ایسوس",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 54900000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.9,
       "rating_count": 162,
       "seller": "آی تی هوم",
-      "rank": 6,
+      "rank": 7,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -57120,45 +57152,8 @@
         "url": "https://www.digikala.com/seller/DM2DD/"
       },
       "signals": {
-        "price_change_pct": 2.62,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "16127101",
-      "title": "لپ‌تاپ لنوو مدل V15 G4 IRU با پردازنده Core i5-13420H، رم DDR4 8GB با فرکانس 3200MHz، حافظه SSD با ظرفیت 512GB، نمایشگر 15.6 اینچ TN با وضوح Full HD",
-      "url": "https://www.digikala.com/product/dkp-16127101/لپتاپ-لنوو-مدل-v15-g4-iru-با-پردازنده-core-i5-13420h-رم-ddr4-8gb-با-فرکانس-3200mhz-حافظه-ssd-با-ظرفیت-512gb-نمایشگر-156-اینچ-tn-با-وضوح-full-hd",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/20d0f6180d6b58712e3d2f71f22617092a6da891_1786538652.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "لنوو",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 145000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 49,
-      "seller": "آی تی صنف",
-      "rank": 7,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لپ‌تاپ و کامپیوتر"
-      },
-      "supplier": {
-        "name": "آی تی صنف",
-        "url": "https://www.digikala.com/seller/5AJH7/"
-      },
-      "signals": {
-        "price_change_pct": 4.32,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -57172,7 +57167,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 6500000,
       "list_price": null,
       "discount_percent": 0,
@@ -57193,8 +57188,45 @@
         "url": "https://www.digikala.com/seller/AHEWX/"
       },
       "signals": {
-        "price_change_pct": 36.55,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "16127101",
+      "title": "لپ‌تاپ لنوو مدل V15 G4 IRU با پردازنده Core i5-13420H، رم DDR4 8GB با فرکانس 3200MHz، حافظه SSD با ظرفیت 512GB، نمایشگر 15.6 اینچ TN با وضوح Full HD",
+      "url": "https://www.digikala.com/product/dkp-16127101/لپتاپ-لنوو-مدل-v15-g4-iru-با-پردازنده-core-i5-13420h-رم-ddr4-8gb-با-فرکانس-3200mhz-حافظه-ssd-با-ظرفیت-512gb-نمایشگر-156-اینچ-tn-با-وضوح-full-hd",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/20d0f6180d6b58712e3d2f71f22617092a6da891_1786538652.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "لنوو",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 145000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 49,
+      "seller": "آی تی صنف",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لپ‌تاپ و کامپیوتر"
+      },
+      "supplier": {
+        "name": "آی تی صنف",
+        "url": "https://www.digikala.com/seller/5AJH7/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -57208,7 +57240,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 310000,
       "list_price": null,
       "discount_percent": 0,
@@ -57229,43 +57261,8 @@
         "url": "https://www.digikala.com/seller/CS7A4/"
       },
       "signals": {
-        "price_change_pct": 6.71,
-        "rank_change": -6,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "14127036",
-      "title": "لپ‌تاپ لنوو مدل V15 G2 IJL با پردازنده Celeron N4500، رم DDR4 16GB با فرکانس 2933MHz، حافظه SSD با ظرفیت 512GB، نمایشگر 15.6 اینچ TN با وضوح Full HD، کاستوم شده",
-      "url": "https://www.digikala.com/product/dkp-14127036/لپتاپ-لنوو-مدل-v15-g2-ijl-با-پردازنده-celeron-n4500-رم-ddr4-16gb-با-فرکانس-2933mhz-حافظه-ssd-با-ظرفیت-512gb-نمایشگر-156-اینچ-tn-با-وضوح-full-hd-کاستوم-شده",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/31f7ca46e2c2530e78a4927e62606cbc3782217b_1786538653.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "لنوو",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 105000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 76,
-      "seller": "مهندسین نیک پرداز رسا",
-      "rank": 8,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "لپ‌تاپ و کامپیوتر"
-      },
-      "supplier": {
-        "name": "طرح اندیشان سمت نو",
-        "url": "https://www.digikala.com/seller/CH4KA/"
-      },
-      "signals": {
-        "price_change_pct": 5.53,
-        "rank_change": 6,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -57279,7 +57276,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 309000,
       "list_price": null,
       "discount_percent": 0,
@@ -57301,6 +57298,42 @@
       },
       "signals": {
         "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20601745",
+      "title": "لپ تاپ 15.6 اینچی لنوو مدل V15 G4 IRU-i5 13420H-8GB DDR4 3200MHz-512GB SSD-TN",
+      "url": "https://www.digikala.com/product/dkp-20601745/لپ-تاپ-156-اینچی-لنوو-مدل-v15-g4-iru-i5-13420h-8gb-ddr4-3200mhz-512gb-ssd-tn",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aba6dd6e484cd592f1588395d86ad323fb3d757f_1759677921.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "لنوو",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 140000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 9,
+      "seller": "دیجی‌کالا",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "لپ‌تاپ و کامپیوتر"
+      },
+      "supplier": {
+        "name": "امیتاک",
+        "url": "https://www.digikala.com/seller/HGPAC/"
+      },
+      "signals": {
+        "price_change_pct": -1.41,
         "rank_change": 3,
         "is_new": false
       }
@@ -57315,14 +57348,14 @@
       "brand": "وریتی",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 1490000,
-      "list_price": 1870000,
-      "discount_percent": 20,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 1540000,
+      "list_price": 2100000,
+      "discount_percent": 27,
       "rating": 4.2,
       "rating_count": 1490,
       "seller": "عکسیران",
-      "rank": 9,
+      "rank": 10,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -57338,8 +57371,8 @@
         "url": "https://www.digikala.com/seller/AHNX9/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 6,
+        "price_change_pct": 3.36,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -57353,7 +57386,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 658000,
       "list_price": null,
       "discount_percent": 0,
@@ -57414,25 +57447,24 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "14198254",
-      "title": "لپ‌تاپ لنوو مدل V15 G2 IJL با پردازنده Celeron N4500، رم DDR4 16GB با فرکانس 2933MHz، حافظه SSD با ظرفیت 256GB، نمایشگر 15.6 اینچ TN",
-      "url": "https://www.digikala.com/product/dkp-14198254/لپتاپ-لنوو-مدل-v15-g2-ijl-با-پردازنده-celeron-n4500-رم-ddr4-16gb-با-فرکانس-2933mhz-حافظه-ssd-با-ظرفیت-256gb-نمایشگر-156-اینچ-tn",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2701fb75e566bde8abac77b51802fcb13a871f03_1786538653.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "14127036",
+      "title": "لپ‌تاپ لنوو مدل V15 G2 IJL با پردازنده Celeron N4500، رم DDR4 16GB با فرکانس 2933MHz، حافظه SSD با ظرفیت 512GB، نمایشگر 15.6 اینچ TN با وضوح Full HD، کاستوم شده",
+      "url": "https://www.digikala.com/product/dkp-14127036/لپتاپ-لنوو-مدل-v15-g2-ijl-با-پردازنده-celeron-n4500-رم-ddr4-16gb-با-فرکانس-2933mhz-حافظه-ssd-با-ظرفیت-512gb-نمایشگر-156-اینچ-tn-با-وضوح-full-hd-کاستوم-شده",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/31f7ca46e2c2530e78a4927e62606cbc3782217b_1786538653.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 101000000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 105000000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
-      "rating_count": 45,
-      "seller": "آی تی صنف",
-      "rank": 10,
+      "rating_count": 76,
+      "seller": "مهندسین نیک پرداز رسا",
+      "rank": 11,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
         "query": "لپ‌تاپ و کامپیوتر"
@@ -57442,8 +57474,8 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": 3.49,
-        "rank_change": 3,
+        "price_change_pct": 0,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -57493,7 +57525,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 325000,
       "list_price": null,
       "discount_percent": 0,
@@ -57512,32 +57544,32 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22279101",
-      "title": "لپ‌تاپ 15.6 اینچی لنوو مدل V15 G5 IRL، پردازنده Core i5-13420H، رم 16 گیگابایت DDR5، حافظه داخلی SSD با ظرفیت 512 گیگابایت، نمایشگر Full HD مات با نرخ نوسازی 60 هرتز، وبکم HD 720p با شاتر حریم خصوصی، سیستم‌عامل Windows 11",
-      "url": "https://www.digikala.com/product/dkp-22279101/لپتاپ-156-اینچی-لنوو-مدل-v15-g5-irl-پردازنده-core-i5-13420h-رم-16-گیگابایت-ddr5-حافظه-داخلی-ssd-با-ظرفیت-512-گیگابایت-نمایشگر-full-hd-مات-با-نرخ-نوسازی-60-هرتز-وبکم-hd-720p-با-شاتر-حریم-خصوصی-سیستمعامل-windows-11",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/92c4dadbf0d5277213a85e01d2c017f0e771f52d_1784380524.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "14198254",
+      "title": "لپ‌تاپ لنوو مدل V15 G2 IJL با پردازنده Celeron N4500، رم DDR4 16GB با فرکانس 2933MHz، حافظه SSD با ظرفیت 256GB، نمایشگر 15.6 اینچ TN",
+      "url": "https://www.digikala.com/product/dkp-14198254/لپتاپ-لنوو-مدل-v15-g2-ijl-با-پردازنده-celeron-n4500-رم-ddr4-16gb-با-فرکانس-2933mhz-حافظه-ssd-با-ظرفیت-256gb-نمایشگر-156-اینچ-tn",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2701fb75e566bde8abac77b51802fcb13a871f03_1786538653.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 176400000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 101000000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": null,
-      "rating_count": 1,
-      "seller": "طرح اندیشان سمت نو",
-      "rank": 11,
+      "rating": 4.1,
+      "rating_count": 45,
+      "seller": "آی تی صنف",
+      "rank": 12,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "لپ‌تاپ و کامپیوتر"
@@ -57547,8 +57579,8 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": 1.38,
-        "rank_change": 5,
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -57562,8 +57594,8 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 325000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 330000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
@@ -57582,8 +57614,8 @@
         "url": "https://www.digikala.com/seller/CPCJW/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -3,
+        "price_change_pct": 1.54,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -57623,36 +57655,37 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20601745",
-      "title": "لپ تاپ 15.6 اینچی لنوو مدل V15 G4 IRU-i5 13420H-8GB DDR4 3200MHz-512GB SSD-TN",
-      "url": "https://www.digikala.com/product/dkp-20601745/لپ-تاپ-156-اینچی-لنوو-مدل-v15-g4-iru-i5-13420h-8gb-ddr4-3200mhz-512gb-ssd-tn",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/aba6dd6e484cd592f1588395d86ad323fb3d757f_1759677921.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "22279101",
+      "title": "لپ‌تاپ 15.6 اینچی لنوو مدل V15 G5 IRL، پردازنده Core i5-13420H، رم 16 گیگابایت DDR5، حافظه داخلی SSD با ظرفیت 512 گیگابایت، نمایشگر Full HD مات با نرخ نوسازی 60 هرتز، وبکم HD 720p با شاتر حریم خصوصی، سیستم‌عامل Windows 11",
+      "url": "https://www.digikala.com/product/dkp-22279101/لپتاپ-156-اینچی-لنوو-مدل-v15-g5-irl-پردازنده-core-i5-13420h-رم-16-گیگابایت-ddr5-حافظه-داخلی-ssd-با-ظرفیت-512-گیگابایت-نمایشگر-full-hd-مات-با-نرخ-نوسازی-60-هرتز-وبکم-hd-720p-با-شاتر-حریم-خصوصی-سیستمعامل-windows-11",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/92c4dadbf0d5277213a85e01d2c017f0e771f52d_1784380524.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 142000000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 176400000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
-      "rating_count": 9,
-      "seller": "امیتاک",
-      "rank": 12,
+      "rating_count": 1,
+      "seller": "طرح اندیشان سمت نو",
+      "rank": 13,
       "available": true,
       "badges": [
+        "ارسال سریع دیجی‌کالا",
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
         "query": "لپ‌تاپ و کامپیوتر"
       },
       "supplier": {
-        "name": "امیتاک",
-        "url": "https://www.digikala.com/seller/HGPAC/"
+        "name": "طرح اندیشان سمت نو",
+        "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
       }
     },
     {
@@ -57665,7 +57698,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1480000,
       "list_price": null,
       "discount_percent": 0,
@@ -57684,7 +57717,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -57698,14 +57731,14 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 93500000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
       "rating_count": 108,
       "seller": "مهندسین نیک پرداز رسا",
-      "rank": 13,
+      "rank": 14,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -57716,45 +57749,8 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": 6.49,
-        "rank_change": 6,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "122032",
-      "title": "فلش مموری سن‌دیسک مدل CZ73 ظرفیت 128 گیگابایت با بدنه فلزی، رابط USB 3.0 و سرعت انتقال 150 مگابایت بر ثانیه، سازگار با کامپیوتر، لپ‌تاپ، گوشی و تلویزیون",
-      "url": "https://www.digikala.com/product/dkp-122032/فلش-مموری-سندیسک-مدل-cz73-ظرفیت-128-گیگابایت-با-بدنه-فلزی-رابط-usb-30-و-سرعت-انتقال-150-مگابایت-بر-ثانیه-سازگار-با-کامپیوتر-لپتاپ-گوشی-و-تلویزیون",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e1bcf64689f0d47ae4a6f536664784bb580d481c_1784449223.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "سن دیسک",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 3795000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 2924,
-      "seller": "عکسیران",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لپ‌تاپ و کامپیوتر"
-      },
-      "supplier": {
-        "name": "تجارت فناوری پاسارگاد",
-        "url": "https://www.digikala.com/seller/ANT5T/"
-      },
-      "signals": {
-        "price_change_pct": 2.57,
-        "rank_change": -2,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -57768,7 +57764,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 1399100,
       "list_price": null,
       "discount_percent": 0,
@@ -57786,8 +57782,45 @@
         "url": "https://www.digikala.com/seller/5APCE/"
       },
       "signals": {
-        "price_change_pct": -0.24,
-        "rank_change": 6,
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "122032",
+      "title": "فلش مموری سن‌دیسک مدل CZ73 ظرفیت 128 گیگابایت با بدنه فلزی، رابط USB 3.0 و سرعت انتقال 150 مگابایت بر ثانیه، سازگار با کامپیوتر، لپ‌تاپ، گوشی و تلویزیون",
+      "url": "https://www.digikala.com/product/dkp-122032/فلش-مموری-سندیسک-مدل-cz73-ظرفیت-128-گیگابایت-با-بدنه-فلزی-رابط-usb-30-و-سرعت-انتقال-150-مگابایت-بر-ثانیه-سازگار-با-کامپیوتر-لپتاپ-گوشی-و-تلویزیون",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e1bcf64689f0d47ae4a6f536664784bb580d481c_1784449223.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "سن دیسک",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 3795000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 2924,
+      "seller": "عکسیران",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لپ‌تاپ و کامپیوتر"
+      },
+      "supplier": {
+        "name": "تجارت فناوری پاسارگاد",
+        "url": "https://www.digikala.com/seller/ANT5T/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -57801,7 +57834,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 6500000,
       "list_price": null,
       "discount_percent": 0,
@@ -57822,7 +57855,7 @@
         "url": "https://www.digikala.com/seller/AHEWX/"
       },
       "signals": {
-        "price_change_pct": 69.27,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -57870,14 +57903,14 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 86800000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
       "rating_count": 212,
       "seller": "طرح اندیشان سمت نو",
-      "rank": 15,
+      "rank": 16,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -57890,8 +57923,8 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": 0.93,
-        "rank_change": 2,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -57968,44 +58001,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22692742",
-      "title": "لپ تاپ 18 اینچی ایسوس مدل ROG STRIX G18 G815JMR-Core i7 14650HX-RTX5060 8GB-16GB DDR5 5600MHz-1TB SSD-WUXGA 144Hz-W",
-      "url": "https://www.digikala.com/product/dkp-22692742/لپ-تاپ-18-اینچی-ایسوس-مدل-rog-strix-g18-g815jmr-core-i7-14650hx-rtx5060-8gb-16gb-ddr5-5600mhz-1tb-ssd-wuxga-144hz-w",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/54af1efe896f2bb09b82e487b65365c2b99dbf6c_1788874225.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "ایسوس",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 445900000,
-      "list_price": 453900000,
-      "discount_percent": 2,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "مرکز کامپیوتر رستا",
-      "rank": 16,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لپ‌تاپ و کامپیوتر"
-      },
-      "supplier": {
-        "name": "مرکز کامپیوتر رستا",
-        "url": "https://www.digikala.com/seller/5ADE5/"
-      },
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "12087876",
       "title": "تاپ زنانه مدل x000905",
       "url": "https://www.digikala.com/product/dkp-12087876/تاپ-زنانه-مدل-x000905",
@@ -58036,6 +58031,77 @@
         "price_change_pct": null,
         "rank_change": null,
         "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "9782093",
+      "title": "تاپ زنانه مدل بندی پیشگام کد HN2FX",
+      "url": "https://www.digikala.com/product/dkp-9782093/تاپ-زنانه-مدل-بندی-پیشگام-کد-hn2fx",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/196b2cc249e295f326e4336486742706af79ae10_1778328183.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 329000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 116,
+      "seller": "سعادت استایل",
+      "rank": 16,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "تاپ"
+      },
+      "supplier": {
+        "name": "سعادت استایل",
+        "url": "https://www.digikala.com/seller/EHTVN/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "22692742",
+      "title": "لپ تاپ 18 اینچی ایسوس مدل ROG STRIX G18 G815JMR-Core i7 14650HX-RTX5060 8GB-16GB DDR5 5600MHz-1TB SSD-WUXGA 144Hz-W",
+      "url": "https://www.digikala.com/product/dkp-22692742/لپ-تاپ-18-اینچی-ایسوس-مدل-rog-strix-g18-g815jmr-core-i7-14650hx-rtx5060-8gb-16gb-ddr5-5600mhz-1tb-ssd-wuxga-144hz-w",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/54af1efe896f2bb09b82e487b65365c2b99dbf6c_1788874225.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "ایسوس",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 445900000,
+      "list_price": 453900000,
+      "discount_percent": 2,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "مرکز کامپیوتر رستا",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لپ‌تاپ و کامپیوتر"
+      },
+      "supplier": {
+        "name": "مرکز کامپیوتر رستا",
+        "url": "https://www.digikala.com/seller/5ADE5/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
       }
     },
     {
@@ -58080,6 +58146,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "15526051",
+      "title": "تاپ زنانه مدل 902PLUX002",
+      "url": "https://www.digikala.com/product/dkp-15526051/تاپ-زنانه-مدل-902plux002",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/77cbda4cdb74b4f314ec8fb3a941cbba8489b787_1778326865.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 6500000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 44,
+      "seller": "ست لوکس",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "تاپ"
+      },
+      "supplier": {
+        "name": "ست لوکس",
+        "url": "https://www.digikala.com/seller/AHEWX/"
+      },
+      "signals": {
+        "price_change_pct": 32.58,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "9563627",
       "title": "تاپ زنانه مدل بندی",
       "url": "https://www.digikala.com/product/dkp-9563627/تاپ-زنانه-مدل-بندی",
@@ -58087,14 +58189,14 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 271400,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.8,
       "rating_count": 85,
       "seller": " فرنوشک",
-      "rank": 17,
+      "rank": 18,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -58108,7 +58210,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -58122,18 +58224,17 @@
       "brand": "کیوکسیا",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 2760000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 2795000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
-      "rating_count": 4270,
-      "seller": "گلدن تاچ",
-      "rank": 17,
+      "rating_count": 4271,
+      "seller": "پنجره دیجیتال",
+      "rank": 18,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
         "query": "لپ‌تاپ و کامپیوتر"
@@ -58143,8 +58244,8 @@
         "url": "https://www.digikala.com/seller/HFRXT/"
       },
       "signals": {
-        "price_change_pct": 6.56,
-        "rank_change": 3,
+        "price_change_pct": 1.27,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -58158,14 +58259,14 @@
       "brand": "مایکروسافت",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 214499000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 2,
       "seller": "سرفیس لند شاپ",
-      "rank": 17,
+      "rank": 18,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -58178,81 +58279,8 @@
         "url": "https://www.digikala.com/seller/J2N2A/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21931149",
-      "title": "تاپ راحتی زنانه کاپلان مدل STP-802",
-      "url": "https://www.digikala.com/product/dkp-21931149/تاپ-راحتی-زنانه-کاپلان-مدل-stp-802",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/13e79d9d0b6bbcbd68fdbe810ad02413f1603ae0_1781086270.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 860000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 3,
-      "seller": "خانه کاپلان",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "تاپ"
-      },
-      "supplier": {
-        "name": "خانه کاپلان",
-        "url": "https://www.digikala.com/seller/HVUJV/"
-      },
-      "signals": {
         "price_change_pct": 0,
-        "rank_change": -7,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "15526051",
-      "title": "تاپ زنانه مدل 902PLUX002",
-      "url": "https://www.digikala.com/product/dkp-15526051/تاپ-زنانه-مدل-902plux002",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/77cbda4cdb74b4f314ec8fb3a941cbba8489b787_1778326865.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-09-29T01:48:18.585Z",
-      "price": 4902800,
-      "list_price": 6128500,
-      "discount_percent": 20,
-      "rating": 4.3,
-      "rating_count": 44,
-      "seller": "ست لوکس",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "تاپ"
-      },
-      "supplier": {
-        "name": "ست لوکس",
-        "url": "https://www.digikala.com/seller/AHEWX/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -58367,6 +58395,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "21931149",
+      "title": "تاپ راحتی زنانه کاپلان مدل STP-802",
+      "url": "https://www.digikala.com/product/dkp-21931149/تاپ-راحتی-زنانه-کاپلان-مدل-stp-802",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/13e79d9d0b6bbcbd68fdbe810ad02413f1603ae0_1781086270.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 860000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 3,
+      "seller": "خانه کاپلان",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "تاپ"
+      },
+      "supplier": {
+        "name": "خانه کاپلان",
+        "url": "https://www.digikala.com/seller/HVUJV/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "21430528",
       "title": "لپ‌تاپ 15.6 اینچی لنوو مدل V15 G5 IRL، پردازنده Core i5-13420H، نمایشگر Full HD با پنل TN و روکش مات، رم 8 گیگابایت DDR5، حافظه SSD با ظرفیت 512 گیگابایت، پشتیبانی از Wi-Fi 6، Bluetooth 5.2 و وبکم HD 720p با شاتر حریم خصوصی",
       "url": "https://www.digikala.com/product/dkp-21430528/لپتاپ-156-اینچی-لنوو-مدل-v15-g5-irl-پردازنده-core-i5-13420h-نمایشگر-full-hd-با-پنل-tn-و-روکش-مات-رم-8-گیگابایت-ddr5-حافظه-ssd-با-ظرفیت-512-گیگابایت-پشتیبانی-از-wi-fi-6-bluetooth-52-و-وبکم-hd-720p-با-شاتر-حریم-خصوصی",
@@ -58374,14 +58438,14 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 146590000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 2,
       "seller": "سرزمین پرینتر",
-      "rank": 18,
+      "rank": 19,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -58396,41 +58460,8 @@
         "url": "https://www.digikala.com/seller/DCPVG/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "9782093",
-      "title": "تاپ زنانه مدل بندی پیشگام کد HN2FX",
-      "url": "https://www.digikala.com/product/dkp-9782093/تاپ-زنانه-مدل-بندی-پیشگام-کد-hn2fx",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/196b2cc249e295f326e4336486742706af79ae10_1778328183.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 329000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 116,
-      "seller": "سعادت استایل",
-      "rank": 19,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "تاپ"
-      },
-      "supplier": {
-        "name": "سعادت استایل",
-        "url": "https://www.digikala.com/seller/EHTVN/"
-      },
-      "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -58589,14 +58620,14 @@
       "brand": "وریتی",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
-      "price": 920000,
+      "observed_at": "2026-10-01T23:05:22.337Z",
+      "price": 985000,
       "list_price": 1250000,
-      "discount_percent": 26,
+      "discount_percent": 21,
       "rating": 4.3,
       "rating_count": 635,
       "seller": "عکسیران",
-      "rank": 19,
+      "rank": 20,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -58612,8 +58643,8 @@
         "url": "https://www.digikala.com/seller/AHNX9/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "price_change_pct": 7.07,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -58627,14 +58658,14 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 291700000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 1,
       "seller": "طرح اندیشان سمت نو",
-      "rank": 19,
+      "rank": 20,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -58647,9 +58678,9 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
       }
     },
     {
@@ -58662,7 +58693,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-01T13:02:00.251Z",
+      "observed_at": "2026-10-01T23:05:22.337Z",
       "price": 441000,
       "list_price": 490000,
       "discount_percent": 10,
@@ -58685,7 +58716,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 0,
         "is_new": false
       }
     },
