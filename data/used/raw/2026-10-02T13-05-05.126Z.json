@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-10-02T13:05:05.126Z",
+  "source": "divar-mcp",
+  "cities": [
+    "تهران",
+    "کرج",
+    "مشهد",
+    "اصفهان",
+    "نوشهر"
+  ],
+  "searches": [
+    {
+      "key": "restaurant-equipment",
+      "label": "تجهیزات رستوران و کافه",
+      "query": "تجهیزات رستوران",
+      "candidates": null,
+      "returned": 0
+    },
+    {
+      "key": "coffee-equipment",
+      "label": "تجهیزات قهوه",
+      "query": "اسپرسوساز صنعتی",
+      "candidates": null,
+      "returned": 0
+    },
+    {
+      "key": "mobile",
+      "label": "موبایل دست‌دوم",
+      "query": "گوشی موبایل",
+      "candidates": null,
+      "returned": 0
+    },
+    {
+      "key": "laptop",
+      "label": "لپ‌تاپ دست‌دوم",
+      "query": "لپ تاپ",
+      "candidates": null,
+      "returned": 0
+    }
+  ]
+}
