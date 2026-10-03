@@ -1,0 +1,85 @@
+{
+  "generated_at": "2026-10-03T18:07:54.566Z",
+  "source": "digikala-mcp",
+  "mode": "rotating",
+  "categories": {
+    "audio": {
+      "label": "هدفون و صوتی",
+      "queries": [
+        "هدفون اسپیکر",
+        "هدفون و صوتی",
+        "هدفون"
+      ],
+      "results": [
+        {
+          "query": "هدفون اسپیکر",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "هدفون و صوتی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "هدفون",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "food": {
+      "label": "خوراکی و سوپرمارکت",
+      "queries": [
+        "مواد غذایی سوپرمارکت",
+        "خوراکی و سوپرمارکت",
+        "مواد"
+      ],
+      "results": [
+        {
+          "query": "مواد غذایی سوپرمارکت",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "خوراکی و سوپرمارکت",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "مواد",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "shoes": {
+      "label": "کفش",
+      "queries": [
+        "کفش"
+      ],
+      "results": [
+        {
+          "query": "کفش",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "art": {
+      "label": "هنر و صنایع دستی",
+      "queries": [
+        "لوازم هنری صنایع دستی",
+        "هنر و صنایع دستی",
+        "لوازم"
+      ],
+      "results": [
+        {
+          "query": "لوازم هنری صنایع دستی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "هنر و صنایع دستی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "لوازم",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    }
+  }
+}
