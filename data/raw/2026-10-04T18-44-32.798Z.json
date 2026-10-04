@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-10-04T18:44:32.798Z",
+  "source": "digikala-mcp",
+  "mode": "rotating",
+  "categories": {
+    "office": {
+      "label": "ماشین‌های اداری",
+      "queries": [
+        "پرینتر ماشین اداری",
+        "ماشین‌های اداری",
+        "پرینتر"
+      ],
+      "results": [
+        {
+          "query": "پرینتر ماشین اداری",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "ماشین‌های اداری",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "پرینتر",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "restaurant": {
+      "label": "تجهیزات رستوران و غذا",
+      "queries": [
+        "تجهیزات آشپزخانه صنعتی",
+        "تجهیزات رستوران و غذا",
+        "تجهیزات"
+      ],
+      "results": [
+        {
+          "query": "تجهیزات آشپزخانه صنعتی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "تجهیزات رستوران و غذا",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "تجهیزات",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "toys": {
+      "label": "اسباب‌بازی",
+      "queries": [
+        "اسباب بازی",
+        "اسباب‌بازی",
+        "اسباب"
+      ],
+      "results": [
+        {
+          "query": "اسباب بازی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "اسباب‌بازی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "اسباب",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    },
+    "pets": {
+      "label": "حیوانات خانگی",
+      "queries": [
+        "لوازم حیوانات خانگی",
+        "حیوانات خانگی",
+        "لوازم"
+      ],
+      "results": [
+        {
+          "query": "لوازم حیوانات خانگی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "حیوانات خانگی",
+          "error": "Error: MCP HTTP 429"
+        },
+        {
+          "query": "لوازم",
+          "error": "Error: MCP HTTP 429"
+        }
+      ]
+    }
+  }
+}
