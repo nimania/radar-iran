@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-05T22:52:05.360Z",
-  "count": 2513,
+  "generated_at": "2026-10-06T02:53:54.071Z",
+  "count": 2514,
   "collection": {
     "mode": "rotating",
     "categories_scanned": 4,
@@ -16197,7 +16197,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 3250000,
       "list_price": null,
       "discount_percent": 0,
@@ -16216,7 +16216,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -16254,39 +16254,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "8079973",
-      "title": "سرویس اشپزخانه 11 پارچه مدل 01",
-      "url": "https://www.digikala.com/product/dkp-8079973/سرویس-آشپزخانه-11-پارچه-مدل-01",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9d6c65e91bd2ae0d42feda35905eb824aeb3aabf_1785148019.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "kitchen",
-      "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-04T00:30:29.541Z",
-      "price": 1700000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 279,
-      "seller": "مرجان دخت",
-      "rank": 2,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "خانه و آشپزخانه"
-      },
-      "supplier": {
-        "name": "آنیان",
-        "url": "https://www.digikala.com/seller/CHG3X/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 4,
         "is_new": false
       }
     },
@@ -16335,21 +16302,21 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 4990000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
       "rating_count": 64,
       "seller": "صفاهوم",
-      "rank": 3,
+      "rank": 2,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "خانه و آشپزخانه"
+        "query": "لوازم آشپزخانه"
       },
       "supplier": {
         "name": "صفاهوم",
@@ -16357,42 +16324,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "3188916",
-      "title": "سرویس 8 پارچه ابزار اشپزخانه کد 301",
-      "url": "https://www.digikala.com/product/dkp-3188916/سرویس-8-پارچه-ابزار-آشپزخانه-کد-301",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/69b0f626ceda2927bf63ce6a44f6adc7a81d31be_1782139094.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "kitchen",
-      "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 3250000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 115,
-      "seller": "تکهوم",
-      "rank": 3,
-      "available": true,
-      "badges": [
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "لوازم آشپزخانه"
-      },
-      "supplier": {
-        "name": "تکهوم",
-        "url": "https://www.digikala.com/seller/ANE47/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -16406,14 +16338,14 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 4880000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 19,
       "seller": "رانا هوم",
-      "rank": 4,
+      "rank": 3,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -16428,7 +16360,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8079973",
+      "title": "سرویس اشپزخانه 11 پارچه مدل 01",
+      "url": "https://www.digikala.com/product/dkp-8079973/سرویس-آشپزخانه-11-پارچه-مدل-01",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9d6c65e91bd2ae0d42feda35905eb824aeb3aabf_1785148019.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "kitchen",
+      "category_label": "خانه و آشپزخانه",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1700000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 280,
+      "seller": "آنیان",
+      "rank": 4,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم آشپزخانه"
+      },
+      "supplier": {
+        "name": "آنیان",
+        "url": "https://www.digikala.com/seller/CHG3X/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -16465,6 +16433,41 @@
       "signals": {
         "price_change_pct": 11.61,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3188916",
+      "title": "سرویس 8 پارچه ابزار اشپزخانه کد 301",
+      "url": "https://www.digikala.com/product/dkp-3188916/سرویس-8-پارچه-ابزار-آشپزخانه-کد-301",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/69b0f626ceda2927bf63ce6a44f6adc7a81d31be_1782139094.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "kitchen",
+      "category_label": "خانه و آشپزخانه",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 3250000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 115,
+      "seller": "تکهوم",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم آشپزخانه"
+      },
+      "supplier": {
+        "name": "تکهوم",
+        "url": "https://www.digikala.com/seller/ANE47/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -16515,14 +16518,14 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 5990000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 2.8,
       "rating_count": 4,
       "seller": " آشپزخانه انتخاب",
-      "rank": 5,
+      "rank": 6,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -16538,7 +16541,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -16574,43 +16577,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "19346155",
-      "title": "پایه لوازم اشپزخانه مدل ملاقه کد 01",
-      "url": "https://www.digikala.com/product/dkp-19346155/پایه-لوازم-آشپزخانه-مدل-ملاقه-کد-01",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8b0c70bd5b22ca650e6394bc5caedac8067d4332_1748337888.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "kitchen",
-      "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 253000,
-      "list_price": 275000,
-      "discount_percent": 8,
-      "rating": 4.3,
-      "rating_count": 21,
-      "seller": "فرنوح",
-      "rank": 7,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم آشپزخانه"
-      },
-      "supplier": {
-        "name": "فرنوح",
-        "url": "https://www.digikala.com/seller/EYAFF/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
         "is_new": false
       }
     },
@@ -16654,35 +16620,72 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "11836614",
-      "title": "سرویس اشپزخانه 10 پارچه راولا کد N07",
-      "url": "https://www.digikala.com/product/dkp-11836614/سرویس-آشپزخانه-10-پارچه-راولا-کد-n07",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/fced8a48d344daf9b94875cf72e8450765a7a0ab_1785148022.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
+      "source_id": "21146008",
+      "title": "سرویس اشپزخانه 11 پارچه دبلیو اس مدل کوکینگ کد HS11",
+      "url": "https://www.digikala.com/product/dkp-21146008/سرویس-آشپزخانه-11-پارچه-دبلیو-اس-مدل-کوکینگ-کد-hs11",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/10c61f12373e031776ac5241fa0abd21c1f0b402_1789882225.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "دبلیو اس",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 5800000,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 5500000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 23,
-      "seller": "بازرگانی اشل",
-      "rank": 8,
+      "rating": 5,
+      "rating_count": 4,
+      "seller": "لوکس هوم اکسسوری",
+      "rank": 7,
       "available": true,
       "badges": [
-        "فروشنده معتبر"
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لوازم آشپزخانه"
       },
       "supplier": {
-        "name": "بازرگانی اشل",
-        "url": "https://www.digikala.com/seller/AEH6C/"
+        "name": "لوکس هوم اکسسوری",
+        "url": "https://www.digikala.com/seller/EUANU/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 9,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19346155",
+      "title": "پایه لوازم اشپزخانه مدل ملاقه کد 01",
+      "url": "https://www.digikala.com/product/dkp-19346155/پایه-لوازم-آشپزخانه-مدل-ملاقه-کد-01",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8b0c70bd5b22ca650e6394bc5caedac8067d4332_1748337888.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "kitchen",
+      "category_label": "خانه و آشپزخانه",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 253000,
+      "list_price": 275000,
+      "discount_percent": 8,
+      "rating": 4.3,
+      "rating_count": 21,
+      "seller": "فرنوح",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم آشپزخانه"
+      },
+      "supplier": {
+        "name": "فرنوح",
+        "url": "https://www.digikala.com/seller/EYAFF/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -16768,7 +16771,7 @@
       "brand": "دبلیو اس",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 5789000,
       "list_price": null,
       "discount_percent": 0,
@@ -16790,6 +16793,41 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "11836614",
+      "title": "سرویس اشپزخانه 10 پارچه راولا کد N07",
+      "url": "https://www.digikala.com/product/dkp-11836614/سرویس-آشپزخانه-10-پارچه-راولا-کد-n07",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/fced8a48d344daf9b94875cf72e8450765a7a0ab_1785148022.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "kitchen",
+      "category_label": "خانه و آشپزخانه",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 5800000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 23,
+      "seller": "بازرگانی اشل",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم آشپزخانه"
+      },
+      "supplier": {
+        "name": "بازرگانی اشل",
+        "url": "https://www.digikala.com/seller/AEH6C/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -16839,7 +16877,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 7790000,
       "list_price": null,
       "discount_percent": 0,
@@ -16978,12 +17016,12 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 5146440,
       "list_price": 6598000,
       "discount_percent": 22,
-      "rating": 4.4,
-      "rating_count": 5,
+      "rating": 4.5,
+      "rating_count": 6,
       "seller": "نساجی فاطیما هوم",
       "rank": 12,
       "available": true,
@@ -17000,7 +17038,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -17112,6 +17150,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "18857770",
+      "title": "سرویس جهیزیه 83 پارچه فلورا هوم کت",
+      "url": "https://www.digikala.com/product/dkp-18857770/سرویس-جهیزیه-۸۳-پارچه-فلورا-هوم-کت",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9ca21692ba8034aca41597124fbbceaea7027a19_1788163288.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "هوم کت",
+      "category_key": "kitchen",
+      "category_label": "خانه و آشپزخانه",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 31847070,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 8,
+      "seller": "پخش صالح آباد پخش",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "انبار دیجی‌کالا",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم آشپزخانه"
+      },
+      "supplier": {
+        "name": "پخش صالح آباد پخش",
+        "url": "https://www.digikala.com/seller/H3PNX/"
+      },
+      "signals": {
+        "price_change_pct": 6.51,
+        "rank_change": 4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "11836566",
       "title": "سرویس اشپزخانه 10 پارچه راولا کد N03",
       "url": "https://www.digikala.com/product/dkp-11836566/سرویس-آشپزخانه-10-پارچه-راولا-کد-n03",
@@ -17119,14 +17193,14 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 5800000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
       "rating_count": 8,
       "seller": "بازرگانی اشل",
-      "rank": 13,
+      "rank": 14,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -17140,42 +17214,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21156502",
-      "title": "استند لوازم اشپزخانه مدرن مدل مشبک 1404001",
-      "url": "https://www.digikala.com/product/dkp-21156502/استند-لوازم-آشپزخانه-مدرن-مدل-مشبک-1404001",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9c3db0452038896156b6bc337ffdbe70c04f9f50_1766646331.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "kitchen",
-      "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 1180800,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "دهکده مدرن",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "لوازم آشپزخانه"
-      },
-      "supplier": {
-        "name": "دهکده مدرن",
-        "url": "https://www.digikala.com/seller/E93PK/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -17262,7 +17301,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 3950000,
       "list_price": null,
       "discount_percent": 0,
@@ -17283,7 +17322,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -17325,68 +17364,35 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21146008",
-      "title": "سرویس اشپزخانه 11 پارچه دبلیو اس مدل کوکینگ کد HS11",
-      "url": "https://www.digikala.com/product/dkp-21146008/سرویس-آشپزخانه-11-پارچه-دبلیو-اس-مدل-کوکینگ-کد-hs11",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/10c61f12373e031776ac5241fa0abd21c1f0b402_1789882225.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "دبلیو اس",
+      "source_id": "21156502",
+      "title": "استند لوازم اشپزخانه مدرن مدل مشبک 1404001",
+      "url": "https://www.digikala.com/product/dkp-21156502/استند-لوازم-آشپزخانه-مدرن-مدل-مشبک-1404001",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9c3db0452038896156b6bc337ffdbe70c04f9f50_1766646331.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 5500000,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1180800,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 5,
-      "rating_count": 4,
-      "seller": "لوکس هوم اکسسوری",
+      "rating": null,
+      "rating_count": 0,
+      "seller": "دهکده مدرن",
       "rank": 16,
       "available": true,
       "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده"
       ],
-      "raw_ref": {
-        "query": "خانه و آشپزخانه"
-      },
-      "supplier": {
-        "name": "لوکس هوم اکسسوری",
-        "url": "https://www.digikala.com/seller/EUANU/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -9,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21318118",
-      "title": "ست لوازم پارچه ای اشپزخانه 11 پارچه دبلیو اس مدل وافل",
-      "url": "https://www.digikala.com/product/dkp-21318118/ست-لوازم-پارچه-ای-آشپزخانه-11-پارچه-دبلیو-اس-مدل-وافل",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/238d9a7dc9082db772d2f28c3d7f98b641202922_1784118323.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "دبلیو اس",
-      "category_key": "kitchen",
-      "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 5850000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 6,
-      "seller": "گلمیرا",
-      "rank": 16,
-      "available": true,
-      "badges": [],
       "raw_ref": {
         "query": "لوازم آشپزخانه"
       },
       "supplier": {
-        "name": "گلمیرا",
-        "url": "https://www.digikala.com/seller/J5MEZ/"
+        "name": "دهکده مدرن",
+        "url": "https://www.digikala.com/seller/E93PK/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -17459,6 +17465,39 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "21318118",
+      "title": "ست لوازم پارچه ای اشپزخانه 11 پارچه دبلیو اس مدل وافل",
+      "url": "https://www.digikala.com/product/dkp-21318118/ست-لوازم-پارچه-ای-آشپزخانه-11-پارچه-دبلیو-اس-مدل-وافل",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/238d9a7dc9082db772d2f28c3d7f98b641202922_1784118323.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "دبلیو اس",
+      "category_key": "kitchen",
+      "category_label": "خانه و آشپزخانه",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 5850000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 6,
+      "seller": "گلمیرا",
+      "rank": 17,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "لوازم آشپزخانه"
+      },
+      "supplier": {
+        "name": "گلمیرا",
+        "url": "https://www.digikala.com/seller/J5MEZ/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "22241453",
       "title": "پیش بند اشپزخانه تولیدی داشاب مدل چهارخانه کد 009",
       "url": "https://www.digikala.com/product/dkp-22241453/پیش-بند-آشپزخانه-تولیدی-داشاب-مدل-چهارخانه-کد-009",
@@ -17497,41 +17536,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "18857770",
-      "title": "سرویس جهیزیه 83 پارچه فلورا هوم کت",
-      "url": "https://www.digikala.com/product/dkp-18857770/سرویس-جهیزیه-۸۳-پارچه-فلورا-هوم-کت",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9ca21692ba8034aca41597124fbbceaea7027a19_1788163288.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "هوم کت",
-      "category_key": "kitchen",
-      "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 29900000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 8,
-      "seller": "نیلاس هوم",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم آشپزخانه"
-      },
-      "supplier": {
-        "name": "پخش صالح آباد پخش",
-        "url": "https://www.digikala.com/seller/H3PNX/"
-      },
-      "signals": {
-        "price_change_pct": 36.62,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "22386807",
       "title": "سرویس اشپزخانه 11 تکه مدل TAK-1000030",
       "url": "https://www.digikala.com/product/dkp-22386807/سرویس-آشپزخانه-11-تکه-مدل-tak-1000030",
@@ -17539,7 +17543,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T06:53:38.745Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 4182000,
       "list_price": 5100000,
       "discount_percent": 18,
@@ -17751,7 +17755,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 1500000,
       "list_price": null,
       "discount_percent": 0,
@@ -17923,7 +17927,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 620000,
       "list_price": null,
       "discount_percent": 0,
@@ -17942,41 +17946,6 @@
       "supplier": {
         "name": "بارانیان",
         "url": "https://www.digikala.com/seller/CM24F/"
-      },
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "9934553",
-      "title": "بسته لوازم تحریر دلی مدل بسته لوازم التحریر دلی مدل دانش اموزی کد 9610 مجموعه 16 عددی",
-      "url": "https://www.digikala.com/product/dkp-9934553/بسته-لوازم-تحریر-دلی-مدل-بسته-لوازم-التحریر-دلی-مدل-دانش-آموزی-کد-9610-مجموعه-16-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9582c7ad6fbbd95c01c16d153211b6c7860e075f_1669016067.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "دلی",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 1913130,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 43,
-      "seller": "تولیدی بازرگانی شگفت انگیز",
-      "rank": 1,
-      "available": true,
-      "badges": [
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "رانال شاپ",
-        "url": "https://www.digikala.com/seller/EFCTN/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -18094,41 +18063,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8472338",
-      "title": "مجموعه 110 عددی ابزار مدل HAND_TOOLS_SET",
-      "url": "https://www.digikala.com/product/dkp-8472338/مجموعه-110-عددی-ابزار-مدل-hand-tools-set",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/974b60f57044d90184402de3162f65eee784e55c_1652130778.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 4900000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 77,
-      "seller": "ابزار فرحمند",
-      "rank": 2,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "فروشگاه آشیل کالا",
-        "url": "https://www.digikala.com/seller/CEM4Y/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "18797137",
       "title": "نوار نسوز اگزوز و هدرز خودرو و موتورسیکلت مدل H4 طول 10 متر",
       "url": "https://www.digikala.com/product/dkp-18797137/نوار-نسوز-اگزوز-و-هدرز-خودرو-و-موتورسیکلت-مدل-h4-طول-10-متر",
@@ -18155,42 +18089,6 @@
       "supplier": {
         "name": "تجارت الکترونیک طاها",
         "url": "https://www.digikala.com/seller/CDMRG/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "3080335",
-      "title": "بسته لوازم تحریر دلی مدل 9610 مجموعه 15عددی",
-      "url": "https://www.digikala.com/product/dkp-3080335/بسته-لوازم-تحریر-دلی-مدل-9610-مجموعه-15عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/103b8088721b970a0da72dfa75254ff07605ea07_1594628851.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "دلی",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 2545500,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 307,
-      "seller": "رانال شاپ",
-      "rank": 3,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "رانال شاپ",
-        "url": "https://www.digikala.com/seller/EFCTN/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -18307,39 +18205,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8600901",
-      "title": "مجموعه لوازم جانبی موبایل مدل AY-49",
-      "url": "https://www.digikala.com/product/dkp-8600901/مجموعه-لوازم-جانبی-موبایل-مدل-ay-49",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/63d62522b5cb0074336db174f966d807cbd99aca_1653555932.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 850000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 83,
-      "seller": "بیشاپور سیستم فارس",
-      "rank": 4,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "آدرین سنتر",
-        "url": "https://www.digikala.com/seller/DRXGZ/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "16590419",
       "title": "لامپ LED تست فیوز و سیم کشی خودرو و موتور سیکلت مدل YS-04",
       "url": "https://www.digikala.com/product/dkp-16590419/لامپ-led-تست-فیوز-و-سیم-کشی-خودرو-و-موتور-سیکلت-مدل-ys-04",
@@ -18411,43 +18276,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "393543",
-      "title": "جعبه ابزار وفایی مدل V-403",
-      "url": "https://www.digikala.com/product/dkp-393543/جعبه-ابزار-وفایی-مدل-v-403",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/754527.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 3039400,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 2266,
-      "seller": "تاج ابزار",
-      "rank": 5,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "تاج ابزار",
-        "url": "https://www.digikala.com/seller/E3S4R/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "14032150",
       "title": "کابل برق خودرو مستر نیرو مدل 2M مجموعه 2 عددی",
       "url": "https://www.digikala.com/product/dkp-14032150/کابل-برق-خودرو-مستر-نیرو-مدل-2m-مجموعه-2-عددی",
@@ -18475,41 +18303,6 @@
       "supplier": {
         "name": "صنایع تهران الکتریک",
         "url": "https://www.digikala.com/seller/ACA74/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "15894996",
-      "title": "مجموعه 45 عددی ابزار کد 0045",
-      "url": "https://www.digikala.com/product/dkp-15894996/مجموعه-45-عددی-ابزار-کد-0045",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8cd547e7df67c0a81cf818e893271f00834f94e6_1719151880.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 4400000,
-      "list_price": 5000000,
-      "discount_percent": 12,
-      "rating": 3.9,
-      "rating_count": 101,
-      "seller": "فروشگاه آشیل کالا",
-      "rank": 6,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "ابزار فرحمند",
-        "url": "https://www.digikala.com/seller/GYVF5/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -18629,43 +18422,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20857954",
-      "title": "بسته لوازم تحریر مدل کیف بسته 160 عددی",
-      "url": "https://www.digikala.com/product/dkp-20857954/بسته-لوازم-تحریر-مدل-کیف-بسته-160-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/3a26e9835d4302e11e49f221dcc6a5de0daccea7_1762846618.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 13129000,
-      "list_price": 13820000,
-      "discount_percent": 5,
-      "rating": 5,
-      "rating_count": 1,
-      "seller": " پاشا تویز",
-      "rank": 7,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": " پاشا تویز",
-        "url": "https://www.digikala.com/seller/CUYRP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "8050276",
       "title": "لامپ LED تست فیوز و سیم کشی خودرو و موتور سیکلت مدل RG001",
       "url": "https://www.digikala.com/product/dkp-8050276/لامپ-led-تست-فیوز-و-سیم-کشی-خودرو-و-موتور-سیکلت-مدل-rg001",
@@ -18724,42 +18480,6 @@
       "supplier": {
         "name": " مسترنیرو",
         "url": "https://www.digikala.com/seller/5AFC5/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "3120224",
-      "title": "باکس ابزار کد 012 مجموعه 12 عددی",
-      "url": "https://www.digikala.com/product/dkp-3120224/باکس-ابزار-کد-012-مجموعه-12-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/27b49506743f13121e5137bab2cefb3a171c3531_1595312377.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 575000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 1963,
-      "seller": "اونو بازار",
-      "rank": 8,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "اونو بازار",
-        "url": "https://www.digikala.com/seller/DUYAH/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -18831,42 +18551,6 @@
       "supplier": {
         "name": "کالا پترو پژوهش",
         "url": "https://www.digikala.com/seller/A25AG/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "9725610",
-      "title": "بسته لوازم تحریر دلی مدل 9610-b-p کد 140750-52872 مجموعه 15 عددی",
-      "url": "https://www.digikala.com/product/dkp-9725610/بسته-لوازم-تحریر-دلی-مدل-9610-b-p-کد-140750-52872-مجموعه-15-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/21ff7b892590a22397d448344c310dd80b2245dd_1666689752.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "دلی",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 2214550,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 45,
-      "seller": "رانال شاپ",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "رانال شاپ",
-        "url": "https://www.digikala.com/seller/EFCTN/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -19020,42 +18704,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17913690",
-      "title": "استند لوازم جانبی قهوه ساز مدل K",
-      "url": "https://www.digikala.com/product/dkp-17913690/استند-لوازم-جانبی-قهوه-ساز-مدل-k",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a11da92df44b2175d7c2b5b0431dea0cc212aaff_1786574645.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 1370000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 80,
-      "seller": "بانک قهوه",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "بانک قهوه",
-        "url": "https://www.digikala.com/seller/E4PT3/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "18516762",
       "title": "لامپ LED تست فیوز و سیم کشی خودرو و موتور سیکلت مدل YS-04",
       "url": "https://www.digikala.com/product/dkp-18516762/لامپ-led-تست-فیوز-و-سیم-کشی-خودرو-و-موتور-سیکلت-مدل-ys-04",
@@ -19118,42 +18766,6 @@
       "supplier": {
         "name": "کاربرد",
         "url": "https://www.digikala.com/seller/EHWCA/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "7586773",
-      "title": "مجموعه 14 عددی ابزار مدل کاربردی",
-      "url": "https://www.digikala.com/product/dkp-7586773/مجموعه-14-عددی-ابزار-مدل-کاربردی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9cd90ad46103d2b669782dd683c66ba28bb22262_1642486587.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 700000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 64,
-      "seller": "آفی کالا",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "آفی کالا",
-        "url": "https://www.digikala.com/seller/DXHZH/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -19235,79 +18847,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "4775705",
-      "title": "ست نقاشی اریا مدل m6030",
-      "url": "https://www.digikala.com/product/dkp-4775705/ست-نقاشی-آریا-مدل-m6030",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/67475b46b92ecb1bd241d9da19fc05710ca1a38e_1616495760.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "اریا",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:32:49.831Z",
-      "price": 1581530,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 294,
-      "seller": "برگزیده برتر",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "انباره",
-        "url": "https://www.digikala.com/seller/FDUMG/"
-      },
-      "signals": {
-        "price_change_pct": 9.07,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20229315",
-      "title": "استند لوازم اسپرسوساز گتر مدل MTFD کد 51",
-      "url": "https://www.digikala.com/product/dkp-20229315/استند-لوازم-اسپرسوساز-گتر-مدل-mtfd-کد-51",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d93f26070ed65c7bf996f4d398cd2bf24a3f0a91_1786574665.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "گتر",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 2380000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 28,
-      "seller": "عیار کالا",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "عیار کالا",
-        "url": "https://www.digikala.com/seller/DP7MP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "17238481",
       "title": "کابل اتصال باتری به باتری خودرو مدل 950A-3m مجموعه دو عددی",
       "url": "https://www.digikala.com/product/dkp-17238481/کابل-اتصال-باتری-به-باتری-خودرو-مدل-950a-3m-مجموعه-دو-عددی",
@@ -19369,45 +18908,6 @@
       "supplier": {
         "name": "امین تست",
         "url": "https://www.digikala.com/seller/F6JCV/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "444955",
-      "title": "جعبه ابزار کارا مدل KA21i",
-      "url": "https://www.digikala.com/product/dkp-444955/جعبه-ابزار-کارا-مدل-ka21i",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4748350.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 1258000,
-      "list_price": 1440000,
-      "discount_percent": 13,
-      "rating": 4.3,
-      "rating_count": 2918,
-      "seller": "نیلا مارکتینگ",
-      "rank": 13,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "نیلا مارکتینگ",
-        "url": "https://www.digikala.com/seller/EKY5P/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -19522,42 +19022,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1835120",
-      "title": "بسته لوازم تحریردلی مدل 9610 مجموعه15عددی",
-      "url": "https://www.digikala.com/product/dkp-1835120/بسته-لوازم-تحریردلی-مدل-9610-مجموعه15عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/112332117.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "دلی",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 2214500,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 6,
-      "seller": "رانال شاپ",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "رانال شاپ",
-        "url": "https://www.digikala.com/seller/EFCTN/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "14337995",
       "title": "گلگیر عقب و جلو موتورسیکلت مدل ARIA مناسب برای هوندا مجموعه 2 عددی",
       "url": "https://www.digikala.com/product/dkp-14337995/گلگیر-عقب-و-جلو-موتورسیکلت-مدل-aria-مناسب-برای-هوندا-مجموعه-2-عددی",
@@ -19665,42 +19129,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "9364733",
-      "title": "مجموعه 85 عددی جعبه ابزار باس مدل BS-TOLS-85",
-      "url": "https://www.digikala.com/product/dkp-9364733/مجموعه-85-عددی-جعبه-ابزار-باس-مدل-bs-tols-85",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/efbe8484183a917de1f62ab80a152ed698d1c96b_1662217299.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "باس",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 17450000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 281,
-      "seller": "اذر مهر",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": " ابزار سرای نفس",
-        "url": "https://www.digikala.com/seller/FNAYU/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "16890939",
       "title": "فشار سنج دیجیتالی باد لاستیک خودرو مدل YW-732",
       "url": "https://www.digikala.com/product/dkp-16890939/فشار-سنج-دیجیتالی-باد-لاستیک-خودرو-مدل-yw-732",
@@ -19764,39 +19192,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "8472321",
-      "title": "جعبه ابزار مدل LIFE_STYLE مجموعه 100 عددی",
-      "url": "https://www.digikala.com/product/dkp-8472321/جعبه-ابزار-مدل-life-style-مجموعه-100-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/974b60f57044d90184402de3162f65eee784e55c_1652130196.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 5050000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 425,
-      "seller": "فروشگاه آشیل کالا",
-      "rank": 16,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "اذر مهر",
-        "url": "https://www.digikala.com/seller/DCNDP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
         "is_new": false
       }
     },
@@ -19980,42 +19375,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20070313",
-      "title": "لوازم جانبی جارو رباتیک مدل S20 Plus مناسب برای جاروبرقی رباتیک شیائومی S20 Plus مجموعه 6 عددی",
-      "url": "https://www.digikala.com/product/dkp-20070313/لوازم-جانبی-جارو-رباتیک-مدل-s20-plus-مناسب-برای-جاروبرقی-رباتیک-شیائومی-s20-plus-مجموعه-6-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/bbf6802b0affb012ece86d306be08efc73248eb1_1786574664.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 3481920,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 27,
-      "seller": " ایکس هفت رباتیک",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": " ایکس هفت رباتیک",
-        "url": "https://www.digikala.com/seller/F2C9U/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "14276428",
       "title": "کابل اتصال باتری به باتری خودرو مدل JBL 950A2m مجموعه دو عددی",
       "url": "https://www.digikala.com/product/dkp-14276428/کابل-اتصال-باتری-به-باتری-خودرو-مدل-jbl-950a2m-مجموعه-دو-عددی",
@@ -20186,39 +19545,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "7673054",
-      "title": "مجموعه 15 عددی ابزار مدل کاربردی",
-      "url": "https://www.digikala.com/product/dkp-7673054/مجموعه-15-عددی-ابزار-مدل-کاربردی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5314de53081b2117aeec3b0c0fe389286b5a83dd_1643270571.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 1480000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 31,
-      "seller": "ابزار مارکت",
-      "rank": 18,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "ابزار مارکت",
-        "url": "https://www.digikala.com/seller/A7DJ4/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
         "is_new": false
       }
     },
@@ -20430,42 +19756,6 @@
         "price_change_pct": null,
         "rank_change": null,
         "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21295890",
-      "title": "بسته لوازم تحریر دلی مدل NO.68896",
-      "url": "https://www.digikala.com/product/dkp-21295890/بسته-لوازم-تحریر-دلی-مدل-no68896",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a14c686cd6d891aaea8def78da55d9344a3a3c4c_1771343187.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "دلی",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-05T22:52:05.360Z",
-      "price": 2199000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 5,
-      "rating_count": 1,
-      "seller": "دلیتولز آی آر",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "دلیتولز آی آر",
-        "url": "https://www.digikala.com/seller/EZ5MR/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
       }
     },
     {
@@ -31686,42 +30976,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "3479603",
-      "title": "کتاب پوست و مو اثر دکتر لیلا جمالزاده انتشارات اندیشه کهن",
-      "url": "https://www.digikala.com/product/dkp-3479603/کتاب-پوست-و-مو-اثر-دکتر-لیلا-جمالزاده-انتشارات-اندیشه-کهن",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f1186161d44a10e88d570f7d1d5e5db71d27cdb6_1601454250.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "انتشارات اندیشه کهن",
-      "category_key": "beauty",
-      "category_label": "زیبایی و مراقبت شخصی",
-      "observed_at": "2026-10-05T15:53:45.883Z",
-      "price": 1200000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 390,
-      "seller": "انتشارات اندیشه کهن",
-      "rank": 3,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "زیبایی و مراقبت شخصی"
-      },
-      "supplier": {
-        "name": "انتشارات اندیشه کهن",
-        "url": "https://www.digikala.com/seller/A435K/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "6524675",
       "title": "استند لوازم ارایشی مدل L3",
       "url": "https://www.digikala.com/product/dkp-6524675/استند-لوازم-آرایشی-مدل-l3",
@@ -41864,12 +41118,12 @@
       "brand": null,
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 112000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
-      "rating_count": 4503,
+      "rating_count": 4504,
       "seller": "دیجی‌کالا",
       "rank": 1,
       "available": true,
@@ -41897,7 +41151,7 @@
       "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 645000,
       "list_price": null,
       "discount_percent": 0,
@@ -41932,7 +41186,7 @@
       "brand": "انتشارات خیلی سبز",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 699000,
       "list_price": null,
       "discount_percent": 0,
@@ -41952,7 +41206,7 @@
         "url": "https://www.digikala.com/seller/6XXCR/"
       },
       "signals": {
-        "price_change_pct": -3.59,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -41967,7 +41221,7 @@
       "brand": null,
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 112000,
       "list_price": null,
       "discount_percent": 0,
@@ -41993,74 +41247,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8297480",
-      "title": "کتاب بیولوژی کمپبل 2021 مکانیسم تکامل و تاریخچه تکاملی تنوع زیستی اثر جمعی از نویسندگان انتشارات حیدری جلد 4",
-      "url": "https://www.digikala.com/product/dkp-8297480/کتاب-بیولوژی-کمپبل-2021-مکانیسم-تکامل-و-تاریخچه-تکاملی-تنوع-زیستی-اثر-جمعی-از-نویسندگان-انتشارات-حیدری-جلد-4",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4f76629aeb25cbd98b295e3db9a74ea5c50e9459_1650179467.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "انتشارات حیدری",
-      "category_key": "health",
-      "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 910000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 41,
-      "seller": "کتاب پزشکی حیدری",
-      "rank": 2,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "سلامت و بهداشت"
-      },
-      "supplier": {
-        "name": "کتاب پزشکی حیدری",
-        "url": "https://www.digikala.com/seller/E3XVT/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "18645762",
-      "title": "تابلو بوم طرح مخمل محصولات چرمی مدل ابزار کار چرم‌سازی کد BK23675",
-      "url": "https://www.digikala.com/product/dkp-18645762/تابلو-بوم-طرح-مخمل-محصولات-چرمی-مدل-ابزار-کار-چرمسازی-کد-bk23675",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/aab7ddf7c90db8b367518047ea67f756cd9026e7_1742045727.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "health",
-      "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 995000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "مجتمع چاپ بارمان",
-      "rank": 2,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "محصولات"
-      },
-      "supplier": {
-        "name": "مجتمع چاپ بارمان",
-        "url": "https://www.digikala.com/seller/C6YT6/"
-      },
-      "signals": {
-        "price_change_pct": 17.06,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "18642382",
       "title": "پوستر پارچه ای طرح مخمل محصولات چرمی مدل دست دوزی کد FP105693",
       "url": "https://www.digikala.com/product/dkp-18642382/پوستر-پارچه-ای-طرح-مخمل-محصولات-چرمی-مدل-دست-دوزی-کد-fp105693",
@@ -42068,14 +41254,14 @@
       "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 645000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
       "seller": "طراحان فرزام",
-      "rank": 3,
+      "rank": 2,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -42089,7 +41275,73 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3622930",
+      "title": "فلش کارت بهداشت و سلامت انتشارات جواهری",
+      "url": "https://www.digikala.com/product/dkp-3622930/فلش-کارت-بهداشت-و-سلامت-انتشارات-جواهری",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/dabba05ad91963a10ae94c18e6409b1b7f95557d_1603721258.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات جواهری",
+      "category_key": "health",
+      "category_label": "سلامت و بهداشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 100000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 165,
+      "seller": "ماناکو",
+      "rank": 2,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "سلامت و بهداشت"
+      },
+      "supplier": {
+        "name": "ماناکو",
+        "url": "https://www.digikala.com/seller/5AMDY/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "18645762",
+      "title": "تابلو بوم طرح مخمل محصولات چرمی مدل ابزار کار چرم‌سازی کد BK23675",
+      "url": "https://www.digikala.com/product/dkp-18645762/تابلو-بوم-طرح-مخمل-محصولات-چرمی-مدل-ابزار-کار-چرمسازی-کد-bk23675",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aab7ddf7c90db8b367518047ea67f756cd9026e7_1742045727.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "health",
+      "category_label": "سلامت و بهداشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 995000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "مجتمع چاپ بارمان",
+      "rank": 3,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "محصولات"
+      },
+      "supplier": {
+        "name": "مجتمع چاپ بارمان",
+        "url": "https://www.digikala.com/seller/C6YT6/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -42139,7 +41391,7 @@
       "brand": null,
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 154500,
       "list_price": null,
       "discount_percent": 0,
@@ -42165,39 +41417,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "3622930",
-      "title": "فلش کارت بهداشت و سلامت انتشارات جواهری",
-      "url": "https://www.digikala.com/product/dkp-3622930/فلش-کارت-بهداشت-و-سلامت-انتشارات-جواهری",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/dabba05ad91963a10ae94c18e6409b1b7f95557d_1603721258.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "انتشارات جواهری",
-      "category_key": "health",
-      "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 100000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 165,
-      "seller": "ماناکو",
-      "rank": 3,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "سلامت و بهداشت"
-      },
-      "supplier": {
-        "name": "ماناکو",
-        "url": "https://www.digikala.com/seller/5AMDY/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "20808662",
       "title": "کتاب خلاصه فیزیولوژی گایتون هال 2026 اثر سید علی حائری روحانی و حوری سپهری انتشارات اندیشه رفیع",
       "url": "https://www.digikala.com/product/dkp-20808662/کتاب-خلاصه-فیزیولوژی-گایتون-هال-2026-اثر-سید-علی-حائری-روحانی-و-حوری-سپهری-انتشارات-اندیشه-رفیع",
@@ -42205,14 +41424,14 @@
       "brand": "انتشارات اندیشه رفیع",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 1279000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
       "rating_count": 11,
       "seller": " اسب سفید",
-      "rank": 4,
+      "rank": 3,
       "available": true,
       "badges": [
         "تنها 3 عدد در انبار باقی مانده"
@@ -42225,8 +41444,8 @@
         "url": "https://www.digikala.com/seller/FGHXE/"
       },
       "signals": {
-        "price_change_pct": 10.82,
-        "rank_change": -1,
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -42240,7 +41459,7 @@
       "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 645000,
       "list_price": null,
       "discount_percent": 0,
@@ -42275,7 +41494,7 @@
       "brand": null,
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 112000,
       "list_price": null,
       "discount_percent": 0,
@@ -42308,14 +41527,14 @@
       "brand": "انتشارات ظهورفن",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 367390,
       "list_price": null,
       "discount_percent": 0,
       "rating": 5,
       "rating_count": 1,
       "seller": "آموزش فنی و حرفه ای مزرعه زرین",
-      "rank": 5,
+      "rank": 4,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -42331,42 +41550,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "8933657",
-      "title": "نوار بهداشتی بالدار نازک روز و شب مای لیدی مدل Silky Soft سایز متوسط بسته 10 عددی | گارانتی اصالت و سلامت فیزیکی کالا",
-      "url": "https://www.digikala.com/product/dkp-8933657/نوار-بهداشتی-بالدار-نازک-روز-و-شب-مای-لیدی-مدل-silky-soft-سایز-متوسط-بسته-10-عددی-گارانتی-اصالت-و-سلامت-فیزیکی-کالا",
-      "image": null,
-      "brand": null,
-      "category_key": "health",
-      "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 135960,
-      "list_price": 154500,
-      "discount_percent": 12,
-      "rating": 4.5,
-      "rating_count": 1883,
-      "seller": "دیجی‌کالا",
-      "rank": 5,
-      "available": true,
-      "badges": [
-        "پیشنهاد شگفت انگیز",
-        "شگفت‌انگیز",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "محصولات بهداشتی سلامت"
-      },
-      "supplier": {},
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -42380,7 +41564,7 @@
       "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 645000,
       "list_price": null,
       "discount_percent": 0,
@@ -42408,6 +41592,146 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "8925777",
+      "title": "نوار بهداشتی بالدار نازک روز و شب مای لیدی مدل Silky Soft سایز بزرگ بسته 8 عددی | گارانتی اصالت و سلامت فیزیکی کالا",
+      "url": "https://www.digikala.com/product/dkp-8925777/نوار-بهداشتی-بالدار-نازک-روز-و-شب-مای-لیدی-مدل-silky-soft-سایز-بزرگ-بسته-8-عددی-گارانتی-اصالت-و-سلامت-فیزیکی-کالا",
+      "image": null,
+      "brand": null,
+      "category_key": "health",
+      "category_label": "سلامت و بهداشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 120510,
+      "list_price": 154500,
+      "discount_percent": 22,
+      "rating": 4.4,
+      "rating_count": 2470,
+      "seller": "دیجی‌کالا",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "پیشنهاد شگفت انگیز",
+        "شگفت‌انگیز",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "محصولات بهداشتی سلامت"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": -22,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3886936",
+      "title": "کتاب تست رعایت الزامات سلامت بهداشت و ایمنی در محیط کار اثر فاطمه باستانی انتشارات ظهورفن",
+      "url": "https://www.digikala.com/product/dkp-3886936/کتاب-تست-رعایت-الزامات-سلامت-بهداشت-و-ایمنی-در-محیط-کار-اثر-فاطمه-باستانی-انتشارات-ظهورفن",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/01f07f3c52837362f2c521bc5df716777666f364_1606836874.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات ظهورفن",
+      "category_key": "health",
+      "category_label": "سلامت و بهداشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 367200,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 11,
+      "seller": "آموزش فنی و حرفه ای مزرعه زرین",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "سلامت و بهداشت"
+      },
+      "supplier": {
+        "name": "آموزش فنی و حرفه ای مزرعه زرین",
+        "url": "https://www.digikala.com/seller/C9Z7D/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8297480",
+      "title": "کتاب بیولوژی کمپبل 2021 مکانیسم تکامل و تاریخچه تکاملی تنوع زیستی اثر جمعی از نویسندگان انتشارات حیدری جلد 4",
+      "url": "https://www.digikala.com/product/dkp-8297480/کتاب-بیولوژی-کمپبل-2021-مکانیسم-تکامل-و-تاریخچه-تکاملی-تنوع-زیستی-اثر-جمعی-از-نویسندگان-انتشارات-حیدری-جلد-4",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4f76629aeb25cbd98b295e3db9a74ea5c50e9459_1650179467.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات حیدری",
+      "category_key": "health",
+      "category_label": "سلامت و بهداشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 910000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 41,
+      "seller": "کتاب پزشکی حیدری",
+      "rank": 6,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "سلامت و بهداشت"
+      },
+      "supplier": {
+        "name": "کتاب پزشکی حیدری",
+        "url": "https://www.digikala.com/seller/E3XVT/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8933657",
+      "title": "نوار بهداشتی بالدار نازک روز و شب مای لیدی مدل Silky Soft سایز متوسط بسته 10 عددی | گارانتی اصالت و سلامت فیزیکی کالا",
+      "url": "https://www.digikala.com/product/dkp-8933657/نوار-بهداشتی-بالدار-نازک-روز-و-شب-مای-لیدی-مدل-silky-soft-سایز-متوسط-بسته-10-عددی-گارانتی-اصالت-و-سلامت-فیزیکی-کالا",
+      "image": null,
+      "brand": null,
+      "category_key": "health",
+      "category_label": "سلامت و بهداشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 154500,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 1883,
+      "seller": "دیجی‌کالا",
+      "rank": 6,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "محصولات بهداشتی سلامت"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": 13.64,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "18645810",
       "title": "تابلو بوم طرح مخمل محصولات چرمی مدل کیف چرمی کد BK23678",
       "url": "https://www.digikala.com/product/dkp-18645810/تابلو-بوم-طرح-مخمل-محصولات-چرمی-مدل-کیف-چرمی-کد-bk23678",
@@ -42415,7 +41739,7 @@
       "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 995000,
       "list_price": null,
       "discount_percent": 0,
@@ -42431,76 +41755,6 @@
       "supplier": {
         "name": "مجتمع چاپ بارمان",
         "url": "https://www.digikala.com/seller/C6YT6/"
-      },
-      "signals": {
-        "price_change_pct": 17.06,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "8925777",
-      "title": "نوار بهداشتی بالدار نازک روز و شب مای لیدی مدل Silky Soft سایز بزرگ بسته 8 عددی | گارانتی اصالت و سلامت فیزیکی کالا",
-      "url": "https://www.digikala.com/product/dkp-8925777/نوار-بهداشتی-بالدار-نازک-روز-و-شب-مای-لیدی-مدل-silky-soft-سایز-بزرگ-بسته-8-عددی-گارانتی-اصالت-و-سلامت-فیزیکی-کالا",
-      "image": null,
-      "brand": null,
-      "category_key": "health",
-      "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 154500,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 2470,
-      "seller": "دیجی‌کالا",
-      "rank": 6,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "محصولات بهداشتی سلامت"
-      },
-      "supplier": {},
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "3886936",
-      "title": "کتاب تست رعایت الزامات سلامت بهداشت و ایمنی در محیط کار اثر فاطمه باستانی انتشارات ظهورفن",
-      "url": "https://www.digikala.com/product/dkp-3886936/کتاب-تست-رعایت-الزامات-سلامت-بهداشت-و-ایمنی-در-محیط-کار-اثر-فاطمه-باستانی-انتشارات-ظهورفن",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/01f07f3c52837362f2c521bc5df716777666f364_1606836874.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "انتشارات ظهورفن",
-      "category_key": "health",
-      "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 367200,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 11,
-      "seller": "آموزش فنی و حرفه ای مزرعه زرین",
-      "rank": 6,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "سلامت و بهداشت"
-      },
-      "supplier": {
-        "name": "آموزش فنی و حرفه ای مزرعه زرین",
-        "url": "https://www.digikala.com/seller/C9Z7D/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -42551,7 +41805,7 @@
       "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 995000,
       "list_price": null,
       "discount_percent": 0,
@@ -42569,7 +41823,7 @@
         "url": "https://www.digikala.com/seller/C6YT6/"
       },
       "signals": {
-        "price_change_pct": 17.06,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -42584,7 +41838,7 @@
       "brand": "انتشارات ارجمند",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 506250,
       "list_price": null,
       "discount_percent": 0,
@@ -42603,43 +41857,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "5851842",
-      "title": "پد بهداشتی روزانه تافته مدل UltraThin مجموعه 3 عددی",
-      "url": "https://www.digikala.com/product/dkp-5851842/پد-بهداشتی-روزانه-تافته-مدل-ultrathin-مجموعه-3-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8aa620e65f7bff3b65a5ecf61ba5015848d8232b_1787434183.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "تافته",
-      "category_key": "health",
-      "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 636020,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 674,
-      "seller": "کالای نادر",
-      "rank": 7,
-      "available": true,
-      "badges": [
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "محصولات بهداشتی سلامت"
-      },
-      "supplier": {
-        "name": "فرخا",
-        "url": "https://www.digikala.com/seller/GF3U9/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -42653,14 +41871,14 @@
       "brand": "لافارر",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 761750,
       "list_price": 1385000,
       "discount_percent": 45,
       "rating": 4.3,
       "rating_count": 18822,
       "seller": "تجارت الکترونیک امید",
-      "rank": 8,
+      "rank": 7,
       "available": true,
       "badges": [
         "پیشنهاد شگفت انگیز",
@@ -42677,7 +41895,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -42691,7 +41909,7 @@
       "brand": "انتشارات حیدری",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 665000,
       "list_price": null,
       "discount_percent": 0,
@@ -42712,7 +41930,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -42763,7 +41981,7 @@
       "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 995000,
       "list_price": null,
       "discount_percent": 0,
@@ -42781,7 +41999,7 @@
         "url": "https://www.digikala.com/seller/C6YT6/"
       },
       "signals": {
-        "price_change_pct": 17.06,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -42796,14 +42014,14 @@
       "brand": "تافته",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 1228000,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1228400,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.8,
       "rating_count": 235,
       "seller": "دیجی‌کالا",
-      "rank": 9,
+      "rank": 8,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -42818,8 +42036,8 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": -0.97,
-        "rank_change": -1,
+        "price_change_pct": 0.03,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -42833,7 +42051,7 @@
       "brand": "لتفور",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 9397830,
       "list_price": null,
       "discount_percent": 0,
@@ -42861,39 +42079,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "16886183",
-      "title": "کتاب راهنمای جامع بهداشت روانی و سلامت جسمانی اثر جیمز رابینسون و دبورا مک کورمیک ترجمه دکتر شهلا پزشک و دکتر ژانت هاشمی اذر انتشارات ارجمند",
-      "url": "https://www.digikala.com/product/dkp-16886183/کتاب-راهنمای-جامع-بهداشت-روانی-و-سلامت-جسمانی-اثر-جیمز-رابینسون-و-دبورا-مک-کورمیک-ترجمه-دکتر-شهلا-پزشک-و-دکتر-ژانت-هاشمی-آذر-انتشارات-ارجمند",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a4a8ca506461e36e5833ee71e8652445a97e7db9_1728793188.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "انتشارات ارجمند",
-      "category_key": "health",
-      "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 1319630,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "کتابیت",
-      "rank": 9,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "سلامت و بهداشت"
-      },
-      "supplier": {
-        "name": "کتابیت",
-        "url": "https://www.digikala.com/seller/G9ASX/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "1567474",
       "title": "ژل بهداشتی دوشیزگان و بانوان لافارر مدل 01 حجم 150 میلی‌لیتر",
       "url": "https://www.digikala.com/product/dkp-1567474/ژل-بهداشتی-دوشیزگان-و-بانوان-لافارر-مدل-01-حجم-150-میلیلیتر",
@@ -42901,14 +42086,14 @@
       "brand": "لافارر",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 450170,
       "list_price": 818500,
       "discount_percent": 45,
       "rating": 4.4,
       "rating_count": 5415,
       "seller": "تجارت الکترونیک امید",
-      "rank": 10,
+      "rank": 9,
       "available": true,
       "badges": [
         "پیشنهاد شگفت انگیز",
@@ -42925,39 +42110,107 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "3009787",
-      "title": "کتاب بهداشت کودک اثر دکتر زهرا رحیمی انتشارات عصر جوان",
-      "url": "https://www.digikala.com/product/dkp-3009787/کتاب-بهداشت-کودک-اثر-دکتر-زهرا-رحیمی-انتشارات-عصر-جوان",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/122050519.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "انتشارات عصر جوان",
+      "source_id": "7642151",
+      "title": "کتاب اصول ژنتیک پزشکی امری 2022 اثر جمعی از نویسندگان انتشارات حیدری",
+      "url": "https://www.digikala.com/product/dkp-7642151/کتاب-اصول-ژنتیک-پزشکی-امری-2022-اثر-جمعی-از-نویسندگان-انتشارات-حیدری",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/beb724e949c0ce846a7f496bb82c28efb198b756_1643030310.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات حیدری",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 44000,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1050000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 9,
-      "seller": "کتاب طلایه",
-      "rank": 10,
+      "rating": 4.7,
+      "rating_count": 94,
+      "seller": "کتاب پزشکی حیدری",
+      "rank": 9,
       "available": true,
       "badges": [
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "سلامت و بهداشت"
       },
       "supplier": {
-        "name": "کتاب طلایه",
-        "url": "https://www.digikala.com/seller/EE4WY/"
+        "name": "کتاب پزشکی حیدری",
+        "url": "https://www.digikala.com/seller/E3XVT/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "5851842",
+      "title": "پد بهداشتی روزانه تافته مدل UltraThin مجموعه 3 عددی",
+      "url": "https://www.digikala.com/product/dkp-5851842/پد-بهداشتی-روزانه-تافته-مدل-ultrathin-مجموعه-3-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8aa620e65f7bff3b65a5ecf61ba5015848d8232b_1787434183.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "تافته",
+      "category_key": "health",
+      "category_label": "سلامت و بهداشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 614070,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 674,
+      "seller": "فرخا",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "محصولات بهداشتی سلامت"
+      },
+      "supplier": {
+        "name": "فرخا",
+        "url": "https://www.digikala.com/seller/GF3U9/"
+      },
+      "signals": {
+        "price_change_pct": -3.45,
+        "rank_change": -3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "16886183",
+      "title": "کتاب راهنمای جامع بهداشت روانی و سلامت جسمانی اثر جیمز رابینسون و دبورا مک کورمیک ترجمه دکتر شهلا پزشک و دکتر ژانت هاشمی اذر انتشارات ارجمند",
+      "url": "https://www.digikala.com/product/dkp-16886183/کتاب-راهنمای-جامع-بهداشت-روانی-و-سلامت-جسمانی-اثر-جیمز-رابینسون-و-دبورا-مک-کورمیک-ترجمه-دکتر-شهلا-پزشک-و-دکتر-ژانت-هاشمی-آذر-انتشارات-ارجمند",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a4a8ca506461e36e5833ee71e8652445a97e7db9_1728793188.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات ارجمند",
+      "category_key": "health",
+      "category_label": "سلامت و بهداشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1319630,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "کتابیت",
+      "rank": 10,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "سلامت و بهداشت"
+      },
+      "supplier": {
+        "name": "کتابیت",
+        "url": "https://www.digikala.com/seller/G9ASX/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -43003,19 +42256,19 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "608878",
-      "title": "پک محصولات جنسی ایموشن کد 4449",
-      "url": "https://www.digikala.com/product/dkp-608878/پک-محصولات-جنسی-ایموشن-کد-4449",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8873b4d7a1e2a19c9425cb35d3d9fc8db4d61573_1786621332.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "556814",
+      "title": "پک محصولات جنسی کد GE503-B603 کد A-3",
+      "url": "https://www.digikala.com/product/dkp-556814/پک-محصولات-جنسی-کد-ge503-b603-کد-a-3",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2347897.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "ایموشن",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 400000,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 195000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.4,
-      "rating_count": 258,
+      "rating": 2.3,
+      "rating_count": 3,
       "seller": "درمانه",
       "rank": 10,
       "available": true,
@@ -43032,38 +42285,39 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8394236",
-      "title": "کتاب روشهای عملی در ازمایشگاه تشخیص طبی. اثر مریم شعبانی انتشارات حیدری",
-      "url": "https://www.digikala.com/product/dkp-8394236/کتاب-روشهای-عملی-در-آزمایشگاه-تشخیص-طبی-اثر-مریم-شعبانی-انتشارات-حیدری",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7299f2e40b2bb2540be46c40f725e9f93bcb4550_1651133847.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "انتشارات حیدری",
+      "source_id": "3009787",
+      "title": "کتاب بهداشت کودک اثر دکتر زهرا رحیمی انتشارات عصر جوان",
+      "url": "https://www.digikala.com/product/dkp-3009787/کتاب-بهداشت-کودک-اثر-دکتر-زهرا-رحیمی-انتشارات-عصر-جوان",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/122050519.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات عصر جوان",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 910000,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 44000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 17,
-      "seller": "کتاب پزشکی حیدری",
+      "rating": 4.4,
+      "rating_count": 9,
+      "seller": "کتاب طلایه",
       "rank": 11,
       "available": true,
       "badges": [
-        "فروشنده معتبر"
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "سلامت و بهداشت"
       },
       "supplier": {
-        "name": "کتاب پزشکی حیدری",
-        "url": "https://www.digikala.com/seller/E3XVT/"
+        "name": "کتاب طلایه",
+        "url": "https://www.digikala.com/seller/EE4WY/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -43074,19 +42328,19 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "556814",
-      "title": "پک محصولات جنسی کد GE503-B603 کد A-3",
-      "url": "https://www.digikala.com/product/dkp-556814/پک-محصولات-جنسی-کد-ge503-b603-کد-a-3",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2347897.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "608878",
+      "title": "پک محصولات جنسی ایموشن کد 4449",
+      "url": "https://www.digikala.com/product/dkp-608878/پک-محصولات-جنسی-ایموشن-کد-4449",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8873b4d7a1e2a19c9425cb35d3d9fc8db4d61573_1786621332.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "ایموشن",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 195000,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 400000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 2.3,
-      "rating_count": 3,
+      "rating": 3.4,
+      "rating_count": 258,
       "seller": "درمانه",
       "rank": 11,
       "available": true,
@@ -43103,7 +42357,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -43117,12 +42371,12 @@
       "brand": "تافته",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 620000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.7,
-      "rating_count": 1094,
+      "rating_count": 1095,
       "seller": "دیجی‌کالا",
       "rank": 11,
       "available": true,
@@ -43154,7 +42408,7 @@
       "brand": "دیباگران تهران",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 1049000,
       "list_price": null,
       "discount_percent": 0,
@@ -43177,7 +42431,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -43191,7 +42445,7 @@
       "brand": "لافارر",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 761750,
       "list_price": 1385000,
       "discount_percent": 45,
@@ -43229,7 +42483,7 @@
       "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 390000,
       "list_price": null,
       "discount_percent": 0,
@@ -43258,19 +42512,19 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "7285407",
-      "title": "کتاب بیولوژی کمپبل 2021 شیمی حیات اثر جمعی از نویسندگان انتشارات حیدری جلد 1",
-      "url": "https://www.digikala.com/product/dkp-7285407/کتاب-بیولوژی-کمپبل-2021-شیمی-حیات-اثر-جمعی-از-نویسندگان-انتشارات-حیدری-جلد-1",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9b5b36b44a1df05f11304ad5bcc2d9a429488aa9_1639229363.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "8394236",
+      "title": "کتاب روشهای عملی در ازمایشگاه تشخیص طبی. اثر مریم شعبانی انتشارات حیدری",
+      "url": "https://www.digikala.com/product/dkp-8394236/کتاب-روشهای-عملی-در-آزمایشگاه-تشخیص-طبی-اثر-مریم-شعبانی-انتشارات-حیدری",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7299f2e40b2bb2540be46c40f725e9f93bcb4550_1651133847.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "انتشارات حیدری",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 665000,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 910000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 95,
+      "rating": 4.6,
+      "rating_count": 17,
       "seller": "کتاب پزشکی حیدری",
       "rank": 13,
       "available": true,
@@ -43286,7 +42540,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -43300,7 +42554,7 @@
       "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 300000,
       "list_price": null,
       "discount_percent": 0,
@@ -43364,6 +42618,79 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "9549891",
+      "title": "مجموعه 10 عددی نوار بهداشتی مای لیدی مدل Classic، سایز L با ضخامت ضخیم، لایه رویی پنبه با جذب زیاد، بسته 10 عددی، ضد حساسیت، مناسب برای پوست حساس",
+      "url": "https://www.digikala.com/product/dkp-9549891/نوار-بهداشتی-مای-لیدی-مدل-classic-سایز-بزرگ-مجموعه-10-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/31a56a4ba3de5644d22f0d253058c83fe8046d4d_1787434778.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "مای لیدی",
+      "category_key": "health",
+      "category_label": "سلامت و بهداشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1219000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 813,
+      "seller": "کالای نادر",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "محصولات بهداشتی سلامت"
+      },
+      "supplier": {
+        "name": "بازرگانی صدرآبادی",
+        "url": "https://www.digikala.com/seller/HY4WF/"
+      },
+      "signals": {
+        "price_change_pct": 1.58,
+        "rank_change": 6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3479603",
+      "title": "کتاب پوست و مو اثر دکتر لیلا جمالزاده انتشارات اندیشه کهن",
+      "url": "https://www.digikala.com/product/dkp-3479603/کتاب-پوست-و-مو-اثر-دکتر-لیلا-جمالزاده-انتشارات-اندیشه-کهن",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f1186161d44a10e88d570f7d1d5e5db71d27cdb6_1601454250.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات اندیشه کهن",
+      "category_key": "health",
+      "category_label": "سلامت و بهداشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1200000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 390,
+      "seller": "انتشارات اندیشه کهن",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "سلامت و بهداشت"
+      },
+      "supplier": {
+        "name": "انتشارات اندیشه کهن",
+        "url": "https://www.digikala.com/seller/A435K/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -11,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "82047",
       "title": "ژل بهداشتی بانوان هیدرودرم سری Quadra Action حجم 150 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-82047/ژل-بهداشتی-بانوان-هیدرودرم-سری-quadra-action-حجم-150-میلی-لیتر",
@@ -43371,17 +42698,19 @@
       "brand": "هیدرودرم",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 250000,
-      "list_price": null,
-      "discount_percent": 0,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 244000,
+      "list_price": 249000,
+      "discount_percent": 2,
       "rating": 4.4,
-      "rating_count": 19440,
+      "rating_count": 19442,
       "seller": "دیجی‌کالا",
-      "rank": 13,
+      "rank": 14,
       "available": true,
       "badges": [
-        "انبار دیجی‌کالا"
+        "فروش ویژه",
+        "انبار دیجی‌کالا",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "محصولات بهداشتی سلامت"
@@ -43391,43 +42720,8 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "8451813",
-      "title": "کتاب بیولوژی کمپبل 2021 ساختار و عمل جانوران اثر جمعی از نویسندگان. انتشارات حیدری جلد 6",
-      "url": "https://www.digikala.com/product/dkp-8451813/کتاب-بیولوژی-کمپبل-2021-ساختار-و-عمل-جانوران-اثر-جمعی-از-نویسندگان-انتشارات-حیدری-جلد-6",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9975b68ce6697231090ab00ee6e65f6d0d536255_1651918142.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "انتشارات حیدری",
-      "category_key": "health",
-      "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 1120000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 43,
-      "seller": "کتاب پزشکی حیدری",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "سلامت و بهداشت"
-      },
-      "supplier": {
-        "name": "کتاب پزشکی حیدری",
-        "url": "https://www.digikala.com/seller/E3XVT/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "price_change_pct": -2.4,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -43476,7 +42770,7 @@
       "brand": "سالم",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 640000,
       "list_price": null,
       "discount_percent": 0,
@@ -43505,55 +42799,19 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "6916375",
-      "title": "دستمال پاک کننده بانوان یوتاب مدل 01 مجموعه 2 عددی",
-      "url": "https://www.digikala.com/product/dkp-6916375/دستمال-پاک-کننده-بانوان-یوتاب-مدل-01-مجموعه-2-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1b8e5f8e2b5afa2cb1ee7529b1ceaf56097d9949_1786372563.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "یوتاب",
-      "category_key": "health",
-      "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 246060,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 679,
-      "seller": "کینگ وایت",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "محصولات بهداشتی سلامت"
-      },
-      "supplier": {
-        "name": "کینگ وایت",
-        "url": "https://www.digikala.com/seller/AVZTA/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "7244020",
-      "title": "کتاب اصول بیوشیمی لنینجر 2021 اثر جمعی از نویسندگان انتشارات حیدری جلد 1",
-      "url": "https://www.digikala.com/product/dkp-7244020/کتاب-اصول-بیوشیمی-لنینجر-2021-اثر-جمعی-از-نویسندگان-انتشارات-حیدری-جلد-1",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4c37735145700874f14f88a8c8521272addfb8b1_1638793438.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "8451813",
+      "title": "کتاب بیولوژی کمپبل 2021 ساختار و عمل جانوران اثر جمعی از نویسندگان. انتشارات حیدری جلد 6",
+      "url": "https://www.digikala.com/product/dkp-8451813/کتاب-بیولوژی-کمپبل-2021-ساختار-و-عمل-جانوران-اثر-جمعی-از-نویسندگان-انتشارات-حیدری-جلد-6",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9975b68ce6697231090ab00ee6e65f6d0d536255_1651918142.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "انتشارات حیدری",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 1190000,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1120000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.6,
-      "rating_count": 105,
+      "rating_count": 43,
       "seller": "کتاب پزشکی حیدری",
       "rank": 15,
       "available": true,
@@ -43569,7 +42827,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -43616,7 +42874,7 @@
       "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 485000,
       "list_price": null,
       "discount_percent": 0,
@@ -43642,6 +42900,78 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "1076644",
+      "title": "زیرانداز بهداشتی تافته مدل انتی باکتریال بسته 5 عددی",
+      "url": "https://www.digikala.com/product/dkp-1076644/زیرانداز-بهداشتی-تافته-مدل-آنتی-باکتریال-بسته-5-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9345f811e87ddac5719d985efb9b97c2a84e7c67_1692009054.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "تافته",
+      "category_key": "health",
+      "category_label": "سلامت و بهداشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 313400,
+      "list_price": 322000,
+      "discount_percent": 3,
+      "rating": 4.4,
+      "rating_count": 3479,
+      "seller": "دیجی‌کالا",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "محصولات بهداشتی سلامت"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": -2.67,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "7244020",
+      "title": "کتاب اصول بیوشیمی لنینجر 2021 اثر جمعی از نویسندگان انتشارات حیدری جلد 1",
+      "url": "https://www.digikala.com/product/dkp-7244020/کتاب-اصول-بیوشیمی-لنینجر-2021-اثر-جمعی-از-نویسندگان-انتشارات-حیدری-جلد-1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4c37735145700874f14f88a8c8521272addfb8b1_1638793438.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات حیدری",
+      "category_key": "health",
+      "category_label": "سلامت و بهداشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1190000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 105,
+      "seller": "کتاب پزشکی حیدری",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "سلامت و بهداشت"
+      },
+      "supplier": {
+        "name": "کتاب پزشکی حیدری",
+        "url": "https://www.digikala.com/seller/E3XVT/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "1115689",
       "title": "ژل بهداشتی بانوان فیروز مدل Intimate Gel حجم 150 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-1115689/ژل-بهداشتی-بانوان-فیروز-مدل-intimate-gel-حجم-150-میلی-لیتر",
@@ -43649,14 +42979,14 @@
       "brand": "فیروز",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 320100,
       "list_price": 330000,
       "discount_percent": 3,
       "rating": 4.3,
-      "rating_count": 5561,
+      "rating_count": 5562,
       "seller": "درجی کالا",
-      "rank": 15,
+      "rank": 16,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -43672,7 +43002,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -43686,7 +43016,7 @@
       "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 500000,
       "list_price": null,
       "discount_percent": 0,
@@ -43750,37 +43080,37 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "2537381",
-      "title": "ژل بهداشتی بانوان هیدرودرم مدل Whita Femme مقدار 150 گرم",
-      "url": "https://www.digikala.com/product/dkp-2537381/ژل-بهداشتی-بانوان-هیدرودرم-مدل-whita-femme-مقدار-150-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0b59e7c5ea25b606e61da5052f7e053db43d16d4_1786372517.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "هیدرودرم",
+      "source_id": "6916375",
+      "title": "دستمال پاک کننده بانوان یوتاب مدل 01 مجموعه 2 عددی",
+      "url": "https://www.digikala.com/product/dkp-6916375/دستمال-پاک-کننده-بانوان-یوتاب-مدل-01-مجموعه-2-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1b8e5f8e2b5afa2cb1ee7529b1ceaf56097d9949_1786372563.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "یوتاب",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 377000,
-      "list_price": 498000,
-      "discount_percent": 24,
-      "rating": 4.3,
-      "rating_count": 2279,
-      "seller": "دیجی‌کالا",
-      "rank": 16,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 253360,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 679,
+      "seller": "کینگ وایت",
+      "rank": 17,
       "available": true,
       "badges": [
-        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "محصولات بهداشتی سلامت"
       },
       "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
+        "name": "کینگ وایت",
+        "url": "https://www.digikala.com/seller/AVZTA/"
       },
       "signals": {
-        "price_change_pct": 0.03,
-        "rank_change": 3,
+        "price_change_pct": 2.97,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -43901,7 +43231,7 @@
       "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 481250,
       "list_price": null,
       "discount_percent": 0,
@@ -43927,43 +43257,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1076644",
-      "title": "زیرانداز بهداشتی تافته مدل انتی باکتریال بسته 5 عددی",
-      "url": "https://www.digikala.com/product/dkp-1076644/زیرانداز-بهداشتی-تافته-مدل-آنتی-باکتریال-بسته-5-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9345f811e87ddac5719d985efb9b97c2a84e7c67_1692009054.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "تافته",
-      "category_key": "health",
-      "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 322000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 3479,
-      "seller": "دیجی‌کالا",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "محصولات بهداشتی سلامت"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
-        "price_change_pct": 9.38,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "12520868",
       "title": "کتاب بهداشت مدارس اثر جمعی از نویسندگان انتشارات چهر",
       "url": "https://www.digikala.com/product/dkp-12520868/کتاب-بهداشت-مدارس-اثر-جمعی-از-نویسندگان-انتشارات-چهر",
@@ -43971,7 +43264,7 @@
       "brand": "انتشارات چهر",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 190000,
       "list_price": null,
       "discount_percent": 0,
@@ -43992,77 +43285,79 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "439079",
-      "title": "ژل بهداشتی بانوان سینره حجم 180 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-439079/ژل-بهداشتی-بانوان-سینره-مدل-orchid-حجم-180-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d94c4947300b3b340a8e5ad01cbcd03fa77019fd_1786372537.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "سینره",
+      "source_id": "7285407",
+      "title": "کتاب بیولوژی کمپبل 2021 شیمی حیات اثر جمعی از نویسندگان انتشارات حیدری جلد 1",
+      "url": "https://www.digikala.com/product/dkp-7285407/کتاب-بیولوژی-کمپبل-2021-شیمی-حیات-اثر-جمعی-از-نویسندگان-انتشارات-حیدری-جلد-1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9b5b36b44a1df05f11304ad5bcc2d9a429488aa9_1639229363.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات حیدری",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 349000,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 665000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 3508,
-      "seller": "دارو نام",
+      "rating": 4.4,
+      "rating_count": 95,
+      "seller": "کتاب پزشکی حیدری",
       "rank": 18,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "محصولات بهداشتی سلامت"
-      },
-      "supplier": {
-        "name": "درما گالری",
-        "url": "https://www.digikala.com/seller/larastores/"
-      },
-      "signals": {
-        "price_change_pct": -0.29,
-        "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "15999161",
-      "title": "کتاب بانک ازمون جامع پرستاری ویژه امادگی ارشد و استخدامی اثر جمعی از نویسندگان انتشارات جامعه نگر",
-      "url": "https://www.digikala.com/product/dkp-15999161/کتاب-بانک-آزمون-جامع-پرستاری-ویژه-آمادگی-ارشد-و-استخدامی-اثر-جمعی-از-نویسندگان-انتشارات-جامعه-نگر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e93157a8d80173e62251497702fad753da32dbfb_1722071815.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "انتشارات جامعه نگر",
-      "category_key": "health",
-      "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 1990000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": " اسب سفید",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "تنها 2 عدد در انبار باقی مانده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "سلامت و بهداشت"
       },
       "supplier": {
-        "name": " اسب سفید",
-        "url": "https://www.digikala.com/seller/DA4Z4/"
+        "name": "کتاب پزشکی حیدری",
+        "url": "https://www.digikala.com/seller/E3XVT/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": -5,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "2537381",
+      "title": "ژل بهداشتی بانوان هیدرودرم مدل Whita Femme مقدار 150 گرم",
+      "url": "https://www.digikala.com/product/dkp-2537381/ژل-بهداشتی-بانوان-هیدرودرم-مدل-whita-femme-مقدار-150-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0b59e7c5ea25b606e61da5052f7e053db43d16d4_1786372517.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "هیدرودرم",
+      "category_key": "health",
+      "category_label": "سلامت و بهداشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 377000,
+      "list_price": 498000,
+      "discount_percent": 24,
+      "rating": 4.3,
+      "rating_count": 2279,
+      "seller": "دیجی‌کالا",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "محصولات بهداشتی سلامت"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -44147,20 +43442,20 @@
       "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 2101910,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 2071470,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.7,
       "rating_count": 143,
-      "seller": "کیدو توی",
+      "seller": "فکر سالم",
       "rank": 18,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
+        "انبار دیجی‌کالا",
         "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "محصولات"
@@ -44170,7 +43465,7 @@
         "url": "https://www.digikala.com/seller/G9XNY/"
       },
       "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": -1.45,
         "rank_change": 0,
         "is_new": false
       }
@@ -44178,73 +43473,70 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "9549891",
-      "title": "مجموعه 10 عددی نوار بهداشتی مای لیدی مدل Classic، سایز L با ضخامت ضخیم، لایه رویی پنبه با جذب زیاد، بسته 10 عددی، ضد حساسیت، مناسب برای پوست حساس",
-      "url": "https://www.digikala.com/product/dkp-9549891/نوار-بهداشتی-مای-لیدی-مدل-classic-سایز-بزرگ-مجموعه-10-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/31a56a4ba3de5644d22f0d253058c83fe8046d4d_1787434778.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "مای لیدی",
+      "source_id": "439079",
+      "title": "ژل بهداشتی بانوان سینره حجم 180 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-439079/ژل-بهداشتی-بانوان-سینره-مدل-orchid-حجم-180-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d94c4947300b3b340a8e5ad01cbcd03fa77019fd_1786372537.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "سینره",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 1200000,
-      "list_price": 1320000,
-      "discount_percent": 9,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 349000,
+      "list_price": null,
+      "discount_percent": 0,
       "rating": 4.3,
-      "rating_count": 811,
-      "seller": "کوثر استور",
+      "rating_count": 3509,
+      "seller": "دارو نام",
       "rank": 19,
       "available": true,
       "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
         "query": "محصولات بهداشتی سلامت"
       },
       "supplier": {
-        "name": "بازرگانی صدرآبادی",
-        "url": "https://www.digikala.com/seller/HY4WF/"
+        "name": "درما گالری",
+        "url": "https://www.digikala.com/seller/larastores/"
       },
       "signals": {
-        "price_change_pct": -1.56,
-        "rank_change": -6,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8393040",
-      "title": "کتاب درسنامه کمک پرستاری اثر دکتر ملاحت نیک روان انتشارات حیدری 2 جلدی",
-      "url": "https://www.digikala.com/product/dkp-8393040/کتاب-درسنامه-کمک-پرستاری-اثر-دکتر-ملاحت-نیک-روان-انتشارات-حیدری-2-جلدی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/df95ceb128b9ef0b1eb4ebaa5a1d6972e8f4dd8b_1651124121.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "انتشارات حیدری",
+      "source_id": "15999161",
+      "title": "کتاب بانک ازمون جامع پرستاری ویژه امادگی ارشد و استخدامی اثر جمعی از نویسندگان انتشارات جامعه نگر",
+      "url": "https://www.digikala.com/product/dkp-15999161/کتاب-بانک-آزمون-جامع-پرستاری-ویژه-آمادگی-ارشد-و-استخدامی-اثر-جمعی-از-نویسندگان-انتشارات-جامعه-نگر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e93157a8d80173e62251497702fad753da32dbfb_1722071815.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات جامعه نگر",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 2100000,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1990000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.9,
-      "rating_count": 21,
-      "seller": "کتاب پزشکی حیدری",
+      "rating": null,
+      "rating_count": 0,
+      "seller": " اسب سفید",
       "rank": 19,
       "available": true,
       "badges": [
-        "فروشنده معتبر"
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "سلامت و بهداشت"
       },
       "supplier": {
-        "name": "کتاب پزشکی حیدری",
-        "url": "https://www.digikala.com/seller/E3XVT/"
+        "name": " اسب سفید",
+        "url": "https://www.digikala.com/seller/DA4Z4/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -44327,11 +43619,11 @@
       "source_id": "9519692",
       "title": "بازی فکری محصولات امید مدل منچ و مارپله",
       "url": "https://www.digikala.com/product/dkp-9519692/بازی-فکری-محصولات-امید-مدل-منچ-و-مارپله",
-      "image": null,
-      "brand": null,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1a8dc5596e39bc216ef547ed2259e24fc715ed0a_1663841596.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 448750,
       "list_price": null,
       "discount_percent": 0,
@@ -44346,10 +43638,48 @@
       "raw_ref": {
         "query": "محصولات"
       },
-      "supplier": {},
+      "supplier": {
+        "name": "گروه تجاری فیروزه",
+        "url": "https://www.digikala.com/seller/AHFWX/"
+      },
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8393040",
+      "title": "کتاب درسنامه کمک پرستاری اثر دکتر ملاحت نیک روان انتشارات حیدری 2 جلدی",
+      "url": "https://www.digikala.com/product/dkp-8393040/کتاب-درسنامه-کمک-پرستاری-اثر-دکتر-ملاحت-نیک-روان-انتشارات-حیدری-2-جلدی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/df95ceb128b9ef0b1eb4ebaa5a1d6972e8f4dd8b_1651124121.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات حیدری",
+      "category_key": "health",
+      "category_label": "سلامت و بهداشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 2100000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.9,
+      "rating_count": 21,
+      "seller": "کتاب پزشکی حیدری",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "سلامت و بهداشت"
+      },
+      "supplier": {
+        "name": "کتاب پزشکی حیدری",
+        "url": "https://www.digikala.com/seller/E3XVT/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -44645,11 +43975,11 @@
       "source_id": "8161807",
       "title": "پازل اموزشی محصولات امید مدل اشکال هندسی",
       "url": "https://www.digikala.com/product/dkp-8161807/پازل-12-تکه-محصولات-امید-مدل-اشکال-هندسی",
-      "image": null,
-      "brand": null,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3b752c04c0f5bfa43b05b0496ee410e24111a590_1648460079.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
       "category_key": "health",
       "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 456250,
       "list_price": null,
       "discount_percent": 0,
@@ -44662,7 +43992,10 @@
       "raw_ref": {
         "query": "محصولات"
       },
-      "supplier": {},
+      "supplier": {
+        "name": "گروه تجاری فیروزه",
+        "url": "https://www.digikala.com/seller/AHFWX/"
+      },
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
@@ -80717,6 +80050,41 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "9934553",
+      "title": "بسته لوازم تحریر دلی مدل بسته لوازم التحریر دلی مدل دانش اموزی کد 9610 مجموعه 16 عددی",
+      "url": "https://www.digikala.com/product/dkp-9934553/بسته-لوازم-تحریر-دلی-مدل-بسته-لوازم-التحریر-دلی-مدل-دانش-آموزی-کد-9610-مجموعه-16-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9582c7ad6fbbd95c01c16d153211b6c7860e075f_1669016067.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "دلی",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1913130,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 43,
+      "seller": "تولیدی بازرگانی شگفت انگیز",
+      "rank": 1,
+      "available": true,
+      "badges": [
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "رانال شاپ",
+        "url": "https://www.digikala.com/seller/EFCTN/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "17262055",
       "title": "کاور زیرانداز یوگا مدل لوازم ورزشی کد y108",
       "url": "https://www.digikala.com/product/dkp-17262055/کاور-زیرانداز-یوگا-مدل-لوازم-ورزشی-کد-y108",
@@ -80724,7 +80092,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 1232500,
       "list_price": 1450000,
       "discount_percent": 15,
@@ -80759,7 +80127,7 @@
       "brand": "نشر مهرسا",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 98000,
       "list_price": null,
       "discount_percent": 0,
@@ -80785,6 +80153,41 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "8472338",
+      "title": "مجموعه 110 عددی ابزار مدل HAND_TOOLS_SET",
+      "url": "https://www.digikala.com/product/dkp-8472338/مجموعه-110-عددی-ابزار-مدل-hand-tools-set",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/974b60f57044d90184402de3162f65eee784e55c_1652130778.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 4900000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 77,
+      "seller": "ابزار فرحمند",
+      "rank": 2,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "فروشگاه آشیل کالا",
+        "url": "https://www.digikala.com/seller/CEM4Y/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "5821485",
       "title": "مانع تمرین فوتبال مدل Ki1 مجموعه 10 عددی",
       "url": "https://www.digikala.com/product/dkp-5821485/مانع-تمرین-فوتبال-مدل-ki1-مجموعه-۱۰-عددی",
@@ -80792,7 +80195,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 378000,
       "list_price": null,
       "discount_percent": 0,
@@ -80828,7 +80231,7 @@
       "brand": "نشر علم",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 238000,
       "list_price": 280000,
       "discount_percent": 15,
@@ -80858,6 +80261,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "3080335",
+      "title": "بسته لوازم تحریر دلی مدل 9610 مجموعه 15عددی",
+      "url": "https://www.digikala.com/product/dkp-3080335/بسته-لوازم-تحریر-دلی-مدل-9610-مجموعه-15عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/103b8088721b970a0da72dfa75254ff07605ea07_1594628851.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "دلی",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 2545500,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 307,
+      "seller": "رانال شاپ",
+      "rank": 3,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "رانال شاپ",
+        "url": "https://www.digikala.com/seller/EFCTN/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "1548670",
       "title": "مانع تمرین مدل Training Cones 2019 در 4 رنگ مجموعه 8 عددی",
       "url": "https://www.digikala.com/product/dkp-1548670/مانع-تمرین-مدل-training-cones-2019-در-4-رنگ-مجموعه-8-عددی",
@@ -80865,7 +80304,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 289590,
       "list_price": null,
       "discount_percent": 0,
@@ -80901,11 +80340,11 @@
       "brand": "انتشارات کاون",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-09-30T16:02:53.339Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 476000,
       "list_price": 680000,
       "discount_percent": 30,
-      "rating": null,
+      "rating": 4.3,
       "rating_count": 4,
       "seller": "مسیر درست",
       "rank": 3,
@@ -80923,7 +80362,40 @@
         "url": "https://www.digikala.com/seller/C644D/"
       },
       "signals": {
-        "price_change_pct": -22.22,
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8600901",
+      "title": "مجموعه لوازم جانبی موبایل مدل AY-49",
+      "url": "https://www.digikala.com/product/dkp-8600901/مجموعه-لوازم-جانبی-موبایل-مدل-ay-49",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/63d62522b5cb0074336db174f966d807cbd99aca_1653555932.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 850000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 83,
+      "seller": "بیشاپور سیستم فارس",
+      "rank": 4,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "آدرین سنتر",
+        "url": "https://www.digikala.com/seller/DRXGZ/"
+      },
+      "signals": {
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -80938,14 +80410,14 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 297000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 2.8,
       "rating_count": 6,
       "seller": "نو آموز",
-      "rank": 3,
+      "rank": 4,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -80957,7 +80429,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -80971,7 +80443,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 798990,
       "list_price": null,
       "discount_percent": 0,
@@ -80983,7 +80455,7 @@
       "badges": [
         "ارسال توسط فروشنده",
         "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لوازم ورزشی"
@@ -81001,6 +80473,43 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "393543",
+      "title": "جعبه ابزار وفایی مدل V-403",
+      "url": "https://www.digikala.com/product/dkp-393543/جعبه-ابزار-وفایی-مدل-v-403",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/754527.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 3039400,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 2266,
+      "seller": "تاج ابزار",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "تاج ابزار",
+        "url": "https://www.digikala.com/seller/E3S4R/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "48683",
       "title": "فیلم اموزش تناسب اندام",
       "url": "https://www.digikala.com/product/dkp-48683/فیلم-آموزش-تناسب-اندام",
@@ -81008,14 +80517,14 @@
       "brand": "پانا",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 297000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.1,
       "rating_count": 19,
       "seller": "نو آموز",
-      "rank": 4,
+      "rank": 5,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -81027,44 +80536,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "1010041",
-      "title": "کتاب برنامه ها و سیستم های تمرینی پیشرفته در پرورش اندام اثر صادق سلامی",
-      "url": "https://www.digikala.com/product/dkp-1010041/كتاب-برنامه-ها-و-سيستم-هاي-تمريني-پيشرفته-در-پرورش-اندام-اثر-صادق-سلامي",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4745752.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "انتشارات تلاش",
-      "category_key": "sports",
-      "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 750000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 5,
-      "seller": "کتابرسان فارس",
-      "rank": 5,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "ورزش و تناسب اندام"
-      },
-      "supplier": {
-        "name": "کتابرسان فارس",
-        "url": "https://www.digikala.com/seller/AF25G/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -81078,7 +80550,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 363490,
       "list_price": null,
       "discount_percent": 0,
@@ -81100,7 +80572,79 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "15894996",
+      "title": "مجموعه 45 عددی ابزار کد 0045",
+      "url": "https://www.digikala.com/product/dkp-15894996/مجموعه-45-عددی-ابزار-کد-0045",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8cd547e7df67c0a81cf818e893271f00834f94e6_1719151880.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 4400000,
+      "list_price": 5000000,
+      "discount_percent": 12,
+      "rating": 3.9,
+      "rating_count": 101,
+      "seller": "فروشگاه آشیل کالا",
+      "rank": 6,
+      "available": true,
+      "badges": [
+        "فروش ویژه"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "ابزار فرحمند",
+        "url": "https://www.digikala.com/seller/GYVF5/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1010041",
+      "title": "کتاب برنامه ها و سیستم های تمرینی پیشرفته در پرورش اندام اثر صادق سلامی",
+      "url": "https://www.digikala.com/product/dkp-1010041/كتاب-برنامه-ها-و-سيستم-هاي-تمريني-پيشرفته-در-پرورش-اندام-اثر-صادق-سلامي",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4745752.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات تلاش",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 750000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 5,
+      "seller": "کتابرسان فارس",
+      "rank": 6,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ورزش و تناسب اندام"
+      },
+      "supplier": {
+        "name": "کتابرسان فارس",
+        "url": "https://www.digikala.com/seller/AF25G/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -81114,7 +80658,7 @@
       "brand": "هزاردستان",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 427500,
       "list_price": 450000,
       "discount_percent": 5,
@@ -81135,41 +80679,45 @@
         "url": "https://www.digikala.com/seller/A9MKZ/"
       },
       "signals": {
-        "price_change_pct": 4.65,
-        "rank_change": -1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "48680",
-      "title": "اموزش تصویری تناسب اندام با توپ سوئیسی نشر پانا",
-      "url": "https://www.digikala.com/product/dkp-48680/آموزش-تصویری-تناسب-اندام-با-توپ-سوئیسی-نشر-پانا",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/247074.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "پانا",
+      "source_id": "20857954",
+      "title": "بسته لوازم تحریر مدل کیف بسته 160 عددی",
+      "url": "https://www.digikala.com/product/dkp-20857954/بسته-لوازم-تحریر-مدل-کیف-بسته-160-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3a26e9835d4302e11e49f221dcc6a5de0daccea7_1762846618.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 297000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 14,
-      "seller": "نو آموز",
-      "rank": 6,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 13129000,
+      "list_price": 13820000,
+      "discount_percent": 5,
+      "rating": 5,
+      "rating_count": 1,
+      "seller": " پاشا تویز",
+      "rank": 7,
       "available": true,
-      "badges": [],
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
       "raw_ref": {
-        "query": "ورزش و تناسب اندام"
+        "query": "لوازم"
       },
       "supplier": {
-        "name": "نو آموز",
-        "url": "https://www.digikala.com/seller/AD9K5/"
+        "name": " پاشا تویز",
+        "url": "https://www.digikala.com/seller/CUYRP/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -81183,7 +80731,7 @@
       "brand": "انتشارات اوند دانش",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 160000,
       "list_price": null,
       "discount_percent": 0,
@@ -81205,30 +80753,31 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "6486717",
-      "title": "مانع تمرین مدل کنز بسته 10 عددی",
-      "url": "https://www.digikala.com/product/dkp-6486717/مانع-تمرین-مدل-کنز-بسته-10-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a0de7d9c3576584cd447f86c563d649d41496d76_1631964701.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "1545113",
+      "title": "مانع تمرین مدل Training Cones 2019 در 4 رنگ مجموعه 32 عددی به همراه پایه نگهدارنده",
+      "url": "https://www.digikala.com/product/dkp-1545113/مانع-تمرین-مدل-training-cones-2019-در-4-رنگ-مجموعه-32-عددی-به-همراه-پایه-نگهدارنده",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aceeabbb0514a8fdc31aa4a486d994f38fe8188f_1701154852.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 331200,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 301,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1491530,
+      "list_price": 1864410,
+      "discount_percent": 20,
+      "rating": 4,
+      "rating_count": 11,
       "seller": "اسپرت برجسته",
       "rank": 7,
       "available": true,
       "badges": [
+        "فروش ویژه",
         "ارسال توسط فروشنده",
         "فروشنده معتبر"
       ],
@@ -81240,7 +80789,43 @@
         "url": "https://www.digikala.com/seller/ETMAW/"
       },
       "signals": {
-        "price_change_pct": 4.31,
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3120224",
+      "title": "باکس ابزار کد 012 مجموعه 12 عددی",
+      "url": "https://www.digikala.com/product/dkp-3120224/باکس-ابزار-کد-012-مجموعه-12-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/27b49506743f13121e5137bab2cefb3a171c3531_1595312377.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 575000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 1963,
+      "seller": "اونو بازار",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "اونو بازار",
+        "url": "https://www.digikala.com/seller/DUYAH/"
+      },
+      "signals": {
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -81248,36 +80833,33 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "246241",
-      "title": "کتاب مبانی تربیت بدنی و ورزش اثر دبورا ا.وست،چارلز ا.بوچر",
-      "url": "https://www.digikala.com/product/dkp-246241/کتاب-مبانی-تربیت-بدنی-و-ورزش-اثر-دبورا-آوستچارلز-آبوچر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1704042.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "انتشارات قاصدک صبا",
+      "source_id": "48680",
+      "title": "اموزش تصویری تناسب اندام با توپ سوئیسی نشر پانا",
+      "url": "https://www.digikala.com/product/dkp-48680/آموزش-تصویری-تناسب-اندام-با-توپ-سوئیسی-نشر-پانا",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/247074.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "پانا",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 559000,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 297000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.8,
-      "rating_count": 4,
-      "seller": "بوک نیکا",
+      "rating": 4.2,
+      "rating_count": 14,
+      "seller": "نو آموز",
       "rank": 8,
       "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
+      "badges": [],
       "raw_ref": {
         "query": "ورزش و تناسب اندام"
       },
       "supplier": {
-        "name": "بوک نیکا",
-        "url": "https://www.digikala.com/seller/E2257/"
+        "name": "نو آموز",
+        "url": "https://www.digikala.com/seller/AD9K5/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -81317,24 +80899,23 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1545113",
-      "title": "مانع تمرین مدل Training Cones 2019 در 4 رنگ مجموعه 32 عددی به همراه پایه نگهدارنده",
-      "url": "https://www.digikala.com/product/dkp-1545113/مانع-تمرین-مدل-training-cones-2019-در-4-رنگ-مجموعه-32-عددی-به-همراه-پایه-نگهدارنده",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/aceeabbb0514a8fdc31aa4a486d994f38fe8188f_1701154852.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "5877380",
+      "title": "مانع تمرین فوتبال مدل VG 2020 بسته 6 عددی",
+      "url": "https://www.digikala.com/product/dkp-5877380/مانع-تمرین-فوتبال-مدل-vg-2020",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8cb214de1856b691298451c4202e7b25d17bf656_1627277490.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 1491530,
-      "list_price": 1864410,
-      "discount_percent": 20,
-      "rating": 4,
-      "rating_count": 11,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 449990,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 461,
       "seller": "اسپرت برجسته",
       "rank": 8,
       "available": true,
       "badges": [
-        "فروش ویژه",
         "ارسال توسط فروشنده",
         "فروشنده معتبر"
       ],
@@ -81354,19 +80935,55 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "5877380",
-      "title": "مانع تمرین فوتبال مدل VG 2020 بسته 6 عددی",
-      "url": "https://www.digikala.com/product/dkp-5877380/مانع-تمرین-فوتبال-مدل-vg-2020",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8cb214de1856b691298451c4202e7b25d17bf656_1627277490.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "9725610",
+      "title": "بسته لوازم تحریر دلی مدل 9610-b-p کد 140750-52872 مجموعه 15 عددی",
+      "url": "https://www.digikala.com/product/dkp-9725610/بسته-لوازم-تحریر-دلی-مدل-9610-b-p-کد-140750-52872-مجموعه-15-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/21ff7b892590a22397d448344c310dd80b2245dd_1666689752.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "دلی",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 2214550,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 45,
+      "seller": "رانال شاپ",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "رانال شاپ",
+        "url": "https://www.digikala.com/seller/EFCTN/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "6486717",
+      "title": "مانع تمرین مدل کنز بسته 10 عددی",
+      "url": "https://www.digikala.com/product/dkp-6486717/مانع-تمرین-مدل-کنز-بسته-10-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a0de7d9c3576584cd447f86c563d649d41496d76_1631964701.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 449990,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 331200,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
-      "rating_count": 461,
+      "rating_count": 302,
       "seller": "اسپرت برجسته",
       "rank": 9,
       "available": true,
@@ -81383,7 +81000,79 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "246241",
+      "title": "کتاب مبانی تربیت بدنی و ورزش اثر دبورا ا.وست،چارلز ا.بوچر",
+      "url": "https://www.digikala.com/product/dkp-246241/کتاب-مبانی-تربیت-بدنی-و-ورزش-اثر-دبورا-آوستچارلز-آبوچر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1704042.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات قاصدک صبا",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 559000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.8,
+      "rating_count": 4,
+      "seller": "بوک نیکا",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ورزش و تناسب اندام"
+      },
+      "supplier": {
+        "name": "بوک نیکا",
+        "url": "https://www.digikala.com/seller/E2257/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17913690",
+      "title": "استند لوازم جانبی قهوه ساز مدل K",
+      "url": "https://www.digikala.com/product/dkp-17913690/استند-لوازم-جانبی-قهوه-ساز-مدل-k",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a11da92df44b2175d7c2b5b0431dea0cc212aaff_1786574645.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1370000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 80,
+      "seller": "بانک قهوه",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "بانک قهوه",
+        "url": "https://www.digikala.com/seller/E4PT3/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -81393,18 +81082,18 @@
       "source_id": "17247730",
       "title": "کتاب تغذیه برای ورزش تمرین و عملکرد اثر جمعی از نویسندگان ترجمه فاطمه حسن دوست انتشارات حتمی نوبت چاپ 1",
       "url": "https://www.digikala.com/product/dkp-17247730/کتاب-تغذیه-برای-ورزش-تمرین-و-عملکرد-اثر-جمعی-از-نویسندگان-ترجمه-فاطمه-حسن-دوست-انتشارات-حتمی-نوبت-چاپ-1",
-      "image": null,
-      "brand": null,
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d68f7c85ff42d8557293c4436bb4b16745355812_1730625084.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات حتمی",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 1059000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
       "rating_count": 2,
       "seller": "تهران کتاب",
-      "rank": 9,
+      "rank": 10,
       "available": true,
       "badges": [
         "تنها 1 عدد در انبار باقی مانده"
@@ -81412,46 +81101,13 @@
       "raw_ref": {
         "query": "ورزش و تناسب اندام"
       },
-      "supplier": {},
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "19390332",
-      "title": "کتاب تناسب اندام اثر لیز نپورنت ترجمه شیدا سرمدی انتشارات اوند دانش",
-      "url": "https://www.digikala.com/product/dkp-19390332/کتاب-تناسب-اندام-اثر-لیز-نپورنت-ترجمه-شیدا-سرمدی-انتشارات-آوند-دانش",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/333ca65c63fd6e876054b0214928fe7f1d626108_1748762871.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "انتشارات اوند دانش",
-      "category_key": "sports",
-      "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 238040,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "برکه کتاب",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "ورزش و تناسب اندام"
-      },
       "supplier": {
-        "name": "برکه کتاب",
-        "url": "https://www.digikala.com/seller/DRAYZ/"
+        "name": "تهران کتاب",
+        "url": "https://www.digikala.com/seller/EKSMC/"
       },
       "signals": {
-        "price_change_pct": -0.72,
-        "rank_change": -2,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -81465,7 +81121,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 852200,
       "list_price": null,
       "discount_percent": 0,
@@ -81487,7 +81143,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "7586773",
+      "title": "مجموعه 14 عددی ابزار مدل کاربردی",
+      "url": "https://www.digikala.com/product/dkp-7586773/مجموعه-14-عددی-ابزار-مدل-کاربردی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9cd90ad46103d2b669782dd683c66ba28bb22262_1642486587.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 700000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 64,
+      "seller": "آفی کالا",
+      "rank": 11,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "آفی کالا",
+        "url": "https://www.digikala.com/seller/DXHZH/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -81501,7 +81193,7 @@
       "brand": "نشر سمت",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 1713500,
       "list_price": null,
       "discount_percent": 0,
@@ -81519,8 +81211,8 @@
         "url": "https://www.digikala.com/seller/G9ASX/"
       },
       "signals": {
-        "price_change_pct": 21.63,
-        "rank_change": -4,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -81534,7 +81226,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 415000,
       "list_price": null,
       "discount_percent": 0,
@@ -81553,40 +81245,80 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1643076",
-      "title": "نرم افزار اموزش تناسب اندام با توپ سوییسی نشر الکترونیک پاناپرداز",
-      "url": "https://www.digikala.com/product/dkp-1643076/نرم-افزار-آموزش-تناسب-اندام-با-توپ-سوییسی-نشر-الکترونیک-پاناپرداز",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/111292063.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
+      "source_id": "4775705",
+      "title": "ست نقاشی اریا مدل m6030",
+      "url": "https://www.digikala.com/product/dkp-4775705/ست-نقاشی-آریا-مدل-m6030",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/67475b46b92ecb1bd241d9da19fc05710ca1a38e_1616495760.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "اریا",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 297000,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1581530,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 7,
-      "seller": "نو آموز",
+      "rating": 4.5,
+      "rating_count": 294,
+      "seller": "برگزیده برتر",
       "rank": 12,
       "available": true,
-      "badges": [],
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "انباره",
+        "url": "https://www.digikala.com/seller/FDUMG/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19390332",
+      "title": "کتاب تناسب اندام اثر لیز نپورنت ترجمه شیدا سرمدی انتشارات اوند دانش",
+      "url": "https://www.digikala.com/product/dkp-19390332/کتاب-تناسب-اندام-اثر-لیز-نپورنت-ترجمه-شیدا-سرمدی-انتشارات-آوند-دانش",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/333ca65c63fd6e876054b0214928fe7f1d626108_1748762871.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات اوند دانش",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 238040,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "برکه کتاب",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
       "raw_ref": {
         "query": "ورزش و تناسب اندام"
       },
       "supplier": {
-        "name": "نو آموز",
-        "url": "https://www.digikala.com/seller/AD9K5/"
+        "name": "برکه کتاب",
+        "url": "https://www.digikala.com/seller/DRAYZ/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -6,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -81631,8 +81363,8 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 361100,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 361420,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.9,
@@ -81652,8 +81384,44 @@
         "url": "https://www.digikala.com/seller/ETMAW/"
       },
       "signals": {
-        "price_change_pct": 23.56,
-        "rank_change": 1,
+        "price_change_pct": 0.09,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20229315",
+      "title": "استند لوازم اسپرسوساز گتر مدل MTFD کد 51",
+      "url": "https://www.digikala.com/product/dkp-20229315/استند-لوازم-اسپرسوساز-گتر-مدل-mtfd-کد-51",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d93f26070ed65c7bf996f4d398cd2bf24a3f0a91_1786574665.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "گتر",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 2380000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 28,
+      "seller": "عیار کالا",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "عیار کالا",
+        "url": "https://www.digikala.com/seller/DP7MP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -81667,7 +81435,7 @@
       "brand": "انتشارات ورزش",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 490000,
       "list_price": null,
       "discount_percent": 0,
@@ -81688,7 +81456,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -81702,7 +81470,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 327670,
       "list_price": null,
       "discount_percent": 0,
@@ -81725,7 +81493,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -81802,37 +81570,72 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "4939350",
-      "title": "کتاب ورزش و سلامت در فرهنگ ایرانی اثر محمد دریایی انتشارات ارمان رشد",
-      "url": "https://www.digikala.com/product/dkp-4939350/کتاب-ورزش-و-سلامت-در-فرهنگ-ایرانی-اثر-محمد-دریایی-انتشارات-آرمان-رشد",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2d81476c6a13a676db24d0a900213eb93b7a3d8b_1619430592.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "انتشارات ارمان رشد",
+      "source_id": "444955",
+      "title": "جعبه ابزار کارا مدل KA21i",
+      "url": "https://www.digikala.com/product/dkp-444955/جعبه-ابزار-کارا-مدل-ka21i",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4748350.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 229500,
-      "list_price": 270000,
-      "discount_percent": 15,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "کتاب لاکپشت",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1258000,
+      "list_price": 1440000,
+      "discount_percent": 13,
+      "rating": 4.3,
+      "rating_count": 2918,
+      "seller": "نیلا مارکتینگ",
       "rank": 14,
       "available": true,
       "badges": [
         "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
         "فروشنده معتبر",
         "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "ورزش و تناسب اندام"
+        "query": "لوازم"
       },
       "supplier": {
-        "name": "کتاب لاکپشت",
-        "url": "https://www.digikala.com/seller/DGJFE/"
+        "name": "نیلا مارکتینگ",
+        "url": "https://www.digikala.com/seller/EKY5P/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1643076",
+      "title": "نرم افزار اموزش تناسب اندام با توپ سوییسی نشر الکترونیک پاناپرداز",
+      "url": "https://www.digikala.com/product/dkp-1643076/نرم-افزار-آموزش-تناسب-اندام-با-توپ-سوییسی-نشر-الکترونیک-پاناپرداز",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/111292063.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 297000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 7,
+      "seller": "نو آموز",
+      "rank": 14,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "ورزش و تناسب اندام"
+      },
+      "supplier": {
+        "name": "نو آموز",
+        "url": "https://www.digikala.com/seller/AD9K5/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -81846,7 +81649,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 430000,
       "list_price": 450000,
       "discount_percent": 4,
@@ -81868,7 +81671,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -81908,6 +81711,79 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "1835120",
+      "title": "بسته لوازم تحریردلی مدل 9610 مجموعه15عددی",
+      "url": "https://www.digikala.com/product/dkp-1835120/بسته-لوازم-تحریردلی-مدل-9610-مجموعه15عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/112332117.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "دلی",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 2214500,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 6,
+      "seller": "رانال شاپ",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "رانال شاپ",
+        "url": "https://www.digikala.com/seller/EFCTN/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "4939350",
+      "title": "کتاب ورزش و سلامت در فرهنگ ایرانی اثر محمد دریایی انتشارات ارمان رشد",
+      "url": "https://www.digikala.com/product/dkp-4939350/کتاب-ورزش-و-سلامت-در-فرهنگ-ایرانی-اثر-محمد-دریایی-انتشارات-آرمان-رشد",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2d81476c6a13a676db24d0a900213eb93b7a3d8b_1619430592.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "انتشارات ارمان رشد",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 229500,
+      "list_price": 270000,
+      "discount_percent": 15,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "کتاب لاکپشت",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ورزش و تناسب اندام"
+      },
+      "supplier": {
+        "name": "کتاب لاکپشت",
+        "url": "https://www.digikala.com/seller/DGJFE/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "337188",
       "title": "کتاب یوگا ورزش کهن سلامتی اثر جمشید شیخ لارابادی",
       "url": "https://www.digikala.com/product/dkp-337188/کتاب-یوگا-ورزش-کهن-سلامتی-اثر-جمشید-شیخ-لارآبادی",
@@ -81937,43 +81813,6 @@
       "signals": {
         "price_change_pct": -1.02,
         "rank_change": -4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "18370695",
-      "title": "مانع تمرین مدل پرشی بسته 5 عددی",
-      "url": "https://www.digikala.com/product/dkp-18370695/مانع-تمرین-مدل-پرشی-بسته-5-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d2497c13824e31c2fdcd7045f2f58277a4de37da_1741632446.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "sports",
-      "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 870000,
-      "list_price": 900000,
-      "discount_percent": 3,
-      "rating": 5,
-      "rating_count": 6,
-      "seller": "نونا گالری",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "لوازم ورزشی"
-      },
-      "supplier": {
-        "name": "نونا گالری",
-        "url": "https://www.digikala.com/seller/CDFC7/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
         "is_new": false
       }
     },
@@ -82088,6 +81927,115 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "6623112",
+      "title": "کوله پشتی ورزشی مدل K-101",
+      "url": "https://www.digikala.com/product/dkp-6623112/کوله-پشتی-ورزشی-مدل-k-101",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/12faf3b5c70f697444072e98e5f691f1c5d67386_1754246228.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 730000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 7001,
+      "seller": "خاتون استور",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "لوازم ورزشی"
+      },
+      "supplier": {
+        "name": "کیف میکائیل",
+        "url": "https://www.digikala.com/seller/EJG33/"
+      },
+      "signals": {
+        "price_change_pct": 1.39,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "9364733",
+      "title": "مجموعه 85 عددی جعبه ابزار باس مدل BS-TOLS-85",
+      "url": "https://www.digikala.com/product/dkp-9364733/مجموعه-85-عددی-جعبه-ابزار-باس-مدل-bs-tols-85",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/efbe8484183a917de1f62ab80a152ed698d1c96b_1662217299.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "باس",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 17450000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 281,
+      "seller": "اذر مهر",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": " ابزار سرای نفس",
+        "url": "https://www.digikala.com/seller/FNAYU/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "18370695",
+      "title": "مانع تمرین مدل پرشی بسته 5 عددی",
+      "url": "https://www.digikala.com/product/dkp-18370695/مانع-تمرین-مدل-پرشی-بسته-5-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d2497c13824e31c2fdcd7045f2f58277a4de37da_1741632446.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 870000,
+      "list_price": 900000,
+      "discount_percent": 3,
+      "rating": 5,
+      "rating_count": 6,
+      "seller": "نونا گالری",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "لوازم ورزشی"
+      },
+      "supplier": {
+        "name": "نونا گالری",
+        "url": "https://www.digikala.com/seller/CDFC7/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "1009848",
       "title": "کتاب نقش تغذیه،استراحت و مکمل های غذایی در پرورش اندام اثر صادق سلامی",
       "url": "https://www.digikala.com/product/dkp-1009848/كتاب-نقش-تغذيهاستراحت-و-مكمل-هاي-غذايي-در-پرورش-اندام-اثر-صادق-سلامي",
@@ -82095,7 +82043,7 @@
       "brand": "انتشارات تلاش",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 750000,
       "list_price": null,
       "discount_percent": 0,
@@ -82117,7 +82065,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -82153,42 +82101,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21513993",
-      "title": "حلقه تمرین فوتبال مدل کیک استار",
-      "url": "https://www.digikala.com/product/dkp-21513993/حلقه-تمرین-فوتبال-مدل-کیک-استار",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7301f4774afe65251dd5b981961f97b006925b37_1780952951.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "sports",
-      "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 233930,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.1,
-      "rating_count": 11,
-      "seller": "اسپرت برجسته",
-      "rank": 16,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم ورزشی"
-      },
-      "supplier": {
-        "name": "اسپرت برجسته",
-        "url": "https://www.digikala.com/seller/ETMAW/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
         "is_new": false
       }
     },
@@ -82231,6 +82143,75 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "8472321",
+      "title": "جعبه ابزار مدل LIFE_STYLE مجموعه 100 عددی",
+      "url": "https://www.digikala.com/product/dkp-8472321/جعبه-ابزار-مدل-life-style-مجموعه-100-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/974b60f57044d90184402de3162f65eee784e55c_1652130196.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 5050000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 425,
+      "seller": "فروشگاه آشیل کالا",
+      "rank": 17,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "اذر مهر",
+        "url": "https://www.digikala.com/seller/DCNDP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21513993",
+      "title": "حلقه تمرین فوتبال مدل کیک استار",
+      "url": "https://www.digikala.com/product/dkp-21513993/حلقه-تمرین-فوتبال-مدل-کیک-استار",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7301f4774afe65251dd5b981961f97b006925b37_1780952951.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 233930,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.1,
+      "rating_count": 11,
+      "seller": "اسپرت برجسته",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم ورزشی"
+      },
+      "supplier": {
+        "name": "اسپرت برجسته",
+        "url": "https://www.digikala.com/seller/ETMAW/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "4854953",
       "title": "کتاب اشنایی با ساختارهای پیاده ای اثر موریسیو فلورس ریوز انتشارات شباهنگ",
       "url": "https://www.digikala.com/product/dkp-4854953/کتاب-آشنایی-با-ساختارهای-پیاده-ای-اثر-موریسیو-فلورس-ریوز-انتشارات-شباهنگ",
@@ -82238,7 +82219,7 @@
       "brand": "انتشارات شباهنگ",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 603510,
       "list_price": null,
       "discount_percent": 0,
@@ -82260,79 +82241,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "6970622",
-      "title": "مانع تمرین کد 991770246 مجموعه 50 عددی",
-      "url": "https://www.digikala.com/product/dkp-6970622/مانع-تمرین-کد-991770246-مجموعه-5-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/843172ab82ebb1c75dd955e79fce8aa4476a51a6_1636868814.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "sports",
-      "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 2061570,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 11,
-      "seller": "اسپرت برجسته",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم ورزشی"
-      },
-      "supplier": {
-        "name": "اسپرت برجسته",
-        "url": "https://www.digikala.com/seller/ETMAW/"
-      },
-      "signals": {
-        "price_change_pct": 0,
         "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "6623112",
-      "title": "کوله پشتی ورزشی مدل K-101",
-      "url": "https://www.digikala.com/product/dkp-6623112/کوله-پشتی-ورزشی-مدل-k-101",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/12faf3b5c70f697444072e98e5f691f1c5d67386_1754246228.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "sports",
-      "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-02T18:39:07.895Z",
-      "price": 720000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 6993,
-      "seller": "خاتون استور",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "لوازم ورزشی"
-      },
-      "supplier": {
-        "name": "کیف میکائیل",
-        "url": "https://www.digikala.com/seller/EJG33/"
-      },
-      "signals": {
-        "price_change_pct": 45.16,
-        "rank_change": -2,
         "is_new": false
       }
     },
@@ -82478,6 +82387,79 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "20070313",
+      "title": "لوازم جانبی جارو رباتیک مدل S20 Plus مناسب برای جاروبرقی رباتیک شیائومی S20 Plus مجموعه 6 عددی",
+      "url": "https://www.digikala.com/product/dkp-20070313/لوازم-جانبی-جارو-رباتیک-مدل-s20-plus-مناسب-برای-جاروبرقی-رباتیک-شیائومی-s20-plus-مجموعه-6-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/bbf6802b0affb012ece86d306be08efc73248eb1_1786574664.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 3481920,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 27,
+      "seller": " ایکس هفت رباتیک",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": " ایکس هفت رباتیک",
+        "url": "https://www.digikala.com/seller/F2C9U/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "6970622",
+      "title": "مانع تمرین کد 991770246 مجموعه 50 عددی",
+      "url": "https://www.digikala.com/product/dkp-6970622/مانع-تمرین-کد-991770246-مجموعه-5-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/843172ab82ebb1c75dd955e79fce8aa4476a51a6_1636868814.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 2061570,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 11,
+      "seller": "اسپرت برجسته",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم ورزشی"
+      },
+      "supplier": {
+        "name": "اسپرت برجسته",
+        "url": "https://www.digikala.com/seller/ETMAW/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "16784432",
       "title": "کتاب اصول تجویز تمرینات ورزشی برای افراد مبتلا به دیابت نوع 2 اثر دکتر مهدیه ملانوری شمسی و افسانه جمالی انتشارات حتمی",
       "url": "https://www.digikala.com/product/dkp-16784432/کتاب-اصول-تجویز-تمرینات-ورزشی-برای-افراد-مبتلا-به-دیابت-نوع-2-اثر-دکتر-مهدیه-ملانوری-شمسی-و-افسانه-جمالی-انتشارات-حتمی",
@@ -82485,7 +82467,7 @@
       "brand": "انتشارات حتمی",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 729000,
       "list_price": null,
       "discount_percent": 0,
@@ -82507,7 +82489,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -5,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -82715,6 +82697,39 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "7673054",
+      "title": "مجموعه 15 عددی ابزار مدل کاربردی",
+      "url": "https://www.digikala.com/product/dkp-7673054/مجموعه-15-عددی-ابزار-مدل-کاربردی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5314de53081b2117aeec3b0c0fe389286b5a83dd_1643270571.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 1480000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 31,
+      "seller": "ابزار مارکت",
+      "rank": 19,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "ابزار مارکت",
+        "url": "https://www.digikala.com/seller/A7DJ4/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "1421269",
       "title": "مانع ورزشی مدل 46970",
       "url": "https://www.digikala.com/product/dkp-1421269/مانع-ورزشی-مدل-46970",
@@ -82722,14 +82737,14 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
-      "price": 93000,
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 94720,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 335,
       "seller": "اسپرت برجسته",
-      "rank": 18,
+      "rank": 19,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -82744,8 +82759,8 @@
         "url": "https://www.digikala.com/seller/ETMAW/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "price_change_pct": 1.85,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -82759,7 +82774,7 @@
       "brand": "انتشارات فراروان",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 382500,
       "list_price": 450000,
       "discount_percent": 15,
@@ -82782,7 +82797,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -82926,6 +82941,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "21295890",
+      "title": "بسته لوازم تحریر دلی مدل NO.68896",
+      "url": "https://www.digikala.com/product/dkp-21295890/بسته-لوازم-تحریر-دلی-مدل-no68896",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a14c686cd6d891aaea8def78da55d9344a3a3c4c_1771343187.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "دلی",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-06T02:53:54.071Z",
+      "price": 2199000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 5,
+      "rating_count": 1,
+      "seller": "دلیتولز آی آر",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "دلیتولز آی آر",
+        "url": "https://www.digikala.com/seller/EZ5MR/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "6486061",
       "title": "مانع تمرین مدل مخروطی 30cm بسته 5 عددی",
       "url": "https://www.digikala.com/product/dkp-6486061/مانع-تمرین-مدل-مخروطی-30cm-بسته-5-عددی",
@@ -82933,14 +82984,14 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 795000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.8,
       "rating_count": 4,
       "seller": "دنیای کاوه",
-      "rank": 19,
+      "rank": 20,
       "available": true,
       "badges": [
         "تنها 3 عدد در انبار باقی مانده"
@@ -82954,7 +83005,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -82968,7 +83019,7 @@
       "brand": "انتشارات حتمی",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-05T16:20:40.135Z",
+      "observed_at": "2026-10-06T02:53:54.071Z",
       "price": 2379000,
       "list_price": null,
       "discount_percent": 0,
@@ -82990,7 +83041,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -6,
+        "rank_change": 0,
         "is_new": false
       }
     },
