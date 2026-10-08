@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T16:23:12.967Z",
-  "count": 2641,
+  "generated_at": "2026-10-08T16:49:37.293Z",
+  "count": 2649,
   "collection": {
     "mode": "rotating",
     "categories_scanned": 4,
@@ -52994,7 +52994,7 @@
       "brand": "نشر اذرگون",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 450000,
       "list_price": 1160000,
       "discount_percent": 61,
@@ -53032,7 +53032,7 @@
       "brand": "نشر اذرگون",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 299000,
       "list_price": 880000,
       "discount_percent": 66,
@@ -53056,7 +53056,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -53070,7 +53070,7 @@
       "brand": "نشر اذرگون",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 460000,
       "list_price": 980000,
       "discount_percent": 53,
@@ -53094,7 +53094,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -53108,7 +53108,7 @@
       "brand": "انتشارات بینش نو",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 471100,
       "list_price": 960000,
       "discount_percent": 51,
@@ -53130,7 +53130,7 @@
         "url": "https://www.digikala.com/seller/GH66A/"
       },
       "signals": {
-        "price_change_pct": 27.6,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -53145,21 +53145,19 @@
       "brand": "نشر اذرگون",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 425000,
-      "list_price": 948000,
-      "discount_percent": 55,
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 948000,
+      "list_price": null,
+      "discount_percent": 0,
       "rating": 4.7,
       "rating_count": 2400,
       "seller": "وستا بوک",
       "rank": 5,
       "available": true,
       "badges": [
-        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "کتاب"
@@ -53169,8 +53167,8 @@
         "url": "https://www.digikala.com/seller/C5DRZ/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
+        "price_change_pct": 123.06,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -53184,7 +53182,7 @@
       "brand": "نشر اذرگون",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1250000,
       "list_price": 2640000,
       "discount_percent": 53,
@@ -53209,7 +53207,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -53223,7 +53221,7 @@
       "brand": "انتشارات هیتا",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 599000,
       "list_price": 2994000,
       "discount_percent": 80,
@@ -53247,7 +53245,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -53261,7 +53259,7 @@
       "brand": "انتشارات ایین محمود",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 168000,
       "list_price": 358000,
       "discount_percent": 53,
@@ -53284,7 +53282,7 @@
         "url": "https://www.digikala.com/seller/CA76G/"
       },
       "signals": {
-        "price_change_pct": 22.63,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -53299,7 +53297,7 @@
       "brand": "نشر اذرگون",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 299000,
       "list_price": 750000,
       "discount_percent": 60,
@@ -53331,6 +53329,44 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "14856432",
+      "title": "کتاب روان‌شناسی تاریک اثر مایکل پیس نشر اذرگون",
+      "url": "https://www.digikala.com/product/dkp-14856432/کتاب-روانشناسی-تاریک-اثر-مایکل-پیس-نشر-آذرگون",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0c21070e42ed58c7c9d6442a7ebff67fd7ea51e7_1710609408.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "نشر اذرگون",
+      "category_key": "books",
+      "category_label": "کتاب",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 300000,
+      "list_price": 750000,
+      "discount_percent": 60,
+      "rating": 4.5,
+      "rating_count": 3772,
+      "seller": "وستا بوک",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کتاب"
+      },
+      "supplier": {
+        "name": "وستا بوک",
+        "url": "https://www.digikala.com/seller/C5DRZ/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "20729611",
       "title": "کتاب قدرت نفوذ و تاثیرگذاری، هنر متقاعد سازی دیگران، جادوی بداهه گویی، چگونه با هر کسی صحبت کنیم؟، چگونه با هرکسی ارتباط بر قرار کنیم؟، هنر همیشه بر حق بودن اثر جمعی از نویسندگان انتشارات هیتا 6 جلدی",
       "url": "https://www.digikala.com/product/dkp-20729611/کتاب-قدرت-نفوذ-و-تأثیرگذاری-هنر-متقاعد-سازی-دیگران-جادوی-بداهه-گویی-چگونه-با-هر-کسی-صحبت-کنیم-چگونه-با-هرکسی-ارتباط-بر-قرار-کنیم-هنر-همیشه-بر-حق-بودن-اثر-جمعی-از-نویسندگان-انتشارات-هیتا-6-جلدی",
@@ -53338,14 +53374,14 @@
       "brand": "انتشارات هیتا",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1199000,
       "list_price": 4158000,
       "discount_percent": 71,
       "rating": 4.5,
       "rating_count": 332,
       "seller": "جناب کتاب",
-      "rank": 10,
+      "rank": 11,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -53361,8 +53397,8 @@
         "url": "https://www.digikala.com/seller/EHEKW/"
       },
       "signals": {
-        "price_change_pct": -71.16,
-        "rank_change": 0,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -53376,14 +53412,14 @@
       "brand": "نشر نوین",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 445000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
       "rating_count": 2666,
       "seller": "کتابفروشی زندگی",
-      "rank": 11,
+      "rank": 12,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -53399,46 +53435,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "19975582",
-      "title": "کتاب زبان بدن، چگونه با هر کسی صحبت کنیم، افسانه کاریزما و هرگز کوتاه نیایید اثر جمعی از نویسندگان نشر اذرگون 4 جلدی",
-      "url": "https://www.digikala.com/product/dkp-19975582/کتاب-زبان-بدن-چگونه-با-هر-کسی-صحبت-کنیم-افسانه-کاریزما-و-هرگز-کوتاه-نیایید-اثر-جمعی-از-نویسندگان-نشر-آذرگون-4-جلدی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/aee5e98f5075550d3b4a995b52741690d56cbc3e_1753698950.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "نشر اذرگون",
-      "category_key": "books",
-      "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 1400000,
-      "list_price": 2828000,
-      "discount_percent": 50,
-      "rating": 4.5,
-      "rating_count": 643,
-      "seller": "وستا بوک",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کتاب"
-      },
-      "supplier": {
-        "name": "وستا بوک",
-        "url": "https://www.digikala.com/seller/C5DRZ/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -53452,7 +53449,7 @@
       "brand": "نشر اذرگون",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 2180000,
       "list_price": 7940000,
       "discount_percent": 73,
@@ -53476,8 +53473,8 @@
         "url": "https://www.digikala.com/seller/C5DRZ/"
       },
       "signals": {
-        "price_change_pct": -16.15,
-        "rank_change": -2,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -53521,19 +53518,19 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "14856432",
-      "title": "کتاب روان‌شناسی تاریک اثر مایکل پیس نشر اذرگون",
-      "url": "https://www.digikala.com/product/dkp-14856432/کتاب-روانشناسی-تاریک-اثر-مایکل-پیس-نشر-آذرگون",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0c21070e42ed58c7c9d6442a7ebff67fd7ea51e7_1710609408.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "19975582",
+      "title": "کتاب زبان بدن، چگونه با هر کسی صحبت کنیم، افسانه کاریزما و هرگز کوتاه نیایید اثر جمعی از نویسندگان نشر اذرگون 4 جلدی",
+      "url": "https://www.digikala.com/product/dkp-19975582/کتاب-زبان-بدن-چگونه-با-هر-کسی-صحبت-کنیم-افسانه-کاریزما-و-هرگز-کوتاه-نیایید-اثر-جمعی-از-نویسندگان-نشر-آذرگون-4-جلدی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aee5e98f5075550d3b4a995b52741690d56cbc3e_1753698950.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "نشر اذرگون",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 300000,
-      "list_price": 750000,
-      "discount_percent": 60,
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 1400000,
+      "list_price": 2828000,
+      "discount_percent": 50,
       "rating": 4.5,
-      "rating_count": 3772,
+      "rating_count": 643,
       "seller": "وستا بوک",
       "rank": 14,
       "available": true,
@@ -53541,7 +53538,8 @@
         "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا",
-        "فروشنده معتبر"
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "کتاب"
@@ -53552,7 +53550,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -53604,7 +53602,7 @@
       "brand": "انتشارات ایین محمود",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 269000,
       "list_price": 690000,
       "discount_percent": 61,
@@ -53627,8 +53625,8 @@
         "url": "https://www.digikala.com/seller/CA76G/"
       },
       "signals": {
-        "price_change_pct": 24.83,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -53642,7 +53640,7 @@
       "brand": "نشر اذرگون",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1290000,
       "list_price": 2846000,
       "discount_percent": 55,
@@ -53667,7 +53665,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -53719,7 +53717,7 @@
       "brand": "نشر اذرگون",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 390000,
       "list_price": 1120000,
       "discount_percent": 65,
@@ -53743,7 +53741,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -53757,7 +53755,7 @@
       "brand": "نشر اذرگون",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 480000,
       "list_price": 720000,
       "discount_percent": 33,
@@ -53795,7 +53793,7 @@
       "brand": "نشر اذرگون",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 350000,
       "list_price": 998000,
       "discount_percent": 65,
@@ -53819,7 +53817,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -53906,7 +53904,7 @@
       "brand": "نشر اذرگون",
       "category_key": "books",
       "category_label": "کتاب",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 460000,
       "list_price": 1200000,
       "discount_percent": 62,
@@ -71516,7 +71514,7 @@
       "brand": "شیرین جامه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1616400,
       "list_price": null,
       "discount_percent": 0,
@@ -71545,6 +71543,41 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "21164644",
+      "title": "لباس خواب زنانه مدل چهار تکه شامیز",
+      "url": "https://www.digikala.com/product/dkp-21164644/لباس-خواب-زنانه-مدل-چهار-تکه-شامیز",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e42fec354e7dca256031b2c23ea521c087ebaecb_1789476355.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "fashion-women",
+      "category_label": "مد و پوشاک زنانه",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 980000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 54,
+      "seller": "اینلاو",
+      "rank": 1,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "لباس"
+      },
+      "supplier": {
+        "name": "اینلاو",
+        "url": "https://www.digikala.com/seller/D5GUC/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "20713502",
       "title": "لباس خواب زنانه مدل S-01",
       "url": "https://www.digikala.com/product/dkp-20713502/لباس-خواب-زنانه-مدل-s-01",
@@ -71552,14 +71585,14 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 899000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 489,
       "seller": "لباس ایرسا خوشدل",
-      "rank": 1,
+      "rank": 2,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -71571,7 +71604,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -71585,7 +71618,7 @@
       "brand": "دل اویز",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 890000,
       "list_price": 1250000,
       "discount_percent": 29,
@@ -71608,43 +71641,8 @@
         "url": "https://www.digikala.com/seller/9ZNJJ/"
       },
       "signals": {
-        "price_change_pct": 1.14,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21164644",
-      "title": "لباس خواب زنانه مدل چهار تکه شامیز",
-      "url": "https://www.digikala.com/product/dkp-21164644/لباس-خواب-زنانه-مدل-چهار-تکه-شامیز",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e42fec354e7dca256031b2c23ea521c087ebaecb_1789476355.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "fashion-women",
-      "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 980000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 54,
-      "seller": "اینلاو",
-      "rank": 2,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "لباس"
-      },
-      "supplier": {
-        "name": "اینلاو",
-        "url": "https://www.digikala.com/seller/D5GUC/"
-      },
-      "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -71658,7 +71656,7 @@
       "brand": "شیرین جامه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1496400,
       "list_price": null,
       "discount_percent": 0,
@@ -71679,8 +71677,8 @@
         "url": "https://www.digikala.com/seller/DRPNJ/"
       },
       "signals": {
-        "price_change_pct": 25,
-        "rank_change": 7,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -71694,7 +71692,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 580000,
       "list_price": null,
       "discount_percent": 0,
@@ -71729,7 +71727,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 3800000,
       "list_price": null,
       "discount_percent": 0,
@@ -71753,7 +71751,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 4,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -71767,7 +71765,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 540850,
       "list_price": null,
       "discount_percent": 0,
@@ -71790,7 +71788,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -71842,7 +71840,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 550000,
       "list_price": null,
       "discount_percent": 0,
@@ -71864,7 +71862,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -71878,7 +71876,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 2580000,
       "list_price": null,
       "discount_percent": 0,
@@ -71899,9 +71897,9 @@
         "url": "https://www.digikala.com/seller/J77MG/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
       }
     },
     {
@@ -71914,7 +71912,7 @@
       "brand": "ناتوسا",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1200000,
       "list_price": null,
       "discount_percent": 0,
@@ -71951,7 +71949,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 3210000,
       "list_price": null,
       "discount_percent": 0,
@@ -71973,7 +71971,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -71987,7 +71985,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 880000,
       "list_price": null,
       "discount_percent": 0,
@@ -72008,8 +72006,8 @@
         "url": "https://www.digikala.com/seller/CESJ7/"
       },
       "signals": {
-        "price_change_pct": 11.11,
-        "rank_change": -4,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -72058,7 +72056,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1250000,
       "list_price": null,
       "discount_percent": 0,
@@ -72078,8 +72076,8 @@
         "url": "https://www.digikala.com/seller/J3CNY/"
       },
       "signals": {
-        "price_change_pct": 25.63,
-        "rank_change": 4,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -72128,7 +72126,7 @@
       "brand": "گالری رضا زاده",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 12100000,
       "list_price": 18000000,
       "discount_percent": 33,
@@ -72151,7 +72149,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -72165,7 +72163,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 3855000,
       "list_price": null,
       "discount_percent": 0,
@@ -72186,7 +72184,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 4,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -72200,7 +72198,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1150000,
       "list_price": null,
       "discount_percent": 0,
@@ -72221,7 +72219,115 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -6,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20737239",
+      "title": "لباس خواب زنانه مدل Le01",
+      "url": "https://www.digikala.com/product/dkp-20737239/لباس-خواب-زنانه-مدل-le01",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7082ec4027618327227d1272ef939e774976e87f_1761069130.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "fashion-women",
+      "category_label": "مد و پوشاک زنانه",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 590000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3,
+      "rating_count": 49,
+      "seller": "اینلاو",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "لباس"
+      },
+      "supplier": {
+        "name": "اینلاو",
+        "url": "https://www.digikala.com/seller/D5GUC/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "5735152",
+      "title": "ست تاپ و شلوارک راحتی زنانه مدل بندی ظریف",
+      "url": "https://www.digikala.com/product/dkp-5735152/ست-تاپ-و-شلوارک-راحتی-زنانه-مدل-بندی-ظریف",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f3c792e81ab8ed1a368145fa23598d0cf40192b9_1787753088.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "fashion-women",
+      "category_label": "مد و پوشاک زنانه",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 880000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 294,
+      "seller": "لباس زیر مروا",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "مد و پوشاک زنانه"
+      },
+      "supplier": {
+        "name": "لباس زیر مروا",
+        "url": "https://www.digikala.com/seller/CESJ7/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "7435704",
+      "title": "لباس خواب زنانه مدل PRINCESS",
+      "url": "https://www.digikala.com/product/dkp-7435704/لباس-خواب-زنانه-مدل-princess",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c9d73a51d5c3e6ee64f354ae39ff50c241e7d74e_1788941362.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "fashion-women",
+      "category_label": "مد و پوشاک زنانه",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 550000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 547,
+      "seller": "مدیکال",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "لباس"
+      },
+      "supplier": {
+        "name": "مدیکال",
+        "url": "https://www.digikala.com/seller/6YM3D/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -72235,14 +72341,14 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 978000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
       "rating_count": 49,
       "seller": "بادی استاکینگ",
-      "rank": 9,
+      "rank": 11,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -72256,7 +72362,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -72270,14 +72376,14 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1298000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 6,
       "seller": "تولیدی پوشاک نیدل",
-      "rank": 10,
+      "rank": 11,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -72294,78 +72400,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20737239",
-      "title": "لباس خواب زنانه مدل Le01",
-      "url": "https://www.digikala.com/product/dkp-20737239/لباس-خواب-زنانه-مدل-le01",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7082ec4027618327227d1272ef939e774976e87f_1761069130.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "fashion-women",
-      "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 590000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3,
-      "rating_count": 49,
-      "seller": "اینلاو",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "لباس"
-      },
-      "supplier": {
-        "name": "اینلاو",
-        "url": "https://www.digikala.com/seller/D5GUC/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "5735152",
-      "title": "ست تاپ و شلوارک راحتی زنانه مدل بندی ظریف",
-      "url": "https://www.digikala.com/product/dkp-5735152/ست-تاپ-و-شلوارک-راحتی-زنانه-مدل-بندی-ظریف",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f3c792e81ab8ed1a368145fa23598d0cf40192b9_1787753088.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "fashion-women",
-      "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 880000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 294,
-      "seller": "لباس زیر مروا",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "مد و پوشاک زنانه"
-      },
-      "supplier": {
-        "name": "لباس زیر مروا",
-        "url": "https://www.digikala.com/seller/CESJ7/"
-      },
-      "signals": {
-        "price_change_pct": 11.11,
-        "rank_change": -6,
         "is_new": false
       }
     },
@@ -72408,42 +72442,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "7435704",
-      "title": "لباس خواب زنانه مدل PRINCESS",
-      "url": "https://www.digikala.com/product/dkp-7435704/لباس-خواب-زنانه-مدل-princess",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c9d73a51d5c3e6ee64f354ae39ff50c241e7d74e_1788941362.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "fashion-women",
-      "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 550000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 547,
-      "seller": "مدیکال",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "لباس"
-      },
-      "supplier": {
-        "name": "مدیکال",
-        "url": "https://www.digikala.com/seller/6YM3D/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "14267792",
       "title": "ست تاپ و شلوارک راحتی زنانه شیرین جامه مدل پاپیونی تابستانی رنگ ابی روشن",
       "url": "https://www.digikala.com/product/dkp-14267792/ست-تاپ-و-شلوارک-راحتی-زنانه-شیرین-جامه-مدل-پاپیونی-تابستانی-رنگ-آبی-روشن",
@@ -72451,7 +72449,7 @@
       "brand": "شیرین جامه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1470000,
       "list_price": null,
       "discount_percent": 0,
@@ -72473,7 +72471,77 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20344773",
+      "title": "لباس خواب زنانه تویین مدل T-824-01",
+      "url": "https://www.digikala.com/product/dkp-20344773/لباس-خواب-زنانه-تویین-مدل-t-824-01",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7211d8ebe2293ca745a2842abed23e78732b3560_1788941351.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "تویین",
+      "category_key": "fashion-women",
+      "category_label": "مد و پوشاک زنانه",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 2977000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 42,
+      "seller": "فروشگاه تویین",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لباس"
+      },
+      "supplier": {
+        "name": "فروشگاه تویین",
+        "url": "https://www.digikala.com/seller/A44TU/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "4149122",
+      "title": "لباس خواب زنانه مدل 136",
+      "url": "https://www.digikala.com/product/dkp-4149122/لباس-خواب-زنانه-مدل-136",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/14cadcda2dfa9a18e7e5a2f1c6623446a61ebe53_1609756759.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "fashion-women",
+      "category_label": "مد و پوشاک زنانه",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 450000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 1300,
+      "seller": "تجارت گستر ایرانیان",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لباس زنانه"
+      },
+      "supplier": {
+        "name": "تجارت گستر ایرانیان",
+        "url": "https://www.digikala.com/seller/AAT5F/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -72487,14 +72555,14 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 397450,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
       "rating_count": 48,
       "seller": "فروشگاه جهان بانو",
-      "rank": 12,
+      "rank": 13,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -72509,43 +72577,6 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 7,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "9775970",
-      "title": "ست 3 تکه لباس ورزشی زنانه مدل 1401-76-710102",
-      "url": "https://www.digikala.com/product/dkp-9775970/ست-3-تکه-لباس-ورزشی-زنانه-مدل-1401-76-710102",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c1efad71fb29bf0067b291efc9395b6bb4efaab1_1783518664.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "fashion-women",
-      "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 4719600,
-      "list_price": 5244000,
-      "discount_percent": 10,
-      "rating": 4.5,
-      "rating_count": 22,
-      "seller": "تام اسپرت",
-      "rank": 13,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "مد و پوشاک زنانه"
-      },
-      "supplier": {
-        "name": "تام اسپرت",
-        "url": "https://www.digikala.com/seller/C9MFY/"
-      },
-      "signals": {
-        "price_change_pct": 32.6,
         "rank_change": -1,
         "is_new": false
       }
@@ -72588,105 +72619,73 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20344773",
-      "title": "لباس خواب زنانه تویین مدل T-824-01",
-      "url": "https://www.digikala.com/product/dkp-20344773/لباس-خواب-زنانه-تویین-مدل-t-824-01",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7211d8ebe2293ca745a2842abed23e78732b3560_1788941351.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "تویین",
+      "source_id": "21434841",
+      "title": "ست تاپ و شلوار راحتی زنانه شیرین جامه مدل شیرین کد013",
+      "url": "https://www.digikala.com/product/dkp-21434841/ست-تاپ-و-شلوار-راحتی-زنانه-شیرین-جامه-مدل-شیرین-کد013",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5797a1ef366b262b8847d194cd67601196088c68_1787752715.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "شیرین جامه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 2977000,
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 2400000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 42,
-      "seller": "فروشگاه تویین",
+      "rating": 4,
+      "rating_count": 10,
+      "seller": "کالکشن شیرین",
       "rank": 13,
       "available": true,
       "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لباس"
-      },
-      "supplier": {
-        "name": "فروشگاه تویین",
-        "url": "https://www.digikala.com/seller/A44TU/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -5,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "4149122",
-      "title": "لباس خواب زنانه مدل 136",
-      "url": "https://www.digikala.com/product/dkp-4149122/لباس-خواب-زنانه-مدل-136",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/14cadcda2dfa9a18e7e5a2f1c6623446a61ebe53_1609756759.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "fashion-women",
-      "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 450000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 1300,
-      "seller": "تجارت گستر ایرانیان",
-      "rank": 13,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لباس زنانه"
-      },
-      "supplier": {
-        "name": "تجارت گستر ایرانیان",
-        "url": "https://www.digikala.com/seller/AAT5F/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 7,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21024966",
-      "title": "ست تی‌شرت استین کوتاه و شلوار راحتی زنانه کد A1112",
-      "url": "https://www.digikala.com/product/dkp-21024966/ست-تیشرت-آستین-کوتاه-و-شلوار-راحتی-زنانه-کد-a1112",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a458b05ff36ccb98939612056c1c0e8a25ac08c1_1779096886.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "fashion-women",
-      "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 1240000,
-      "list_price": 2000000,
-      "discount_percent": 38,
-      "rating": 3.8,
-      "rating_count": 18,
-      "seller": "آرا جی سی",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
         "query": "مد و پوشاک زنانه"
       },
       "supplier": {
-        "name": "آرا جی سی",
-        "url": "https://www.digikala.com/seller/GPZPY/"
+        "name": "کالکشن شیرین",
+        "url": "https://www.digikala.com/seller/DRPNJ/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -10,
+        "rank_change": 4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "9775970",
+      "title": "ست 3 تکه لباس ورزشی زنانه مدل 1401-76-710102",
+      "url": "https://www.digikala.com/product/dkp-9775970/ست-3-تکه-لباس-ورزشی-زنانه-مدل-1401-76-710102",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c1efad71fb29bf0067b291efc9395b6bb4efaab1_1783518664.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "fashion-women",
+      "category_label": "مد و پوشاک زنانه",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 4719600,
+      "list_price": 5244000,
+      "discount_percent": 10,
+      "rating": 4.5,
+      "rating_count": 22,
+      "seller": "تام اسپرت",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "مد و پوشاک زنانه"
+      },
+      "supplier": {
+        "name": "تام اسپرت",
+        "url": "https://www.digikala.com/seller/C9MFY/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -72736,7 +72735,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1100000,
       "list_price": null,
       "discount_percent": 0,
@@ -72755,7 +72754,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -72842,7 +72841,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 250000,
       "list_price": null,
       "discount_percent": 0,
@@ -72865,7 +72864,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -73022,7 +73021,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 450000,
       "list_price": null,
       "discount_percent": 0,
@@ -73051,74 +73050,71 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21636500",
-      "title": "ست تاپ و شلوارک راحتی زنانه مدل 012",
-      "url": "https://www.digikala.com/product/dkp-21636500/ست-تاپ-و-شلوارک-راحتی-زنانه-مدل-012",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5f8add47131f3cab93449952288d09a62e7e9ecc_1780304674.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "21411791",
+      "title": "ست تی‌شرت استین کوتاه و شلوار راحتی زنانه مدل پروانه ای",
+      "url": "https://www.digikala.com/product/dkp-21411791/ست-تیشرت-آستین-کوتاه-و-شلوار-راحتی-زنانه-مدل-پروانه-ای",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6b233ae3ba660864c7227d2e426ff245091742cc_1779097377.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 674250,
-      "list_price": 725000,
-      "discount_percent": 7,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "میلانوکس",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 1280000,
+      "list_price": 1600000,
+      "discount_percent": 20,
+      "rating": 4,
+      "rating_count": 19,
+      "seller": "تولید و پخش پوشاک فرجاد",
       "rank": 16,
       "available": true,
       "badges": [
         "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 2 عدد در انبار باقی مانده"
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "مد و پوشاک زنانه"
       },
       "supplier": {
-        "name": "میلانوکس",
-        "url": "https://www.digikala.com/seller/HVSH3/"
+        "name": "تولید و پخش پوشاک فرجاد",
+        "url": "https://www.digikala.com/seller/9NMGK/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21434841",
-      "title": "ست تاپ و شلوار راحتی زنانه شیرین جامه مدل شیرین کد013",
-      "url": "https://www.digikala.com/product/dkp-21434841/ست-تاپ-و-شلوار-راحتی-زنانه-شیرین-جامه-مدل-شیرین-کد013",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5797a1ef366b262b8847d194cd67601196088c68_1787752715.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "شیرین جامه",
+      "source_id": "21024966",
+      "title": "ست تی‌شرت استین کوتاه و شلوار راحتی زنانه کد A1112",
+      "url": "https://www.digikala.com/product/dkp-21024966/ست-تیشرت-آستین-کوتاه-و-شلوار-راحتی-زنانه-کد-a1112",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a458b05ff36ccb98939612056c1c0e8a25ac08c1_1779096886.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 2400000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 10,
-      "seller": "کالکشن شیرین",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 1240000,
+      "list_price": 2000000,
+      "discount_percent": 38,
+      "rating": 3.8,
+      "rating_count": 18,
+      "seller": "آرا جی سی",
       "rank": 17,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
+        "فروش ویژه"
       ],
       "raw_ref": {
         "query": "مد و پوشاک زنانه"
       },
       "supplier": {
-        "name": "کالکشن شیرین",
-        "url": "https://www.digikala.com/seller/DRPNJ/"
+        "name": "آرا جی سی",
+        "url": "https://www.digikala.com/seller/GPZPY/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -10,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -73202,7 +73198,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 450000,
       "list_price": null,
       "discount_percent": 0,
@@ -73223,6 +73219,41 @@
       },
       "signals": {
         "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3319075",
+      "title": "لباس خواب زنانه کد FBD1004",
+      "url": "https://www.digikala.com/product/dkp-3319075/لباس-خواب-زنانه-کد-fbd1004",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/bb5a395c1902642c7ae571d5f628546fdaae0cd1_1598864248.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "fashion-women",
+      "category_label": "مد و پوشاک زنانه",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 398000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 271,
+      "seller": "اینلاو",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "لباس"
+      },
+      "supplier": {
+        "name": "اینلاو",
+        "url": "https://www.digikala.com/seller/D5GUC/"
+      },
+      "signals": {
+        "price_change_pct": 0,
         "rank_change": 1,
         "is_new": false
       }
@@ -73237,14 +73268,14 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 243020,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.3,
       "rating_count": 176,
       "seller": "اینلاو",
-      "rank": 17,
+      "rank": 18,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -73258,43 +73289,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21411791",
-      "title": "ست تی‌شرت استین کوتاه و شلوار راحتی زنانه مدل پروانه ای",
-      "url": "https://www.digikala.com/product/dkp-21411791/ست-تیشرت-آستین-کوتاه-و-شلوار-راحتی-زنانه-مدل-پروانه-ای",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/6b233ae3ba660864c7227d2e426ff245091742cc_1779097377.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "fashion-women",
-      "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 1280000,
-      "list_price": 1600000,
-      "discount_percent": 20,
-      "rating": 4,
-      "rating_count": 19,
-      "seller": "تولید و پخش پوشاک فرجاد",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "مد و پوشاک زنانه"
-      },
-      "supplier": {
-        "name": "تولید و پخش پوشاک فرجاد",
-        "url": "https://www.digikala.com/seller/9NMGK/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -73446,77 +73441,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19931106",
-      "title": "لباس خواب زنانه مدل ساتن ابریشم کد 66902 به همراه کش مو",
-      "url": "https://www.digikala.com/product/dkp-19931106/لباس-خواب-زنانه-مدل-ساتن-ابریشم-کد-66902-به-همراه-کش-مو",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ed7f54a8a21a2a4fcae42f93d8e376f1a4f139d2_1789279513.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "fashion-women",
-      "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 4399000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 16,
-      "seller": " آرینا کالکشن",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لباس زنانه"
-      },
-      "supplier": {
-        "name": " آرینا کالکشن",
-        "url": "https://www.digikala.com/seller/ECNXJ/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "3319075",
-      "title": "لباس خواب زنانه کد FBD1004",
-      "url": "https://www.digikala.com/product/dkp-3319075/لباس-خواب-زنانه-کد-fbd1004",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/bb5a395c1902642c7ae571d5f628546fdaae0cd1_1598864248.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "fashion-women",
-      "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 398000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 271,
-      "seller": "اینلاو",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "لباس"
-      },
-      "supplier": {
-        "name": "اینلاو",
-        "url": "https://www.digikala.com/seller/D5GUC/"
-      },
-      "signals": {
-        "price_change_pct": 37.24,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "21239609",
       "title": "ست تی‌شرت استین کوتاه و شلوارک راحتی زنانه مدل 040102",
       "url": "https://www.digikala.com/product/dkp-21239609/ست-تیشرت-آستین-کوتاه-و-شلوارک-راحتی-زنانه-مدل-040102",
@@ -73524,14 +73448,14 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1690000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.1,
       "rating_count": 35,
       "seller": "گالری ژاوا شاپ",
-      "rank": 19,
+      "rank": 18,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -73546,7 +73470,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -5,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -73560,14 +73484,14 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 650000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.3,
       "rating_count": 241,
       "seller": "مدیکال",
-      "rank": 19,
+      "rank": 18,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -73583,7 +73507,81 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21636500",
+      "title": "ست تاپ و شلوارک راحتی زنانه مدل 012",
+      "url": "https://www.digikala.com/product/dkp-21636500/ست-تاپ-و-شلوارک-راحتی-زنانه-مدل-012",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5f8add47131f3cab93449952288d09a62e7e9ecc_1780304674.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "fashion-women",
+      "category_label": "مد و پوشاک زنانه",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 674250,
+      "list_price": 725000,
+      "discount_percent": 7,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "میلانوکس",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "مد و پوشاک زنانه"
+      },
+      "supplier": {
+        "name": "میلانوکس",
+        "url": "https://www.digikala.com/seller/HVSH3/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19931106",
+      "title": "لباس خواب زنانه مدل ساتن ابریشم کد 66902 به همراه کش مو",
+      "url": "https://www.digikala.com/product/dkp-19931106/لباس-خواب-زنانه-مدل-ساتن-ابریشم-کد-66902-به-همراه-کش-مو",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ed7f54a8a21a2a4fcae42f93d8e376f1a4f139d2_1789279513.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "fashion-women",
+      "category_label": "مد و پوشاک زنانه",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 4399000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 16,
+      "seller": " آرینا کالکشن",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لباس"
+      },
+      "supplier": {
+        "name": " آرینا کالکشن",
+        "url": "https://www.digikala.com/seller/ECNXJ/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -73808,14 +73806,14 @@
       "brand": "متفرقه",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 755000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 470,
       "seller": "نیذا",
-      "rank": 19,
+      "rank": 20,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -73828,8 +73826,8 @@
         "url": "https://www.digikala.com/seller/EAGYS/"
       },
       "signals": {
-        "price_change_pct": 9.58,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -74028,7 +74026,7 @@
       "brand": "میسترال",
       "category_key": "fashion-women",
       "category_label": "مد و پوشاک زنانه",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 6000000,
       "list_price": null,
       "discount_percent": 0,
@@ -74049,9 +74047,9 @@
         "url": "https://www.digikala.com/seller/CE3Y3/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
       }
     },
     {
@@ -80998,7 +80996,7 @@
       "brand": "دومان",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 146070,
       "list_price": null,
       "discount_percent": 0,
@@ -81018,8 +81016,8 @@
         "url": "https://www.digikala.com/seller/H3PNX/"
       },
       "signals": {
-        "price_change_pct": -2.51,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -81054,6 +81052,42 @@
         "price_change_pct": null,
         "rank_change": null,
         "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "16276244",
+      "title": "براش تمیز کننده خودرو مدل 01",
+      "url": "https://www.digikala.com/product/dkp-16276244/براش-تمیز-کننده-خودرو-مدل-01",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9f17ea588c7a24db719aa183cd2d6aac6709697a_1722720153.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 109000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 2950,
+      "seller": "ارزان سران",
+      "rank": 1,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "نظافت و شست‌وشو"
+      },
+      "supplier": {
+        "name": "دکومینی",
+        "url": "https://www.digikala.com/seller/5AK6P/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 3,
+        "is_new": false
       }
     },
     {
@@ -81099,7 +81133,7 @@
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 300000,
       "list_price": null,
       "discount_percent": 0,
@@ -81120,29 +81154,29 @@
         "url": "https://www.digikala.com/seller/DKYEW/"
       },
       "signals": {
-        "price_change_pct": 0.33,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "12495835",
-      "title": "دستمال نظافت خودرو مدل نانو بسته 2 عددی",
-      "url": "https://www.digikala.com/product/dkp-12495835/دستمال-نظافت-خودرو-مدل-نانو-بسته-2-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/716934eda22fb9214259a0f29f6e38b1c74c33ce_1693031538.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "2764270",
+      "title": "فرچه نظافت خودرو مدل DBS مجموعه 5 عددی",
+      "url": "https://www.digikala.com/product/dkp-2764270/فرچه-نظافت-خودرو-مدل-dbs-مجموعه-5-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/120838011.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 319900,
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 444000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
-      "rating_count": 937,
-      "seller": "هاولند",
-      "rank": 3,
+      "rating_count": 181,
+      "seller": "استور شاپ",
+      "rank": 2,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -81152,12 +81186,12 @@
         "query": "نظافت و شست‌وشو"
       },
       "supplier": {
-        "name": "هاولند",
-        "url": "https://www.digikala.com/seller/GN44G/"
+        "name": "استور شاپ",
+        "url": "https://www.digikala.com/seller/CAFR6/"
       },
       "signals": {
-        "price_change_pct": 15.32,
-        "rank_change": -1,
+        "price_change_pct": 0,
+        "rank_change": 3,
         "is_new": false
       }
     },
@@ -81171,7 +81205,7 @@
       "brand": "لیمون",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1515900,
       "list_price": 1630000,
       "discount_percent": 7,
@@ -81192,8 +81226,44 @@
         "url": "https://www.digikala.com/seller/AWSGZ/"
       },
       "signals": {
-        "price_change_pct": -2.83,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21174622",
+      "title": "فرچه تمیز کننده خودرو ام ار جی مدل brush3 بسته 3 عددی",
+      "url": "https://www.digikala.com/product/dkp-21174622/فرچه-تمیز-کننده-خودرو-ام-آر-جی-مدل-brush3-بسته-3-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d8f2a6179d1904f14731bec183b7f7ac5f330aa5_1766907228.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "ام ار جی",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 454020,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 89,
+      "seller": "بازار عمده",
+      "rank": 3,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "نظافت و شست‌وشو"
+      },
+      "supplier": {
+        "name": "مهرآذین",
+        "url": "https://www.digikala.com/seller/A4FGM/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 7,
         "is_new": false
       }
     },
@@ -81207,7 +81277,7 @@
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 443900,
       "list_price": null,
       "discount_percent": 0,
@@ -81225,80 +81295,46 @@
         "url": "https://www.digikala.com/seller/DW4DJ/"
       },
       "signals": {
-        "price_change_pct": 10.98,
-        "rank_change": -3,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "16276244",
-      "title": "براش تمیز کننده خودرو مدل 01",
-      "url": "https://www.digikala.com/product/dkp-16276244/براش-تمیز-کننده-خودرو-مدل-01",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9f17ea588c7a24db719aa183cd2d6aac6709697a_1722720153.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "2882489",
+      "title": "اسفنج نظافت خودرو کد gh129",
+      "url": "https://www.digikala.com/product/dkp-2882489/اسفنج-نظافت-خودرو-کد-gh129",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/121417370.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 109000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 2950,
-      "seller": "ارزان سران",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 165000,
+      "list_price": 189000,
+      "discount_percent": 13,
+      "rating": 4.3,
+      "rating_count": 612,
+      "seller": "سپنتاکالا",
       "rank": 4,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
         "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "نظافت و شست‌وشو"
       },
       "supplier": {
-        "name": "دکومینی",
-        "url": "https://www.digikala.com/seller/5AK6P/"
+        "name": "سپنتاکالا",
+        "url": "https://www.digikala.com/seller/A9GXE/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "2764270",
-      "title": "فرچه نظافت خودرو مدل DBS مجموعه 5 عددی",
-      "url": "https://www.digikala.com/product/dkp-2764270/فرچه-نظافت-خودرو-مدل-dbs-مجموعه-5-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/120838011.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "cleaning",
-      "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 444000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 181,
-      "seller": "استور شاپ",
-      "rank": 5,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "نظافت و شست‌وشو"
-      },
-      "supplier": {
-        "name": "استور شاپ",
-        "url": "https://www.digikala.com/seller/CAFR6/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 7,
         "is_new": false
       }
     },
@@ -81312,7 +81348,7 @@
       "brand": "کامل",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 380000,
       "list_price": null,
       "discount_percent": 0,
@@ -81340,6 +81376,39 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "16150186",
+      "title": "فرچه نظافت داخل خودرو مدل vegan",
+      "url": "https://www.digikala.com/product/dkp-16150186/فرچه-نظافت-داخل-خودرو-مدل-vegan",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aeb40e7eeb2714f54340726c6c2f45cc86fa82f2_1721802176.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 148000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 861,
+      "seller": "ادریس",
+      "rank": 5,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "نظافت و شست‌وشو"
+      },
+      "supplier": {
+        "name": "آتی صنعت البرز",
+        "url": "https://www.digikala.com/seller/DZ6JH/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 9,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "7186548",
       "title": "اسفنج شستشوی خودرو هانسه مدل نانو",
       "url": "https://www.digikala.com/product/dkp-7186548/اسفنج-شستشوی-خودرو-هانسه-مدل-نانو",
@@ -81347,7 +81416,7 @@
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 167000,
       "list_price": 189000,
       "discount_percent": 12,
@@ -81370,8 +81439,8 @@
         "url": "https://www.digikala.com/seller/A9GXE/"
       },
       "signals": {
-        "price_change_pct": -0.6,
-        "rank_change": -2,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -81385,7 +81454,7 @@
       "brand": "دومان",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 119360,
       "list_price": 128340,
       "discount_percent": 7,
@@ -81405,7 +81474,7 @@
         "url": "https://www.digikala.com/seller/J3XFD/"
       },
       "signals": {
-        "price_change_pct": -11.59,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -81453,7 +81522,7 @@
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1160000,
       "list_price": null,
       "discount_percent": 0,
@@ -81475,7 +81544,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 4,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "6569804",
+      "title": "فرچه دیتیلینگ خودرو مدل Cleaning Brush مجموعه 5 عددی",
+      "url": "https://www.digikala.com/product/dkp-6569804/فرچه-دیتیلینگ-خودرو-مدل-cleaning-brush-مجموعه-5-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0665a6aede06f20913d1b1db3cf009c06215218c_1632810587.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 494000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 316,
+      "seller": "استور شاپ",
+      "rank": 7,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "نظافت و شست‌وشو"
+      },
+      "supplier": {
+        "name": "استور شاپ",
+        "url": "https://www.digikala.com/seller/CAFR6/"
+      },
+      "signals": {
+        "price_change_pct": -0.2,
+        "rank_change": 12,
         "is_new": false
       }
     },
@@ -81489,7 +81594,7 @@
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 537000,
       "list_price": null,
       "discount_percent": 0,
@@ -81509,8 +81614,8 @@
         "url": "https://www.digikala.com/seller/HSGUN/"
       },
       "signals": {
-        "price_change_pct": 0.94,
-        "rank_change": -1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -81546,6 +81651,43 @@
       "signals": {
         "price_change_pct": 15.24,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "18227527",
+      "title": "دستکش شستشوی خودرو مدل 5558",
+      "url": "https://www.digikala.com/product/dkp-18227527/دستکش-شستشوی-خودرو-مدل-5558",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6f5ed6745f0cbcd1bfcf6b70ec685747e1221749_1738676950.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 640000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 90,
+      "seller": "آرا ران",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "نظافت و شست‌وشو"
+      },
+      "supplier": {
+        "name": "آرا ران",
+        "url": "https://www.digikala.com/seller/DF67Y/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 7,
         "is_new": false
       }
     },
@@ -81595,7 +81737,7 @@
       "brand": "مهسان",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 605180,
       "list_price": null,
       "discount_percent": 0,
@@ -81617,7 +81759,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 8,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -81631,7 +81773,7 @@
       "brand": "گلچین صنعت",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 912800,
       "list_price": null,
       "discount_percent": 0,
@@ -81654,9 +81796,45 @@
         "url": "https://www.digikala.com/seller/E4Z7S/"
       },
       "signals": {
-        "price_change_pct": 205.28,
-        "rank_change": 8,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "16617655",
+      "title": "برس تمیز کننده خودرو مدل CBSH",
+      "url": "https://www.digikala.com/product/dkp-16617655/برس-تمیز-کننده-خودرو-مدل-cbsh",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/fd972623ca991fa633d7b19a41bb8fd11a0365ad_1725355924.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 198000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 688,
+      "seller": "نامی نو سنتر",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "نظافت و شست‌وشو"
+      },
+      "supplier": {
+        "name": "نامی نو سنتر",
+        "url": "https://www.digikala.com/seller/J69ZM/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
       }
     },
     {
@@ -81669,7 +81847,7 @@
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 550000,
       "list_price": null,
       "discount_percent": 0,
@@ -81690,68 +81868,31 @@
         "url": "https://www.digikala.com/seller/DKYEW/"
       },
       "signals": {
-        "price_change_pct": 2.23,
-        "rank_change": 3,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21174622",
-      "title": "فرچه تمیز کننده خودرو ام ار جی مدل brush3 بسته 3 عددی",
-      "url": "https://www.digikala.com/product/dkp-21174622/فرچه-تمیز-کننده-خودرو-ام-آر-جی-مدل-brush3-بسته-3-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d8f2a6179d1904f14731bec183b7f7ac5f330aa5_1766907228.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "ام ار جی",
+      "source_id": "15375762",
+      "title": "حوله مایکروفایبر مدل Microfiber Cloth کد S2025",
+      "url": "https://www.digikala.com/product/dkp-15375762/حوله-مایکروفایبر-مدل-microfiber-cloth-کد-s2025",
+      "image": null,
+      "brand": null,
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 454020,
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 420000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 89,
-      "seller": "بازار عمده",
+      "rating": 4.2,
+      "rating_count": 1662,
+      "seller": "نوای زاگرس",
       "rank": 10,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "نظافت و شست‌وشو"
-      },
-      "supplier": {
-        "name": "مهرآذین",
-        "url": "https://www.digikala.com/seller/A4FGM/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 7,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "2882489",
-      "title": "اسفنج نظافت خودرو کد gh129",
-      "url": "https://www.digikala.com/product/dkp-2882489/اسفنج-نظافت-خودرو-کد-gh129",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/121417370.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "cleaning",
-      "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 165000,
-      "list_price": 189000,
-      "discount_percent": 13,
-      "rating": 4.3,
-      "rating_count": 612,
-      "seller": "سپنتاکالا",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا",
         "فروشنده معتبر"
@@ -81759,14 +81900,11 @@
       "raw_ref": {
         "query": "نظافت و شست‌وشو"
       },
-      "supplier": {
-        "name": "سپنتاکالا",
-        "url": "https://www.digikala.com/seller/A9GXE/"
-      },
+      "supplier": {},
       "signals": {
-        "price_change_pct": -1.79,
-        "rank_change": -1,
-        "is_new": false
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
       }
     },
     {
@@ -81779,7 +81917,7 @@
       "brand": "مهسان",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 849580,
       "list_price": null,
       "discount_percent": 0,
@@ -81797,9 +81935,45 @@
         "url": "https://www.digikala.com/seller/GN44G/"
       },
       "signals": {
-        "price_change_pct": 3.62,
-        "rank_change": -1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "15035551",
+      "title": "فرچه شستشو مدل 1921 همه کاره",
+      "url": "https://www.digikala.com/product/dkp-15035551/فرچه-شستشو-مدل-1921-همه-کاره",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3398f062ab6a4e5ce68e850a9607e5f784d3491c_1786453813.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 320000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.6,
+      "rating_count": 91,
+      "seller": "ژاوین استور",
+      "rank": 11,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "نظافت و شست‌وشو"
+      },
+      "supplier": {
+        "name": "ژاوین استور",
+        "url": "https://www.digikala.com/seller/6Y3UD/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
       }
     },
     {
@@ -81812,7 +81986,7 @@
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 238000,
       "list_price": null,
       "discount_percent": 0,
@@ -81834,8 +82008,8 @@
         "url": "https://www.digikala.com/seller/9NXJV/"
       },
       "signals": {
-        "price_change_pct": 2.59,
-        "rank_change": -4,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -81879,6 +82053,39 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "10479698",
+      "title": "برس شستشوی بدن مدل بامبو دسته دار",
+      "url": "https://www.digikala.com/product/dkp-10479698/برس-شستشوی-بدن-مدل-بامبو-دسته-دار",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2a41073e9c2d8fbe2cab20fda34074bcc20f27f7_1788170100.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 550000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 2164,
+      "seller": "گارینه",
+      "rank": 12,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "نظافت و شست‌وشو"
+      },
+      "supplier": {
+        "name": "گارینه",
+        "url": "https://www.digikala.com/seller/EVCGX/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "2601776",
       "title": "جارو و خاک انداز همسان مدل hms 3",
       "url": "https://www.digikala.com/product/dkp-2601776/جارو-و-خاک-انداز-همسان-مدل-hms-3",
@@ -81886,7 +82093,7 @@
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1115000,
       "list_price": null,
       "discount_percent": 0,
@@ -81908,7 +82115,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -81950,34 +82157,73 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "16150186",
-      "title": "فرچه نظافت داخل خودرو مدل vegan",
-      "url": "https://www.digikala.com/product/dkp-16150186/فرچه-نظافت-داخل-خودرو-مدل-vegan",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/aeb40e7eeb2714f54340726c6c2f45cc86fa82f2_1721802176.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "265326",
+      "title": "خاک انداز مهسان کد 20040",
+      "url": "https://www.digikala.com/product/dkp-265326/خاک-انداز-مهسان-کد-20040",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/66a34571e3f625889088ab81bd605877bffa6a45_1782129942.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "مهسان",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 281420,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 733,
+      "seller": "ابزار منافی نگین",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "جارو شوینده"
+      },
+      "supplier": {
+        "name": "ابزار منافی نگین",
+        "url": "https://www.digikala.com/seller/DHK36/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "10579094",
+      "title": "فرچه شستشو کد 025",
+      "url": "https://www.digikala.com/product/dkp-10579094/فرچه-مهسان-کد-025",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1b27907cca80914d90bbcf62d3401f7e101e5c09_1786453810.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 148000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 861,
-      "seller": "ادریس",
-      "rank": 14,
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 259200,
+      "list_price": 288000,
+      "discount_percent": 10,
+      "rating": 4.3,
+      "rating_count": 452,
+      "seller": "آشپزخانه خانه نو",
+      "rank": 13,
       "available": true,
-      "badges": [],
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
       "raw_ref": {
         "query": "نظافت و شست‌وشو"
       },
       "supplier": {
-        "name": "آتی صنعت البرز",
-        "url": "https://www.digikala.com/seller/DZ6JH/"
+        "name": "آشپزخانه خانه نو",
+        "url": "https://www.digikala.com/seller/DJH7N/"
       },
       "signals": {
-        "price_change_pct": -32.73,
-        "rank_change": -7,
-        "is_new": false
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
       }
     },
     {
@@ -81990,7 +82236,7 @@
       "brand": "ارج پلاستیک",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 389900,
       "list_price": null,
       "discount_percent": 0,
@@ -82011,44 +82257,44 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -5,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "265326",
-      "title": "خاک انداز مهسان کد 20040",
-      "url": "https://www.digikala.com/product/dkp-265326/خاک-انداز-مهسان-کد-20040",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/66a34571e3f625889088ab81bd605877bffa6a45_1782129942.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "مهسان",
+      "source_id": "13351487",
+      "title": "ابزار تمیز کننده برس مدل CLE 383",
+      "url": "https://www.digikala.com/product/dkp-13351487/ابزار-تمیز-کننده-برس-مدل-cle-383",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3e985c05d702077d58b9e4750633fb900468da2a_1785499915.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 281420,
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 270000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
-      "rating_count": 733,
-      "seller": "ابزار منافی نگین",
+      "rating_count": 143,
+      "seller": "گروه کیاشا",
       "rank": 14,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
-        "تنها 3 عدد در انبار باقی مانده"
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "جارو شوینده"
+        "query": "نظافت و شست‌وشو"
       },
       "supplier": {
-        "name": "ابزار منافی نگین",
-        "url": "https://www.digikala.com/seller/DHK36/"
+        "name": "گروه کیاشا",
+        "url": "https://www.digikala.com/seller/C9FMK/"
       },
       "signals": {
-        "price_change_pct": -1.94,
-        "rank_change": 6,
-        "is_new": false
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
       }
     },
     {
@@ -82061,7 +82307,7 @@
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 700000,
       "list_price": null,
       "discount_percent": 0,
@@ -82080,7 +82326,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -82123,37 +82369,73 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "18227527",
-      "title": "دستکش شستشوی خودرو مدل 5558",
-      "url": "https://www.digikala.com/product/dkp-18227527/دستکش-شستشوی-خودرو-مدل-5558",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/6f5ed6745f0cbcd1bfcf6b70ec685747e1221749_1738676950.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "source_id": "21305035",
+      "title": "فرچه نظافت خودرو مدل نظافت یار مجموعه 2 عددی",
+      "url": "https://www.digikala.com/product/dkp-21305035/فرچه-نظافت-خودرو-مدل-نظافت-یار-مجموعه-2-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9d74b52ccd379517aa124841cfaf5182ed7ca081_1769172437.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 640000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 90,
-      "seller": "آرا ران",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 187500,
+      "list_price": 250000,
+      "discount_percent": 25,
+      "rating": 3.8,
+      "rating_count": 23,
+      "seller": "آکسیوس",
       "rank": 15,
       "available": true,
       "badges": [
+        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
         "query": "نظافت و شست‌وشو"
       },
       "supplier": {
-        "name": "آرا ران",
-        "url": "https://www.digikala.com/seller/DF67Y/"
+        "name": "آکسیوس",
+        "url": "https://www.digikala.com/seller/CU79R/"
       },
       "signals": {
-        "price_change_pct": 12.28,
-        "rank_change": 2,
+        "price_change_pct": 0,
+        "rank_change": 5,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "12495835",
+      "title": "دستمال نظافت خودرو مدل نانو بسته 2 عددی",
+      "url": "https://www.digikala.com/product/dkp-12495835/دستمال-نظافت-خودرو-مدل-نانو-بسته-2-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/716934eda22fb9214259a0f29f6e38b1c74c33ce_1693031538.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 319900,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 937,
+      "seller": "هاولند",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "نظافت و شست‌وشو"
+      },
+      "supplier": {
+        "name": "هاولند",
+        "url": "https://www.digikala.com/seller/GN44G/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -13,
         "is_new": false
       }
     },
@@ -82205,7 +82487,7 @@
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 1340000,
       "list_price": null,
       "discount_percent": 0,
@@ -82226,7 +82508,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -82374,42 +82656,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "12495973",
-      "title": "دستمال نظافت خودرو مدل top clean بسته 3 عددی",
-      "url": "https://www.digikala.com/product/dkp-12495973/دستمال-نظافت-خودرو-مدل-top-clean-بسته-3-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/cb30075457701f2a803460af2791361a7bd1d1b9_1692977047.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "cleaning",
-      "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-09-30T08:55:28.823Z",
-      "price": 411560,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 1492,
-      "seller": "هاولند",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "نظافت و شست‌وشو"
-      },
-      "supplier": {
-        "name": "هاولند",
-        "url": "https://www.digikala.com/seller/GN44G/"
-      },
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "5703134",
       "title": "جارو لیمون کد 1914",
       "url": "https://www.digikala.com/product/dkp-5703134/جارو-لیمون-کد-1914",
@@ -82417,7 +82663,7 @@
       "brand": "لیمون",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 751990,
       "list_price": null,
       "discount_percent": 0,
@@ -82439,9 +82685,45 @@
         "url": "https://www.digikala.com/seller/F4C5Y/"
       },
       "signals": {
-        "price_change_pct": -0.04,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "18246716",
+      "title": "برس شستشوی بدن مدل برس خشک کد 77141",
+      "url": "https://www.digikala.com/product/dkp-18246716/برس-شستشوی-بدن-مدل-برس-خشک-کد-77141",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/459968d2f1fa16f07e22ff812c9c6d67933584ee_1788170101.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 750000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 85,
+      "seller": "آقای لیف",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "نظافت و شست‌وشو"
+      },
+      "supplier": {
+        "name": "آقای لیف",
+        "url": "https://www.digikala.com/seller/DCN9C/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
       }
     },
     {
@@ -82618,41 +82900,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21031364",
-      "title": "جارو و خاک انداز لیمون مدل دستی کد HS1102",
-      "url": "https://www.digikala.com/product/dkp-21031364/جارو-و-خاک-انداز-لیمون-مدل-دستی-کد-hs1102",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/6e9baf23785461d200a612b8fcca12879df4fcc1_1782129415.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "لیمون",
-      "category_key": "cleaning",
-      "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 1010250,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.9,
-      "rating_count": 14,
-      "seller": "ست کالکشن",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "جارو شوینده"
-      },
-      "supplier": {
-        "name": "شیک پلاست هوم",
-        "url": "https://www.digikala.com/seller/HGSAR/"
-      },
-      "signals": {
-        "price_change_pct": 8.63,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "18673311",
       "title": "جارو شارژی دستی مدل 2IN1 LT-113CG-3 با موتور 120 وات، باتری 4000 میلی‌امپر و فیلتر HEPA، مخزن قابل شست‌وشو و وزن سبک 0.8 کیلوگرم برای نظافت سریع و دقیق محیط‌های بسته و خودرو",
       "url": "https://www.digikala.com/product/dkp-18673311/جارو-شارژی-دستی-مدل-2in1-lt-113cg-3-با-موتور-120-وات-باتری-4000-میلیآمپر-و-فیلتر-hepa-مخزن-قابل-شستوشو-و-وزن-سبک-08-کیلوگرم-برای-نظافت-سریع-و-دقیق-محیطهای-بسته-و-خودرو",
@@ -82682,6 +82929,77 @@
       "supplier": {
         "name": "زاگرس سنتر",
         "url": "https://www.digikala.com/seller/AYWUG/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "4844479",
+      "title": "جارو دستی مدل اشپزخانه کد IL1031",
+      "url": "https://www.digikala.com/product/dkp-4844479/جارو-دستی-مدل-آشپزخانه-کد-il1031",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2fd9721e3f1c3188b45f759545428e5eb14d0882_1782129742.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 373000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 33,
+      "seller": "جانبی سالیوان",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "جارو"
+      },
+      "supplier": {
+        "name": "نیکا نوین",
+        "url": "https://www.digikala.com/seller/C57E7/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19567011",
+      "title": "فرچه شستشو مدل نانو بسته 2 عددی",
+      "url": "https://www.digikala.com/product/dkp-19567011/فرچه-شستشو-مدل-نانو-بسته-2-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/202d3c264f0fd133835cf8974fac9b392a063d57_1786453815.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 94000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 40,
+      "seller": "هابینا",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "نظافت و شست‌وشو"
+      },
+      "supplier": {
+        "name": "هابینا",
+        "url": "https://www.digikala.com/seller/H4MYZ/"
       },
       "signals": {
         "price_change_pct": null,
@@ -82734,7 +83052,7 @@
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 224000,
       "list_price": null,
       "discount_percent": 0,
@@ -82755,43 +83073,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "6569804",
-      "title": "فرچه دیتیلینگ خودرو مدل Cleaning Brush مجموعه 5 عددی",
-      "url": "https://www.digikala.com/product/dkp-6569804/فرچه-دیتیلینگ-خودرو-مدل-cleaning-brush-مجموعه-5-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0665a6aede06f20913d1b1db3cf009c06215218c_1632810587.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "cleaning",
-      "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-03T06:24:41.619Z",
-      "price": 495000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 315,
-      "seller": "استور شاپ",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "نظافت و شست‌وشو"
-      },
-      "supplier": {
-        "name": "استور شاپ",
-        "url": "https://www.digikala.com/seller/CAFR6/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -82911,16 +83193,17 @@
       "brand": "متفرقه",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-02T00:04:47.445Z",
-      "price": 332700,
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 343400,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
-      "rating_count": 472,
+      "rating_count": 474,
       "seller": "بازرگانی هاچ",
       "rank": 19,
       "available": true,
       "badges": [
+        "ارسال سریع دیجی‌کالا",
         "ارسال توسط فروشنده",
         "فروشنده معتبر"
       ],
@@ -82932,9 +83215,79 @@
         "url": "https://www.digikala.com/seller/FJDTP/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 3.22,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "12495973",
+      "title": "دستمال نظافت خودرو مدل top clean بسته 3 عددی",
+      "url": "https://www.digikala.com/product/dkp-12495973/دستمال-نظافت-خودرو-مدل-top-clean-بسته-3-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/cb30075457701f2a803460af2791361a7bd1d1b9_1692977047.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 418000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 1505,
+      "seller": "میلان هوم",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "نظافت و شست‌وشو"
+      },
+      "supplier": {
+        "name": "هاولند",
+        "url": "https://www.digikala.com/seller/GN44G/"
+      },
+      "signals": {
+        "price_change_pct": 1.56,
+        "rank_change": -3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21031364",
+      "title": "جارو و خاک انداز لیمون مدل دستی کد HS1102",
+      "url": "https://www.digikala.com/product/dkp-21031364/جارو-و-خاک-انداز-لیمون-مدل-دستی-کد-hs1102",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6e9baf23785461d200a612b8fcca12879df4fcc1_1782129415.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
+      "brand": "لیمون",
+      "category_key": "cleaning",
+      "category_label": "نظافت و شست‌وشو",
+      "observed_at": "2026-10-08T16:49:37.293Z",
+      "price": 1010250,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.9,
+      "rating_count": 14,
+      "seller": "ست کالکشن",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "جارو"
+      },
+      "supplier": {
+        "name": "شیک پلاست هوم",
+        "url": "https://www.digikala.com/seller/HGSAR/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
       }
     },
     {
@@ -82947,14 +83300,14 @@
       "brand": "مهسان",
       "category_key": "cleaning",
       "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
+      "observed_at": "2026-10-08T16:49:37.293Z",
       "price": 780000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 32,
       "seller": "سرزمین ابزار پارس",
-      "rank": 19,
+      "rank": 20,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -82968,7 +83321,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -83004,41 +83357,6 @@
       "signals": {
         "price_change_pct": 2.62,
         "rank_change": -7,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "4844479",
-      "title": "جارو دستی مدل اشپزخانه کد IL1031",
-      "url": "https://www.digikala.com/product/dkp-4844479/جارو-دستی-مدل-آشپزخانه-کد-il1031",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2fd9721e3f1c3188b45f759545428e5eb14d0882_1782129742.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "cleaning",
-      "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-10-08T16:23:12.967Z",
-      "price": 373000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 33,
-      "seller": "جانبی سالیوان",
-      "rank": 20,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "جارو"
-      },
-      "supplier": {
-        "name": "نیکا نوین",
-        "url": "https://www.digikala.com/seller/C57E7/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
         "is_new": false
       }
     },
@@ -83101,43 +83419,6 @@
       "supplier": {
         "name": "ایلیا نیو",
         "url": "https://www.digikala.com/seller/GKAHD/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21305035",
-      "title": "فرچه نظافت خودرو مدل نظافت یار مجموعه 2 عددی",
-      "url": "https://www.digikala.com/product/dkp-21305035/فرچه-نظافت-خودرو-مدل-نظافت-یار-مجموعه-2-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9d74b52ccd379517aa124841cfaf5182ed7ca081_1769172437.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "cleaning",
-      "category_label": "نظافت و شست‌وشو",
-      "observed_at": "2026-09-28T06:41:30.559Z",
-      "price": 187500,
-      "list_price": 250000,
-      "discount_percent": 25,
-      "rating": 3.7,
-      "rating_count": 21,
-      "seller": "آکسیوس",
-      "rank": 20,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "نظافت و شست‌وشو"
-      },
-      "supplier": {
-        "name": "آکسیوس",
-        "url": "https://www.digikala.com/seller/CU79R/"
       },
       "signals": {
         "price_change_pct": 0,
