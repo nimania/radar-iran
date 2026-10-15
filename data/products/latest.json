@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T07:19:30.195Z",
-  "count": 3576,
+  "generated_at": "2026-10-15T11:57:48.217Z",
+  "count": 3578,
   "collection": {
     "mode": "rotating",
     "categories_scanned": 4,
@@ -18,7 +18,7 @@
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1242500,
       "list_price": null,
       "discount_percent": 0,
@@ -28,7 +28,7 @@
       "rank": 1,
       "available": true,
       "badges": [
-        "تنها 2 عدد در انبار باقی مانده"
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "ابزار و تجهیزات"
@@ -46,6 +46,39 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "7586773",
+      "title": "مجموعه 14 عددی ابزار مدل کاربردی",
+      "url": "https://www.digikala.com/product/dkp-7586773/مجموعه-14-عددی-ابزار-مدل-کاربردی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9cd90ad46103d2b669782dd683c66ba28bb22262_1642486587.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "tools",
+      "category_label": "ابزار و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1100000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 64,
+      "seller": "ابزار مارکت",
+      "rank": 2,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "ابزار و تجهیزات"
+      },
+      "supplier": {
+        "name": "آفی کالا",
+        "url": "https://www.digikala.com/seller/DXHZH/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 12,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "8472338",
       "title": "مجموعه 110 عددی ابزار مدل HAND_TOOLS_SET",
       "url": "https://www.digikala.com/product/dkp-8472338/مجموعه-110-عددی-ابزار-مدل-hand-tools-set",
@@ -53,7 +86,7 @@
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 4999900,
       "list_price": null,
       "discount_percent": 0,
@@ -73,8 +106,8 @@
         "url": "https://www.digikala.com/seller/CEM4Y/"
       },
       "signals": {
-        "price_change_pct": 0.2,
-        "rank_change": -1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -88,7 +121,7 @@
       "brand": "انتشارات قدیس",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 2000000,
       "list_price": null,
       "discount_percent": 0,
@@ -121,7 +154,7 @@
       "brand": "باس",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 20988880,
       "list_price": null,
       "discount_percent": 0,
@@ -156,7 +189,7 @@
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 4990000,
       "list_price": null,
       "discount_percent": 0,
@@ -177,7 +210,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -191,7 +224,7 @@
       "brand": "دیباگران تهران",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 776230,
       "list_price": null,
       "discount_percent": 0,
@@ -213,7 +246,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -227,7 +260,7 @@
       "brand": "رونیکس",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-12T23:09:28.541Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1940000,
       "list_price": null,
       "discount_percent": 0,
@@ -249,42 +282,6 @@
         "url": "https://www.digikala.com/seller/A4D5Y/"
       },
       "signals": {
-        "price_change_pct": -0.56,
-        "rank_change": 10,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "13883653",
-      "title": "ابزار مونتاژ مدل پازل فلزی سه بعدی بسته 6 عددی",
-      "url": "https://www.digikala.com/product/dkp-13883653/ابزار-مونتاژ-مدل-پازل-فلزی-سه-بعدی-بسته-6-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/cb61faf411231955bca1066cd0d7168325eabaa5_1703601128.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "tools",
-      "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 830000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 47,
-      "seller": "چپ دست",
-      "rank": 7,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "ابزار"
-      },
-      "supplier": {
-        "name": "چپ دست",
-        "url": "https://www.digikala.com/seller/ADDG2/"
-      },
-      "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
@@ -300,7 +297,7 @@
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1047900,
       "list_price": 1339800,
       "discount_percent": 22,
@@ -322,8 +319,8 @@
         "url": "https://www.digikala.com/seller/EKY5P/"
       },
       "signals": {
-        "price_change_pct": -8.38,
-        "rank_change": -2,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -337,7 +334,7 @@
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 3300000,
       "list_price": null,
       "discount_percent": 0,
@@ -370,7 +367,7 @@
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 170000,
       "list_price": null,
       "discount_percent": 0,
@@ -390,6 +387,42 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "13883653",
+      "title": "ابزار مونتاژ مدل پازل فلزی سه بعدی بسته 6 عددی",
+      "url": "https://www.digikala.com/product/dkp-13883653/ابزار-مونتاژ-مدل-پازل-فلزی-سه-بعدی-بسته-6-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/cb61faf411231955bca1066cd0d7168325eabaa5_1703601128.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "tools",
+      "category_label": "ابزار و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 830000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 47,
+      "seller": "چپ دست",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "ابزار"
+      },
+      "supplier": {
+        "name": "چپ دست",
+        "url": "https://www.digikala.com/seller/ADDG2/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -435,41 +468,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8314114",
-      "title": "مجموعه 48 عددی جعبه ابزار باس مدل BS-5835",
-      "url": "https://www.digikala.com/product/dkp-8314114/مجموعه-48-عددی-جعبه-ابزار-باس-مدل-bs-5835",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ffa6a41451a807ccd25cb50a519d45b248058874_1650343878.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "باس",
-      "category_key": "tools",
-      "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 9118880,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 722,
-      "seller": "ایران باس",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "ابزار"
-      },
-      "supplier": {
-        "name": "اذر مهر",
-        "url": "https://www.digikala.com/seller/DCNDP/"
-      },
-      "signals": {
-        "price_change_pct": 25.95,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "7673054",
       "title": "مجموعه 15 عددی ابزار مدل کاربردی",
       "url": "https://www.digikala.com/product/dkp-7673054/مجموعه-15-عددی-ابزار-مدل-کاربردی",
@@ -477,7 +475,7 @@
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1680000,
       "list_price": null,
       "discount_percent": 0,
@@ -496,7 +494,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -549,7 +547,7 @@
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 565000,
       "list_price": null,
       "discount_percent": 0,
@@ -568,43 +566,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "1416731",
-      "title": "ابزار چند کاره پرس سرسیم مدل ET2001",
-      "url": "https://www.digikala.com/product/dkp-1416731/ابزار-چند-کاره-پرس-سرسیم-مدل-et2001",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0ac51b99dd89fcb93d6d6435da77c3683c8804c4_1701192490.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "tools",
-      "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 1570000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.6,
-      "rating_count": 200,
-      "seller": "فرازصنعت",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "ابزار"
-      },
-      "supplier": {
-        "name": "فرازصنعت",
-        "url": "https://www.digikala.com/seller/C55RK/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -618,7 +580,7 @@
       "brand": "سماتولز",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 199000,
       "list_price": 250000,
       "discount_percent": 20,
@@ -642,7 +604,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -8,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -656,7 +618,7 @@
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 5100000,
       "list_price": null,
       "discount_percent": 0,
@@ -675,7 +637,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -689,7 +651,7 @@
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 4000000,
       "list_price": null,
       "discount_percent": 0,
@@ -710,7 +672,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -760,7 +722,7 @@
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1378600,
       "list_price": 1476500,
       "discount_percent": 7,
@@ -773,7 +735,7 @@
         "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا",
-        "تنها 2 عدد در انبار باقی مانده"
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "ابزار و تجهیزات"
@@ -785,6 +747,42 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1416731",
+      "title": "ابزار چند کاره پرس سرسیم مدل ET2001",
+      "url": "https://www.digikala.com/product/dkp-1416731/ابزار-چند-کاره-پرس-سرسیم-مدل-et2001",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0ac51b99dd89fcb93d6d6435da77c3683c8804c4_1701192490.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "tools",
+      "category_label": "ابزار و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1570000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.6,
+      "rating_count": 200,
+      "seller": "فرازصنعت",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ابزار"
+      },
+      "supplier": {
+        "name": "فرازصنعت",
+        "url": "https://www.digikala.com/seller/C55RK/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -862,33 +860,33 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1877452",
-      "title": "ابزار نقاشی ساختمان کد 100000288 مجموعه 3 عددی",
-      "url": "https://www.digikala.com/product/dkp-1877452/ابزار-نقاشی-ساختمان-کد-100000288-مجموعه-3-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/112561164.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "8534167",
+      "title": "مجموعه 104 عددی ابزار مدل code 0022",
+      "url": "https://www.digikala.com/product/dkp-8534167/مجموعه-104-عددی-ابزار-مدل-code-0022",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/516de2e524889347a63affc4968fb0a5f4960bb5_1652859268.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 229450,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 5300000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.5,
-      "rating_count": 32,
-      "seller": "فصل زیبایی",
-      "rank": 15,
+      "rating": 3.8,
+      "rating_count": 21,
+      "seller": "فروشگاه آشیل کالا",
+      "rank": 14,
       "available": true,
       "badges": [],
       "raw_ref": {
-        "query": "ابزار"
+        "query": "ابزار و تجهیزات"
       },
       "supplier": {
-        "name": "فصل زیبایی",
-        "url": "https://www.digikala.com/seller/GSPXF/"
+        "name": "فروشگاه آشیل کالا",
+        "url": "https://www.digikala.com/seller/CEM4Y/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -928,33 +926,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8534167",
-      "title": "مجموعه 104 عددی ابزار مدل code 0022",
-      "url": "https://www.digikala.com/product/dkp-8534167/مجموعه-104-عددی-ابزار-مدل-code-0022",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/516de2e524889347a63affc4968fb0a5f4960bb5_1652859268.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "21922040",
+      "title": "کیف ابزار ایدی تولز مدل AYT-2101 سایز 50 سانتی متر",
+      "url": "https://www.digikala.com/product/dkp-21922040/کیف-ابزار-آیدی-تولز-مدل-ayt-2101-سایز-50-سانتی-متر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2137450b6fb7d8434777b826b51e24de3cda2038_1780355303.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 5300000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 21,
-      "seller": "فروشگاه آشیل کالا",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 2520000,
+      "list_price": 2800000,
+      "discount_percent": 10,
+      "rating": 3.9,
+      "rating_count": 94,
+      "seller": "کیان پارت",
       "rank": 15,
       "available": true,
-      "badges": [],
+      "badges": [
+        "فروش ویژه",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
       "raw_ref": {
         "query": "ابزار و تجهیزات"
       },
       "supplier": {
-        "name": "فروشگاه آشیل کالا",
-        "url": "https://www.digikala.com/seller/CEM4Y/"
+        "name": "پخش گستر کالا",
+        "url": "https://www.digikala.com/seller/DWG69/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 5,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -968,7 +969,7 @@
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 519000,
       "list_price": null,
       "discount_percent": 0,
@@ -990,8 +991,8 @@
         "url": "https://www.digikala.com/seller/CFD4K/"
       },
       "signals": {
-        "price_change_pct": 1.76,
-        "rank_change": -1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -1068,36 +1069,70 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21922040",
-      "title": "کیف ابزار ایدی تولز مدل AYT-2101 سایز 50 سانتی متر",
-      "url": "https://www.digikala.com/product/dkp-21922040/کیف-ابزار-آیدی-تولز-مدل-ayt-2101-سایز-50-سانتی-متر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2137450b6fb7d8434777b826b51e24de3cda2038_1780355303.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "12143504",
+      "title": "جعبه ابزار مدل TKS-Y34265",
+      "url": "https://www.digikala.com/product/dkp-12143504/جعبه-ابزار-مدل-tks-y34265",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7794584194fbecc516762474ef5d351f2e97e1ad_1690192262.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 2520000,
-      "list_price": 2800000,
-      "discount_percent": 10,
-      "rating": 4,
-      "rating_count": 93,
-      "seller": "کیان پارت",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 685000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 585,
+      "seller": "تیکا",
       "rank": 16,
       "available": true,
       "badges": [
-        "فروش ویژه",
-        "تنها 1 عدد در انبار باقی مانده"
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "ابزار و تجهیزات"
       },
       "supplier": {
-        "name": "پخش گستر کالا",
-        "url": "https://www.digikala.com/seller/DWG69/"
+        "name": "تیکا",
+        "url": "https://www.digikala.com/seller/5A73D/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -5,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1877452",
+      "title": "ابزار نقاشی ساختمان کد 100000288 مجموعه 3 عددی",
+      "url": "https://www.digikala.com/product/dkp-1877452/ابزار-نقاشی-ساختمان-کد-100000288-مجموعه-3-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/112561164.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "tools",
+      "category_label": "ابزار و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 229450,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.5,
+      "rating_count": 32,
+      "seller": "فصل زیبایی",
+      "rank": 17,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "ابزار"
+      },
+      "supplier": {
+        "name": "فصل زیبایی",
+        "url": "https://www.digikala.com/seller/GSPXF/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -1142,33 +1177,31 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "12143504",
-      "title": "جعبه ابزار مدل TKS-Y34265",
-      "url": "https://www.digikala.com/product/dkp-12143504/جعبه-ابزار-مدل-tks-y34265",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7794584194fbecc516762474ef5d351f2e97e1ad_1690192262.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "15894996",
+      "title": "مجموعه 45 عددی ابزار کد 0045",
+      "url": "https://www.digikala.com/product/dkp-15894996/مجموعه-45-عددی-ابزار-کد-0045",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8cd547e7df67c0a81cf818e893271f00834f94e6_1719151880.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 685000,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 5000000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 585,
-      "seller": "تیکا",
+      "rating": 3.9,
+      "rating_count": 101,
+      "seller": "ابزار فرحمند",
       "rank": 17,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
         "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "ابزار و تجهیزات"
       },
       "supplier": {
-        "name": "تیکا",
-        "url": "https://www.digikala.com/seller/5A73D/"
+        "name": "ابزار فرحمند",
+        "url": "https://www.digikala.com/seller/GYVF5/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -1208,41 +1241,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "15894996",
-      "title": "مجموعه 45 عددی ابزار کد 0045",
-      "url": "https://www.digikala.com/product/dkp-15894996/مجموعه-45-عددی-ابزار-کد-0045",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8cd547e7df67c0a81cf818e893271f00834f94e6_1719151880.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "tools",
-      "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 5000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 101,
-      "seller": "ابزار فرحمند",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "ابزار و تجهیزات"
-      },
-      "supplier": {
-        "name": "ابزار فرحمند",
-        "url": "https://www.digikala.com/seller/GYVF5/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
         "is_new": false
       }
     },
@@ -1383,41 +1381,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22214539",
-      "title": "مجموعه 8 عددی ابزار دستی مدل TB-2217",
-      "url": "https://www.digikala.com/product/dkp-22214539/مجموعه-8-عددی-ابزار-دستی-مدل-tb-2217",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1315d8d285ea17ac5e47f781c52cb9ad8452f58f_1783706234.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "tools",
-      "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-13T19:28:25.516Z",
-      "price": 4200000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "ماکیوو",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "ابزار"
-      },
-      "supplier": {
-        "name": "ماکیوو",
-        "url": "https://www.digikala.com/seller/J56MY/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "2325204",
       "title": "ابزار بافت و بامتل مو مدل 02 بسته 2 عددی",
       "url": "https://www.digikala.com/product/dkp-2325204/ابزار-بافت-و-بامتل-مو-مدل-02-بسته-2-عددی",
@@ -1425,17 +1388,16 @@
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-13T19:28:25.516Z",
-      "price": 268470,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 247600,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 501,
       "seller": "بازرگانی ایران بیوتی",
-      "rank": 19,
+      "rank": 18,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
@@ -1446,8 +1408,8 @@
         "url": "https://www.digikala.com/seller/CZM3X/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -3,
+        "price_change_pct": -7.77,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -1641,14 +1603,14 @@
       "brand": "متفرقه",
       "category_key": "tools",
       "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 444000,
       "list_price": 1480000,
       "discount_percent": 70,
       "rating": 4.6,
       "rating_count": 18,
       "seller": "ایرانیان تجهیز",
-      "rank": 20,
+      "rank": 19,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -1663,7 +1625,115 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "6417299",
+      "title": "کیف ابزار خانگی تانوس مدل 02",
+      "url": "https://www.digikala.com/product/dkp-6417299/کیف-ابزار-خانگی-تانوس-مدل-02",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2c9ede74bb887b990e46d57dd350f744d41eaf84_1631363060.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "تانوس",
+      "category_key": "tools",
+      "category_label": "ابزار و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 464000,
+      "list_price": 600000,
+      "discount_percent": 23,
+      "rating": 4.2,
+      "rating_count": 2282,
+      "seller": "ابزار ایران صنعت",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "ابزار و تجهیزات"
+      },
+      "supplier": {
+        "name": "ابزار ایران صنعت",
+        "url": "https://www.digikala.com/seller/A9H44/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8314114",
+      "title": "مجموعه 48 عددی جعبه ابزار باس مدل BS-5835",
+      "url": "https://www.digikala.com/product/dkp-8314114/مجموعه-48-عددی-جعبه-ابزار-باس-مدل-bs-5835",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ffa6a41451a807ccd25cb50a519d45b248058874_1650343878.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "باس",
+      "category_key": "tools",
+      "category_label": "ابزار و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 9118880,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 722,
+      "seller": "ایران باس",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ابزار و تجهیزات"
+      },
+      "supplier": {
+        "name": "اذر مهر",
+        "url": "https://www.digikala.com/seller/DCNDP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -11,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "22214539",
+      "title": "مجموعه 8 عددی ابزار دستی مدل TB-2217",
+      "url": "https://www.digikala.com/product/dkp-22214539/مجموعه-8-عددی-ابزار-دستی-مدل-tb-2217",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1315d8d285ea17ac5e47f781c52cb9ad8452f58f_1783706234.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "tools",
+      "category_label": "ابزار و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 4200000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "ماکیوو",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ابزار"
+      },
+      "supplier": {
+        "name": "ماکیوو",
+        "url": "https://www.digikala.com/seller/J56MY/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -1807,44 +1877,6 @@
         "price_change_pct": null,
         "rank_change": null,
         "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "6417299",
-      "title": "کیف ابزار خانگی تانوس مدل 02",
-      "url": "https://www.digikala.com/product/dkp-6417299/کیف-ابزار-خانگی-تانوس-مدل-02",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2c9ede74bb887b990e46d57dd350f744d41eaf84_1631363060.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "تانوس",
-      "category_key": "tools",
-      "category_label": "ابزار و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 464000,
-      "list_price": 600000,
-      "discount_percent": 23,
-      "rating": 4.2,
-      "rating_count": 2282,
-      "seller": "ابزار ایران صنعت",
-      "rank": 20,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "ابزار و تجهیزات"
-      },
-      "supplier": {
-        "name": "ابزار ایران صنعت",
-        "url": "https://www.digikala.com/seller/A9H44/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -6,
-        "is_new": false
       }
     },
     {
@@ -38555,7 +38587,7 @@
       "brand": "لوپرو",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 138300000,
       "list_price": null,
       "discount_percent": 0,
@@ -38626,7 +38658,7 @@
       "brand": "کانن",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 99390000,
       "list_price": null,
       "discount_percent": 0,
@@ -38644,7 +38676,7 @@
         "url": "https://www.digikala.com/seller/HNAUJ/"
       },
       "signals": {
-        "price_change_pct": -0.1,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -38692,7 +38724,7 @@
       "brand": "لوپرو",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 152500000,
       "list_price": null,
       "discount_percent": 0,
@@ -38728,7 +38760,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 6475000,
       "list_price": null,
       "discount_percent": 0,
@@ -38748,8 +38780,8 @@
         "url": "https://www.digikala.com/seller/GPTHJ/"
       },
       "signals": {
-        "price_change_pct": -0.37,
-        "rank_change": 2,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -38763,7 +38795,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1496470,
       "list_price": null,
       "discount_percent": 0,
@@ -38798,7 +38830,7 @@
       "brand": "گیتزو",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 110500000,
       "list_price": null,
       "discount_percent": 0,
@@ -38869,7 +38901,7 @@
       "brand": "فوجی فیلم",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 24600000,
       "list_price": null,
       "discount_percent": 0,
@@ -38889,8 +38921,8 @@
         "url": "https://www.digikala.com/seller/DTKGY/"
       },
       "signals": {
-        "price_change_pct": 5.13,
-        "rank_change": -2,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -38940,7 +38972,7 @@
       "brand": "نشنال جئوگرافیک",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 66900000,
       "list_price": null,
       "discount_percent": 0,
@@ -38976,7 +39008,7 @@
       "brand": "کانن",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 99000000,
       "list_price": null,
       "discount_percent": 0,
@@ -39011,7 +39043,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 19750660,
       "list_price": null,
       "discount_percent": 0,
@@ -39046,7 +39078,7 @@
       "brand": "گیتزو",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 75600000,
       "list_price": null,
       "discount_percent": 0,
@@ -39118,7 +39150,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 2900000,
       "list_price": null,
       "discount_percent": 0,
@@ -39154,7 +39186,7 @@
       "brand": "تینک تنک",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 122900000,
       "list_price": null,
       "discount_percent": 0,
@@ -39190,13 +39222,13 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 2990000,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 2980000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 186,
-      "seller": "دیدگستر",
+      "seller": "داهوای تهران",
       "rank": 7,
       "available": true,
       "badges": [],
@@ -39208,7 +39240,7 @@
         "url": "https://www.digikala.com/seller/DSZS6/"
       },
       "signals": {
-        "price_change_pct": 5.78,
+        "price_change_pct": -0.33,
         "rank_change": 0,
         "is_new": false
       }
@@ -39223,14 +39255,14 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 9595000,
       "list_price": 10100000,
       "discount_percent": 5,
       "rating": 3.7,
       "rating_count": 53,
       "seller": "حافظ تیم",
-      "rank": 7,
+      "rank": 8,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -39245,7 +39277,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -39259,7 +39291,7 @@
       "brand": "کانن",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 185000000,
       "list_price": null,
       "discount_percent": 0,
@@ -39331,7 +39363,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 23793310,
       "list_price": null,
       "discount_percent": 0,
@@ -39366,7 +39398,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1549000,
       "list_price": null,
       "discount_percent": 0,
@@ -39434,7 +39466,7 @@
       "brand": "منفروتو",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 32000000,
       "list_price": null,
       "discount_percent": 0,
@@ -39470,7 +39502,7 @@
       "brand": "لوپرو",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 135900000,
       "list_price": null,
       "discount_percent": 0,
@@ -39506,7 +39538,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 8802180,
       "list_price": null,
       "discount_percent": 0,
@@ -39541,7 +39573,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 4900000,
       "list_price": null,
       "discount_percent": 0,
@@ -39562,7 +39594,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -39576,7 +39608,7 @@
       "brand": "کانن",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 100000000,
       "list_price": null,
       "discount_percent": 0,
@@ -39597,7 +39629,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -39644,7 +39676,7 @@
       "brand": "فوجی فیلم",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 31000000,
       "list_price": null,
       "discount_percent": 0,
@@ -39679,7 +39711,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 29300000,
       "list_price": null,
       "discount_percent": 0,
@@ -39714,7 +39746,7 @@
       "brand": "کانن",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 105000000,
       "list_price": null,
       "discount_percent": 0,
@@ -39734,7 +39766,7 @@
         "url": "https://www.digikala.com/seller/FWX5A/"
       },
       "signals": {
-        "price_change_pct": 0.96,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -39749,7 +39781,7 @@
       "brand": "منفروتو",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 37500000,
       "list_price": null,
       "discount_percent": 0,
@@ -39928,7 +39960,7 @@
       "brand": "فوجی فیلم",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 28800000,
       "list_price": null,
       "discount_percent": 0,
@@ -39963,7 +39995,7 @@
       "brand": "منفروتو",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 30500000,
       "list_price": null,
       "discount_percent": 0,
@@ -40106,7 +40138,7 @@
       "brand": "کانن",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 160000000,
       "list_price": null,
       "discount_percent": 0,
@@ -40126,8 +40158,8 @@
         "url": "https://www.digikala.com/seller/HNAUJ/"
       },
       "signals": {
-        "price_change_pct": 7.74,
-        "rank_change": -8,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -40141,7 +40173,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 6900000,
       "list_price": null,
       "discount_percent": 0,
@@ -40162,7 +40194,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -40209,7 +40241,7 @@
       "brand": "لوپرو",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 28700000,
       "list_price": null,
       "discount_percent": 0,
@@ -40231,7 +40263,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -40245,7 +40277,7 @@
       "brand": "سامسونگ",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 39200000,
       "list_price": null,
       "discount_percent": 0,
@@ -40267,7 +40299,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -40391,7 +40423,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 7600000,
       "list_price": null,
       "discount_percent": 0,
@@ -40413,44 +40445,8 @@
         "url": "https://www.digikala.com/seller/AXKAC/"
       },
       "signals": {
-        "price_change_pct": -13.64,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "1886115",
-      "title": "دوربین دیجیتال بدون اینه سونی مدل Alpha A6400 به همراه لنز 16-50 میلی متر OSS",
-      "url": "https://www.digikala.com/product/dkp-1886115/دوربین-دیجیتال-بدون-آینه-سونی-مدل-alpha-a6400-به-همراه-لنز-16-50-میلی-متر-oss",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/3eb907a8192f139945fce0d93937aed1f40f0fcb_1786911148.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "سونی",
-      "category_key": "camera",
-      "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 218000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 11,
-      "seller": "دهکده دوربین",
-      "rank": 16,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "دوربین"
-      },
-      "supplier": {
-        "name": "دهکده دوربین",
-        "url": "https://www.digikala.com/seller/FWX5A/"
-      },
-      "signals": {
-        "price_change_pct": 3.81,
-        "rank_change": -2,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -40464,7 +40460,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 6820000,
       "list_price": null,
       "discount_percent": 0,
@@ -40485,7 +40481,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -40499,7 +40495,7 @@
       "brand": "تینک تنک",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 66800000,
       "list_price": null,
       "discount_percent": 0,
@@ -40521,7 +40517,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -40679,16 +40675,19 @@
       "brand": "کانن",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 147500000,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 147480000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
       "rating_count": 2,
-      "seller": "آل قاچ",
-      "rank": 17,
+      "seller": "دهکده دوربین",
+      "rank": 16,
       "available": true,
-      "badges": [],
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
       "raw_ref": {
         "query": "دوربین"
       },
@@ -40697,45 +40696,8 @@
         "url": "https://www.digikala.com/seller/FWX5A/"
       },
       "signals": {
-        "price_change_pct": -1.67,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "17989021",
-      "title": "دوربین عکاسی چاپ سریع مدل Z11",
-      "url": "https://www.digikala.com/product/dkp-17989021/دوربین-عکاسی-چاپ-سریع-مدل-z11",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2e7e1c36b1319f62e39c44fb719cf266b023b6d9_1786911153.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "camera",
-      "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 4459000,
-      "list_price": 4550000,
-      "discount_percent": 2,
-      "rating": 3.9,
-      "rating_count": 15,
-      "seller": " پاشا تویز",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "دوربین عکاسی"
-      },
-      "supplier": {
-        "name": " پاشا تویز",
-        "url": "https://www.digikala.com/seller/CUYRP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "price_change_pct": -0.01,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -40820,7 +40782,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 395000,
       "list_price": null,
       "discount_percent": 0,
@@ -40838,9 +40800,117 @@
         "url": "https://www.digikala.com/seller/ETTCK/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8908327",
+      "title": "دوربین مداربسته تحت شبکه چرخشی بی‌سیم فضای بسته 2 مگاپیکسل با دید در شب رنگی، تشخیص چهره و مکالمه صوتی",
+      "url": "https://www.digikala.com/product/dkp-8908327/دوربین-مداربسته-تحت-شبکه-چرخشی-بیسیم-فضای-بسته-2-مگاپیکسل-با-دید-در-شب-رنگی-تشخیص-چهره-و-مکالمه-صوتی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/221791bfe1067ea68b38db729bf2aadc99d62d5f_1787417409.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "camera",
+      "category_label": "دوربین و تجهیزات عکاسی",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1990000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3,
+      "rating_count": 641,
+      "seller": "رخشید بوشهر",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "دوربین"
+      },
+      "supplier": {
+        "name": "رخشید بوشهر",
+        "url": "https://www.digikala.com/seller/HN4R9/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1886115",
+      "title": "دوربین دیجیتال بدون اینه سونی مدل Alpha A6400 به همراه لنز 16-50 میلی متر OSS",
+      "url": "https://www.digikala.com/product/dkp-1886115/دوربین-دیجیتال-بدون-آینه-سونی-مدل-alpha-a6400-به-همراه-لنز-16-50-میلی-متر-oss",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3eb907a8192f139945fce0d93937aed1f40f0fcb_1786911148.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "سونی",
+      "category_key": "camera",
+      "category_label": "دوربین و تجهیزات عکاسی",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 218000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 11,
+      "seller": "دهکده دوربین",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "دوربین"
+      },
+      "supplier": {
+        "name": "دهکده دوربین",
+        "url": "https://www.digikala.com/seller/FWX5A/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17989021",
+      "title": "دوربین عکاسی چاپ سریع مدل Z11",
+      "url": "https://www.digikala.com/product/dkp-17989021/دوربین-عکاسی-چاپ-سریع-مدل-z11",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2e7e1c36b1319f62e39c44fb719cf266b023b6d9_1786911153.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "camera",
+      "category_label": "دوربین و تجهیزات عکاسی",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 4459000,
+      "list_price": 4550000,
+      "discount_percent": 2,
+      "rating": 3.9,
+      "rating_count": 15,
+      "seller": " پاشا تویز",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "دوربین عکاسی"
+      },
+      "supplier": {
+        "name": " پاشا تویز",
+        "url": "https://www.digikala.com/seller/CUYRP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
       }
     },
     {
@@ -40853,7 +40923,7 @@
       "brand": "لوپرو",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 47500000,
       "list_price": null,
       "discount_percent": 0,
@@ -40872,41 +40942,6 @@
       "supplier": {
         "name": "پرو استودیو",
         "url": "https://www.digikala.com/seller/H4DRC/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "8908327",
-      "title": "دوربین مداربسته تحت شبکه چرخشی بی‌سیم فضای بسته 2 مگاپیکسل با دید در شب رنگی، تشخیص چهره و مکالمه صوتی",
-      "url": "https://www.digikala.com/product/dkp-8908327/دوربین-مداربسته-تحت-شبکه-چرخشی-بیسیم-فضای-بسته-2-مگاپیکسل-با-دید-در-شب-رنگی-تشخیص-چهره-و-مکالمه-صوتی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/221791bfe1067ea68b38db729bf2aadc99d62d5f_1787417409.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "camera",
-      "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 1990000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3,
-      "rating_count": 641,
-      "seller": "رخشید بوشهر",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "دوربین"
-      },
-      "supplier": {
-        "name": "رخشید بوشهر",
-        "url": "https://www.digikala.com/seller/HN4R9/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -41171,7 +41206,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 2950000,
       "list_price": null,
       "discount_percent": 0,
@@ -41191,8 +41226,8 @@
         "url": "https://www.digikala.com/seller/H6C2R/"
       },
       "signals": {
-        "price_change_pct": 18,
-        "rank_change": -4,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -41206,7 +41241,7 @@
       "brand": "منفروتو",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 52000000,
       "list_price": null,
       "discount_percent": 0,
@@ -41228,43 +41263,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "22565968",
-      "title": "دوربین عکاسی چاپ سریع مبتدی پرینت کامرا مدل Q11 با حسگر 12 مگاپیکسل ، درگاه کارت حافظه ، بدون فلاش و منظره‌یاب",
-      "url": "https://www.digikala.com/product/dkp-22565968/دوربین-عکاسی-چاپ-سریع-مبتدی-پرینت-کامرا-مدل-q11-با-حسگر-12-مگاپیکسل-درگاه-کارت-حافظه-بدون-فلاش-و-منظرهیاب",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f89685df64e71e12bc1d22d81a1a492cd0bac4e5_1787340591.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "camera",
-      "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-13T19:28:25.516Z",
-      "price": 5500000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "کلید ابزار",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "دوربین"
-      },
-      "supplier": {
-        "name": "کلید ابزار",
-        "url": "https://www.digikala.com/seller/G447X/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -41514,6 +41513,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "22565968",
+      "title": "دوربین عکاسی چاپ سریع مبتدی پرینت کامرا مدل Q11 با حسگر 12 مگاپیکسل ، درگاه کارت حافظه ، بدون فلاش و منظره‌یاب",
+      "url": "https://www.digikala.com/product/dkp-22565968/دوربین-عکاسی-چاپ-سریع-مبتدی-پرینت-کامرا-مدل-q11-با-حسگر-12-مگاپیکسل-درگاه-کارت-حافظه-بدون-فلاش-و-منظرهیاب",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f89685df64e71e12bc1d22d81a1a492cd0bac4e5_1787340591.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "camera",
+      "category_label": "دوربین و تجهیزات عکاسی",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 5500000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "کلید ابزار",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "دوربین"
+      },
+      "supplier": {
+        "name": "کلید ابزار",
+        "url": "https://www.digikala.com/seller/G447X/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "17435104",
       "title": "دوربین عکاسی چاپ سریع مدل SB1502",
       "url": "https://www.digikala.com/product/dkp-17435104/دوربین-عکاسی-چاپ-سریع-مدل-sb1502",
@@ -41521,7 +41556,7 @@
       "brand": "متفرقه",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 6900000,
       "list_price": null,
       "discount_percent": 0,
@@ -41542,7 +41577,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -41556,7 +41591,7 @@
       "brand": "لوپرو",
       "category_key": "camera",
       "category_label": "دوربین و تجهیزات عکاسی",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 49500000,
       "list_price": null,
       "discount_percent": 0,
@@ -41578,7 +41613,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -61395,39 +61430,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "7586773",
-      "title": "مجموعه 14 عددی ابزار مدل کاربردی",
-      "url": "https://www.digikala.com/product/dkp-7586773/مجموعه-14-عددی-ابزار-مدل-کاربردی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9cd90ad46103d2b669782dd683c66ba28bb22262_1642486587.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "health",
-      "category_label": "سلامت و بهداشت",
-      "observed_at": "2026-10-15T06:19:18.784Z",
-      "price": 1100000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 64,
-      "seller": "ابزار مارکت",
-      "rank": 14,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "محصولات"
-      },
-      "supplier": {
-        "name": "آفی کالا",
-        "url": "https://www.digikala.com/seller/DXHZH/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -12,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "13502224",
       "title": "کتاب درسنامه جامع علوم پایه پزشکی و دندانپزشکی شهریور 1402 اثر جمعی از نویسندگان انتشارات حیدری",
       "url": "https://www.digikala.com/product/dkp-13502224/کتاب-درسنامه-جامع-علوم-پایه-پزشکی-و-دندانپزشکی-شهریور-1402-اثر-جمعی-از-نویسندگان-انتشارات-حیدری",
@@ -69752,7 +69754,7 @@
       "brand": "متفرقه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1997910,
       "list_price": 7295370,
       "discount_percent": 73,
@@ -69774,7 +69776,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 8,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -69788,7 +69790,7 @@
       "brand": "ونزکافه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 999000,
       "list_price": 1498500,
       "discount_percent": 33,
@@ -69825,12 +69827,12 @@
       "brand": "متفرقه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-12T23:09:28.541Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 185970,
-      "list_price": 347240,
-      "discount_percent": 46,
+      "list_price": 282930,
+      "discount_percent": 34,
       "rating": 4.2,
-      "rating_count": 2415,
+      "rating_count": 2423,
       "seller": "پلونیا شاپ",
       "rank": 2,
       "available": true,
@@ -69846,44 +69848,8 @@
         "url": "https://www.digikala.com/seller/E4DV5/"
       },
       "signals": {
-        "price_change_pct": -2.81,
-        "rank_change": 14,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "8651940",
-      "title": "تمپر قهوه و مت تک و ناک باکس مدل 51",
-      "url": "https://www.digikala.com/product/dkp-8651940/تمپر-قهوه-و-مت-و-ناک-باکس-مدل-51",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/65bcab2070d7736fdab8eaf4cd9442ef481ab815_1786574575.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "coffee",
-      "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 389960,
-      "list_price": 710130,
-      "discount_percent": 45,
-      "rating": 4.3,
-      "rating_count": 1618,
-      "seller": "پلونیا شاپ",
-      "rank": 2,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "قهوه و تجهیزات"
-      },
-      "supplier": {
-        "name": "بهی سنتر",
-        "url": "https://www.digikala.com/seller/F7MZR/"
-      },
-      "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -69897,7 +69863,7 @@
       "brand": "بن مانو",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 880000,
       "list_price": 985600,
       "discount_percent": 11,
@@ -69921,7 +69887,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 12,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8651940",
+      "title": "تمپر قهوه و مت تک و ناک باکس مدل 51",
+      "url": "https://www.digikala.com/product/dkp-8651940/تمپر-قهوه-و-مت-و-ناک-باکس-مدل-51",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/65bcab2070d7736fdab8eaf4cd9442ef481ab815_1786574575.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "coffee",
+      "category_label": "قهوه و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 389960,
+      "list_price": 710130,
+      "discount_percent": 45,
+      "rating": 4.3,
+      "rating_count": 1619,
+      "seller": "پلونیا شاپ",
+      "rank": 3,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "قهوه و تجهیزات"
+      },
+      "supplier": {
+        "name": "بهی سنتر",
+        "url": "https://www.digikala.com/seller/F7MZR/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -69935,7 +69937,7 @@
       "brand": "ونزکافه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 781000,
       "list_price": 1420000,
       "discount_percent": 45,
@@ -69958,8 +69960,8 @@
         "url": "https://www.digikala.com/seller/CER7E/"
       },
       "signals": {
-        "price_change_pct": -25.55,
-        "rank_change": -1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -70045,14 +70047,14 @@
       "brand": "متفرقه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 197800,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
-      "rating_count": 1709,
+      "rating_count": 1710,
       "seller": "خانه و مد",
-      "rank": 3,
+      "rank": 4,
       "available": true,
       "badges": [
         "تنها 1 عدد در انبار باقی مانده"
@@ -70065,8 +70067,8 @@
         "url": "https://www.digikala.com/seller/F7RRV/"
       },
       "signals": {
-        "price_change_pct": 4.11,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -70080,7 +70082,7 @@
       "brand": "قهوه ارام",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 720000,
       "list_price": null,
       "discount_percent": 0,
@@ -70113,14 +70115,14 @@
       "brand": "متفرقه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 305490,
       "list_price": 698850,
       "discount_percent": 56,
       "rating": 4.4,
       "rating_count": 3185,
       "seller": "پلونیا شاپ",
-      "rank": 4,
+      "rank": 5,
       "available": true,
       "badges": [
         "پیشنهاد شگفت انگیز",
@@ -70135,8 +70137,8 @@
         "url": "https://www.digikala.com/seller/F7MZR/"
       },
       "signals": {
-        "price_change_pct": -27.12,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -70215,6 +70217,44 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "20528944",
+      "title": "قهوه دمی 9 صبح 60 درصد عربیکا بن مانو - 240 گرمبسته 24 عددی",
+      "url": "https://www.digikala.com/product/dkp-20528944/قهوه-دمی-9-صبح-60-درصد-عربیکا-بن-مانو-240-گرمبسته-24-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e0b7d39c0d8c2c2b06c702ff8321d950576c2871_1758794204.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بن مانو",
+      "category_key": "coffee",
+      "category_label": "قهوه و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1170000,
+      "list_price": 1293600,
+      "discount_percent": 10,
+      "rating": 4.7,
+      "rating_count": 74,
+      "seller": "تجارت ایران اطلس",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "قهوه"
+      },
+      "supplier": {
+        "name": "ام تی پیک",
+        "url": "https://www.digikala.com/seller/H66XX/"
+      },
+      "signals": {
+        "price_change_pct": 4.56,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "13838046",
       "title": "پودر قهوه اسپرسو 20 درصد عربیکا، 80 درصد ربوستا با طعم کارامل ونزکافه - 250 گرم",
       "url": "https://www.digikala.com/product/dkp-13838046/پودر-قهوه-اسپرسو-20-درصد-عربيكا-80-درصد-ربوستا-با-طعم-کارامل-ونزکافه-250-گرم",
@@ -70222,14 +70262,14 @@
       "brand": "ونزکافه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1184000,
       "list_price": 1580000,
       "discount_percent": 25,
       "rating": 4.2,
       "rating_count": 301,
       "seller": "ونزکافه",
-      "rank": 5,
+      "rank": 6,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -70245,7 +70285,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -70259,14 +70299,14 @@
       "brand": "متفرقه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1500000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 15,
       "seller": "بهینا مارکت",
-      "rank": 5,
+      "rank": 6,
       "available": true,
       "badges": [
         "تنها 2 عدد در انبار باقی مانده"
@@ -70280,43 +70320,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20528944",
-      "title": "قهوه دمی 9 صبح 60 درصد عربیکا بن مانو - 240 گرمبسته 24 عددی",
-      "url": "https://www.digikala.com/product/dkp-20528944/قهوه-دمی-9-صبح-60-درصد-عربیکا-بن-مانو-240-گرمبسته-24-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e0b7d39c0d8c2c2b06c702ff8321d950576c2871_1758794204.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بن مانو",
-      "category_key": "coffee",
-      "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-13T19:28:25.516Z",
-      "price": 1119000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.7,
-      "rating_count": 74,
-      "seller": "ام تی پیک",
-      "rank": 6,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "قهوه"
-      },
-      "supplier": {
-        "name": "ام تی پیک",
-        "url": "https://www.digikala.com/seller/H66XX/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -70330,14 +70334,14 @@
       "brand": "شاران",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 755000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
-      "rating_count": 3534,
+      "rating_count": 3535,
       "seller": "کارخانه قهوه شاران",
-      "rank": 6,
+      "rank": 7,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -70349,7 +70353,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -70363,14 +70367,14 @@
       "brand": "پرانی",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 102860,
       "list_price": 182700,
       "discount_percent": 44,
       "rating": 4.4,
       "rating_count": 2261,
       "seller": "پلونیا شاپ",
-      "rank": 6,
+      "rank": 7,
       "available": true,
       "badges": [
         "پیشنهاد شگفت انگیز",
@@ -70385,44 +70389,8 @@
         "url": "https://www.digikala.com/seller/FF7DP/"
       },
       "signals": {
-        "price_change_pct": -20.52,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "22595307",
-      "title": "تجهیزات قهوه گتر مدل 005 بسته 6 عددی",
-      "url": "https://www.digikala.com/product/dkp-22595307/تجهیزات-قهوه-گتر-مدل-005-بسته-6-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/902fc3774b078160eb5a86a81135bbc6561d4657_1787664491.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "گتر",
-      "category_key": "coffee",
-      "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 1728130,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "توانا مارکت",
-      "rank": 7,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "قهوه و تجهیزات"
-      },
-      "supplier": {
-        "name": "رسا کالا",
-        "url": "https://www.digikala.com/seller/CCYSZ/"
-      },
-      "signals": {
-        "price_change_pct": 0.22,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -70436,14 +70404,14 @@
       "brand": "قهوه پندار",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 817000,
       "list_price": 860000,
       "discount_percent": 5,
       "rating": 4.5,
       "rating_count": 8,
       "seller": "قهوه پندار",
-      "rank": 7,
+      "rank": 8,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -70458,44 +70426,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "7282660",
-      "title": "قهوه اسپرسو فوری ونزکافه 80گرم",
-      "url": "https://www.digikala.com/product/dkp-7282660/قهوه-اسپرسو-فوری-ونزکافه-80گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/3d857e6d184a2416881bb9837ce8d5a38a874abc_1639217472.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ونزکافه",
-      "category_key": "coffee",
-      "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 687000,
-      "list_price": 930000,
-      "discount_percent": 26,
-      "rating": 4.1,
-      "rating_count": 293,
-      "seller": "ونزکافه",
-      "rank": 8,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "قهوه"
-      },
-      "supplier": {
-        "name": "ونزکافه",
-        "url": "https://www.digikala.com/seller/CER7E/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -5,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -70545,7 +70476,7 @@
       "brand": "متفرقه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1997830,
       "list_price": 3267820,
       "discount_percent": 39,
@@ -70566,8 +70497,44 @@
         "url": "https://www.digikala.com/seller/FF7DP/"
       },
       "signals": {
-        "price_change_pct": 0.09,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "22595307",
+      "title": "تجهیزات قهوه گتر مدل 005 بسته 6 عددی",
+      "url": "https://www.digikala.com/product/dkp-22595307/تجهیزات-قهوه-گتر-مدل-005-بسته-6-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/902fc3774b078160eb5a86a81135bbc6561d4657_1787664491.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "گتر",
+      "category_key": "coffee",
+      "category_label": "قهوه و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1726590,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "توانا مارکت",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "قهوه و تجهیزات"
+      },
+      "supplier": {
+        "name": "رسا کالا",
+        "url": "https://www.digikala.com/seller/CCYSZ/"
+      },
+      "signals": {
+        "price_change_pct": -0.09,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -70610,6 +70577,114 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "9607339",
+      "title": "قهوه مهمت افندی - 250 گرم",
+      "url": "https://www.digikala.com/product/dkp-9607339/قهوه-مهمت-افندی-250-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ae9c76096e248491a89010c0032dbc0fd5e9c913_1731139910.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "مهمت افندی",
+      "category_key": "coffee",
+      "category_label": "قهوه و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1490000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 101,
+      "seller": "فروشگاه آدلی سنتر",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "قهوه"
+      },
+      "supplier": {
+        "name": "فروشگاه آدلی سنتر",
+        "url": "https://www.digikala.com/seller/GJWU3/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "7282660",
+      "title": "قهوه اسپرسو فوری ونزکافه 80گرم",
+      "url": "https://www.digikala.com/product/dkp-7282660/قهوه-اسپرسو-فوری-ونزکافه-80گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3d857e6d184a2416881bb9837ce8d5a38a874abc_1639217472.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "ونزکافه",
+      "category_key": "coffee",
+      "category_label": "قهوه و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 687000,
+      "list_price": 930000,
+      "discount_percent": 26,
+      "rating": 4.1,
+      "rating_count": 293,
+      "seller": "ونزکافه",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "قهوه"
+      },
+      "supplier": {
+        "name": "ونزکافه",
+        "url": "https://www.digikala.com/seller/CER7E/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "10971334",
+      "title": "فیلتر قهوه مدل اسپرسو کد 51 بسته 100 عددی",
+      "url": "https://www.digikala.com/product/dkp-10971334/فیلتر-قهوه-مدل-اسپرسو-کد-51-بسته-100-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f98c63d7c2a1608fbdc33c095c2ce5e9a0fa9d2f_1680342731.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "coffee",
+      "category_label": "قهوه و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 70000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 662,
+      "seller": "گس کافی",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "قهوه و تجهیزات"
+      },
+      "supplier": {
+        "name": "گس کافی",
+        "url": "https://www.digikala.com/seller/E5UGM/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "20536547",
       "title": "قهوه اسپرسو %80 عربیکا بن مانو - 250 گرم",
       "url": "https://www.digikala.com/product/dkp-20536547/قهوه-اسپرسو-80-عربیکا-بن-مانو-250-گرم",
@@ -70617,14 +70692,14 @@
       "brand": "بن مانو",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1150000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
       "rating_count": 29,
       "seller": "فراز پلاس",
-      "rank": 9,
+      "rank": 11,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -70640,148 +70715,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "10971334",
-      "title": "فیلتر قهوه مدل اسپرسو کد 51 بسته 100 عددی",
-      "url": "https://www.digikala.com/product/dkp-10971334/فیلتر-قهوه-مدل-اسپرسو-کد-51-بسته-100-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f98c63d7c2a1608fbdc33c095c2ce5e9a0fa9d2f_1680342731.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "coffee",
-      "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 70000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 661,
-      "seller": "گس کافی",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "قهوه و تجهیزات"
-      },
-      "supplier": {
-        "name": "گس کافی",
-        "url": "https://www.digikala.com/seller/E5UGM/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "9607339",
-      "title": "قهوه مهمت افندی - 250 گرم",
-      "url": "https://www.digikala.com/product/dkp-9607339/قهوه-مهمت-افندی-250-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ae9c76096e248491a89010c0032dbc0fd5e9c913_1731139910.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "مهمت افندی",
-      "category_key": "coffee",
-      "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 1490000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 101,
-      "seller": "فروشگاه آدلی سنتر",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "قهوه"
-      },
-      "supplier": {
-        "name": "فروشگاه آدلی سنتر",
-        "url": "https://www.digikala.com/seller/GJWU3/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "9345320",
-      "title": "فانل اسپرسوساز گتر مدل 51",
-      "url": "https://www.digikala.com/product/dkp-9345320/فانل-اسپرسوساز-گتر-مدل-51",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/60c21e83bef918d78c9ccaf5014b2f1a5f07cc69_1786574581.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "گتر",
-      "category_key": "coffee",
-      "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 235130,
-      "list_price": 248580,
-      "discount_percent": 5,
-      "rating": 4.3,
-      "rating_count": 2886,
-      "seller": "شایان تجارت راسپینا",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "قهوه و تجهیزات"
-      },
-      "supplier": {
-        "name": "شایان تجارت راسپینا",
-        "url": "https://www.digikala.com/seller/F26PW/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "19398943",
-      "title": "استند نگهدارنده تجهیزات قهوه مدل چوبی کد 51",
-      "url": "https://www.digikala.com/product/dkp-19398943/استند-نگهدارنده-تجهیزات-قهوه-مدل-چوبی-کد-51",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7bc25696fc1e07d9d43c89dd0c0ac636797a639b_1786574659.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "coffee",
-      "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 2100000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 9,
-      "seller": "اسپرسو فکتوری",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "قهوه و تجهیزات"
-      },
-      "supplier": {
-        "name": "نوین پخش کالا",
-        "url": "https://www.digikala.com/seller/C963S/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -70931,37 +70865,70 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22012665",
-      "title": "اسپرسو فوری مولتی کافه - 2.5 گرم بسته 40 عددی",
-      "url": "https://www.digikala.com/product/dkp-22012665/اسپرسو-فوری-مولتی-کافه-25-گرم-بسته-40-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/6c108cfaf611d17159659834b9dfc17415e01dbe_1781434785.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "مولتی کافه",
+      "source_id": "19399402",
+      "title": "استند نگهدارنده تجهیزات قهوه مدل مربعی چوبی کد 58",
+      "url": "https://www.digikala.com/product/dkp-19399402/استند-نگهدارنده-تجهیزات-قهوه-مدل-مربعی-چوبی-کد-58",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/db6096ba768cb80f9a2c33b58f99c39ff86e5728_1748849577.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 1303200,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 2100000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 22,
-      "seller": "دیبا نیک",
+      "rating": 4.2,
+      "rating_count": 12,
+      "seller": "اسپرسو فکتوری",
       "rank": 11,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "قهوه"
+        "query": "قهوه و تجهیزات"
       },
       "supplier": {
-        "name": "دیبا نیک",
-        "url": "https://www.digikala.com/seller/AXSFP/"
+        "name": "اسپرسو فکتوری",
+        "url": "https://www.digikala.com/seller/F9AF6/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19398943",
+      "title": "استند نگهدارنده تجهیزات قهوه مدل چوبی کد 51",
+      "url": "https://www.digikala.com/product/dkp-19398943/استند-نگهدارنده-تجهیزات-قهوه-مدل-چوبی-کد-51",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7bc25696fc1e07d9d43c89dd0c0ac636797a639b_1786574659.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "coffee",
+      "category_label": "قهوه و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 2100000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 9,
+      "seller": "اسپرسو فکتوری",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "قهوه و تجهیزات"
+      },
+      "supplier": {
+        "name": "نوین پخش کالا",
+        "url": "https://www.digikala.com/seller/C963S/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -71008,7 +70975,7 @@
       "brand": "ونزکافه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1123000,
       "list_price": 1498500,
       "discount_percent": 25,
@@ -71038,35 +71005,35 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19399402",
-      "title": "استند نگهدارنده تجهیزات قهوه مدل مربعی چوبی کد 58",
-      "url": "https://www.digikala.com/product/dkp-19399402/استند-نگهدارنده-تجهیزات-قهوه-مدل-مربعی-چوبی-کد-58",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/db6096ba768cb80f9a2c33b58f99c39ff86e5728_1748849577.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "9345320",
+      "title": "فانل اسپرسوساز گتر مدل 51",
+      "url": "https://www.digikala.com/product/dkp-9345320/فانل-اسپرسوساز-گتر-مدل-51",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/60c21e83bef918d78c9ccaf5014b2f1a5f07cc69_1786574581.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "گتر",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 2100000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 12,
-      "seller": "اسپرسو فکتوری",
-      "rank": 12,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 235130,
+      "list_price": 248580,
+      "discount_percent": 5,
+      "rating": 4.3,
+      "rating_count": 2886,
+      "seller": "شایان تجارت راسپینا",
+      "rank": 13,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده"
+        "فروش ویژه"
       ],
       "raw_ref": {
         "query": "قهوه و تجهیزات"
       },
       "supplier": {
-        "name": "اسپرسو فکتوری",
-        "url": "https://www.digikala.com/seller/F9AF6/"
+        "name": "شایان تجارت راسپینا",
+        "url": "https://www.digikala.com/seller/F26PW/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -71181,38 +71148,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20226465",
-      "title": "قهوه فوری گلد ممتاز سرمد - 100 گرم",
-      "url": "https://www.digikala.com/product/dkp-20226465/قهوه-فوری-گلد-ممتاز-سرمد-100-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5f9aca1dc11c2febc0fd21768784d48418b3e109_1779173217.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "سرمد",
+      "source_id": "20860246",
+      "title": "پودر قهوه اسپرسو فول کافیین ایران ایتالیا - 500 گرم",
+      "url": "https://www.digikala.com/product/dkp-20860246/پودر-قهوه-اسپرسو-فول-کافیین-ایران-ایتالیا-500-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1124fa0dafd366ec7e7e92a94798616f05136abf_1762714531.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 720000,
-      "list_price": 850000,
-      "discount_percent": 15,
-      "rating": 4.1,
-      "rating_count": 210,
-      "seller": "رزدارو",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1700000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 82,
+      "seller": "ایران ایتالیا مارکت",
       "rank": 13,
       "available": true,
       "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
+        "ارسال توسط فروشنده",
         "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "قهوه"
       },
       "supplier": {
-        "name": "رزدارو",
-        "url": "https://www.digikala.com/seller/CSAKF/"
+        "name": "ایران ایتالیا مارکت",
+        "url": "https://www.digikala.com/seller/GFYW3/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -71226,14 +71191,14 @@
       "brand": "متفرقه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1032050,
       "list_price": 1091010,
       "discount_percent": 5,
       "rating": 1,
       "rating_count": 1,
       "seller": "پخش کالای امیری",
-      "rank": 13,
+      "rank": 14,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -71248,7 +71213,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -71362,36 +71327,33 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20860246",
-      "title": "پودر قهوه اسپرسو فول کافیین ایران ایتالیا - 500 گرم",
-      "url": "https://www.digikala.com/product/dkp-20860246/پودر-قهوه-اسپرسو-فول-کافیین-ایران-ایتالیا-500-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1124fa0dafd366ec7e7e92a94798616f05136abf_1762714531.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "19026749",
+      "title": "قهوه ترک مدیم ویژه شاران - 500 گرم",
+      "url": "https://www.digikala.com/product/dkp-19026749/قهوه-ترک-مدیم-ویژه-شاران-500-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b713cf40046f1b12e5a9391bd94550241c10948b_1745322376.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "شاران",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 1700000,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1710000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 82,
-      "seller": "ایران ایتالیا مارکت",
+      "rating": 4.5,
+      "rating_count": 91,
+      "seller": "کارخانه قهوه شاران",
       "rank": 14,
       "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
+      "badges": [],
       "raw_ref": {
         "query": "قهوه"
       },
       "supplier": {
-        "name": "ایران ایتالیا مارکت",
-        "url": "https://www.digikala.com/seller/GFYW3/"
+        "name": "کارخانه قهوه شاران",
+        "url": "https://www.digikala.com/seller/AMXZY/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 4,
         "is_new": false
       }
     },
@@ -71405,14 +71367,14 @@
       "brand": "متفرقه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 489000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 1424,
       "seller": "پلونیا شاپ",
-      "rank": 14,
+      "rank": 15,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -71424,7 +71386,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -71604,41 +71566,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "11072897",
-      "title": "تمپر قهوه مدل فنری 51",
-      "url": "https://www.digikala.com/product/dkp-11072897/تمپر-قهوه-مدل-فنری-51",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8ec0063ed690422a3263c35ade14851384c5adfb_1786574591.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "coffee",
-      "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 550000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 1620,
-      "seller": "ارزان تامین",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "قهوه و تجهیزات"
-      },
-      "supplier": {
-        "name": "عیار کالا",
-        "url": "https://www.digikala.com/seller/DP7MP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "18331968",
       "title": "دانه قهوه ترکیبی استرانگ شاران - 1 کیلوگرم",
       "url": "https://www.digikala.com/product/dkp-18331968/دانه-قهوه-ترکیبی-استرانگ-شاران-1-کیلوگرم",
@@ -71646,7 +71573,7 @@
       "brand": "شاران",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 3000000,
       "list_price": null,
       "discount_percent": 0,
@@ -71665,7 +71592,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -71746,7 +71673,7 @@
       "brand": "ونزکافه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 999000,
       "list_price": 1420000,
       "discount_percent": 30,
@@ -71769,7 +71696,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -71811,36 +71738,70 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "10366346",
-      "title": "تمپر و مت و لولر و ناکباکس و نیدل و فانل و استند مدل 51 مجموعه 7 عددی",
-      "url": "https://www.digikala.com/product/dkp-10366346/تمپر-و-مت-و-لولر-و-ناکباکس-و-نیدل-و-فانل-و-استند-مدل-51-مجموعه-7-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e21c4ea7ae96da2445b9ffac1b30a0fbdc225e3e_1672995309.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "19398390",
+      "title": "استند نگهدارنده تجهیزات قهوه مدل مستطیل چوبی کد 51",
+      "url": "https://www.digikala.com/product/dkp-19398390/استند-نگهدارنده-تجهیزات-قهوه-مدل-مستطیل-چوبی-کد-51",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/fb5580c4ff30479c4d8e02bd44fa4a70456b0d69_1748846248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 998900,
-      "list_price": 2041910,
-      "discount_percent": 51,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 2100000,
+      "list_price": null,
+      "discount_percent": 0,
       "rating": 4,
-      "rating_count": 418,
-      "seller": "پلونیا شاپ",
-      "rank": 17,
+      "rating_count": 10,
+      "seller": "اسپرسو فکتوری",
+      "rank": 16,
       "available": true,
       "badges": [
-        "فروش ویژه",
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
         "query": "قهوه و تجهیزات"
       },
       "supplier": {
-        "name": "بهی سنتر",
-        "url": "https://www.digikala.com/seller/F7MZR/"
+        "name": "اسپرسو فکتوری",
+        "url": "https://www.digikala.com/seller/F9AF6/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "11072897",
+      "title": "تمپر قهوه مدل فنری 51",
+      "url": "https://www.digikala.com/product/dkp-11072897/تمپر-قهوه-مدل-فنری-51",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8ec0063ed690422a3263c35ade14851384c5adfb_1786574591.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "coffee",
+      "category_label": "قهوه و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 550000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 1620,
+      "seller": "ارزان تامین",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "قهوه و تجهیزات"
+      },
+      "supplier": {
+        "name": "عیار کالا",
+        "url": "https://www.digikala.com/seller/DP7MP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -71926,7 +71887,7 @@
       "brand": "ونزکافه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1184000,
       "list_price": 1580000,
       "discount_percent": 25,
@@ -71949,40 +71910,80 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19026749",
-      "title": "قهوه ترک مدیم ویژه شاران - 500 گرم",
-      "url": "https://www.digikala.com/product/dkp-19026749/قهوه-ترک-مدیم-ویژه-شاران-500-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/b713cf40046f1b12e5a9391bd94550241c10948b_1745322376.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "شاران",
+      "source_id": "20226465",
+      "title": "قهوه فوری گلد ممتاز سرمد - 100 گرم",
+      "url": "https://www.digikala.com/product/dkp-20226465/قهوه-فوری-گلد-ممتاز-سرمد-100-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5f9aca1dc11c2febc0fd21768784d48418b3e109_1779173217.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "سرمد",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 1710000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 91,
-      "seller": "کارخانه قهوه شاران",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 720000,
+      "list_price": 850000,
+      "discount_percent": 15,
+      "rating": 4.1,
+      "rating_count": 211,
+      "seller": "رزدارو",
       "rank": 18,
       "available": true,
-      "badges": [],
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
       "raw_ref": {
         "query": "قهوه"
       },
       "supplier": {
-        "name": "کارخانه قهوه شاران",
-        "url": "https://www.digikala.com/seller/AMXZY/"
+        "name": "رزدارو",
+        "url": "https://www.digikala.com/seller/CSAKF/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": -5,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "10366346",
+      "title": "تمپر و مت و لولر و ناکباکس و نیدل و فانل و استند مدل 51 مجموعه 7 عددی",
+      "url": "https://www.digikala.com/product/dkp-10366346/تمپر-و-مت-و-لولر-و-ناکباکس-و-نیدل-و-فانل-و-استند-مدل-51-مجموعه-7-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e21c4ea7ae96da2445b9ffac1b30a0fbdc225e3e_1672995309.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "coffee",
+      "category_label": "قهوه و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 998900,
+      "list_price": 2041910,
+      "discount_percent": 51,
+      "rating": 4,
+      "rating_count": 418,
+      "seller": "پلونیا شاپ",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "قهوه و تجهیزات"
+      },
+      "supplier": {
+        "name": "بهی سنتر",
+        "url": "https://www.digikala.com/seller/F7MZR/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -72135,41 +72136,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19398390",
-      "title": "استند نگهدارنده تجهیزات قهوه مدل مستطیل چوبی کد 51",
-      "url": "https://www.digikala.com/product/dkp-19398390/استند-نگهدارنده-تجهیزات-قهوه-مدل-مستطیل-چوبی-کد-51",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/fb5580c4ff30479c4d8e02bd44fa4a70456b0d69_1748846248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "coffee",
-      "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 2100000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 10,
-      "seller": "اسپرسو فکتوری",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "قهوه و تجهیزات"
-      },
-      "supplier": {
-        "name": "اسپرسو فکتوری",
-        "url": "https://www.digikala.com/seller/F9AF6/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "19122155",
       "title": "استند نگهدارنده تجهیزات قهوه مدل باریستا",
       "url": "https://www.digikala.com/product/dkp-19122155/استند-نگهدارنده-تجهیزات-قهوه-مدل-باریستا",
@@ -72177,7 +72143,7 @@
       "brand": "متفرقه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1019740,
       "list_price": 1077990,
       "discount_percent": 5,
@@ -72419,6 +72385,78 @@
       "signals": {
         "price_change_pct": 2.16,
         "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "5453477",
+      "title": "قهوه ترک 100٪ عربیکا هارپاگ - 250 گرم",
+      "url": "https://www.digikala.com/product/dkp-5453477/قهوه-ترک-100-عربیکا-هارپاگ-250-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6cb63d17ac2ad5bd34cc4042cdb4baf39c31c38b_1731138566.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "هارپاگ",
+      "category_key": "coffee",
+      "category_label": "قهوه و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1326000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 114,
+      "seller": "کارخانه قهوه هارپاگ",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "قهوه"
+      },
+      "supplier": {
+        "name": "کارخانه قهوه هارپاگ",
+        "url": "https://www.digikala.com/seller/EKR66/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "22012665",
+      "title": "اسپرسو فوری مولتی کافه - 2.5 گرم بسته 40 عددی",
+      "url": "https://www.digikala.com/product/dkp-22012665/اسپرسو-فوری-مولتی-کافه-25-گرم-بسته-40-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6c108cfaf611d17159659834b9dfc17415e01dbe_1781434785.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "مولتی کافه",
+      "category_key": "coffee",
+      "category_label": "قهوه و تجهیزات",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1142170,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 22,
+      "seller": "شکلات دل چوکو",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "قهوه"
+      },
+      "supplier": {
+        "name": "دیبا نیک",
+        "url": "https://www.digikala.com/seller/AXSFP/"
+      },
+      "signals": {
+        "price_change_pct": -12.36,
+        "rank_change": -9,
         "is_new": false
       }
     },
@@ -72714,7 +72752,7 @@
       "brand": "متفرقه",
       "category_key": "coffee",
       "category_label": "قهوه و تجهیزات",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 115390,
       "list_price": 185650,
       "discount_percent": 38,
@@ -72735,7 +72773,7 @@
         "url": "https://www.digikala.com/seller/FF7DP/"
       },
       "signals": {
-        "price_change_pct": -0.15,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -79268,18 +79306,18 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 405060,
-      "list_price": 522500,
-      "discount_percent": 22,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 390000,
+      "list_price": null,
+      "discount_percent": 0,
       "rating": 4.4,
-      "rating_count": 1718,
-      "seller": "مهرآذین",
+      "rating_count": 1719,
+      "seller": "مسیحا سنتر",
       "rank": 1,
       "available": true,
       "badges": [
-        "فروش ویژه",
-        "تنها 3 عدد در انبار باقی مانده"
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "کیف و اکسسوری"
@@ -79289,7 +79327,7 @@
         "url": "https://www.digikala.com/seller/DTFJ2/"
       },
       "signals": {
-        "price_change_pct": 17.07,
+        "price_change_pct": -3.72,
         "rank_change": 0,
         "is_new": false
       }
@@ -79374,12 +79412,12 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 200000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.8,
-      "rating_count": 2975,
+      "rating_count": 2976,
       "seller": "گلدهانا",
       "rank": 1,
       "available": true,
@@ -79396,7 +79434,7 @@
         "url": "https://www.digikala.com/seller/C6DS9/"
       },
       "signals": {
-        "price_change_pct": 0.5,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -79411,18 +79449,17 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 650000,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 599800,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.9,
-      "rating_count": 8269,
-      "seller": "گالری سپندا",
+      "rating_count": 8270,
+      "seller": "رسپینا استور",
       "rank": 2,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
         "query": "کیف"
@@ -79432,7 +79469,7 @@
         "url": "https://www.digikala.com/seller/CY99E/"
       },
       "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": -7.72,
         "rank_change": 0,
         "is_new": false
       }
@@ -79483,7 +79520,7 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 239000,
       "list_price": null,
       "discount_percent": 0,
@@ -79503,9 +79540,9 @@
         "url": "https://www.digikala.com/seller/JANAS/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
       }
     },
     {
@@ -79518,7 +79555,7 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 397000,
       "list_price": null,
       "discount_percent": 0,
@@ -79528,6 +79565,7 @@
       "rank": 3,
       "available": true,
       "badges": [
+        "انبار دیجی‌کالا",
         "فروشنده معتبر"
       ],
       "raw_ref": {
@@ -79538,28 +79576,28 @@
         "url": "https://www.digikala.com/seller/CV7EY/"
       },
       "signals": {
-        "price_change_pct": -0.5,
-        "rank_change": -1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "5475743",
-      "title": "کیف دوشی زنانه مدل 717",
-      "url": "https://www.digikala.com/product/dkp-5475743/کیف-دوشی-زنانه-مدل-717",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/993b9934ba9e855e8e91118c6b91bc4c11fdcec0_1740755282.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "17677986",
+      "title": "کیف رودوشی زنانه مدل 584",
+      "url": "https://www.digikala.com/product/dkp-17677986/کیف-رودوشی-زنانه-مدل-584",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8bb5540cf6a464dc1612f7ff94b8b9718202b32d_1736003472.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 489000,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1730000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 1611,
-      "seller": "کیفاس",
+      "rating": 4.3,
+      "rating_count": 163,
+      "seller": "کاماگالری",
       "rank": 3,
       "available": true,
       "badges": [
@@ -79572,12 +79610,12 @@
         "query": "کیف"
       },
       "supplier": {
-        "name": "کیفاس",
-        "url": "https://www.digikala.com/seller/EXNNP/"
+        "name": "کاماگالری",
+        "url": "https://www.digikala.com/seller/C52SP/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 5,
         "is_new": false
       }
     },
@@ -79591,12 +79629,12 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 969910,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 964080,
       "list_price": 1236000,
       "discount_percent": 22,
       "rating": 4.2,
-      "rating_count": 1298,
+      "rating_count": 1299,
       "seller": "ایلقار مارکت",
       "rank": 4,
       "available": true,
@@ -79611,8 +79649,8 @@
         "url": "https://www.digikala.com/seller/EY7A4/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "price_change_pct": -0.6,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -79654,36 +79692,71 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "2952971",
-      "title": "کیف دوشی زنانه مدل 1760",
-      "url": "https://www.digikala.com/product/dkp-2952971/کیف-دوشی-زنانه-مدل-1760",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f434faa9122390c6099ce01acfc4f2d35be1dd86_1740755282.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "20985520",
+      "title": "کیف رودوشی زنانه مدل 709",
+      "url": "https://www.digikala.com/product/dkp-20985520/کیف-رودوشی-زنانه-مدل-709",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a99e6e15e7950fa5be59c6d105b722212ebc0d6e_1764347070.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 760000,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1050000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 2322,
-      "seller": "گالری سپندا",
+      "rating": 3.1,
+      "rating_count": 40,
+      "seller": "پخش کیف ریحانه ",
       "rank": 4,
       "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "کیف"
+      },
+      "supplier": {
+        "name": "بگایی",
+        "url": "https://www.digikala.com/seller/FAZJE/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "5475743",
+      "title": "کیف دوشی زنانه مدل 717",
+      "url": "https://www.digikala.com/product/dkp-5475743/کیف-دوشی-زنانه-مدل-717",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/993b9934ba9e855e8e91118c6b91bc4c11fdcec0_1740755282.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "bags",
+      "category_label": "کیف و اکسسوری",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 489000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 1611,
+      "seller": "کیفاس",
+      "rank": 5,
+      "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "کیف"
       },
       "supplier": {
-        "name": "لوکس کده پارس",
-        "url": "https://www.digikala.com/seller/CY99E/"
+        "name": "کیفاس",
+        "url": "https://www.digikala.com/seller/EXNNP/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -79697,17 +79770,17 @@
       "brand": "جولری باکس تو",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 386000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 1036,
-      "seller": "مسیحا سنتر",
+      "seller": "بهین پخش",
       "rank": 5,
       "available": true,
       "badges": [
-        "فروشنده معتبر"
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "کیف و اکسسوری"
@@ -79718,7 +79791,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -79770,7 +79843,7 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 285000,
       "list_price": null,
       "discount_percent": 0,
@@ -79791,40 +79864,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "12526811",
-      "title": "کیف رودوشی زنانه مدل 436",
-      "url": "https://www.digikala.com/product/dkp-12526811/کیف-رودوشی-زنانه-مدل-436",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1f1c195225cf31b498795547976b6032547c960d_1693314368.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "2952971",
+      "title": "کیف دوشی زنانه مدل 1760",
+      "url": "https://www.digikala.com/product/dkp-2952971/کیف-دوشی-زنانه-مدل-1760",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f434faa9122390c6099ce01acfc4f2d35be1dd86_1740755282.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 729000,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 760000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.9,
-      "rating_count": 181,
-      "seller": "میرلو",
-      "rank": 5,
+      "rating_count": 2323,
+      "seller": "گالری سپندا",
+      "rank": 6,
       "available": true,
-      "badges": [],
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
       "raw_ref": {
         "query": "کیف"
       },
       "supplier": {
-        "name": "میرلو",
-        "url": "https://www.digikala.com/seller/ENVK3/"
+        "name": "لوکس کده پارس",
+        "url": "https://www.digikala.com/seller/CY99E/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -79838,16 +79914,18 @@
       "brand": "جولری باکس تو",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 974200,
-      "list_price": null,
-      "discount_percent": 0,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 986100,
+      "list_price": 1200000,
+      "discount_percent": 18,
       "rating": 4.3,
-      "rating_count": 1503,
+      "rating_count": 1504,
       "seller": "ایلقار مارکت",
       "rank": 6,
       "available": true,
-      "badges": [],
+      "badges": [
+        "فروش ویژه"
+      ],
       "raw_ref": {
         "query": "کیف و اکسسوری"
       },
@@ -79856,8 +79934,8 @@
         "url": "https://www.digikala.com/seller/DZE9K/"
       },
       "signals": {
-        "price_change_pct": -1.97,
-        "rank_change": -1,
+        "price_change_pct": 1.22,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -79906,14 +79984,14 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1065000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
       "rating_count": 84,
       "seller": "کیف لاین",
-      "rank": 6,
+      "rank": 7,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -79927,7 +80005,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -79941,10 +80019,10 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 422010,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 437960,
       "list_price": 571050,
-      "discount_percent": 26,
+      "discount_percent": 23,
       "rating": 4.5,
       "rating_count": 507,
       "seller": "مهرآذین",
@@ -79962,8 +80040,8 @@
         "url": "https://www.digikala.com/seller/HZTPJ/"
       },
       "signals": {
-        "price_change_pct": 11.94,
-        "rank_change": -1,
+        "price_change_pct": 3.78,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -80043,39 +80121,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20985520",
-      "title": "کیف رودوشی زنانه مدل 709",
-      "url": "https://www.digikala.com/product/dkp-20985520/کیف-رودوشی-زنانه-مدل-709",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a99e6e15e7950fa5be59c6d105b722212ebc0d6e_1764347070.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "bags",
-      "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 1050000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.1,
-      "rating_count": 40,
-      "seller": "پخش کیف ریحانه ",
-      "rank": 7,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "کیف"
-      },
-      "supplier": {
-        "name": "بگایی",
-        "url": "https://www.digikala.com/seller/FAZJE/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "22134166",
       "title": "کاور لپ تاپ پروین مدل LC-31 مناسب برای MacBook Neo سایز 13 اینچ به همراه کیف اکسسوری",
       "url": "https://www.digikala.com/product/dkp-22134166/کاور-لپ-تاپ-پروین-مدل-lc-31-مناسب-برای-macbook-neo-سایز-13-اینچ-به-همراه-کیف-اکسسوری",
@@ -80083,7 +80128,7 @@
       "brand": "پروین",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 5990000,
       "list_price": null,
       "discount_percent": 0,
@@ -80104,43 +80149,40 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17677986",
-      "title": "کیف رودوشی زنانه مدل 584",
-      "url": "https://www.digikala.com/product/dkp-17677986/کیف-رودوشی-زنانه-مدل-584",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8bb5540cf6a464dc1612f7ff94b8b9718202b32d_1736003472.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "12526811",
+      "title": "کیف رودوشی زنانه مدل 436",
+      "url": "https://www.digikala.com/product/dkp-12526811/کیف-رودوشی-زنانه-مدل-436",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1f1c195225cf31b498795547976b6032547c960d_1693314368.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 1730000,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 729000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 163,
-      "seller": "کاماگالری",
+      "rating": 3.9,
+      "rating_count": 181,
+      "seller": "میرلو",
       "rank": 8,
       "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
+      "badges": [],
       "raw_ref": {
         "query": "کیف"
       },
       "supplier": {
-        "name": "کاماگالری",
-        "url": "https://www.digikala.com/seller/C52SP/"
+        "name": "میرلو",
+        "url": "https://www.digikala.com/seller/ENVK3/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -5,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -80154,7 +80196,7 @@
       "brand": "ماصرم",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 400000,
       "list_price": null,
       "discount_percent": 0,
@@ -80176,7 +80218,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -80190,7 +80232,7 @@
       "brand": "هیسکا",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 2320000,
       "list_price": null,
       "discount_percent": 0,
@@ -80211,7 +80253,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -80225,7 +80267,7 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 920000,
       "list_price": null,
       "discount_percent": 0,
@@ -80325,49 +80367,14 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "16442703",
-      "title": "جعبه جواهرات مدل مسافرتی چرمی مستطیلی",
-      "url": "https://www.digikala.com/product/dkp-16442703/جعبه-جواهرات-مدل-مسافرتی-چرمی-مستطیلی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9fe47bc25d96f88bf9f04450b52040afcbe92d28_1723797399.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "22579020",
+      "title": "کیف کلاسوری موبایل اکسسوری مدل چرمی CL-ADR مناسب برای گوشی موبایل سامسونگ Galaxy A37 به همراه بند اویز",
+      "url": "https://www.digikala.com/product/dkp-22579020/کیف-کلاسوری-موبایل-اکسسوری-مدل-چرمی-cl-adr-مناسب-برای-گوشی-موبایل-سامسونگ-galaxy-a37-به-همراه-بند-آویز",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2d4961cc92072542318943dcfe09556269d08065_1788271912.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-13T19:28:25.516Z",
-      "price": 1239450,
-      "list_price": 1428000,
-      "discount_percent": 13,
-      "rating": 4.2,
-      "rating_count": 234,
-      "seller": "ایلقار مارکت",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "کیف و اکسسوری"
-      },
-      "supplier": {
-        "name": "دست سازه های روشنا",
-        "url": "https://www.digikala.com/seller/EY7A4/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "22579044",
-      "title": "کیف کلاسوری موبایل اکسسوری مدل چرمی CL-ADR مناسب برای گوشی موبایل سامسونگ Galaxy A57 به همراه بند اویز",
-      "url": "https://www.digikala.com/product/dkp-22579044/کیف-کلاسوری-موبایل-اکسسوری-مدل-چرمی-cl-adr-مناسب-برای-گوشی-موبایل-سامسونگ-galaxy-a57-به-همراه-بند-آویز",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2d4961cc92072542318943dcfe09556269d08065_1788271862.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "bags",
-      "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 700000,
       "list_price": null,
       "discount_percent": 0,
@@ -80386,7 +80393,42 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "16442703",
+      "title": "جعبه جواهرات مدل مسافرتی چرمی مستطیلی",
+      "url": "https://www.digikala.com/product/dkp-16442703/جعبه-جواهرات-مدل-مسافرتی-چرمی-مستطیلی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9fe47bc25d96f88bf9f04450b52040afcbe92d28_1723797399.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "bags",
+      "category_label": "کیف و اکسسوری",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1239450,
+      "list_price": 1428000,
+      "discount_percent": 13,
+      "rating": 4.2,
+      "rating_count": 235,
+      "seller": "ایلقار مارکت",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "فروش ویژه"
+      ],
+      "raw_ref": {
+        "query": "کیف و اکسسوری"
+      },
+      "supplier": {
+        "name": "دست سازه های روشنا",
+        "url": "https://www.digikala.com/seller/EY7A4/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -80471,7 +80513,7 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 725000,
       "list_price": null,
       "discount_percent": 0,
@@ -80497,21 +80539,21 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22579020",
-      "title": "کیف کلاسوری موبایل اکسسوری مدل چرمی CL-ADR مناسب برای گوشی موبایل سامسونگ Galaxy A37 به همراه بند اویز",
-      "url": "https://www.digikala.com/product/dkp-22579020/کیف-کلاسوری-موبایل-اکسسوری-مدل-چرمی-cl-adr-مناسب-برای-گوشی-موبایل-سامسونگ-galaxy-a37-به-همراه-بند-آویز",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2d4961cc92072542318943dcfe09556269d08065_1788271912.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "22579044",
+      "title": "کیف کلاسوری موبایل اکسسوری مدل چرمی CL-ADR مناسب برای گوشی موبایل سامسونگ Galaxy A57 به همراه بند اویز",
+      "url": "https://www.digikala.com/product/dkp-22579044/کیف-کلاسوری-موبایل-اکسسوری-مدل-چرمی-cl-adr-مناسب-برای-گوشی-موبایل-سامسونگ-galaxy-a57-به-همراه-بند-آویز",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2d4961cc92072542318943dcfe09556269d08065_1788271862.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 700000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
       "seller": "سالواتور",
-      "rank": 10,
+      "rank": 11,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -80523,43 +80565,8 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -2,
         "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "7277039",
-      "title": "ست دخترانه اکسسوری مدل گل بابونه کد 4553",
-      "url": "https://www.digikala.com/product/dkp-7277039/ست-دخترانه-اکسسوری-مدل-گل-بابونه-کد-4553",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/6a46eb61726df1af9ceaeb3948526f05bda629b0_1639137745.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "bags",
-      "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 2280000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.7,
-      "rating_count": 60,
-      "seller": "آمیتیس زیبایی",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "کیف و اکسسوری"
-      },
-      "supplier": {
-        "name": "آمیتیس زیبایی",
-        "url": "https://www.digikala.com/seller/H95HE/"
-      },
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
       }
     },
     {
@@ -80572,7 +80579,7 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 890000,
       "list_price": null,
       "discount_percent": 0,
@@ -80593,7 +80600,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -80630,44 +80637,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21272294",
-      "title": "کیف اداری زنانه مدل 450",
-      "url": "https://www.digikala.com/product/dkp-21272294/کیف-اداری-زنانه-مدل-۴۵۰",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/96c5d4d17cf5e88dcd067b827c4c0732f22823a8_1768660366.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "bags",
-      "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-08T09:22:44.257Z",
-      "price": 1540270,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 28,
-      "seller": "کیف لاین",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کیف"
-      },
-      "supplier": {
-        "name": "کیف لاین",
-        "url": "https://www.digikala.com/seller/HE3MV/"
-      },
-      "signals": {
-        "price_change_pct": -0.63,
-        "rank_change": 5,
         "is_new": false
       }
     },
@@ -80712,25 +80681,23 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17242444",
-      "title": "کیف رودوشی زنانه چرم مشهد مدل S0163-092",
-      "url": "https://www.digikala.com/product/dkp-17242444/کیف-رودوشی-زنانه-چرم-مشهد-مدل-s0163-092",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5fc2abdb59d8ad98b6df2fdb1dfff174bc95a46a_1772031982.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "19924199",
+      "title": "کیف رودوشی زنانه چرم مشهد مدل S0909-001",
+      "url": "https://www.digikala.com/product/dkp-19924199/کیف-رودوشی-زنانه-چرم-مشهد-مدل-s0909-001",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c0c3126576e3685c853a50315907fab4b136ecaa_1772032315.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "چرم مشهد",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 15657000,
-      "list_price": 45298000,
-      "discount_percent": 65,
-      "rating": 3.9,
-      "rating_count": 20,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 33798000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 2.3,
+      "rating_count": 3,
       "seller": "دیجی‌کالا",
       "rank": 11,
       "available": true,
       "badges": [
-        "پیشنهاد شگفت انگیز",
-        "شگفت‌انگیز",
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا"
       ],
@@ -80742,32 +80709,68 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": -17.65,
-        "rank_change": 4,
+        "price_change_pct": 138.79,
+        "rank_change": 1,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19924199",
-      "title": "کیف رودوشی زنانه چرم مشهد مدل S0909-001",
-      "url": "https://www.digikala.com/product/dkp-19924199/کیف-رودوشی-زنانه-چرم-مشهد-مدل-s0909-001",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c0c3126576e3685c853a50315907fab4b136ecaa_1772032315.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "7277039",
+      "title": "ست دخترانه اکسسوری مدل گل بابونه کد 4553",
+      "url": "https://www.digikala.com/product/dkp-7277039/ست-دخترانه-اکسسوری-مدل-گل-بابونه-کد-4553",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6a46eb61726df1af9ceaeb3948526f05bda629b0_1639137745.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "bags",
+      "category_label": "کیف و اکسسوری",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 2280000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.7,
+      "rating_count": 60,
+      "seller": "آمیتیس زیبایی",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "کیف و اکسسوری"
+      },
+      "supplier": {
+        "name": "آمیتیس زیبایی",
+        "url": "https://www.digikala.com/seller/H95HE/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17242444",
+      "title": "کیف رودوشی زنانه چرم مشهد مدل S0163-092",
+      "url": "https://www.digikala.com/product/dkp-17242444/کیف-رودوشی-زنانه-چرم-مشهد-مدل-s0163-092",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5fc2abdb59d8ad98b6df2fdb1dfff174bc95a46a_1772031982.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "چرم مشهد",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 14154000,
-      "list_price": 33798000,
-      "discount_percent": 58,
-      "rating": 2.3,
-      "rating_count": 3,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 15657000,
+      "list_price": 45298000,
+      "discount_percent": 65,
+      "rating": 3.9,
+      "rating_count": 20,
       "seller": "دیجی‌کالا",
       "rank": 12,
       "available": true,
       "badges": [
-        "فروش ویژه",
+        "پیشنهاد شگفت انگیز",
+        "شگفت‌انگیز",
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا"
       ],
@@ -80794,14 +80797,14 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 395000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
       "rating_count": 1933,
       "seller": " باکس تو سنتر",
-      "rank": 12,
+      "rank": 13,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -80820,44 +80823,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20740546",
-      "title": "کیف رودوشی زنانه چرم مشهد مدل S5350-001-01",
-      "url": "https://www.digikala.com/product/dkp-20740546/کیف-رودوشی-زنانه-چرم-مشهد-مدل-s5350-001-01",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0b17f98bb9b35a00ebad806f89d66777459601ad_1784449466.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "چرم مشهد",
-      "category_key": "bags",
-      "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-13T19:28:25.516Z",
-      "price": 7615000,
-      "list_price": 14798000,
-      "discount_percent": 49,
-      "rating": 3.8,
-      "rating_count": 13,
-      "seller": "دیجی‌کالا",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "پیشنهاد شگفت انگیز",
-        "شگفت‌انگیز",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "کیف"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "22223264",
       "title": "کاور لپ تاپ پروین مدل LC-31 مناسب برای مک بوک ایر 14 اینچ به همراه کیف اکسسوری",
       "url": "https://www.digikala.com/product/dkp-22223264/کاور-لپ-تاپ-پروین-مدل-lc-31-مناسب-برای-مک-بوک-ایر-۱۴-اینچ-به-همراه-کیف-اکسسوری",
@@ -80865,14 +80830,14 @@
       "brand": "پروین",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 5990000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
       "seller": "مجموعه پروین",
-      "rank": 12,
+      "rank": 13,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -80883,42 +80848,6 @@
       "supplier": {
         "name": "مجموعه پروین",
         "url": "https://www.digikala.com/seller/C3VDM/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "17913859",
-      "title": "کیف دستی گرین لاین مدل Lakeshore",
-      "url": "https://www.digikala.com/product/dkp-17913859/کیف-دستی-گرین-لاین-مدل-lakeshore",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2e59fa7e23687f2071bbf195f8631256163ea566_1786871373.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "گرین لاین",
-      "category_key": "bags",
-      "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 6860000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 5,
-      "seller": "بازرگانی گجت لند",
-      "rank": 13,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کیف و اکسسوری"
-      },
-      "supplier": {
-        "name": "اسمارت تکنولوژی قشم",
-        "url": "https://www.digikala.com/seller/CGDG9/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -80936,7 +80865,7 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 1280000,
       "list_price": null,
       "discount_percent": 0,
@@ -81003,6 +80932,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "17913859",
+      "title": "کیف دستی گرین لاین مدل Lakeshore",
+      "url": "https://www.digikala.com/product/dkp-17913859/کیف-دستی-گرین-لاین-مدل-lakeshore",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2e59fa7e23687f2071bbf195f8631256163ea566_1786871373.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "گرین لاین",
+      "category_key": "bags",
+      "category_label": "کیف و اکسسوری",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 6860000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 5,
+      "seller": "بازرگانی گجت لند",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کیف و اکسسوری"
+      },
+      "supplier": {
+        "name": "اسمارت تکنولوژی قشم",
+        "url": "https://www.digikala.com/seller/CGDG9/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "14115193",
       "title": "کیف کراس بادی بنج مدل 7566-BG",
       "url": "https://www.digikala.com/product/dkp-14115193/کیف-کراس-بادی-بنج-مدل-7566-bg",
@@ -81010,7 +80975,7 @@
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 980000,
       "list_price": null,
       "discount_percent": 0,
@@ -81106,78 +81071,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "15981488",
-      "title": "کیف رودوشی زنانه مدل 2023",
-      "url": "https://www.digikala.com/product/dkp-15981488/کیف-رودوشی-زنانه-مدل-2023",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0c08848749404c31228b133d32632b878a936d6e_1766334560.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "bags",
-      "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-10T01:09:13.948Z",
-      "price": 6860000,
-      "list_price": 7632000,
-      "discount_percent": 10,
-      "rating": 3.2,
-      "rating_count": 5,
-      "seller": "تاروش مارکت",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "کیف"
-      },
-      "supplier": {
-        "name": "تاروش مارکت",
-        "url": "https://www.digikala.com/seller/CDVVJ/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "2581419",
-      "title": "کیف لوازم ارایش زنانه مدل DNZ01",
-      "url": "https://www.digikala.com/product/dkp-2581419/کیف-لوازم-آرایش-زنانه-مدل-dnz01",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8fc6e5872f14f30ea42437a6d6efba14779ec38a_1786874235.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "bags",
-      "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 165000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 3285,
-      "seller": "ماهنل",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "کیف و اکسسوری"
-      },
-      "supplier": {
-        "name": "پخش حم ایرا",
-        "url": "https://www.digikala.com/seller/HMG99/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "22045413",
       "title": "کاور لپ تاپ پروین مدل LC-23 مناسب برای لپ تاپ های 13 اینچی به همراه کیف اکسسوری",
       "url": "https://www.digikala.com/product/dkp-22045413/کاور-لپ-تاپ-پروین-مدل-lc-23-مناسب-برای-لپ-تاپ-های-13-اینچی-به-همراه-کیف-اکسسوری",
@@ -81185,14 +81078,14 @@
       "brand": "پروین",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 6490000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 1,
       "rating_count": 1,
       "seller": "مجموعه پروین",
-      "rank": 14,
+      "rank": 15,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -81207,7 +81100,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -81221,7 +81114,7 @@
       "brand": "بنج",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 10800000,
       "list_price": null,
       "discount_percent": 0,
@@ -81242,7 +81135,7 @@
         "url": "https://www.digikala.com/seller/GE66S/"
       },
       "signals": {
-        "price_change_pct": -0.46,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -81395,36 +81288,71 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22134263",
-      "title": "کاور لپ تاپ پروین مدل LC-31 مناسب برای ASUS Zenbook S سایز 13 اینچ به همراه کیف اکسسوری",
-      "url": "https://www.digikala.com/product/dkp-22134263/کاور-لپ-تاپ-پروین-مدل-lc-31-مناسب-برای-asus-zenbook-s-سایز-13-اینچ-به-همراه-کیف-اکسسوری",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e87b86a577885be3813f5e4ef8c4d724afa249eb_1782936931.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "پروین",
+      "source_id": "2541091",
+      "title": "کیف دوشی زنانه کد 844",
+      "url": "https://www.digikala.com/product/dkp-2541091/کیف-دوشی-زنانه-کد-844",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/41e5156507911cb888c07e230978dffa3db76a12_1740755282.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 5990000,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 339000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "مجموعه پروین",
+      "rating": 3.8,
+      "rating_count": 7627,
+      "seller": "رسپینا استور",
       "rank": 15,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "کیف اکسسوری"
+        "query": "کیف"
       },
       "supplier": {
-        "name": "مجموعه پروین",
-        "url": "https://www.digikala.com/seller/C3VDM/"
+        "name": "رسپینا استور",
+        "url": "https://www.digikala.com/seller/CKFDP/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "2581419",
+      "title": "کیف لوازم ارایش زنانه مدل DNZ01",
+      "url": "https://www.digikala.com/product/dkp-2581419/کیف-لوازم-آرایش-زنانه-مدل-dnz01",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8fc6e5872f14f30ea42437a6d6efba14779ec38a_1786874235.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "bags",
+      "category_label": "کیف و اکسسوری",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 165000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 3286,
+      "seller": "ماهنل",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کیف و اکسسوری"
+      },
+      "supplier": {
+        "name": "پخش حم ایرا",
+        "url": "https://www.digikala.com/seller/HMG99/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
       }
     },
     {
@@ -81610,36 +81538,70 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21616374",
-      "title": "جعبه جواهرات مدل چرمی مسافرتی",
-      "url": "https://www.digikala.com/product/dkp-21616374/جعبه-جواهرات-مدل-چرمی-مسافرتی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a4ecbb5d1b2fbf7b7e7a72d4c442115145bb7800_1775310433.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "22268575",
+      "title": "کیف رودوشی زنانه مدل لاکچری",
+      "url": "https://www.digikala.com/product/dkp-22268575/کیف-رودوشی-زنانه-مدل-لاکچری",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/fb32e471753b705adc0d8841e116256b11b2a19f_1784309357.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-13T19:28:25.516Z",
-      "price": 490000,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 899000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 21,
-      "seller": "پتوس یاسین",
+      "rating": 4.1,
+      "rating_count": 72,
+      "seller": "کیفاس",
       "rank": 16,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "کیف و اکسسوری"
+        "query": "کیف"
       },
       "supplier": {
-        "name": "پتوس یاسین",
-        "url": "https://www.digikala.com/seller/FFE32/"
+        "name": "آداک الماس",
+        "url": "https://www.digikala.com/seller/F7JD5/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 4,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "22134143",
+      "title": "کاور لپ تاپ پروین مدل LC-31 مناسب برای Macbook pro سایز 13 اینچ به همراه کیف اکسسوری",
+      "url": "https://www.digikala.com/product/dkp-22134143/کاور-لپ-تاپ-پروین-مدل-lc-31-مناسب-برای-macbook-pro-سایز-13-اینچ-به-همراه-کیف-اکسسوری",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e87b86a577885be3813f5e4ef8c4d724afa249eb_1782936662.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "پروین",
+      "category_key": "bags",
+      "category_label": "کیف و اکسسوری",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 5990000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "مجموعه پروین",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "کیف اکسسوری"
+      },
+      "supplier": {
+        "name": "مجموعه پروین",
+        "url": "https://www.digikala.com/seller/C3VDM/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -81653,14 +81615,14 @@
       "brand": "دیسکاوری",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 7500000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 5,
       "rating_count": 1,
       "seller": "آپادانا بگ",
-      "rank": 16,
+      "rank": 17,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -81674,80 +81636,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "22268575",
-      "title": "کیف رودوشی زنانه مدل لاکچری",
-      "url": "https://www.digikala.com/product/dkp-22268575/کیف-رودوشی-زنانه-مدل-لاکچری",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/fb32e471753b705adc0d8841e116256b11b2a19f_1784309357.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "bags",
-      "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 899000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 71,
-      "seller": "کیفاس",
-      "rank": 16,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کیف"
-      },
-      "supplier": {
-        "name": "آداک الماس",
-        "url": "https://www.digikala.com/seller/F7JD5/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "9749067",
-      "title": "جعبه جواهرات مدل BX 318",
-      "url": "https://www.digikala.com/product/dkp-9749067/جعبه-جواهرات-مدل-bx-318",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c528fbf4ab03d99d468cd84235f4284e4c3dfb22_1666997073.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "bags",
-      "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 999990,
-      "list_price": 1200000,
-      "discount_percent": 17,
-      "rating": 4.2,
-      "rating_count": 677,
-      "seller": "ایلقار مارکت",
-      "rank": 16,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "کیف اکسسوری"
-      },
-      "supplier": {
-        "name": "هدایای دست ساز",
-        "url": "https://www.digikala.com/seller/DP4RP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -81930,70 +81819,35 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "2541091",
-      "title": "کیف دوشی زنانه کد 844",
-      "url": "https://www.digikala.com/product/dkp-2541091/کیف-دوشی-زنانه-کد-844",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/41e5156507911cb888c07e230978dffa3db76a12_1740755282.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "20736030",
+      "title": "کیف رودوشی زنانه چرم مشهد مدل S5354-001-01",
+      "url": "https://www.digikala.com/product/dkp-20736030/کیف-رودوشی-زنانه-چرم-مشهد-مدل-s5354-001-01",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/10e6f1d7976cd98dc6e6b63acb0419fd42ebc878_1772032282.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "چرم مشهد",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 339000,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 17998000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 7626,
-      "seller": "رسپینا استور",
+      "rating": 3.9,
+      "rating_count": 12,
+      "seller": "دیجی‌کالا",
       "rank": 17,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده"
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
         "query": "کیف"
       },
       "supplier": {
-        "name": "رسپینا استور",
-        "url": "https://www.digikala.com/seller/CKFDP/"
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "15986327",
-      "title": "کیف لوازم ارایش و گریم زنانه کد 0064 مجموعه 3 عددی",
-      "url": "https://www.digikala.com/product/dkp-15986327/کیف-لوازم-آرایش-و-گریم-زنانه-کد-0064-مجموعه-3-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0f69163992435c673d33db95a92ee1c226e86ecf_1786874226.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "bags",
-      "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 1170000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 108,
-      "seller": "کارن پیشرو تهران",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کیف و اکسسوری"
-      },
-      "supplier": {
-        "name": "رستارهوم",
-        "url": "https://www.digikala.com/seller/HNTSY/"
-      },
-      "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": 83.47,
         "rank_change": 1,
         "is_new": false
       }
@@ -82001,15 +81855,15 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22134143",
-      "title": "کاور لپ تاپ پروین مدل LC-31 مناسب برای Macbook pro سایز 13 اینچ به همراه کیف اکسسوری",
-      "url": "https://www.digikala.com/product/dkp-22134143/کاور-لپ-تاپ-پروین-مدل-lc-31-مناسب-برای-macbook-pro-سایز-13-اینچ-به-همراه-کیف-اکسسوری",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e87b86a577885be3813f5e4ef8c4d724afa249eb_1782936662.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "22063878",
+      "title": "کاور لپ تاپ پروین مدل LC-23 مناسب برای مک بوک پرو 16 اینچی به همراه کیف اکسسوری",
+      "url": "https://www.digikala.com/product/dkp-22063878/کاور-لپ-تاپ-پروین-مدل-lc-23-مناسب-برای-مک-بوک-پرو-16-اینچی-به-همراه-کیف-اکسسوری",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f9e5f664c5d075283ea6b399626e99498b99b931_1781962298.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "پروین",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 5990000,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 6490000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
@@ -82031,6 +81885,115 @@
         "price_change_pct": null,
         "rank_change": null,
         "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20740546",
+      "title": "کیف رودوشی زنانه چرم مشهد مدل S5350-001-01",
+      "url": "https://www.digikala.com/product/dkp-20740546/کیف-رودوشی-زنانه-چرم-مشهد-مدل-s5350-001-01",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0b17f98bb9b35a00ebad806f89d66777459601ad_1784449466.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "چرم مشهد",
+      "category_key": "bags",
+      "category_label": "کیف و اکسسوری",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 14798000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 13,
+      "seller": "دیجی‌کالا",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "کیف"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": 94.33,
+        "rank_change": -6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21616374",
+      "title": "جعبه جواهرات مدل چرمی مسافرتی",
+      "url": "https://www.digikala.com/product/dkp-21616374/جعبه-جواهرات-مدل-چرمی-مسافرتی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a4ecbb5d1b2fbf7b7e7a72d4c442115145bb7800_1775310433.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "bags",
+      "category_label": "کیف و اکسسوری",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 490000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 21,
+      "seller": "پتوس یاسین",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کیف و اکسسوری"
+      },
+      "supplier": {
+        "name": "پتوس یاسین",
+        "url": "https://www.digikala.com/seller/FFE32/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "9749067",
+      "title": "جعبه جواهرات مدل BX 318",
+      "url": "https://www.digikala.com/product/dkp-9749067/جعبه-جواهرات-مدل-bx-318",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c528fbf4ab03d99d468cd84235f4284e4c3dfb22_1666997073.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "bags",
+      "category_label": "کیف و اکسسوری",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 999990,
+      "list_price": 1200000,
+      "discount_percent": 17,
+      "rating": 4.2,
+      "rating_count": 677,
+      "seller": "ایلقار مارکت",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "کیف اکسسوری"
+      },
+      "supplier": {
+        "name": "هدایای دست ساز",
+        "url": "https://www.digikala.com/seller/DP4RP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
       }
     },
     {
@@ -82282,73 +82245,71 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20736030",
-      "title": "کیف رودوشی زنانه چرم مشهد مدل S5354-001-01",
-      "url": "https://www.digikala.com/product/dkp-20736030/کیف-رودوشی-زنانه-چرم-مشهد-مدل-s5354-001-01",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/10e6f1d7976cd98dc6e6b63acb0419fd42ebc878_1772032282.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "چرم مشهد",
+      "source_id": "21272294",
+      "title": "کیف اداری زنانه مدل 450",
+      "url": "https://www.digikala.com/product/dkp-21272294/کیف-اداری-زنانه-مدل-۴۵۰",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/96c5d4d17cf5e88dcd067b827c4c0732f22823a8_1768660366.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-12T23:09:28.541Z",
-      "price": 9810000,
-      "list_price": 17998000,
-      "discount_percent": 45,
-      "rating": 3.9,
-      "rating_count": 12,
-      "seller": "دیجی‌کالا",
-      "rank": 18,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1670000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 31,
+      "seller": "فروشگاه نوآوران ماهک",
+      "rank": 19,
       "available": true,
       "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "کیف"
       },
       "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
+        "name": "کیف لاین",
+        "url": "https://www.digikala.com/seller/HE3MV/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 8.42,
+        "rank_change": -8,
+        "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17524274",
-      "title": "جعبه جواهرات مدل Travel",
-      "url": "https://www.digikala.com/product/dkp-17524274/جعبه-جواهرات-مدل-travel",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/3b4bdd67e59347a080ea3eab6e86761806b46ec0_1732617559.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "22134263",
+      "title": "کاور لپ تاپ پروین مدل LC-31 مناسب برای ASUS Zenbook S سایز 13 اینچ به همراه کیف اکسسوری",
+      "url": "https://www.digikala.com/product/dkp-22134263/کاور-لپ-تاپ-پروین-مدل-lc-31-مناسب-برای-asus-zenbook-s-سایز-13-اینچ-به-همراه-کیف-اکسسوری",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e87b86a577885be3813f5e4ef8c4d724afa249eb_1782936931.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "پروین",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
-      "price": 950000,
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 5990000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.7,
-      "rating_count": 3,
-      "seller": "گودی کالا کام",
-      "rank": 18,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "مجموعه پروین",
+      "rank": 19,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
         "query": "کیف اکسسوری"
       },
       "supplier": {
-        "name": "گودی کالا کام",
-        "url": "https://www.digikala.com/seller/EGKWV/"
+        "name": "مجموعه پروین",
+        "url": "https://www.digikala.com/seller/C3VDM/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -4,
         "is_new": false
       }
     },
@@ -82854,14 +82815,14 @@
       "brand": "نیلپر",
       "category_key": "bags",
       "category_label": "کیف و اکسسوری",
-      "observed_at": "2026-10-15T01:23:50.386Z",
+      "observed_at": "2026-10-15T11:57:48.217Z",
       "price": 4059000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
       "rating_count": 11,
       "seller": "کیف لتو",
-      "rank": 20,
+      "rank": 19,
       "available": true,
       "badges": [
         "تنها 1 عدد در انبار باقی مانده"
@@ -82875,7 +82836,116 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "15981488",
+      "title": "کیف رودوشی زنانه مدل 2023",
+      "url": "https://www.digikala.com/product/dkp-15981488/کیف-رودوشی-زنانه-مدل-2023",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0c08848749404c31228b133d32632b878a936d6e_1766334560.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "bags",
+      "category_label": "کیف و اکسسوری",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 6860000,
+      "list_price": 7632000,
+      "discount_percent": 10,
+      "rating": 3.2,
+      "rating_count": 5,
+      "seller": "تاروش مارکت",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "کیف"
+      },
+      "supplier": {
+        "name": "تاروش مارکت",
+        "url": "https://www.digikala.com/seller/CDVVJ/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "15986327",
+      "title": "کیف لوازم ارایش و گریم زنانه کد 0064 مجموعه 3 عددی",
+      "url": "https://www.digikala.com/product/dkp-15986327/کیف-لوازم-آرایش-و-گریم-زنانه-کد-0064-مجموعه-3-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0f69163992435c673d33db95a92ee1c226e86ecf_1786874226.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "bags",
+      "category_label": "کیف و اکسسوری",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 1170000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 108,
+      "seller": "کارن پیشرو تهران",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کیف و اکسسوری"
+      },
+      "supplier": {
+        "name": "رستارهوم",
+        "url": "https://www.digikala.com/seller/HNTSY/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17524274",
+      "title": "جعبه جواهرات مدل Travel",
+      "url": "https://www.digikala.com/product/dkp-17524274/جعبه-جواهرات-مدل-travel",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3b4bdd67e59347a080ea3eab6e86761806b46ec0_1732617559.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "bags",
+      "category_label": "کیف و اکسسوری",
+      "observed_at": "2026-10-15T11:57:48.217Z",
+      "price": 950000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.7,
+      "rating_count": 3,
+      "seller": "گودی کالا کام",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "کیف اکسسوری"
+      },
+      "supplier": {
+        "name": "گودی کالا کام",
+        "url": "https://www.digikala.com/seller/EGKWV/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
