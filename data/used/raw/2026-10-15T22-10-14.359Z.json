@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-10-15T22:10:14.359Z",
+  "source": "divar-mcp",
+  "cities": [
+    "تهران",
+    "کرج",
+    "مشهد",
+    "اصفهان",
+    "نوشهر"
+  ],
+  "searches": [
+    {
+      "key": "restaurant-equipment",
+      "label": "تجهیزات رستوران و کافه",
+      "query": "تجهیزات رستوران",
+      "error": "SyntaxError: Unexpected end of JSON input"
+    },
+    {
+      "key": "coffee-equipment",
+      "label": "تجهیزات قهوه",
+      "query": "اسپرسوساز صنعتی",
+      "error": "SyntaxError: Unexpected end of JSON input"
+    },
+    {
+      "key": "mobile",
+      "label": "موبایل دست‌دوم",
+      "query": "گوشی موبایل",
+      "error": "SyntaxError: Unexpected end of JSON input"
+    },
+    {
+      "key": "laptop",
+      "label": "لپ‌تاپ دست‌دوم",
+      "query": "لپ تاپ",
+      "error": "SyntaxError: Unexpected end of JSON input"
+    }
+  ]
+}
