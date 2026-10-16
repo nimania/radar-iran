@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T20:01:33.533Z",
+  "generated_at": "2026-10-16T20:57:43.999Z",
   "count": 3611,
   "collection": {
     "mode": "rotating",
@@ -1429,7 +1429,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 162150,
       "list_price": null,
       "discount_percent": 0,
@@ -1449,7 +1449,7 @@
         "url": "https://www.digikala.com/seller/HA2V6/"
       },
       "signals": {
-        "price_change_pct": 17.16,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -1464,7 +1464,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 420000,
       "list_price": null,
       "discount_percent": 0,
@@ -1501,7 +1501,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1472080,
       "list_price": null,
       "discount_percent": 0,
@@ -1573,7 +1573,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 698000,
       "list_price": null,
       "discount_percent": 0,
@@ -1606,7 +1606,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 2450000,
       "list_price": null,
       "discount_percent": 0,
@@ -1670,42 +1670,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "11398524",
-      "title": "اسباب بازی سوپر مارکت زیبا مدل شاپی",
-      "url": "https://www.digikala.com/product/dkp-11398524/اسباب-بازی-سوپر-مارکت-زیبا-مدل-شاپی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f112b8739908842b2b6b61ee8419f73964a65cf7_1684662617.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "toys",
-      "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 1710000,
-      "list_price": 1800000,
-      "discount_percent": 5,
-      "rating": 3.9,
-      "rating_count": 275,
-      "seller": "رانا هوم",
-      "rank": 6,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "اسباب"
-      },
-      "supplier": {
-        "name": "رانا هوم",
-        "url": "https://www.digikala.com/seller/C2RST/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -5,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "15643717",
       "title": "اسباب بازی مدل موبایل و ساعت هوشمند",
       "url": "https://www.digikala.com/product/dkp-15643717/اسباب-بازی-مدل-موبایل-و-ساعت-هوشمند",
@@ -1713,14 +1677,14 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 480000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.5,
       "rating_count": 105,
       "seller": "همبازی شاپ",
-      "rank": 7,
+      "rank": 6,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -1735,7 +1699,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "11398524",
+      "title": "اسباب بازی سوپر مارکت زیبا مدل شاپی",
+      "url": "https://www.digikala.com/product/dkp-11398524/اسباب-بازی-سوپر-مارکت-زیبا-مدل-شاپی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f112b8739908842b2b6b61ee8419f73964a65cf7_1684662617.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "toys",
+      "category_label": "اسباب‌بازی",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 1710000,
+      "list_price": 1800000,
+      "discount_percent": 5,
+      "rating": 3.9,
+      "rating_count": 275,
+      "seller": "رانا هوم",
+      "rank": 7,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "اسباب"
+      },
+      "supplier": {
+        "name": "رانا هوم",
+        "url": "https://www.digikala.com/seller/C2RST/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -1749,7 +1749,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 644000,
       "list_price": null,
       "discount_percent": 0,
@@ -1771,8 +1771,8 @@
         "url": "https://www.digikala.com/seller/AHM55/"
       },
       "signals": {
-        "price_change_pct": 0.31,
-        "rank_change": 4,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -1786,7 +1786,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 365230,
       "list_price": null,
       "discount_percent": 0,
@@ -1821,7 +1821,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 2745500,
       "list_price": 2890000,
       "discount_percent": 5,
@@ -1857,7 +1857,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 930000,
       "list_price": null,
       "discount_percent": 0,
@@ -1893,7 +1893,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 150800,
       "list_price": null,
       "discount_percent": 0,
@@ -1913,7 +1913,7 @@
         "url": "https://www.digikala.com/seller/E22GA/"
       },
       "signals": {
-        "price_change_pct": 0.13,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -1993,6 +1993,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "9250483",
+      "title": "اسباب بازی سوپر مارکت فروشگاهی مدل رویال",
+      "url": "https://www.digikala.com/product/dkp-9250483/اسباب-بازی-سوپر-مارکت-فروشگاهی-مدل-رویال",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/61babc270d72151aca1b678c3e089e57ecd947ac_1661080938.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "toys",
+      "category_label": "اسباب‌بازی",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 3450000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.6,
+      "rating_count": 259,
+      "seller": "توی فکتوری",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "اسباب"
+      },
+      "supplier": {
+        "name": "توی فکتوری",
+        "url": "https://www.digikala.com/seller/GMFNF/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 5,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "8211140",
       "title": "اسباب بازی مدل دستگاه پوز کد Best-44",
       "url": "https://www.digikala.com/product/dkp-8211140/اسباب-بازی-مدل-دستگاه-پوز-کد-best-44",
@@ -2000,14 +2036,14 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 449000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.9,
       "rating_count": 3318,
       "seller": "شادرنگ",
-      "rank": 13,
+      "rank": 14,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -2019,7 +2055,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -2106,14 +2142,14 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 550000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
       "rating_count": 336,
       "seller": "مارال هیرکانی تویز",
-      "rank": 14,
+      "rank": 15,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -2128,8 +2164,8 @@
         "url": "https://www.digikala.com/seller/HEA7H/"
       },
       "signals": {
-        "price_change_pct": 37.5,
-        "rank_change": 0,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -2179,14 +2215,14 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 600000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
       "rating_count": 1149,
       "seller": "مهر امیدان",
-      "rank": 15,
+      "rank": 16,
       "available": true,
       "badges": [
         "تنها 3 عدد در انبار باقی مانده"
@@ -2200,7 +2236,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -2242,37 +2278,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "16540620",
-      "title": "اسباب بازی مدل پیتزا برشی Z123",
-      "url": "https://www.digikala.com/product/dkp-16540620/اسباب-بازی-مدل-پیتزا-برشی-z123",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8f9f2528f9afdc0ac5ca3fac1655d1a31f7d555e_1725182135.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "13537733",
+      "title": "اسباب بازی چسبونک مدل زرافه",
+      "url": "https://www.digikala.com/product/dkp-13537733/اسباب-بازی-چسبونک-مدل-زرافه",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0552b7c0137f5bfc0cba81d1eb91048cb24ac0bd_1701278114.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 370000,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 224000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 606,
-      "seller": "پوشاک اروپایی",
+      "rating": 4,
+      "rating_count": 1726,
+      "seller": "استور شاپ",
       "rank": 16,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "اسباب"
+        "query": "اسباب‌بازی"
       },
       "supplier": {
-        "name": "پوشاک اروپایی",
-        "url": "https://www.digikala.com/seller/DHCU5/"
+        "name": "میکی توی",
+        "url": "https://www.digikala.com/seller/HPS2F/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -2286,7 +2321,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 423000,
       "list_price": null,
       "discount_percent": 0,
@@ -2309,7 +2344,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -2422,36 +2457,37 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "13537733",
-      "title": "اسباب بازی چسبونک مدل زرافه",
-      "url": "https://www.digikala.com/product/dkp-13537733/اسباب-بازی-چسبونک-مدل-زرافه",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0552b7c0137f5bfc0cba81d1eb91048cb24ac0bd_1701278114.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "16540620",
+      "title": "اسباب بازی مدل پیتزا برشی Z123",
+      "url": "https://www.digikala.com/product/dkp-16540620/اسباب-بازی-مدل-پیتزا-برشی-z123",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8f9f2528f9afdc0ac5ca3fac1655d1a31f7d555e_1725182135.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 224000,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 370000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 1726,
-      "seller": "استور شاپ",
-      "rank": 17,
+      "rating": 4.5,
+      "rating_count": 606,
+      "seller": "پوشاک اروپایی",
+      "rank": 18,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب"
       },
       "supplier": {
-        "name": "میکی توی",
-        "url": "https://www.digikala.com/seller/HPS2F/"
+        "name": "پوشاک اروپایی",
+        "url": "https://www.digikala.com/seller/DHCU5/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -2600,42 +2636,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "9250483",
-      "title": "اسباب بازی سوپر مارکت فروشگاهی مدل رویال",
-      "url": "https://www.digikala.com/product/dkp-9250483/اسباب-بازی-سوپر-مارکت-فروشگاهی-مدل-رویال",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/61babc270d72151aca1b678c3e089e57ecd947ac_1661080938.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "toys",
-      "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 3450000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.6,
-      "rating_count": 259,
-      "seller": "توی فکتوری",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "اسباب"
-      },
-      "supplier": {
-        "name": "توی فکتوری",
-        "url": "https://www.digikala.com/seller/GMFNF/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -16,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "3315334",
       "title": "اسباب بازی ابزار فنی کد 100A",
       "url": "https://www.digikala.com/product/dkp-3315334/اسباب-بازی-ابزار-فنی-کد-100a",
@@ -2643,7 +2643,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 472150,
       "list_price": null,
       "discount_percent": 0,
@@ -2664,7 +2664,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -2892,7 +2892,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 698310,
       "list_price": null,
       "discount_percent": 0,
@@ -2912,8 +2912,8 @@
         "url": "https://www.digikala.com/seller/HA2V6/"
       },
       "signals": {
-        "price_change_pct": 3.45,
-        "rank_change": -4,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -2963,18 +2963,20 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-14T18:49:24.798Z",
-      "price": 581390,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 610000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 1373,
-      "seller": "افی تویز",
+      "seller": "اسباب بازی نیما",
       "rank": 20,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 2 عدد در انبار باقی مانده"
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "اسباب"
@@ -2984,7 +2986,7 @@
         "url": "https://www.digikala.com/seller/HA2V6/"
       },
       "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": 4.92,
         "rank_change": 0,
         "is_new": false
       }
@@ -9822,7 +9824,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1100000,
       "list_price": null,
       "discount_percent": 0,
@@ -9841,7 +9843,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -9855,7 +9857,7 @@
       "brand": "پژواک",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 21800000,
       "list_price": null,
       "discount_percent": 0,
@@ -9890,7 +9892,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 169030,
       "list_price": null,
       "discount_percent": 0,
@@ -9927,7 +9929,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 4999900,
       "list_price": null,
       "discount_percent": 0,
@@ -9948,7 +9950,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -9962,7 +9964,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 3180000,
       "list_price": null,
       "discount_percent": 0,
@@ -9997,7 +9999,7 @@
       "brand": "بکلیت",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 4950000,
       "list_price": 5500000,
       "discount_percent": 10,
@@ -10033,7 +10035,7 @@
       "brand": "دیباگران تهران",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 776230,
       "list_price": null,
       "discount_percent": 0,
@@ -10055,7 +10057,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -10069,7 +10071,7 @@
       "brand": "سماتولز",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 199000,
       "list_price": 250000,
       "discount_percent": 20,
@@ -10093,7 +10095,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 8,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -10107,7 +10109,7 @@
       "brand": "بکلیت",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 4950000,
       "list_price": 5500000,
       "discount_percent": 10,
@@ -10143,7 +10145,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 4990000,
       "list_price": null,
       "discount_percent": 0,
@@ -10164,7 +10166,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -10206,42 +10208,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20369075",
-      "title": "تابلو نوری بکلیت طرح غذا و رستوران فست فود پیتزا مدل B-bu7441 فریم مشکی",
-      "url": "https://www.digikala.com/product/dkp-20369075/تابلو-نوری-بکلیت-طرح-غذا-و-رستوران-فست-فود-پیتزا-مدل-b-bu7441-فریم-مشکی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f3c71d78873c86c9b19128c02b43710d856e0367_1757278708.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بکلیت",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 4950000,
-      "list_price": 5500000,
-      "discount_percent": 10,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "تاپ پروفیل",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات رستوران و غذا"
-      },
-      "supplier": {
-        "name": "تاپ پروفیل",
-        "url": "https://www.digikala.com/seller/HJ337/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "19995646",
       "title": "دستکش صنعتی استادکار مدل سه لایه مدیوم",
       "url": "https://www.digikala.com/product/dkp-19995646/دستکش-صنعتی-استادکار-مدل-سه-لایه-مدیوم",
@@ -10249,7 +10215,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 402000,
       "list_price": null,
       "discount_percent": 0,
@@ -10272,6 +10238,42 @@
       },
       "signals": {
         "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20369011",
+      "title": "تابلو نوری بکلیت طرح غذا و رستوران فست فود همبرگرد مدل B-bu7561 فریم مشکی",
+      "url": "https://www.digikala.com/product/dkp-20369011/تابلو-نوری-بکلیت-طرح-غذا-و-رستوران-فست-فود-همبرگرد-مدل-b-bu7561-فریم-مشکی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d87cc840d7190fcdd90c2872af51ab781d3791e2_1757272020.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بکلیت",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 4950000,
+      "list_price": 5500000,
+      "discount_percent": 10,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "تاپ پروفیل",
+      "rank": 4,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "تجهیزات رستوران و غذا"
+      },
+      "supplier": {
+        "name": "تاپ پروفیل",
+        "url": "https://www.digikala.com/seller/HJ337/"
+      },
+      "signals": {
+        "price_change_pct": 0,
         "rank_change": 1,
         "is_new": false
       }
@@ -10286,7 +10288,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1047900,
       "list_price": 1339800,
       "discount_percent": 22,
@@ -10309,43 +10311,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20369011",
-      "title": "تابلو نوری بکلیت طرح غذا و رستوران فست فود همبرگرد مدل B-bu7561 فریم مشکی",
-      "url": "https://www.digikala.com/product/dkp-20369011/تابلو-نوری-بکلیت-طرح-غذا-و-رستوران-فست-فود-همبرگرد-مدل-b-bu7561-فریم-مشکی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d87cc840d7190fcdd90c2872af51ab781d3791e2_1757272020.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بکلیت",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 4950000,
-      "list_price": 5500000,
-      "discount_percent": 10,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "تاپ پروفیل",
-      "rank": 5,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات رستوران و غذا"
-      },
-      "supplier": {
-        "name": "تاپ پروفیل",
-        "url": "https://www.digikala.com/seller/HJ337/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -10359,7 +10325,7 @@
       "brand": "موگن",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1995000,
       "list_price": null,
       "discount_percent": 0,
@@ -10423,6 +10389,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "20369182",
+      "title": "تابلو نوری بکلیت طرح غذا و رستوران فست فود همبرگرد مدل B-bu7480 فریم مشکی",
+      "url": "https://www.digikala.com/product/dkp-20369182/تابلو-نوری-بکلیت-طرح-غذا-و-رستوران-فست-فود-همبرگرد-مدل-b-bu7480-فریم-مشکی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/91b61c65edc84ca6cd299c11d8efc42a9e798691_1757277799.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بکلیت",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 4950000,
+      "list_price": 5500000,
+      "discount_percent": 10,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "تاپ پروفیل",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "تجهیزات رستوران و غذا"
+      },
+      "supplier": {
+        "name": "تاپ پروفیل",
+        "url": "https://www.digikala.com/seller/HJ337/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "3120224",
       "title": "باکس ابزار کد 012 مجموعه 12 عددی",
       "url": "https://www.digikala.com/product/dkp-3120224/باکس-ابزار-کد-012-مجموعه-12-عددی",
@@ -10430,7 +10432,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 565000,
       "list_price": null,
       "discount_percent": 0,
@@ -10449,7 +10451,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 4,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -10500,7 +10502,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 2800000,
       "list_price": null,
       "discount_percent": 0,
@@ -10536,7 +10538,7 @@
       "brand": "خندالو",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 259000,
       "list_price": 350000,
       "discount_percent": 26,
@@ -10573,7 +10575,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1680000,
       "list_price": null,
       "discount_percent": 0,
@@ -10589,42 +10591,6 @@
       "supplier": {
         "name": "ابزار مارکت",
         "url": "https://www.digikala.com/seller/A7DJ4/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20369182",
-      "title": "تابلو نوری بکلیت طرح غذا و رستوران فست فود همبرگرد مدل B-bu7480 فریم مشکی",
-      "url": "https://www.digikala.com/product/dkp-20369182/تابلو-نوری-بکلیت-طرح-غذا-و-رستوران-فست-فود-همبرگرد-مدل-b-bu7480-فریم-مشکی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/91b61c65edc84ca6cd299c11d8efc42a9e798691_1757277799.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بکلیت",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 4950000,
-      "list_price": 5500000,
-      "discount_percent": 10,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "تاپ پروفیل",
-      "rank": 7,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات رستوران و غذا"
-      },
-      "supplier": {
-        "name": "تاپ پروفیل",
-        "url": "https://www.digikala.com/seller/HJ337/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -10679,7 +10645,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 3500000,
       "list_price": null,
       "discount_percent": 0,
@@ -10697,8 +10663,80 @@
         "url": "https://www.digikala.com/seller/ANE47/"
       },
       "signals": {
-        "price_change_pct": 7.69,
-        "rank_change": -2,
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20368967",
+      "title": "تابلو نوری بکلیت طرح غذا و رستوران فست فود پیتزا مدل B-bu7536 فریم مشکی",
+      "url": "https://www.digikala.com/product/dkp-20368967/تابلو-نوری-بکلیت-طرح-غذا-و-رستوران-فست-فود-پیتزا-مدل-b-bu7536-فریم-مشکی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/314e43ab14991b3809047e4aafb4a113a8da6178_1757274472.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بکلیت",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 4950000,
+      "list_price": 5500000,
+      "discount_percent": 10,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "تاپ پروفیل",
+      "rank": 7,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "تجهیزات رستوران و غذا"
+      },
+      "supplier": {
+        "name": "تاپ پروفیل",
+        "url": "https://www.digikala.com/seller/HJ337/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20369075",
+      "title": "تابلو نوری بکلیت طرح غذا و رستوران فست فود پیتزا مدل B-bu7441 فریم مشکی",
+      "url": "https://www.digikala.com/product/dkp-20369075/تابلو-نوری-بکلیت-طرح-غذا-و-رستوران-فست-فود-پیتزا-مدل-b-bu7441-فریم-مشکی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f3c71d78873c86c9b19128c02b43710d856e0367_1757278708.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بکلیت",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 4950000,
+      "list_price": 5500000,
+      "discount_percent": 10,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "تاپ پروفیل",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "تجهیزات رستوران و غذا"
+      },
+      "supplier": {
+        "name": "تاپ پروفیل",
+        "url": "https://www.digikala.com/seller/HJ337/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -4,
         "is_new": false
       }
     },
@@ -10712,7 +10750,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 170000,
       "list_price": null,
       "discount_percent": 0,
@@ -10775,42 +10813,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20368972",
-      "title": "تابلو نوری بکلیت طرح غذا و رستوران فست فود مدل B-bu7541 فریم مشکی",
-      "url": "https://www.digikala.com/product/dkp-20368972/تابلو-نوری-بکلیت-طرح-غذا-و-رستوران-فست-فود-مدل-b-bu7541-فریم-مشکی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5db468a8ecbd2118c1df4e5974f7481ec560cb20_1757274343.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بکلیت",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 4950000,
-      "list_price": 5500000,
-      "discount_percent": 10,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "قاب پروفیل",
-      "rank": 8,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات رستوران و غذا"
-      },
-      "supplier": {
-        "name": "قاب پروفیل",
-        "url": "https://www.digikala.com/seller/FK6SV/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "3194566",
       "title": "سرویس 8 پارچه ابزار اشپزخانه کد 303",
       "url": "https://www.digikala.com/product/dkp-3194566/سرویس-8-پارچه-ابزار-آشپزخانه-کد-303",
@@ -10818,7 +10820,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 3500000,
       "list_price": null,
       "discount_percent": 0,
@@ -10836,8 +10838,44 @@
         "url": "https://www.digikala.com/seller/ANE47/"
       },
       "signals": {
-        "price_change_pct": 7.69,
-        "rank_change": -5,
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20368972",
+      "title": "تابلو نوری بکلیت طرح غذا و رستوران فست فود مدل B-bu7541 فریم مشکی",
+      "url": "https://www.digikala.com/product/dkp-20368972/تابلو-نوری-بکلیت-طرح-غذا-و-رستوران-فست-فود-مدل-b-bu7541-فریم-مشکی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5db468a8ecbd2118c1df4e5974f7481ec560cb20_1757274343.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بکلیت",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 4950000,
+      "list_price": 5500000,
+      "discount_percent": 10,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "قاب پروفیل",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "تجهیزات رستوران و غذا"
+      },
+      "supplier": {
+        "name": "قاب پروفیل",
+        "url": "https://www.digikala.com/seller/FK6SV/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -10950,43 +10988,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "18487917",
-      "title": "کیف عایق دار حمل غذا فود باکس مدل رستوران و فست فود",
-      "url": "https://www.digikala.com/product/dkp-18487917/کیف-عایق-دار-حمل-غذا-فود-باکس-مدل-رستوران-و-فست-فود",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/671b589145394c3e5796a70e75b68c540c44543b_1740835120.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 3300000,
-      "list_price": 3400000,
-      "discount_percent": 3,
-      "rating": 3.5,
-      "rating_count": 4,
-      "seller": "پرشین اسپیناس",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات رستوران و غذا"
-      },
-      "supplier": {
-        "name": "پرشین اسپیناس",
-        "url": "https://www.digikala.com/seller/DMGH3/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "22862213",
       "title": "اداپتور برق 12 ولت 41.6 امپر مدل S-500-12 مناسب برای LED، پروژکتور، نوار LED، سیستم روشنایی، دوربین مدار بسته، دستگاه‌های صنعتی، تجهیزات الکترونیکی، استریپ LED، RGB، چراغ‌های سقفی، نورپردازی، تابلو روان، ماژول LED، فن 12 ولت، ریسه نوری",
       "url": "https://www.digikala.com/product/dkp-22862213/آداپتور-برق-۱۲-ولت-۴۱۶-آمپر-مدل-s-500-12-مناسب-برای-led-پروژکتور-نوار-led-سیستم-روشنایی-دوربین-مدار-بسته-دستگاههای-صنعتی-تجهیزات-الکترونیکی-استریپ-led-rgb-چراغهای-سقفی-نورپردازی-تابلو-روان-ماژول-led-فن-۱۲-ولت-ریسه-نوری",
@@ -10994,7 +10995,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 4300000,
       "list_price": null,
       "discount_percent": 0,
@@ -11015,7 +11016,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -11029,7 +11030,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1997910,
       "list_price": 7295370,
       "discount_percent": 73,
@@ -11058,6 +11059,43 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "18487917",
+      "title": "کیف عایق دار حمل غذا فود باکس مدل رستوران و فست فود",
+      "url": "https://www.digikala.com/product/dkp-18487917/کیف-عایق-دار-حمل-غذا-فود-باکس-مدل-رستوران-و-فست-فود",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/671b589145394c3e5796a70e75b68c540c44543b_1740835120.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 3300000,
+      "list_price": 3400000,
+      "discount_percent": 3,
+      "rating": 3.5,
+      "rating_count": 4,
+      "seller": "پرشین اسپیناس",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "تجهیزات رستوران و غذا"
+      },
+      "supplier": {
+        "name": "پرشین اسپیناس",
+        "url": "https://www.digikala.com/seller/DMGH3/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "21922040",
       "title": "کیف ابزار ایدی تولز مدل AYT-2101 سایز 50 سانتی متر",
       "url": "https://www.digikala.com/product/dkp-21922040/کیف-ابزار-آیدی-تولز-مدل-ayt-2101-سایز-50-سانتی-متر",
@@ -11065,7 +11103,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 2520000,
       "list_price": 2800000,
       "discount_percent": 10,
@@ -11087,43 +11125,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 6,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20368967",
-      "title": "تابلو نوری بکلیت طرح غذا و رستوران فست فود پیتزا مدل B-bu7536 فریم مشکی",
-      "url": "https://www.digikala.com/product/dkp-20368967/تابلو-نوری-بکلیت-طرح-غذا-و-رستوران-فست-فود-پیتزا-مدل-b-bu7536-فریم-مشکی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/314e43ab14991b3809047e4aafb4a113a8da6178_1757274472.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بکلیت",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 4950000,
-      "list_price": 5500000,
-      "discount_percent": 10,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "تاپ پروفیل",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات رستوران و غذا"
-      },
-      "supplier": {
-        "name": "تاپ پروفیل",
-        "url": "https://www.digikala.com/seller/HJ337/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -5,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -11239,7 +11241,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 2056400,
       "list_price": 2120000,
       "discount_percent": 3,
@@ -11261,7 +11263,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -8,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -11453,7 +11455,7 @@
       "brand": "پولاسا",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 2780000,
       "list_price": null,
       "discount_percent": 0,
@@ -11472,7 +11474,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -9,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -11486,7 +11488,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 2195000,
       "list_price": null,
       "discount_percent": 0,
@@ -11514,6 +11516,41 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "19933679",
+      "title": "ست 12 تکه اسباب بازی فست فود مدل TSMA",
+      "url": "https://www.digikala.com/product/dkp-19933679/ست-12-تکه-اسباب-بازی-فست-فود-مدل-tsma",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/79de48e848e2248b86713bcb8a56372554d275d7_1753276989.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 515000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.7,
+      "rating_count": 687,
+      "seller": "شادرنگ",
+      "rank": 11,
+      "available": true,
+      "badges": [
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "تجهیزات رستوران و غذا"
+      },
+      "supplier": {
+        "name": "افی تویز",
+        "url": "https://www.digikala.com/seller/HA2V6/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "444960",
       "title": "جعبه ابزار مهر مدل Me16i",
       "url": "https://www.digikala.com/product/dkp-444960/جعبه-ابزار-مهر-مدل-me16i",
@@ -11521,7 +11558,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1466000,
       "list_price": 1594650,
       "discount_percent": 8,
@@ -11534,8 +11571,7 @@
         "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "تجهیزات"
@@ -11546,7 +11582,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -11666,7 +11702,7 @@
       "brand": "بکلیت",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 4950000,
       "list_price": 5500000,
       "discount_percent": 10,
@@ -11688,7 +11724,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -11702,7 +11738,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 499000,
       "list_price": null,
       "discount_percent": 0,
@@ -11725,80 +11761,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "6417299",
-      "title": "کیف ابزار خانگی تانوس مدل 02",
-      "url": "https://www.digikala.com/product/dkp-6417299/کیف-ابزار-خانگی-تانوس-مدل-02",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2c9ede74bb887b990e46d57dd350f744d41eaf84_1631363060.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "تانوس",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 464000,
-      "list_price": 600000,
-      "discount_percent": 23,
-      "rating": 4.2,
-      "rating_count": 2285,
-      "seller": "ابزار ایران صنعت",
-      "rank": 13,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات"
-      },
-      "supplier": {
-        "name": "ابزار ایران صنعت",
-        "url": "https://www.digikala.com/seller/A9H44/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 7,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "19933679",
-      "title": "ست 12 تکه اسباب بازی فست فود مدل TSMA",
-      "url": "https://www.digikala.com/product/dkp-19933679/ست-12-تکه-اسباب-بازی-فست-فود-مدل-tsma",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/79de48e848e2248b86713bcb8a56372554d275d7_1753276989.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 515000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.7,
-      "rating_count": 687,
-      "seller": "شادرنگ",
-      "rank": 13,
-      "available": true,
-      "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات رستوران و غذا"
-      },
-      "supplier": {
-        "name": "افی تویز",
-        "url": "https://www.digikala.com/seller/HA2V6/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -11849,7 +11812,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1891500,
       "list_price": 1950000,
       "discount_percent": 3,
@@ -11871,40 +11834,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -12,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "7285907",
-      "title": "مجموعه 47 عددی ابزار کد 001",
-      "url": "https://www.digikala.com/product/dkp-7285907/مجموعه-47-عددی-ابزار-کد-001",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0713abd072aeac3bc06e4dcba6b0d1d804f0a186_1639820894.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 5100000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 124,
-      "seller": "فروشگاه آشیل کالا",
-      "rank": 14,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "تجهیزات"
-      },
-      "supplier": {
-        "name": "فروشگاه آشیل کالا",
-        "url": "https://www.digikala.com/seller/CEM4Y/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -11918,14 +11848,14 @@
       "brand": "بکلیت",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 4950000,
       "list_price": 5500000,
       "discount_percent": 10,
       "rating": null,
       "rating_count": 0,
       "seller": "بی یو پروفیل",
-      "rank": 14,
+      "rank": 13,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -11940,7 +11870,78 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8600901",
+      "title": "مجموعه لوازم جانبی موبایل مدل AY-49",
+      "url": "https://www.digikala.com/product/dkp-8600901/مجموعه-لوازم-جانبی-موبایل-مدل-ay-49",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/63d62522b5cb0074336db174f966d807cbd99aca_1653555932.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 960000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 85,
+      "seller": "بیشاپور سیستم فارس",
+      "rank": 13,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "تجهیزات"
+      },
+      "supplier": {
+        "name": "آدرین سنتر",
+        "url": "https://www.digikala.com/seller/DRXGZ/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "6417299",
+      "title": "کیف ابزار خانگی تانوس مدل 02",
+      "url": "https://www.digikala.com/product/dkp-6417299/کیف-ابزار-خانگی-تانوس-مدل-02",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2c9ede74bb887b990e46d57dd350f744d41eaf84_1631363060.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "تانوس",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 464000,
+      "list_price": 600000,
+      "discount_percent": 23,
+      "rating": 4.2,
+      "rating_count": 2285,
+      "seller": "ابزار ایران صنعت",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "تجهیزات"
+      },
+      "supplier": {
+        "name": "ابزار ایران صنعت",
+        "url": "https://www.digikala.com/seller/A9H44/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -12056,6 +12057,75 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "16613648",
+      "title": "تابلو نوری بکلیت طرح رستورانی غذا و فست فود مدل B-bu1423",
+      "url": "https://www.digikala.com/product/dkp-16613648/تابلو-نوری-بکلیت-طرح-رستورانی-غذا-و-فست-فود-مدل-b-bu1423",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/04109755a1f77069862ba0f448f8cf208cff0448_1725582340.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بکلیت",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 4950000,
+      "list_price": 5500000,
+      "discount_percent": 10,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "بی یو پروفیل",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "تجهیزات رستوران و غذا"
+      },
+      "supplier": {
+        "name": "بی یو پروفیل",
+        "url": "https://www.digikala.com/seller/GEADF/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "2225365",
+      "title": "قیچی اشپزخانه پارتنر مدل KP-1500S",
+      "url": "https://www.digikala.com/product/dkp-2225365/قیچی-آشپزخانه-پارتنر-مدل-kp-1500s",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3c519740c3516ebb79575c0ef885717d2fe3a822_1786787646.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 385000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 1815,
+      "seller": "مهان مارکت",
+      "rank": 14,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "تجهیزات آشپزخانه صنعتی"
+      },
+      "supplier": {
+        "name": "مهان مارکت",
+        "url": "https://www.digikala.com/seller/F7KKH/"
+      },
+      "signals": {
+        "price_change_pct": -1.28,
+        "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "6352049",
       "title": "انبر اشپزی مدل D600",
       "url": "https://www.digikala.com/product/dkp-6352049/انبر-آشپزی-مدل-d600",
@@ -12063,14 +12133,14 @@
       "brand": "هوم جوی",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 484000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.6,
       "rating_count": 150,
       "seller": "پومونا",
-      "rank": 14,
+      "rank": 15,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -12083,8 +12153,8 @@
         "url": "https://www.digikala.com/seller/DADUR/"
       },
       "signals": {
-        "price_change_pct": 5.45,
-        "rank_change": 4,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -12134,7 +12204,7 @@
       "brand": "بکلیت",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 4950000,
       "list_price": 5500000,
       "discount_percent": 10,
@@ -12156,7 +12226,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -12170,7 +12240,7 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 697000,
       "list_price": null,
       "discount_percent": 0,
@@ -12198,36 +12268,33 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "16613648",
-      "title": "تابلو نوری بکلیت طرح رستورانی غذا و فست فود مدل B-bu1423",
-      "url": "https://www.digikala.com/product/dkp-16613648/تابلو-نوری-بکلیت-طرح-رستورانی-غذا-و-فست-فود-مدل-b-bu1423",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/04109755a1f77069862ba0f448f8cf208cff0448_1725582340.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بکلیت",
+      "source_id": "7285907",
+      "title": "مجموعه 47 عددی ابزار کد 001",
+      "url": "https://www.digikala.com/product/dkp-7285907/مجموعه-47-عددی-ابزار-کد-001",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0713abd072aeac3bc06e4dcba6b0d1d804f0a186_1639820894.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 4950000,
-      "list_price": 5500000,
-      "discount_percent": 10,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "بی یو پروفیل",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 5100000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 124,
+      "seller": "فروشگاه آشیل کالا",
       "rank": 16,
       "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده"
-      ],
+      "badges": [],
       "raw_ref": {
-        "query": "تجهیزات رستوران و غذا"
+        "query": "تجهیزات"
       },
       "supplier": {
-        "name": "بی یو پروفیل",
-        "url": "https://www.digikala.com/seller/GEADF/"
+        "name": "فروشگاه آشیل کالا",
+        "url": "https://www.digikala.com/seller/CEM4Y/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -12305,36 +12372,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1858998",
-      "title": "کتاب مستطاب اشپزی ازسیرتاپیاز اثر نجف دریا بندری انتشارات کارنامه",
-      "url": "https://www.digikala.com/product/dkp-1858998/کتاب-مستطاب-آشپزی-ازسیرتاپیاز-اثر-نجف-دریا-بندری-انتشارات-کارنامه",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/112454821.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "انتشارات کارنامه",
+      "source_id": "21377372",
+      "title": "نظم دهنده خندالو مدل رستوران دار کد 4013-S",
+      "url": "https://www.digikala.com/product/dkp-21377372/نظم-دهنده-خندالو-مدل-رستوران-دار-کد-4013-s",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-creation-requests/6bf6031bb9df1aa13cc7d8cf834977e9491a7c12_1770098560.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "خندالو",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 5888620,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.7,
-      "rating_count": 95,
-      "seller": " کتابسرای سام",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 189000,
+      "list_price": 240000,
+      "discount_percent": 21,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "خندالو",
       "rank": 16,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
+        "فروش ویژه",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "تجهیزات آشپزخانه صنعتی"
+        "query": "تجهیزات رستوران و غذا"
       },
       "supplier": {
-        "name": " کتابسرای سام",
-        "url": "https://www.digikala.com/seller/G2ZYG/"
+        "name": "خندالو",
+        "url": "https://www.digikala.com/seller/5A9HF/"
       },
       "signals": {
-        "price_change_pct": 0.06,
-        "rank_change": 4,
+        "price_change_pct": 0,
+        "rank_change": 2,
         "is_new": false
       }
     },
@@ -12348,14 +12415,14 @@
       "brand": "تروتک",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1800000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 63,
       "seller": "هاینزبرگ",
-      "rank": 16,
+      "rank": 17,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -12364,41 +12431,6 @@
       "supplier": {
         "name": "هاینزبرگ",
         "url": "https://www.digikala.com/seller/DRTTV/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "2225365",
-      "title": "قیچی اشپزخانه پارتنر مدل KP-1500S",
-      "url": "https://www.digikala.com/product/dkp-2225365/قیچی-آشپزخانه-پارتنر-مدل-kp-1500s",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/3c519740c3516ebb79575c0ef885717d2fe3a822_1786787646.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-14T18:49:24.798Z",
-      "price": 390000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 1813,
-      "seller": "هوم آسا",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات آشپزخانه صنعتی"
-      },
-      "supplier": {
-        "name": "مهان مارکت",
-        "url": "https://www.digikala.com/seller/F7KKH/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -12522,7 +12554,7 @@
       "brand": "بکلیت",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 4950000,
       "list_price": 5500000,
       "discount_percent": 10,
@@ -12544,7 +12576,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -12558,7 +12590,7 @@
       "brand": "استاد",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 175000,
       "list_price": null,
       "discount_percent": 0,
@@ -12568,7 +12600,7 @@
       "rank": 17,
       "available": true,
       "badges": [
-        "تنها 3 عدد در انبار باقی مانده"
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "تجهیزات آشپزخانه صنعتی"
@@ -12593,14 +12625,14 @@
       "brand": "متفرقه",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 3172000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
       "rating_count": 2267,
       "seller": "نیلا مارکتینگ",
-      "rank": 17,
+      "rank": 18,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -12614,42 +12646,6 @@
       "supplier": {
         "name": "تاج ابزار",
         "url": "https://www.digikala.com/seller/E3S4R/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21377372",
-      "title": "نظم دهنده خندالو مدل رستوران دار کد 4013-S",
-      "url": "https://www.digikala.com/product/dkp-21377372/نظم-دهنده-خندالو-مدل-رستوران-دار-کد-4013-s",
-      "image": "https://dkstatics-public.digikala.com/digikala-content-creation-requests/6bf6031bb9df1aa13cc7d8cf834977e9491a7c12_1770098560.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "خندالو",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 189000,
-      "list_price": 240000,
-      "discount_percent": 21,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "خندالو",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات رستوران و غذا"
-      },
-      "supplier": {
-        "name": "خندالو",
-        "url": "https://www.digikala.com/seller/5A9HF/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -12769,153 +12765,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19802657",
-      "title": "نظم دهنده خندالو مدل رستوران دار مملکت کد 4012 مجموعه 3 عددی",
-      "url": "https://www.digikala.com/product/dkp-19802657/نظم-دهنده-خندالو-مدل-رستوران-دار-مملکت-کد-4012-مجموعه-3-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-content-creation-requests/390f9fec0bae759a1d705a2e8892327831f601be_1752355666.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "خندالو",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-13T12:04:24.029Z",
-      "price": 499000,
-      "list_price": 600000,
-      "discount_percent": 17,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "خندالو",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات رستوران و غذا"
-      },
-      "supplier": {
-        "name": "خندالو",
-        "url": "https://www.digikala.com/seller/5A9HF/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "15653840",
-      "title": "باکس ابزار کد 2 مجموعه 12 عددی",
-      "url": "https://www.digikala.com/product/dkp-15653840/باکس-ابزار-کد-2-مجموعه-12-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5cad56140df9877321f4c906ba45c56357136f37_1717509467.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 930000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 17,
-      "seller": "بازرگاني تهران",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات"
-      },
-      "supplier": {
-        "name": "بازرگاني تهران",
-        "url": "https://www.digikala.com/seller/9PDHD/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "3742756",
-      "title": "سرویس ابزار اشپزخانه 8 پارچه مدل ZX_KGS05",
-      "url": "https://www.digikala.com/product/dkp-3742756/سرویس-ابزار-آشپزخانه-8-پارچه-مدل-zx-kgs05",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/61e7e6a34de0f4a20ba5184352ab36d43883bbdf_1782139095.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 2700000,
-      "list_price": 2950000,
-      "discount_percent": 8,
-      "rating": 4.4,
-      "rating_count": 187,
-      "seller": "همچی اینجا",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات آشپزخانه صنعتی"
-      },
-      "supplier": {
-        "name": "فروشگاه بیگ زاده",
-        "url": "https://www.digikala.com/seller/CSVJH/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -11,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "12143504",
-      "title": "جعبه ابزار مدل TKS-Y34265",
-      "url": "https://www.digikala.com/product/dkp-12143504/جعبه-ابزار-مدل-tks-y34265",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7794584194fbecc516762474ef5d351f2e97e1ad_1690192262.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "restaurant",
-      "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 685000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 586,
-      "seller": "تیکا",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات"
-      },
-      "supplier": {
-        "name": "تیکا",
-        "url": "https://www.digikala.com/seller/5A73D/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "20317097",
       "title": "تابلو بکلیت طرح غذا و رستوران فست فود همبرگرد مدل B-bu7268 فریم مشکی",
       "url": "https://www.digikala.com/product/dkp-20317097/تابلو-بکلیت-طرح-غذا-و-رستوران-فست-فود-همبرگرد-مدل-b-bu7268-فریم-مشکی",
@@ -12923,14 +12772,14 @@
       "brand": "بکلیت",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 855000,
       "list_price": 950000,
       "discount_percent": 10,
       "rating": null,
       "rating_count": 0,
       "seller": "قاب پروفیل",
-      "rank": 19,
+      "rank": 18,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -12945,7 +12794,112 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3194558",
+      "title": "سرویس 8 پارچه ابزار اشپزخانه کد 305",
+      "url": "https://www.digikala.com/product/dkp-3194558/سرویس-8-پارچه-ابزار-آشپزخانه-کد-305",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/933295755268d64f852f79f3cdd23cd397f0af7a_1782140001.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 3500000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 28,
+      "seller": "تکهوم",
+      "rank": 18,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "تجهیزات آشپزخانه صنعتی"
+      },
+      "supplier": {
+        "name": "تکهوم",
+        "url": "https://www.digikala.com/seller/ANE47/"
+      },
+      "signals": {
+        "price_change_pct": 7.69,
+        "rank_change": -9,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1858998",
+      "title": "کتاب مستطاب اشپزی ازسیرتاپیاز اثر نجف دریا بندری انتشارات کارنامه",
+      "url": "https://www.digikala.com/product/dkp-1858998/کتاب-مستطاب-آشپزی-ازسیرتاپیاز-اثر-نجف-دریا-بندری-انتشارات-کارنامه",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/112454821.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "انتشارات کارنامه",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 5888620,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.7,
+      "rating_count": 95,
+      "seller": " کتابسرای سام",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "تجهیزات آشپزخانه صنعتی"
+      },
+      "supplier": {
+        "name": " کتابسرای سام",
+        "url": "https://www.digikala.com/seller/G2ZYG/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "15653840",
+      "title": "باکس ابزار کد 2 مجموعه 12 عددی",
+      "url": "https://www.digikala.com/product/dkp-15653840/باکس-ابزار-کد-2-مجموعه-12-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5cad56140df9877321f4c906ba45c56357136f37_1717509467.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 930000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 17,
+      "seller": "بازرگاني تهران",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "تجهیزات"
+      },
+      "supplier": {
+        "name": "بازرگاني تهران",
+        "url": "https://www.digikala.com/seller/9PDHD/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -13210,14 +13164,14 @@
       "brand": "بکلیت",
       "category_key": "restaurant",
       "category_label": "تجهیزات رستوران و غذا",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 4950000,
       "list_price": 5500000,
       "discount_percent": 10,
       "rating": null,
       "rating_count": 0,
       "seller": "تاپ پروفیل",
-      "rank": 20,
+      "rank": 19,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -13232,7 +13186,118 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19802657",
+      "title": "نظم دهنده خندالو مدل رستوران دار مملکت کد 4012 مجموعه 3 عددی",
+      "url": "https://www.digikala.com/product/dkp-19802657/نظم-دهنده-خندالو-مدل-رستوران-دار-مملکت-کد-4012-مجموعه-3-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-creation-requests/390f9fec0bae759a1d705a2e8892327831f601be_1752355666.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "خندالو",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 499000,
+      "list_price": 600000,
+      "discount_percent": 17,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "خندالو",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "تجهیزات رستوران و غذا"
+      },
+      "supplier": {
+        "name": "خندالو",
+        "url": "https://www.digikala.com/seller/5A9HF/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3742756",
+      "title": "سرویس ابزار اشپزخانه 8 پارچه مدل ZX_KGS05",
+      "url": "https://www.digikala.com/product/dkp-3742756/سرویس-ابزار-آشپزخانه-8-پارچه-مدل-zx-kgs05",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/61e7e6a34de0f4a20ba5184352ab36d43883bbdf_1782139095.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 2700000,
+      "list_price": 2950000,
+      "discount_percent": 8,
+      "rating": 4.4,
+      "rating_count": 187,
+      "seller": "همچی اینجا",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "تجهیزات آشپزخانه صنعتی"
+      },
+      "supplier": {
+        "name": "فروشگاه بیگ زاده",
+        "url": "https://www.digikala.com/seller/CSVJH/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "12143504",
+      "title": "جعبه ابزار مدل TKS-Y34265",
+      "url": "https://www.digikala.com/product/dkp-12143504/جعبه-ابزار-مدل-tks-y34265",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7794584194fbecc516762474ef5d351f2e97e1ad_1690192262.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "restaurant",
+      "category_label": "تجهیزات رستوران و غذا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 685000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 586,
+      "seller": "تیکا",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "تجهیزات"
+      },
+      "supplier": {
+        "name": "تیکا",
+        "url": "https://www.digikala.com/seller/5A73D/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -14465,39 +14530,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "8600901",
-      "title": "مجموعه لوازم جانبی موبایل مدل AY-49",
-      "url": "https://www.digikala.com/product/dkp-8600901/مجموعه-لوازم-جانبی-موبایل-مدل-ay-49",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/63d62522b5cb0074336db174f966d807cbd99aca_1653555932.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "industrial",
-      "category_label": "تجهیزات صنعتی و کسب‌وکار",
-      "observed_at": "2026-10-16T01:12:14.183Z",
-      "price": 960000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 85,
-      "seller": "بیشاپور سیستم فارس",
-      "rank": 14,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "تجهیزات"
-      },
-      "supplier": {
-        "name": "آدرین سنتر",
-        "url": "https://www.digikala.com/seller/DRXGZ/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
         "is_new": false
       }
     },
@@ -22253,7 +22285,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1460400,
       "list_price": null,
       "discount_percent": 0,
@@ -22274,7 +22306,7 @@
         "url": "https://www.digikala.com/seller/CCJYV/"
       },
       "signals": {
-        "price_change_pct": -2.64,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -22289,7 +22321,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 785990,
       "list_price": null,
       "discount_percent": 0,
@@ -22310,7 +22342,7 @@
         "url": "https://www.digikala.com/seller/GEJJ9/"
       },
       "signals": {
-        "price_change_pct": 4.8,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -22325,7 +22357,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
@@ -22361,7 +22393,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 6500000,
       "list_price": null,
       "discount_percent": 0,
@@ -22396,7 +22428,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1693200,
       "list_price": null,
       "discount_percent": 0,
@@ -22417,8 +22449,8 @@
         "url": "https://www.digikala.com/seller/CRPYG/"
       },
       "signals": {
-        "price_change_pct": -5.88,
-        "rank_change": 14,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -22432,7 +22464,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 218500,
       "list_price": 230000,
       "discount_percent": 5,
@@ -22471,7 +22503,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 6500000,
       "list_price": null,
       "discount_percent": 0,
@@ -22506,7 +22538,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1250000,
       "list_price": null,
       "discount_percent": 0,
@@ -22542,7 +22574,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 350000,
       "list_price": null,
       "discount_percent": 0,
@@ -22565,42 +22597,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "7448081",
-      "title": "فیگور نیکی تویز طرح حیوانات اهلی مدل FARM ANIMALS بسته 14 عددی",
-      "url": "https://www.digikala.com/product/dkp-7448081/فیگور-نیکی-تویز-طرح-حیوانات-اهلی-مدل-farm-animals-بسته-14-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e988c409517f456083f98ea2ab2994a239bf0394_1641112435.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 484000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 119,
-      "seller": "پترو پارس",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "حیوانات خانگی"
-      },
-      "supplier": {
-        "name": "تولیدی بازرگانی شگفت انگیز",
-        "url": "https://www.digikala.com/seller/J6XCD/"
-      },
-      "signals": {
-        "price_change_pct": -1.02,
-        "rank_change": -1,
         "is_new": false
       }
     },
@@ -22723,7 +22719,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1550000,
       "list_price": null,
       "discount_percent": 0,
@@ -22746,7 +22742,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -22760,7 +22756,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 490000,
       "list_price": null,
       "discount_percent": 0,
@@ -22796,14 +22792,14 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1745000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 84,
       "seller": "سیستم سازان رایان",
-      "rank": 5,
+      "rank": 4,
       "available": true,
       "badges": [
         "تنها 3 عدد در انبار باقی مانده"
@@ -22817,75 +22813,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "10822941",
-      "title": "فیگور مدل حیوانات اهلی مجموعه 5 عددی",
-      "url": "https://www.digikala.com/product/dkp-10822941/فیگور-مدل-حیوانات-اهلی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5351fc3456ad15e6d57162bb048e2ffcd2a22bd7_1677935936.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "7448081",
+      "title": "فیگور نیکی تویز طرح حیوانات اهلی مدل FARM ANIMALS بسته 14 عددی",
+      "url": "https://www.digikala.com/product/dkp-7448081/فیگور-نیکی-تویز-طرح-حیوانات-اهلی-مدل-farm-animals-بسته-14-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e988c409517f456083f98ea2ab2994a239bf0394_1641112435.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-14T18:49:24.798Z",
-      "price": 265060,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 484000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 102,
-      "seller": "پکاوج",
+      "rating": 4.3,
+      "rating_count": 119,
+      "seller": "پترو پارس",
       "rank": 5,
       "available": true,
-      "badges": [],
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
       "raw_ref": {
         "query": "حیوانات خانگی"
       },
       "supplier": {
-        "name": "پترو پارس",
-        "url": "https://www.digikala.com/seller/5ADVN/"
-      },
-      "signals": {
-        "price_change_pct": -3.47,
-        "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "5773507",
-      "title": "جای خواب سگ و گربه مدل mypet367",
-      "url": "https://www.digikala.com/product/dkp-5773507/جای-خواب-سگ-و-گربه-مدل-mypet367",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8fc44c581853aa58691f6aed80c225116cbb10bb_1789375334.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 1489000,
-      "list_price": 1700000,
-      "discount_percent": 12,
-      "rating": 4.4,
-      "rating_count": 3423,
-      "seller": "میسورا",
-      "rank": 5,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "لوازم حیوانات خانگی"
-      },
-      "supplier": {
-        "name": "میسورا",
-        "url": "https://www.digikala.com/seller/H4AVC/"
+        "name": "تولیدی بازرگانی شگفت انگیز",
+        "url": "https://www.digikala.com/seller/J6XCD/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -22899,7 +22863,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 588750,
       "list_price": 785000,
       "discount_percent": 25,
@@ -22927,6 +22891,77 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "13057653",
+      "title": "کیسه جمع اوری فضولات حیوانات خانگی کد 05 وزن 50 گرم بسته 5 عددی",
+      "url": "https://www.digikala.com/product/dkp-13057653/کیسه-جمع-آوری-فضولات-حیوانات-خانگی-کد-05-وزن-50-گرم-بسته-5-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/eacd63c059c53da2e1cb411fa2227378c7df605f_1784530084.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "pets",
+      "category_label": "حیوانات خانگی",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 330000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 127,
+      "seller": "نوین پت",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم حیوانات خانگی"
+      },
+      "supplier": {
+        "name": "پت نپ شاپ",
+        "url": "https://www.digikala.com/seller/HHC7Y/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "5773507",
+      "title": "جای خواب سگ و گربه مدل mypet367",
+      "url": "https://www.digikala.com/product/dkp-5773507/جای-خواب-سگ-و-گربه-مدل-mypet367",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8fc44c581853aa58691f6aed80c225116cbb10bb_1789375334.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "pets",
+      "category_label": "حیوانات خانگی",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 1489000,
+      "list_price": 1700000,
+      "discount_percent": 12,
+      "rating": 4.4,
+      "rating_count": 3423,
+      "seller": "میسورا",
+      "rank": 6,
+      "available": true,
+      "badges": [
+        "فروش ویژه"
+      ],
+      "raw_ref": {
+        "query": "لوازم حیوانات خانگی"
+      },
+      "supplier": {
+        "name": "میسورا",
+        "url": "https://www.digikala.com/seller/H4AVC/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "4543870",
       "title": "پارک حیوانات خانگی مدل 8-60",
       "url": "https://www.digikala.com/product/dkp-4543870/پارک-حیوانات-خانگی-مدل-8-60",
@@ -22934,7 +22969,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1693200,
       "list_price": null,
       "discount_percent": 0,
@@ -22955,8 +22990,8 @@
         "url": "https://www.digikala.com/seller/CRPYG/"
       },
       "signals": {
-        "price_change_pct": -8.8,
-        "rank_change": -4,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -23071,42 +23106,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "13057653",
-      "title": "کیسه جمع اوری فضولات حیوانات خانگی کد 05 وزن 50 گرم بسته 5 عددی",
-      "url": "https://www.digikala.com/product/dkp-13057653/کیسه-جمع-آوری-فضولات-حیوانات-خانگی-کد-05-وزن-50-گرم-بسته-5-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/eacd63c059c53da2e1cb411fa2227378c7df605f_1784530084.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 330000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 127,
-      "seller": "نوین پت",
-      "rank": 6,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم حیوانات خانگی"
-      },
-      "supplier": {
-        "name": "پت نپ شاپ",
-        "url": "https://www.digikala.com/seller/HHC7Y/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "22678861",
       "title": "بسته لوازم تحریر مدل ملودی مجموعه 6 عددی",
       "url": "https://www.digikala.com/product/dkp-22678861/بسته-لوازم-تحریر-مدل-ملودی-مجموعه-۶-عددی",
@@ -23114,7 +23113,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 311000,
       "list_price": null,
       "discount_percent": 0,
@@ -23142,37 +23141,35 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22178242",
-      "title": "فیگور طرح حیوانات اهلی و وحشی مدل سگ کد 1831 ارتفاع 8 سانتی‌متر",
-      "url": "https://www.digikala.com/product/dkp-22178242/فیگور-طرح-حیوانات-اهلی-و-وحشی-مدل-سگ-کد-1831-ارتفاع-8-سانتیمتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4f849d69f778c88e64878f358935b054384bfee8_1783430394.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "10822941",
+      "title": "فیگور مدل حیوانات اهلی مجموعه 5 عددی",
+      "url": "https://www.digikala.com/product/dkp-10822941/فیگور-مدل-حیوانات-اهلی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5351fc3456ad15e6d57162bb048e2ffcd2a22bd7_1677935936.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 400000,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 300000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 5,
-      "rating_count": 2,
-      "seller": "تامین کالای ملودی",
+      "rating": 4,
+      "rating_count": 103,
+      "seller": "ماه نیلای",
       "rank": 7,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "حیوانات خانگی"
       },
       "supplier": {
-        "name": "تامین کالای ملودی",
-        "url": "https://www.digikala.com/seller/A2REW/"
+        "name": "پترو پارس",
+        "url": "https://www.digikala.com/seller/5ADVN/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "price_change_pct": 13.18,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -23255,7 +23252,7 @@
       "brand": "خندالو",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 289000,
       "list_price": 350000,
       "discount_percent": 17,
@@ -23278,7 +23275,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -23292,7 +23289,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 815000,
       "list_price": null,
       "discount_percent": 0,
@@ -23320,31 +23317,33 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "11736693",
-      "title": "فیگور مدل مجموعه حیوانات اهلی و وحشی مجموعه 21 عددی",
-      "url": "https://www.digikala.com/product/dkp-11736693/فیگور-مدل-مجموعه-حیوانات-اهلی-و-وحشی-مجموعه-21-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/6cb9c17a2c7fc49ac2da36211dcf2d7689f1fe58_1688049763.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "22178242",
+      "title": "فیگور طرح حیوانات اهلی و وحشی مدل سگ کد 1831 ارتفاع 8 سانتی‌متر",
+      "url": "https://www.digikala.com/product/dkp-22178242/فیگور-طرح-حیوانات-اهلی-و-وحشی-مدل-سگ-کد-1831-ارتفاع-8-سانتیمتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4f849d69f778c88e64878f358935b054384bfee8_1783430394.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 736030,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 400000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.5,
-      "rating_count": 29,
-      "seller": "افی تویز",
+      "rating": 5,
+      "rating_count": 2,
+      "seller": "تامین کالای ملودی",
       "rank": 8,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده"
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "حیوانات خانگی"
       },
       "supplier": {
-        "name": "افی تویز",
-        "url": "https://www.digikala.com/seller/HA2V6/"
+        "name": "تامین کالای ملودی",
+        "url": "https://www.digikala.com/seller/A2REW/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -23470,7 +23469,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1379000,
       "list_price": null,
       "discount_percent": 0,
@@ -23490,7 +23489,42 @@
         "url": "https://www.digikala.com/seller/FXDC4/"
       },
       "signals": {
-        "price_change_pct": -0.07,
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20447335",
+      "title": "بسته لوازم تحریر مدل ویژه ملودی بسته 5 عددی",
+      "url": "https://www.digikala.com/product/dkp-20447335/بسته-لوازم-تحریر-مدل-ویژه-ملودی-بسته-۵-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/dd726d7cee61aaf59646fbdf022587e5c5fdc7da_1759061500.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "pets",
+      "category_label": "حیوانات خانگی",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 259000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 5,
+      "rating_count": 1,
+      "seller": "بانیبو آرت",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "بانیبو آرت",
+        "url": "https://www.digikala.com/seller/EE3F3/"
+      },
+      "signals": {
+        "price_change_pct": 0,
         "rank_change": 1,
         "is_new": false
       }
@@ -23505,14 +23539,14 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 2.9,
       "rating_count": 7,
       "seller": "چاپ فانتزی",
-      "rank": 8,
+      "rank": 9,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -23527,7 +23561,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -23612,7 +23646,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 352000,
       "list_price": null,
       "discount_percent": 0,
@@ -23634,42 +23668,79 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20447335",
-      "title": "بسته لوازم تحریر مدل ویژه ملودی بسته 5 عددی",
-      "url": "https://www.digikala.com/product/dkp-20447335/بسته-لوازم-تحریر-مدل-ویژه-ملودی-بسته-۵-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/dd726d7cee61aaf59646fbdf022587e5c5fdc7da_1759061500.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "18691021",
+      "title": "کیف لوازم ارایش دخترانه خندالو مدل انیمیشن زندگی مخفی حیوانات خانگی کد 816",
+      "url": "https://www.digikala.com/product/dkp-18691021/کیف-لوازم-آرایش-دخترانه-خندالو-مدل-انیمیشن-زندگی-مخفی-حیوانات-خانگی-کد-816",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/34fb5cc0398cd89f236bbad285797a3d40a89bb2_1742558073.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "خندالو",
+      "category_key": "pets",
+      "category_label": "حیوانات خانگی",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 289000,
+      "list_price": 350000,
+      "discount_percent": 17,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "خندالو",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم حیوانات خانگی"
+      },
+      "supplier": {
+        "name": "خندالو",
+        "url": "https://www.digikala.com/seller/5A9HF/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "11736693",
+      "title": "فیگور مدل مجموعه حیوانات اهلی و وحشی مجموعه 21 عددی",
+      "url": "https://www.digikala.com/product/dkp-11736693/فیگور-مدل-مجموعه-حیوانات-اهلی-و-وحشی-مجموعه-21-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6cb9c17a2c7fc49ac2da36211dcf2d7689f1fe58_1688049763.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 259000,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 736030,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 5,
-      "rating_count": 1,
-      "seller": "بانیبو آرت",
-      "rank": 9,
+      "rating": 3.5,
+      "rating_count": 29,
+      "seller": "افی تویز",
+      "rank": 10,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "لوازم"
+        "query": "حیوانات خانگی"
       },
       "supplier": {
-        "name": "بانیبو آرت",
-        "url": "https://www.digikala.com/seller/EE3F3/"
+        "name": "افی تویز",
+        "url": "https://www.digikala.com/seller/HA2V6/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -23784,43 +23855,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "18691021",
-      "title": "کیف لوازم ارایش دخترانه خندالو مدل انیمیشن زندگی مخفی حیوانات خانگی کد 816",
-      "url": "https://www.digikala.com/product/dkp-18691021/کیف-لوازم-آرایش-دخترانه-خندالو-مدل-انیمیشن-زندگی-مخفی-حیوانات-خانگی-کد-816",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/34fb5cc0398cd89f236bbad285797a3d40a89bb2_1742558073.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "خندالو",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 289000,
-      "list_price": 350000,
-      "discount_percent": 17,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "خندالو",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم حیوانات خانگی"
-      },
-      "supplier": {
-        "name": "خندالو",
-        "url": "https://www.digikala.com/seller/5A9HF/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "529314",
       "title": "ست فیگور حیوانات جی اف ال مدل 16088A",
       "url": "https://www.digikala.com/product/dkp-529314/ست-فیگور-حیوانات-جی-اف-ال-مدل-16088a",
@@ -23865,7 +23899,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 699000,
       "list_price": null,
       "discount_percent": 0,
@@ -23893,6 +23927,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "1114057",
+      "title": "زیرانداز بهداشتی حیوانات خانگی تافته مدل 6060 بسته 5 عددی",
+      "url": "https://www.digikala.com/product/dkp-1114057/زیرانداز-بهداشتی-حیوانات-خانگی-تافته-مدل-6060-بسته-۵-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d86e82e298c91e1bc9e4a6713bc46d9a22193cdf_1784464449.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "تافته",
+      "category_key": "pets",
+      "category_label": "حیوانات خانگی",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 285590,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 1123,
+      "seller": "کالابانو ",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم حیوانات خانگی"
+      },
+      "supplier": {
+        "name": "بهتر کالا",
+        "url": "https://www.digikala.com/seller/J7CX6/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "6637409",
       "title": "فیگور حیوانات جنگل جی اف ال مجموعه 12 عددی",
       "url": "https://www.digikala.com/product/dkp-6637409/فیگور-حیوانات-جنگل-مدل-animal-kingdom-جی-اف-ال-مجموعه-12-عددی",
@@ -23900,7 +23970,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1999900,
       "list_price": null,
       "discount_percent": 0,
@@ -23922,7 +23992,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -24077,7 +24147,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 2640000,
       "list_price": null,
       "discount_percent": 0,
@@ -24098,43 +24168,42 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 4,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19800745",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new5 مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-19800745/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new5-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0b540c6dfeee4e00b3b70942298e3f8fe79fe1e3_1752344329.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "22396419",
+      "title": "بسته لوازم التحریر مدل ملودی مجموعه 7عددی‌",
+      "url": "https://www.digikala.com/product/dkp-22396419/بسته-لوازم-التحریر-مدل-ملودی-مجموعه-۷عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a7ddffa39fc63c18963e6eab843eca326a424d4e_1785505908.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 178000,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 390000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
-      "seller": "چاپ فانتزی",
+      "seller": "شاهین تک",
       "rank": 11,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لوازم"
       },
       "supplier": {
-        "name": "چاپ فانتزی",
-        "url": "https://www.digikala.com/seller/CZ3GP/"
+        "name": "شاهین تک",
+        "url": "https://www.digikala.com/seller/FEWN2/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -24148,7 +24217,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 430000,
       "list_price": null,
       "discount_percent": 0,
@@ -24169,8 +24238,8 @@
         "url": "https://www.digikala.com/seller/A7Z5J/"
       },
       "signals": {
-        "price_change_pct": 0.4,
-        "rank_change": -3,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -24251,32 +24320,32 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1114057",
-      "title": "زیرانداز بهداشتی حیوانات خانگی تافته مدل 6060 بسته 5 عددی",
-      "url": "https://www.digikala.com/product/dkp-1114057/زیرانداز-بهداشتی-حیوانات-خانگی-تافته-مدل-6060-بسته-۵-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d86e82e298c91e1bc9e4a6713bc46d9a22193cdf_1784464449.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "تافته",
+      "source_id": "3001426",
+      "title": "اسباب‌بازی گربه یونیورس مدل D195",
+      "url": "https://www.digikala.com/product/dkp-3001426/اسباببازی-گربه-یونیورس-مدل-d195",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/818f913c06a5e161447e19c0efef8bda6e03719e_1783408370.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 285590,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 668000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 1123,
-      "seller": "کالابانو ",
+      "rating": 4.2,
+      "rating_count": 917,
+      "seller": "پت شاپ هشت",
       "rank": 12,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لوازم حیوانات خانگی"
       },
       "supplier": {
-        "name": "بهتر کالا",
-        "url": "https://www.digikala.com/seller/J7CX6/"
+        "name": "آسنا تجارت",
+        "url": "https://www.digikala.com/seller/J4HX3/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -24287,35 +24356,39 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22396419",
-      "title": "بسته لوازم التحریر مدل ملودی مجموعه 7عددی‌",
-      "url": "https://www.digikala.com/product/dkp-22396419/بسته-لوازم-التحریر-مدل-ملودی-مجموعه-۷عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a7ddffa39fc63c18963e6eab843eca326a424d4e_1785505908.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "22760274",
+      "title": "بسته لوازم تحریر مدل ملودی کیوت کد 81 مجموعه 11 عددی",
+      "url": "https://www.digikala.com/product/dkp-22760274/بسته-لوازم-تحریر-ملودی-کیوت-مجموعه-11-عددی-کد-81",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e886ea3f66c45ad8a99be746ceeaf3f7795529ae_1789645600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 390000,
-      "list_price": null,
-      "discount_percent": 0,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 1620000,
+      "list_price": 2000000,
+      "discount_percent": 19,
       "rating": null,
       "rating_count": 0,
-      "seller": "شاهین تک",
+      "seller": "هنرگلسا",
       "rank": 12,
       "available": true,
       "badges": [
-        "تنها 3 عدد در انبار باقی مانده"
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لوازم"
       },
       "supplier": {
-        "name": "شاهین تک",
-        "url": "https://www.digikala.com/seller/FEWN2/"
+        "name": "هنرگلسا",
+        "url": "https://www.digikala.com/seller/DCE47/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -24329,7 +24402,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 450000,
       "list_price": null,
       "discount_percent": 0,
@@ -24352,7 +24425,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -24536,75 +24609,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "3001426",
-      "title": "اسباب‌بازی گربه یونیورس مدل D195",
-      "url": "https://www.digikala.com/product/dkp-3001426/اسباببازی-گربه-یونیورس-مدل-d195",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/818f913c06a5e161447e19c0efef8bda6e03719e_1783408370.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "19800798",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new6 مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-19800798/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new6-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/753a99acd0f9fc14c6724a6e030835c821ac6677_1752344513.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 668000,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 145000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 917,
-      "seller": "پت شاپ هشت",
+      "rating": null,
+      "rating_count": 0,
+      "seller": "چاپ فانتزی",
       "rank": 13,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم حیوانات خانگی"
-      },
-      "supplier": {
-        "name": "آسنا تجارت",
-        "url": "https://www.digikala.com/seller/J4HX3/"
-      },
-      "signals": {
-        "price_change_pct": -4.3,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "22760274",
-      "title": "بسته لوازم تحریر مدل ملودی کیوت کد 81 مجموعه 11 عددی",
-      "url": "https://www.digikala.com/product/dkp-22760274/بسته-لوازم-تحریر-ملودی-کیوت-مجموعه-11-عددی-کد-81",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e886ea3f66c45ad8a99be746ceeaf3f7795529ae_1789645600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 1620000,
-      "list_price": 2000000,
-      "discount_percent": 19,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "هنرگلسا",
-      "rank": 13,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "لوازم"
       },
       "supplier": {
-        "name": "هنرگلسا",
-        "url": "https://www.digikala.com/seller/DCE47/"
+        "name": "چاپ فانتزی",
+        "url": "https://www.digikala.com/seller/CZ3GP/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -24938,7 +24972,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 655000,
       "list_price": null,
       "discount_percent": 0,
@@ -24959,29 +24993,103 @@
         "url": "https://www.digikala.com/seller/A7Z5J/"
       },
       "signals": {
-        "price_change_pct": 3.8,
-        "rank_change": 5,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19800798",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new6 مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-19800798/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new6-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/753a99acd0f9fc14c6724a6e030835c821ac6677_1752344513.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "984779",
+      "title": "اسباب بازی سگ فرپلاست مدل PA6484",
+      "url": "https://www.digikala.com/product/dkp-984779/اسباب-بازی-سگ-فرپلاست-مدل-pa6484",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4075c01681afc6b922e2db54e7639f71c12226d2_1784105003.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "فرپلاست",
+      "category_key": "pets",
+      "category_label": "حیوانات خانگی",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 237500,
+      "list_price": 250000,
+      "discount_percent": 5,
+      "rating": 3.7,
+      "rating_count": 35,
+      "seller": "بازرگانی پتی",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم حیوانات خانگی"
+      },
+      "supplier": {
+        "name": "بازرگانی پتی",
+        "url": "https://www.digikala.com/seller/D3ASR/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21519071",
+      "title": "بسته لوازم تحریر مدل ملودی و کرومی مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-21519071/بسته-لوازم-تحریر-مدل-ملودی-و-کرومی-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f233a1121358240166226761488c1b3ee79add21_1771858648.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 145000,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 520000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 5,
+      "rating_count": 1,
+      "seller": "هنرگلسا",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "هنرگلسا",
+        "url": "https://www.digikala.com/seller/DCE47/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19800745",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new5 مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-19800745/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new5-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0b540c6dfeee4e00b3b70942298e3f8fe79fe1e3_1752344329.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "pets",
+      "category_label": "حیوانات خانگی",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 178000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
       "seller": "چاپ فانتزی",
-      "rank": 14,
+      "rank": 15,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -24996,7 +25104,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": -4,
         "is_new": false
       }
     },
@@ -25010,7 +25118,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 699000,
       "list_price": null,
       "discount_percent": 0,
@@ -25032,7 +25140,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -25319,74 +25427,35 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "984779",
-      "title": "اسباب بازی سگ فرپلاست مدل PA6484",
-      "url": "https://www.digikala.com/product/dkp-984779/اسباب-بازی-سگ-فرپلاست-مدل-pa6484",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4075c01681afc6b922e2db54e7639f71c12226d2_1784105003.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "فرپلاست",
+      "source_id": "19192461",
+      "title": "کیسه جمع‌اوری فضولات سگ و گربه مدل Reff بسته 10 عددی",
+      "url": "https://www.digikala.com/product/dkp-19192461/کیسه-جمعآوری-فضولات-سگ-و-گربه-مدل-reff-بسته-10-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c16f2ff939f716d246c8d8ef2420e9d11fb37486_1784462022.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 237500,
-      "list_price": 250000,
-      "discount_percent": 5,
-      "rating": 3.7,
-      "rating_count": 35,
-      "seller": "بازرگانی پتی",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 399000,
+      "list_price": 600000,
+      "discount_percent": 34,
+      "rating": 4.6,
+      "rating_count": 94,
+      "seller": "روما سنتر",
       "rank": 15,
       "available": true,
       "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
+        "فروش ویژه"
       ],
       "raw_ref": {
         "query": "لوازم حیوانات خانگی"
       },
       "supplier": {
-        "name": "بازرگانی پتی",
-        "url": "https://www.digikala.com/seller/D3ASR/"
+        "name": "روما سنتر",
+        "url": "https://www.digikala.com/seller/A2PZZ/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21519071",
-      "title": "بسته لوازم تحریر مدل ملودی و کرومی مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-21519071/بسته-لوازم-تحریر-مدل-ملودی-و-کرومی-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f233a1121358240166226761488c1b3ee79add21_1771858648.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 520000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 5,
-      "rating_count": 1,
-      "seller": "هنرگلسا",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "هنرگلسا",
-        "url": "https://www.digikala.com/seller/DCE47/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -25400,7 +25469,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 400000,
       "list_price": null,
       "discount_percent": 0,
@@ -25423,7 +25492,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -25720,41 +25789,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19192461",
-      "title": "کیسه جمع‌اوری فضولات سگ و گربه مدل Reff بسته 10 عددی",
-      "url": "https://www.digikala.com/product/dkp-19192461/کیسه-جمعآوری-فضولات-سگ-و-گربه-مدل-reff-بسته-10-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c16f2ff939f716d246c8d8ef2420e9d11fb37486_1784462022.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 399000,
-      "list_price": 600000,
-      "discount_percent": 34,
-      "rating": 4.6,
-      "rating_count": 94,
-      "seller": "روما سنتر",
-      "rank": 16,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "لوازم حیوانات خانگی"
-      },
-      "supplier": {
-        "name": "روما سنتر",
-        "url": "https://www.digikala.com/seller/A2PZZ/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "19988901",
       "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 8 عددی",
       "url": "https://www.digikala.com/product/dkp-19988901/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-8-عددی",
@@ -25762,7 +25796,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 648500,
       "list_price": null,
       "discount_percent": 0,
@@ -25784,7 +25818,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -25798,7 +25832,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 400000,
       "list_price": null,
       "discount_percent": 0,
@@ -25820,7 +25854,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -26149,7 +26183,7 @@
       "brand": "تافته",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 400000,
       "list_price": null,
       "discount_percent": 0,
@@ -26171,7 +26205,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19683124",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new2 مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-19683124/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new2-مجموعه-۴-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/22167693e204a56b4130ccb51a34904d9c0c7b9c_1751400829.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "pets",
+      "category_label": "حیوانات خانگی",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 178000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 5,
+      "rating_count": 1,
+      "seller": "چاپ فانتزی",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "چاپ فانتزی",
+        "url": "https://www.digikala.com/seller/CZ3GP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -26185,14 +26255,14 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 420000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 1,
       "seller": "هنرگلسا",
-      "rank": 17,
+      "rank": 18,
       "available": true,
       "badges": [
         "فروشنده معتبر",
@@ -26221,7 +26291,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 400000,
       "list_price": null,
       "discount_percent": 0,
@@ -26244,7 +26314,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -26397,7 +26467,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 280000,
       "list_price": null,
       "discount_percent": 0,
@@ -26419,43 +26489,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "19683124",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new2 مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-19683124/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new2-مجموعه-۴-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/22167693e204a56b4130ccb51a34904d9c0c7b9c_1751400829.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 178000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 5,
-      "rating_count": 1,
-      "seller": "چاپ فانتزی",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "چاپ فانتزی",
-        "url": "https://www.digikala.com/seller/CZ3GP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -26469,7 +26503,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 3300000,
       "list_price": null,
       "discount_percent": 0,
@@ -26491,7 +26525,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -26759,7 +26793,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
@@ -26781,7 +26815,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -26795,14 +26829,14 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 400000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
       "seller": "تامین کالای ملودی",
-      "rank": 20,
+      "rank": 19,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -26817,7 +26851,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -26831,7 +26865,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-14T18:49:24.798Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 599000,
       "list_price": 850000,
       "discount_percent": 30,
@@ -27181,7 +27215,7 @@
       "brand": "متفرقه",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 235000,
       "list_price": null,
       "discount_percent": 0,
@@ -27203,7 +27237,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -27217,12 +27251,12 @@
       "brand": "رداسپرینگ",
       "category_key": "pets",
       "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 680000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
-      "rating_count": 86,
+      "rating_count": 87,
       "seller": "بالتوپت",
       "rank": 20,
       "available": true,
@@ -27238,9 +27272,9 @@
         "url": "https://www.digikala.com/seller/DY4FW/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
       }
     },
     {
@@ -27805,39 +27839,6 @@
       "signals": {
         "price_change_pct": -0.1,
         "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "3194558",
-      "title": "سرویس 8 پارچه ابزار اشپزخانه کد 305",
-      "url": "https://www.digikala.com/product/dkp-3194558/سرویس-8-پارچه-ابزار-آشپزخانه-کد-305",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/933295755268d64f852f79f3cdd23cd397f0af7a_1782140001.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "kitchen",
-      "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-15T06:19:18.784Z",
-      "price": 3250000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 28,
-      "seller": "تکهوم",
-      "rank": 9,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "لوازم آشپزخانه"
-      },
-      "supplier": {
-        "name": "تکهوم",
-        "url": "https://www.digikala.com/seller/ANE47/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 10,
         "is_new": false
       }
     },
@@ -96538,7 +96539,7 @@
       "brand": "ریلیش",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 5495300,
       "list_price": null,
       "discount_percent": 0,
@@ -96612,7 +96613,7 @@
       "brand": "کانن",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 19730000,
       "list_price": null,
       "discount_percent": 0,
@@ -96634,8 +96635,8 @@
         "url": "https://www.digikala.com/seller/AFCXF/"
       },
       "signals": {
-        "price_change_pct": -0.25,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -96649,7 +96650,7 @@
       "brand": "زرین تویز",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 2290000,
       "list_price": null,
       "discount_percent": 0,
@@ -96671,7 +96672,7 @@
         "url": "https://www.digikala.com/seller/HA2V6/"
       },
       "signals": {
-        "price_change_pct": 0.14,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -96719,7 +96720,7 @@
       "brand": "اچ‌ پی",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 71000000,
       "list_price": null,
       "discount_percent": 0,
@@ -96741,7 +96742,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 11,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -96788,7 +96789,7 @@
       "brand": "متفرقه",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 173060,
       "list_price": null,
       "discount_percent": 0,
@@ -96809,7 +96810,7 @@
         "url": "https://www.digikala.com/seller/CMAY9/"
       },
       "signals": {
-        "price_change_pct": -12.23,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -96824,7 +96825,7 @@
       "brand": "اچ‌ پی",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 40900000,
       "list_price": null,
       "discount_percent": 0,
@@ -96845,8 +96846,8 @@
         "url": "https://www.digikala.com/seller/AFCXF/"
       },
       "signals": {
-        "price_change_pct": 0.99,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -96893,7 +96894,7 @@
       "brand": "متفرقه",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 236000,
       "list_price": null,
       "discount_percent": 0,
@@ -96926,7 +96927,7 @@
       "brand": "اچ‌ پی",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 34900000,
       "list_price": null,
       "discount_percent": 0,
@@ -96949,43 +96950,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "8850244",
-      "title": "پرینتر اچ‌پی تک رنگ سه کاره با چاپ لیزری مدل LaserJet MFP M141w، سایز چاپ A4، مجهز به نرم افزار واسط ارتباطی (API)",
-      "url": "https://www.digikala.com/product/dkp-8850244/پرینتر-اچپی-تک-رنگ-سه-کاره-با-چاپ-لیزری-مدل-laserjet-mfp-m141w-سایز-چاپ-a4-مجهز-به-نرم-افزار-واسط-ارتباطی-api",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f3dce6d6e72d8d7d196ff7c9764546cf0b222d85_1787425880.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 50600000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 864,
-      "seller": "تدبیر کالای چاپگر",
-      "rank": 5,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -97034,7 +96999,7 @@
       "brand": "متفرقه",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 257960,
       "list_price": null,
       "discount_percent": 0,
@@ -97055,7 +97020,44 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20714685",
+      "title": "پرینتر لیزری تک‌کاره اچ‌پی مدل Laser 108w با اتصال وای‌فای و USB، سازگار با اپ اختصاصی موبایل و چراغ نشانگر",
+      "url": "https://www.digikala.com/product/dkp-20714685/پرینتر-لیزری-تککاره-اچپی-مدل-laser-108w-با-اتصال-وایفای-و-usb-سازگار-با-اپ-اختصاصی-موبایل-و-چراغ-نشانگر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8758c5c2d0061a49970675bacc5e53c99f2c6868_1787425883.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 41499000,
+      "list_price": 46000000,
+      "discount_percent": 10,
+      "rating": 4.5,
+      "rating_count": 332,
+      "seller": "رایانه خاورمیانه",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "پرینتر"
+      },
+      "supplier": {
+        "name": "تدبیر کالای چاپگر",
+        "url": "https://www.digikala.com/seller/6XGTT/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -97069,7 +97071,7 @@
       "brand": "خندالو",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 339000,
       "list_price": 400000,
       "discount_percent": 15,
@@ -97135,37 +97137,38 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20714685",
-      "title": "پرینتر لیزری تک‌کاره اچ‌پی مدل Laser 108w با اتصال وای‌فای و USB، سازگار با اپ اختصاصی موبایل و چراغ نشانگر",
-      "url": "https://www.digikala.com/product/dkp-20714685/پرینتر-لیزری-تککاره-اچپی-مدل-laser-108w-با-اتصال-وایفای-و-usb-سازگار-با-اپ-اختصاصی-موبایل-و-چراغ-نشانگر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8758c5c2d0061a49970675bacc5e53c99f2c6868_1787425883.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "8484298",
+      "title": "پرینتر اچ‌پی تک رنگ سه کاره با چاپ لیزری مدل LaserJet MFP M141a، سایز چاپ A4",
+      "url": "https://www.digikala.com/product/dkp-8484298/پرینتر-اچپی-تک-رنگ-سه-کاره-با-چاپ-لیزری-مدل-laserjet-mfp-m141a-سایز-چاپ-a4",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1d903545f091deb97961c4f04311d5e0cd9dad63_1787425879.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "اچ‌ پی",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 41499000,
-      "list_price": 46000000,
-      "discount_percent": 10,
-      "rating": 4.5,
-      "rating_count": 332,
-      "seller": "رایانه خاورمیانه",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 46585870,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 784,
+      "seller": "تامین مهام",
       "rank": 6,
       "available": true,
       "badges": [
-        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
         "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "پرینتر"
       },
       "supplier": {
-        "name": "تدبیر کالای چاپگر",
-        "url": "https://www.digikala.com/seller/6XGTT/"
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": -1.89,
-        "rank_change": 0,
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -97179,7 +97182,7 @@
       "brand": "رود مستر",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 2949000,
       "list_price": null,
       "discount_percent": 0,
@@ -97198,7 +97201,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -97276,38 +97279,37 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8484298",
-      "title": "پرینتر اچ‌پی تک رنگ سه کاره با چاپ لیزری مدل LaserJet MFP M141a، سایز چاپ A4",
-      "url": "https://www.digikala.com/product/dkp-8484298/پرینتر-اچپی-تک-رنگ-سه-کاره-با-چاپ-لیزری-مدل-laserjet-mfp-m141a-سایز-چاپ-a4",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1d903545f091deb97961c4f04311d5e0cd9dad63_1787425879.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "5451847",
+      "title": "پرینتر چندکاره جوهرافشان رنگی اچ‌پی مدل DeskJet 2320 با قابلیت پرینت، اسکن و کپی، رزولوشن چاپ 4800 × 1200 dpi و سینی 60 برگی",
+      "url": "https://www.digikala.com/product/dkp-5451847/پرینتر-چندکاره-جوهرافشان-رنگی-اچپی-مدل-deskjet-2320-با-قابلیت-پرینت-اسکن-و-کپی-رزولوشن-چاپ-4800-1200-dpi-و-سینی-60-برگی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e052e4eb9ecc3582dae2814d2b76771728d27905_1787425878.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "اچ‌ پی",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 46585870,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 15200000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 784,
-      "seller": "تامین مهام",
+      "rating": 3.3,
+      "rating_count": 89,
+      "seller": "رایانه خاورمیانه",
       "rank": 7,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
         "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "پرینتر"
       },
       "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
+        "name": "رایانه خاورمیانه",
+        "url": "https://www.digikala.com/seller/AFCXF/"
       },
       "signals": {
-        "price_change_pct": 0.27,
-        "rank_change": 0,
+        "price_change_pct": 0,
+        "rank_change": 6,
         "is_new": false
       }
     },
@@ -97321,7 +97323,7 @@
       "brand": "متفرقه",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 681570,
       "list_price": null,
       "discount_percent": 0,
@@ -97341,44 +97343,7 @@
         "url": "https://www.digikala.com/seller/CZ4FA/"
       },
       "signals": {
-        "price_change_pct": -0.33,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "17227195",
-      "title": "پرینتر کانن رنگی سه کاره با چاپ جوهرافشان مدل PIXMA MG2541S، سایز چاپ A4، مجهز به پورت USB",
-      "url": "https://www.digikala.com/product/dkp-17227195/پرینتر-کانن-رنگی-سه-کاره-با-چاپ-جوهرافشان-مدل-pixma-mg2541s-سایز-چاپ-a4-مجهز-به-پورت-usb",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/096f741d26d85cdd73cdf580e364b817082e573c_1787425883.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "کانن",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 14320000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 2.7,
-      "rating_count": 360,
-      "seller": "رایانه خاورمیانه",
-      "rank": 8,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "رایانه خاورمیانه",
-        "url": "https://www.digikala.com/seller/AFCXF/"
-      },
-      "signals": {
-        "price_change_pct": -0.35,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -97409,6 +97374,79 @@
       "supplier": {
         "name": "مبلمان اداری ویوان",
         "url": "https://www.digikala.com/seller/AVNK3/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20715226",
+      "title": "پرینتر لیزری 3 کاره اچ‌پی مدل Laser MFP 136w با قابلیت پرینت، اسکن و کپی، مجهز به اتصال Wi-Fi و USB",
+      "url": "https://www.digikala.com/product/dkp-20715226/پرینتر-لیزری-3-کاره-اچپی-مدل-laser-mfp-136w-با-قابلیت-پرینت-اسکن-و-کپی-مجهز-به-اتصال-wi-fi-و-usb",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7301357594229afd5a438c201dfdc4b3486629ca_1787425884.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 54800000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 117,
+      "seller": "تدبیر کالای چاپگر",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "پرینتر"
+      },
+      "supplier": {
+        "name": "تدبیر کالای چاپگر",
+        "url": "https://www.digikala.com/seller/6XGTT/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17227195",
+      "title": "پرینتر کانن رنگی سه کاره با چاپ جوهرافشان مدل PIXMA MG2541S، سایز چاپ A4، مجهز به پورت USB",
+      "url": "https://www.digikala.com/product/dkp-17227195/پرینتر-کانن-رنگی-سه-کاره-با-چاپ-جوهرافشان-مدل-pixma-mg2541s-سایز-چاپ-a4-مجهز-به-پورت-usb",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/096f741d26d85cdd73cdf580e364b817082e573c_1787425883.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "کانن",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 14320000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 2.7,
+      "rating_count": 360,
+      "seller": "رایانه خاورمیانه",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "پرینتر"
+      },
+      "supplier": {
+        "name": "رایانه خاورمیانه",
+        "url": "https://www.digikala.com/seller/AFCXF/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -97461,7 +97499,7 @@
       "brand": "متفرقه",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 832340,
       "list_price": 895000,
       "discount_percent": 7,
@@ -97492,42 +97530,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20715226",
-      "title": "پرینتر لیزری 3 کاره اچ‌پی مدل Laser MFP 136w با قابلیت پرینت، اسکن و کپی، مجهز به اتصال Wi-Fi و USB",
-      "url": "https://www.digikala.com/product/dkp-20715226/پرینتر-لیزری-3-کاره-اچپی-مدل-laser-mfp-136w-با-قابلیت-پرینت-اسکن-و-کپی-مجهز-به-اتصال-wi-fi-و-usb",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7301357594229afd5a438c201dfdc4b3486629ca_1787425884.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 54800000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 117,
-      "seller": "تدبیر کالای چاپگر",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "تدبیر کالای چاپگر",
-        "url": "https://www.digikala.com/seller/6XGTT/"
-      },
-      "signals": {
-        "price_change_pct": -2.16,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "20333903",
       "title": "دفتر لیست خرید 50 برگ خندالو طرح ماشین کلاسیک کد F3101",
       "url": "https://www.digikala.com/product/dkp-20333903/دفتر-لیست-خرید-50-برگ-خندالو-طرح-ماشین-کلاسیک-کد-f3101",
@@ -97535,7 +97537,7 @@
       "brand": "خندالو",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 339000,
       "list_price": 400000,
       "discount_percent": 15,
@@ -97565,6 +97567,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "300",
+      "title": "پرینتر اچ پی تک رنگ تک کاره با چاپ لیزری مدل LaserJet P2035، سایز چاپ A4",
+      "url": "https://www.digikala.com/product/dkp-300/پرینتر-اچ-پی-تک-رنگ-تک-کاره-با-چاپ-لیزری-مدل-laserjet-p2035-سایز-چاپ-a4",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/bff4021bff381ad6f4b03b4b5d840e316678a862_1787425872.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 88480000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 263,
+      "seller": "رایان پرینتر",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "پرینتر"
+      },
+      "supplier": {
+        "name": "رایان پرینتر",
+        "url": "https://www.digikala.com/seller/HJU5X/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "21130574",
       "title": "پرینتر چندکاره لیزری تک‌رنگ A4 اچ‌پی مدل Laser MFP 139fnw با قابلیت پرینت، اسکن، کپی و فکس، اتصال USB، وای‌فای و شبکه",
       "url": "https://www.digikala.com/product/dkp-21130574/پرینتر-چندکاره-لیزری-تکرنگ-a4-اچپی-مدل-laser-mfp-139fnw-با-قابلیت-پرینت-اسکن-کپی-و-فکس-اتصال-usb-وایفای-و-شبکه",
@@ -97572,14 +97610,14 @@
       "brand": "اچ‌ پی",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 65750000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
       "rating_count": 38,
       "seller": "تدبیر کالای چاپگر",
-      "rank": 10,
+      "rank": 11,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -97593,8 +97631,8 @@
         "url": "https://www.digikala.com/seller/6XGTT/"
       },
       "signals": {
-        "price_change_pct": -0.6,
-        "rank_change": 0,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -97673,42 +97711,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "300",
-      "title": "پرینتر اچ پی تک رنگ تک کاره با چاپ لیزری مدل LaserJet P2035، سایز چاپ A4",
-      "url": "https://www.digikala.com/product/dkp-300/پرینتر-اچ-پی-تک-رنگ-تک-کاره-با-چاپ-لیزری-مدل-laserjet-p2035-سایز-چاپ-a4",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/bff4021bff381ad6f4b03b4b5d840e316678a862_1787425872.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 88480000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 263,
-      "seller": "رایان پرینتر",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "رایان پرینتر",
-        "url": "https://www.digikala.com/seller/HJU5X/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "15894235",
       "title": "ماشین بازی مسابقه‌ای مجموعه 10 عددی مدل جعبه‌ای",
       "url": "https://www.digikala.com/product/dkp-15894235/ماشین-بازی-مسابقهای-مجموعه-10-عددی-مدل-جعبهای",
@@ -97716,7 +97718,7 @@
       "brand": "متفرقه",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 197170,
       "list_price": null,
       "discount_percent": 0,
@@ -97737,7 +97739,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -97751,7 +97753,7 @@
       "brand": "متفرقه",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 412180,
       "list_price": null,
       "discount_percent": 0,
@@ -97773,7 +97775,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -97855,7 +97857,7 @@
       "brand": "کانن",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 70488200,
       "list_price": 75039000,
       "discount_percent": 6,
@@ -97876,45 +97878,41 @@
         "url": "https://www.digikala.com/seller/9PFN6/"
       },
       "signals": {
-        "price_change_pct": -2.1,
-        "rank_change": 7,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "5451847",
-      "title": "پرینتر چندکاره جوهرافشان رنگی اچ‌پی مدل DeskJet 2320 با قابلیت پرینت، اسکن و کپی، رزولوشن چاپ 4800 × 1200 dpi و سینی 60 برگی",
-      "url": "https://www.digikala.com/product/dkp-5451847/پرینتر-چندکاره-جوهرافشان-رنگی-اچپی-مدل-deskjet-2320-با-قابلیت-پرینت-اسکن-و-کپی-رزولوشن-چاپ-4800-1200-dpi-و-سینی-60-برگی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e052e4eb9ecc3582dae2814d2b76771728d27905_1787425878.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
+      "source_id": "18063871",
+      "title": "پرینتر لیبل زن فومیمو مدل M220 به همراه کاغذ",
+      "url": "https://www.digikala.com/product/dkp-18063871/پرینتر-لیبل-زن-فومیمو-مدل-m220-به-همراه-کاغذ",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1c6b553beff6061f0a7ccb03f4f5a61f94136892_1737287070.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "فومیمو",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 15200000,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 15500000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.3,
-      "rating_count": 89,
-      "seller": "رایانه خاورمیانه",
-      "rank": 13,
+      "rating": 4.3,
+      "rating_count": 54,
+      "seller": "الی رزا اکسسوری",
+      "rank": 12,
       "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
+      "badges": [],
       "raw_ref": {
-        "query": "پرینتر"
+        "query": "پرینتر ماشین اداری"
       },
       "supplier": {
-        "name": "رایانه خاورمیانه",
-        "url": "https://www.digikala.com/seller/AFCXF/"
+        "name": "الی رزا اکسسوری",
+        "url": "https://www.digikala.com/seller/F5J6P/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
+        "rank_change": 2,
         "is_new": false
       }
     },
@@ -97963,7 +97961,7 @@
       "brand": "متفرقه",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 531590,
       "list_price": null,
       "discount_percent": 0,
@@ -97984,7 +97982,7 @@
         "url": "https://www.digikala.com/seller/HTH9F/"
       },
       "signals": {
-        "price_change_pct": 6.96,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -98064,6 +98062,79 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "3476907",
+      "title": "پرینتر اچ پی تک رنگ تک کاره با چاپ لیزری مدل Laser 107w، سایز چاپ A4، سازگار با سیستم عامل ویندوز 7 و یا بالاتر، قابلیت اتصال به شبکه بی‌سیم (WiFi)",
+      "url": "https://www.digikala.com/product/dkp-3476907/پرینتر-اچ-پی-تک-رنگ-تک-کاره-با-چاپ-لیزری-مدل-laser-107w-سایز-چاپ-a4-سازگار-با-سیستم-عامل-ویندوز-7-و-یا-بالاتر-قابلیت-اتصال-به-شبکه-بیسیم-wifi",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/85c487831922d6ca1d3613a525a7d351fcabed32_1787425877.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 46100000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 1883,
+      "seller": "تدبیر کالای چاپگر",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "پرینتر"
+      },
+      "supplier": {
+        "name": "تامین مهام",
+        "url": "https://www.digikala.com/seller/ETSYU/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3896919",
+      "title": "کاغذ کش مدل 1005 مناسب برای پرینتر اچ پی",
+      "url": "https://www.digikala.com/product/dkp-3896919/کاغذ-کش-مدل-1005-مناسب-برای-پرینتر-اچ-پی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1d088792facef99dde1b03ec287364873d5caea6_1606933563.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 150000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 313,
+      "seller": "نیکاژه",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {
+        "name": "نیکاژه",
+        "url": "https://www.digikala.com/seller/A7S5G/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "16998882",
       "title": "ماشین کنترلی ام ان مدل وانت طرح تویوتا لندکروز مقیاس 1:12 با چراغ، حرکت در چهار جهت و چرخ‌های لاستیکی",
       "url": "https://www.digikala.com/product/dkp-16998882/ماشین-کنترلی-ام-ان-مدل-وانت-طرح-تویوتا-لندکروز-مقیاس-112-با-چراغ-حرکت-در-چهار-جهت-و-چرخهای-لاستیکی",
@@ -98071,7 +98142,7 @@
       "brand": "ام ان مدل",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 13200000,
       "list_price": null,
       "discount_percent": 0,
@@ -98094,7 +98165,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -98207,66 +98278,32 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "3476907",
-      "title": "پرینتر اچ پی تک رنگ تک کاره با چاپ لیزری مدل Laser 107w، سایز چاپ A4، سازگار با سیستم عامل ویندوز 7 و یا بالاتر، قابلیت اتصال به شبکه بی‌سیم (WiFi)",
-      "url": "https://www.digikala.com/product/dkp-3476907/پرینتر-اچ-پی-تک-رنگ-تک-کاره-با-چاپ-لیزری-مدل-laser-107w-سایز-چاپ-a4-سازگار-با-سیستم-عامل-ویندوز-7-و-یا-بالاتر-قابلیت-اتصال-به-شبکه-بیسیم-wifi",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/85c487831922d6ca1d3613a525a7d351fcabed32_1787425877.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "3108169",
+      "title": "پرینتر اچ پی تک رنگ چهار کاره با چاپ لیزری مدل Laser MFP 137fnw، سایز چاپ A4، قابلیت چاپ دو رو، چاپ بدون حاشیه، اتصال به WiFi، دارای صفحه نمایش LCD",
+      "url": "https://www.digikala.com/product/dkp-3108169/پرینتر-اچ-پی-تک-رنگ-چهار-کاره-با-چاپ-لیزری-مدل-laser-mfp-137fnw-سایز-چاپ-a4-قابلیت-چاپ-دو-رو-چاپ-بدون-حاشیه-اتصال-به-wifi-دارای-صفحه-نمایش-lcd",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/35868bdf01d6398fafd2c24b9da3eb6a3f30c951_1787425876.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "اچ‌ پی",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 46100000,
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 84100000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
-      "rating_count": 1883,
+      "rating_count": 499,
       "seller": "تدبیر کالای چاپگر",
       "rank": 14,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 3 عدد در انبار باقی مانده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "پرینتر"
       },
       "supplier": {
-        "name": "تامین مهام",
-        "url": "https://www.digikala.com/seller/ETSYU/"
-      },
-      "signals": {
-        "price_change_pct": -1.45,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "18063871",
-      "title": "پرینتر لیبل زن فومیمو مدل M220 به همراه کاغذ",
-      "url": "https://www.digikala.com/product/dkp-18063871/پرینتر-لیبل-زن-فومیمو-مدل-m220-به-همراه-کاغذ",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1c6b553beff6061f0a7ccb03f4f5a61f94136892_1737287070.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "فومیمو",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 15500000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 54,
-      "seller": "الی رزا اکسسوری",
-      "rank": 14,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "پرینتر ماشین اداری"
-      },
-      "supplier": {
-        "name": "الی رزا اکسسوری",
-        "url": "https://www.digikala.com/seller/F5J6P/"
+        "name": "تدبیر کالای چاپگر",
+        "url": "https://www.digikala.com/seller/6XGTT/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -98312,25 +98349,62 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "3108169",
-      "title": "پرینتر اچ پی تک رنگ چهار کاره با چاپ لیزری مدل Laser MFP 137fnw، سایز چاپ A4، قابلیت چاپ دو رو، چاپ بدون حاشیه، اتصال به WiFi، دارای صفحه نمایش LCD",
-      "url": "https://www.digikala.com/product/dkp-3108169/پرینتر-اچ-پی-تک-رنگ-چهار-کاره-با-چاپ-لیزری-مدل-laser-mfp-137fnw-سایز-چاپ-a4-قابلیت-چاپ-دو-رو-چاپ-بدون-حاشیه-اتصال-به-wifi-دارای-صفحه-نمایش-lcd",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/35868bdf01d6398fafd2c24b9da3eb6a3f30c951_1787425876.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
+      "source_id": "20342062",
+      "title": "دفتر لیست خرید 50 برگ خندالو طرح ماشین کلاسیک کد F4109",
+      "url": "https://www.digikala.com/product/dkp-20342062/دفتر-لیست-خرید-50-برگ-خندالو-طرح-ماشین-کلاسیک-کد-f4109",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-creation-requests/c64134ba3da862ce86690657861372e1e4bcc083_1756958839.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "خندالو",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 84100000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 499,
-      "seller": "تدبیر کالای چاپگر",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 339000,
+      "list_price": 400000,
+      "discount_percent": 15,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "خندالو",
       "rank": 15,
       "available": true,
       "badges": [
+        "فروش ویژه",
         "ارسال توسط فروشنده",
         "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "ماشین‌های اداری"
+      },
+      "supplier": {
+        "name": "خندالو",
+        "url": "https://www.digikala.com/seller/5A9HF/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20715011",
+      "title": "پرینتر لیزری 3 کاره اچ‌پی مدل LaserJet MFP 136a با قابلیت پرینت، اسکن و کپی، اتصال USB و نمایشگر",
+      "url": "https://www.digikala.com/product/dkp-20715011/پرینتر-لیزری-3-کاره-اچپی-مدل-laserjet-mfp-136a-با-قابلیت-پرینت-اسکن-و-کپی-اتصال-usb-و-نمایشگر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4fc16a9704f527522ef8530e3fcbdacad74013a7_1787425884.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 48873300,
+      "list_price": 55999000,
+      "discount_percent": 13,
+      "rating": 4.5,
+      "rating_count": 60,
+      "seller": "دیجی‌کالا",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
         "query": "پرینتر"
@@ -98348,73 +98422,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20342062",
-      "title": "دفتر لیست خرید 50 برگ خندالو طرح ماشین کلاسیک کد F4109",
-      "url": "https://www.digikala.com/product/dkp-20342062/دفتر-لیست-خرید-50-برگ-خندالو-طرح-ماشین-کلاسیک-کد-f4109",
-      "image": "https://dkstatics-public.digikala.com/digikala-content-creation-requests/c64134ba3da862ce86690657861372e1e4bcc083_1756958839.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "خندالو",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 339000,
-      "list_price": 400000,
-      "discount_percent": 15,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "خندالو",
-      "rank": 16,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "ماشین‌های اداری"
-      },
-      "supplier": {
-        "name": "خندالو",
-        "url": "https://www.digikala.com/seller/5A9HF/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20715011",
-      "title": "پرینتر لیزری 3 کاره اچ‌پی مدل LaserJet MFP 136a با قابلیت پرینت، اسکن و کپی، اتصال USB و نمایشگر",
-      "url": "https://www.digikala.com/product/dkp-20715011/پرینتر-لیزری-3-کاره-اچپی-مدل-laserjet-mfp-136a-با-قابلیت-پرینت-اسکن-و-کپی-اتصال-usb-و-نمایشگر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4fc16a9704f527522ef8530e3fcbdacad74013a7_1787425884.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "8850244",
+      "title": "پرینتر اچ‌پی تک رنگ سه کاره با چاپ لیزری مدل LaserJet MFP M141w، سایز چاپ A4، مجهز به نرم افزار واسط ارتباطی (API)",
+      "url": "https://www.digikala.com/product/dkp-8850244/پرینتر-اچپی-تک-رنگ-سه-کاره-با-چاپ-لیزری-مدل-laserjet-mfp-m141w-سایز-چاپ-a4-مجهز-به-نرم-افزار-واسط-ارتباطی-api",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f3dce6d6e72d8d7d196ff7c9764546cf0b222d85_1787425880.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "اچ‌ پی",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 48873300,
-      "list_price": 55999000,
-      "discount_percent": 13,
-      "rating": 4.5,
-      "rating_count": 60,
-      "seller": "دیجی‌کالا",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 50600000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 864,
+      "seller": "تدبیر کالای چاپگر",
       "rank": 16,
       "available": true,
       "badges": [
-        "فروش ویژه",
-        "انبار دیجی‌کالا"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "پرینتر"
       },
       "supplier": {
-        "name": "تدبیر کالای چاپگر",
-        "url": "https://www.digikala.com/seller/6XGTT/"
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": -1.66,
-        "rank_change": -1,
+        "price_change_pct": 0,
+        "rank_change": -11,
         "is_new": false
       }
     },
@@ -98461,14 +98498,14 @@
       "brand": "خندالو",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 239000,
       "list_price": 300000,
       "discount_percent": 20,
       "rating": 5,
       "rating_count": 1,
       "seller": "خندالو",
-      "rank": 17,
+      "rank": 16,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -98484,7 +98521,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -98564,42 +98601,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "3896919",
-      "title": "کاغذ کش مدل 1005 مناسب برای پرینتر اچ پی",
-      "url": "https://www.digikala.com/product/dkp-3896919/کاغذ-کش-مدل-1005-مناسب-برای-پرینتر-اچ-پی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1d088792facef99dde1b03ec287364873d5caea6_1606933563.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 150000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 313,
-      "seller": "نیکاژه",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "پرینتر ماشین اداری"
-      },
-      "supplier": {
-        "name": "نیکاژه",
-        "url": "https://www.digikala.com/seller/A7S5G/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "8899921",
       "title": "ماشین بازی دنیای سرگرمی های کمیاب مدل 2 رو قدرتی",
       "url": "https://www.digikala.com/product/dkp-8899921/ماشین-بازی-دنیای-سرگرمی-های-کمیاب-مدل-2-رو-قدرتی",
@@ -98635,44 +98636,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1752231",
-      "title": "پرینتر اچ پی تک رنگ سه کاره با چاپ لیزری مدل LaserJet Pro MFP M28a، سایز چاپ A4",
-      "url": "https://www.digikala.com/product/dkp-1752231/پرینتر-اچ-پی-تک-رنگ-سه-کاره-با-چاپ-لیزری-مدل-laserjet-pro-mfp-m28a-سایز-چاپ-a4",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/751abec9bf0a52e711088f0f742417468c56144c_1754238086.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 66500000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 569,
-      "seller": "سرزمین پرینتر",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "اسمارت کامپیوتر",
-        "url": "https://www.digikala.com/seller/E5Z2T/"
-      },
-      "signals": {
-        "price_change_pct": 2.31,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "15341378",
       "title": "ماشین بازی کنترلی وانت تویوتا لندکروز دو دیفرانسیل مقیاس 1:12 مدل 4 کانال با باتری قابل شارژ، فنربندی، قابلیت تنظیم سرعت و چرخ‌های جلو، چراغ‌دار و بازشونده کاپوت و در عقب، قابلیت حمل بار",
       "url": "https://www.digikala.com/product/dkp-15341378/ماشین-بازی-کنترلی-وانت-تویوتا-لندکروز-دو-دیفرانسیل-مقیاس-112-مدل-4-کانال-با-باتری-قابل-شارژ-فنربندی-قابلیت-تنظیم-سرعت-و-چرخهای-جلو-چراغدار-و-بازشونده-کاپوت-و-در-عقب-قابلیت-حمل-بار",
@@ -98680,14 +98643,14 @@
       "brand": "متفرقه",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 13200000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
       "rating_count": 9,
       "seller": "سویج سیتی",
-      "rank": 18,
+      "rank": 17,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -98702,7 +98665,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20714455",
+      "title": "پرینتر لیزری تک‌کاره اچ‌پی مدل Laser 108a با اتصال USB، سازگار با Windows و Apple macOS، مناسب کاغذهای A4، A5، A6 و پاکت نامه",
+      "url": "https://www.digikala.com/product/dkp-20714455/پرینتر-لیزری-تککاره-اچپی-مدل-laser-108a-با-اتصال-usb-سازگار-با-windows-و-apple-macos-مناسب-کاغذهای-a4-a5-a6-و-پاکت-نامه",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19d96d119b4c1f225649b68a7d986114c27142da_1787425883.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 33800000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 153,
+      "seller": "تدبیر کالای چاپگر",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "پرینتر"
+      },
+      "supplier": {
+        "name": "ارست",
+        "url": "https://www.digikala.com/seller/9PFN6/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
         "is_new": false
       }
     },
@@ -98893,7 +98892,7 @@
       "brand": "اچ‌ پی",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 64000000,
       "list_price": null,
       "discount_percent": 0,
@@ -98919,42 +98918,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20714455",
-      "title": "پرینتر لیزری تک‌کاره اچ‌پی مدل Laser 108a با اتصال USB، سازگار با Windows و Apple macOS، مناسب کاغذهای A4، A5، A6 و پاکت نامه",
-      "url": "https://www.digikala.com/product/dkp-20714455/پرینتر-لیزری-تککاره-اچپی-مدل-laser-108a-با-اتصال-usb-سازگار-با-windows-و-apple-macos-مناسب-کاغذهای-a4-a5-a6-و-پاکت-نامه",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/19d96d119b4c1f225649b68a7d986114c27142da_1787425883.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 33800000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 153,
-      "seller": "تدبیر کالای چاپگر",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "ارست",
-        "url": "https://www.digikala.com/seller/9PFN6/"
-      },
-      "signals": {
-        "price_change_pct": -1.14,
-        "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "21863680",
       "title": "ست ماشین بازی مدل وانت مشاغل مجموعه 4 عددی",
       "url": "https://www.digikala.com/product/dkp-21863680/ست-ماشین-بازی-مدل-وانت-مشاغل-مجموعه-۴-عددی",
@@ -98962,14 +98925,14 @@
       "brand": "متفرقه",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 1832000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 1,
       "seller": "اعتماد پارسا",
-      "rank": 19,
+      "rank": 18,
       "available": true,
       "badges": [
         "تنها 2 عدد در انبار باقی مانده"
@@ -98983,7 +98946,45 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1752231",
+      "title": "پرینتر اچ پی تک رنگ سه کاره با چاپ لیزری مدل LaserJet Pro MFP M28a، سایز چاپ A4",
+      "url": "https://www.digikala.com/product/dkp-1752231/پرینتر-اچ-پی-تک-رنگ-سه-کاره-با-چاپ-لیزری-مدل-laserjet-pro-mfp-m28a-سایز-چاپ-a4",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/751abec9bf0a52e711088f0f742417468c56144c_1754238086.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-16T20:57:43.999Z",
+      "price": 66500000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 569,
+      "seller": "سرزمین پرینتر",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "پرینتر"
+      },
+      "supplier": {
+        "name": "اسمارت کامپیوتر",
+        "url": "https://www.digikala.com/seller/E5Z2T/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -99172,7 +99173,7 @@
       "brand": "خندالو",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-14T18:49:24.798Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 339000,
       "list_price": 400000,
       "discount_percent": 15,
@@ -99209,7 +99210,7 @@
       "brand": "شیائومی",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 26500000,
       "list_price": null,
       "discount_percent": 0,
@@ -99605,7 +99606,7 @@
       "brand": "متفرقه",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
+      "observed_at": "2026-10-16T20:57:43.999Z",
       "price": 585000,
       "list_price": null,
       "discount_percent": 0,
@@ -99627,9 +99628,9 @@
         "url": "https://www.digikala.com/seller/F4RHP/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
       }
     },
     {
