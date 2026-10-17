@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-17T22:12:20.478Z",
-  "count": 3642,
+  "generated_at": "2026-10-17T22:34:06.733Z",
+  "count": 3644,
   "collection": {
     "mode": "rotating",
     "categories_scanned": 4,
@@ -16577,41 +16577,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20556413",
-      "title": "بسته لوازم تحریر طرح ملودی بسته 6 عددی",
-      "url": "https://www.digikala.com/product/dkp-20556413/بسته-لوازم-تحریر-طرح-ملودی-بسته-6-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/b65f324d5276dd45b79ba8ab9554dcb4392d2831_1759144016.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "stationery",
-      "category_label": "تحریر و لوازم آموزشی",
-      "observed_at": "2026-10-17T17:28:44.561Z",
-      "price": 699000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "بانیبو آرت",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "بانیبو آرت",
-        "url": "https://www.digikala.com/seller/EE3F3/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "18783311",
       "title": "بسته لوازم تحریر مدل کرومی و گروه سانریو بسته 22 عددی",
       "url": "https://www.digikala.com/product/dkp-18783311/بسته-لوازم-تحریر-مدل-کرومی-و-گروه-سانریو-بسته-22-عددی",
@@ -32167,7 +32132,7 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1710000,
       "list_price": 1800000,
       "discount_percent": 5,
@@ -32181,7 +32146,7 @@
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "مواد غذایی سوپرمارکت"
+        "query": "خوراکی و سوپرمارکت"
       },
       "supplier": {
         "name": "رانا هوم",
@@ -32189,7 +32154,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 6,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -32238,7 +32203,7 @@
       "brand": "خندالو",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-15T20:29:30.341Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 189000,
       "list_price": 240000,
       "discount_percent": 21,
@@ -32251,42 +32216,6 @@
         "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "مواد"
-      },
-      "supplier": {
-        "name": "خندالو",
-        "url": "https://www.digikala.com/seller/5A9HF/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21327349",
-      "title": "نظم دهنده خندالو مدل مهندس مواد کد 10015-M",
-      "url": "https://www.digikala.com/product/dkp-21327349/نظم-دهنده-خندالو-مدل-مهندس-مواد-کد-10015-m",
-      "image": "https://dkstatics-public.digikala.com/digikala-content-creation-requests/7127fbdf1ab35e728882d7dd9804bf56a1e47592_1769445093.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "خندالو",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 229000,
-      "list_price": 300000,
-      "discount_percent": 24,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "خندالو",
-      "rank": 1,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
         "فروشنده معتبر"
       ],
       "raw_ref": {
@@ -32312,7 +32241,7 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 380000,
       "list_price": null,
       "discount_percent": 0,
@@ -32345,7 +32274,7 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 580000,
       "list_price": null,
       "discount_percent": 0,
@@ -32446,6 +32375,79 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "3730469",
+      "title": "اسباب بازی سوپر مارکت مدل 703 به همراه چرخ خرید",
+      "url": "https://www.digikala.com/product/dkp-3730469/اسباب-بازی-سوپر-مارکت-مدل-703-به-همراه-چرخ-خرید",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d0187bec8f8b7325dd61934b86481218758d9bdd_1605029963.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 2390000,
+      "list_price": 3000000,
+      "discount_percent": 20,
+      "rating": 3.8,
+      "rating_count": 859,
+      "seller": "اسباب بازی نیما",
+      "rank": 2,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "خوراکی و سوپرمارکت"
+      },
+      "supplier": {
+        "name": "اسباب بازی نیما",
+        "url": "https://www.digikala.com/seller/AHM55/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21327349",
+      "title": "نظم دهنده خندالو مدل مهندس مواد کد 10015-M",
+      "url": "https://www.digikala.com/product/dkp-21327349/نظم-دهنده-خندالو-مدل-مهندس-مواد-کد-10015-m",
+      "image": "https://dkstatics-public.digikala.com/digikala-content-creation-requests/7127fbdf1ab35e728882d7dd9804bf56a1e47592_1769445093.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "خندالو",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 229000,
+      "list_price": 300000,
+      "discount_percent": 24,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "خندالو",
+      "rank": 3,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "مواد"
+      },
+      "supplier": {
+        "name": "خندالو",
+        "url": "https://www.digikala.com/seller/5A9HF/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "820422",
       "title": "سلفون محافظ موادغذایی سان رپ مدل Fresher رول 50 متری",
       "url": "https://www.digikala.com/product/dkp-820422/سلفون-محافظ-موادغذایی-سان-رپ-مدل-fresher-رول-50-متری",
@@ -32453,7 +32455,7 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 198000,
       "list_price": null,
       "discount_percent": 0,
@@ -32523,14 +32525,14 @@
       "brand": "بانی بار",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 2683800,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
       "rating_count": 20,
       "seller": "سالمزی",
-      "rank": 4,
+      "rank": 3,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -32544,7 +32546,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -32558,7 +32560,7 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 458000,
       "list_price": null,
       "discount_percent": 0,
@@ -32595,7 +32597,7 @@
       "brand": "خندالو",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 259000,
       "list_price": 350000,
       "discount_percent": 26,
@@ -32625,6 +32627,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "1482188",
+      "title": "اسباب بازی طرح سوپر مارکت مدل Super Market play set",
+      "url": "https://www.digikala.com/product/dkp-1482188/اسباب-بازی-طرح-سوپر-مارکت-مدل-super-market-play-set",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/110430857.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 2780000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.7,
+      "rating_count": 388,
+      "seller": "توی فکتوری",
+      "rank": 4,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "خوراکی و سوپرمارکت"
+      },
+      "supplier": {
+        "name": "توی فکتوری",
+        "url": "https://www.digikala.com/seller/GMFNF/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 8,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "9250483",
       "title": "اسباب بازی سوپر مارکت فروشگاهی مدل رویال",
       "url": "https://www.digikala.com/product/dkp-9250483/اسباب-بازی-سوپر-مارکت-فروشگاهی-مدل-رویال",
@@ -32632,7 +32670,7 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 3200600,
       "list_price": null,
       "discount_percent": 0,
@@ -32650,8 +32688,8 @@
         "url": "https://www.digikala.com/seller/GMFNF/"
       },
       "signals": {
-        "price_change_pct": -7.23,
-        "rank_change": 8,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -32700,7 +32738,7 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 947000,
       "list_price": null,
       "discount_percent": 0,
@@ -32730,6 +32768,41 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "7086780",
+      "title": "مگنت مدل مینیاتوری سوپر مارکت مجموعه 10 عددی",
+      "url": "https://www.digikala.com/product/dkp-7086780/مگنت-مدل-مینیاتوری-سوپر-مارکت-مجموعه-10-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3175e4d8111406dd944f7bb56ddbab93fb0b1f8e_1637074467.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 237760,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 55,
+      "seller": "سپهر ایران",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "خوراکی و سوپرمارکت"
+      },
+      "supplier": {
+        "name": "سپهر ایران",
+        "url": "https://www.digikala.com/seller/ANUTG/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 11,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "11126781",
       "title": "سلفون محافظ مواد غذایی بهگز مدل اریس کد 4050 رول 50 متری",
       "url": "https://www.digikala.com/product/dkp-11126781/سلفون-محافظ-مواد-غذایی-بهگز-مدل-آریس-کد-4050",
@@ -32737,7 +32810,7 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 532000,
       "list_price": null,
       "discount_percent": 0,
@@ -32773,7 +32846,7 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 830000,
       "list_price": null,
       "discount_percent": 0,
@@ -32810,14 +32883,14 @@
       "brand": null,
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 440000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
       "rating_count": 423,
       "seller": "دیجی‌کالا",
-      "rank": 7,
+      "rank": 6,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -32829,7 +32902,7 @@
       "supplier": {},
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -32878,7 +32951,7 @@
       "brand": "بادوک",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 359100,
       "list_price": 399000,
       "discount_percent": 10,
@@ -32915,7 +32988,7 @@
       "brand": "ایستا",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 4750000,
       "list_price": null,
       "discount_percent": 0,
@@ -32944,37 +33017,106 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "3730469",
-      "title": "اسباب بازی سوپر مارکت مدل 703 به همراه چرخ خرید",
-      "url": "https://www.digikala.com/product/dkp-3730469/اسباب-بازی-سوپر-مارکت-مدل-703-به-همراه-چرخ-خرید",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d0187bec8f8b7325dd61934b86481218758d9bdd_1605029963.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "5337396",
+      "title": "مگنت طرح سوپر مارکت مدل 001 مجموعه 10 عددی",
+      "url": "https://www.digikala.com/product/dkp-5337396/مگنت-طرح-سوپر-مارکت-مدل-001-مجموعه-10-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2eac8d6b54d79ad7582c3a09a924ec4cc9af6e57_1622399584.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 2390000,
-      "list_price": 3000000,
-      "discount_percent": 20,
-      "rating": 3.8,
-      "rating_count": 859,
-      "seller": "اسباب بازی نیما",
-      "rank": 8,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 215400,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 37,
+      "seller": "سپهر ایران",
+      "rank": 7,
       "available": true,
       "badges": [
-        "فروش ویژه",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "مواد غذایی سوپرمارکت"
+        "query": "خوراکی و سوپرمارکت"
       },
       "supplier": {
-        "name": "اسباب بازی نیما",
-        "url": "https://www.digikala.com/seller/AHM55/"
+        "name": "سپهر ایران",
+        "url": "https://www.digikala.com/seller/ANUTG/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -5,
+        "rank_change": 4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "16076383",
+      "title": "مواد ظهور و ثبوت جهان مدل Chemicals حجم 250 میلی‌لیتری بسته 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-16076383/مواد-ظهور-و-ثبوت-جهان-مدل-chemicals-حجم-250-میلیلیتری-بسته-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8559ad0f5e77f4d7834d62845f7757181f395b6d_1721199290.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 4649990,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "آداک دنتال",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "مواد"
+      },
+      "supplier": {
+        "name": "آداک دنتال",
+        "url": "https://www.digikala.com/seller/F6VM2/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "18253800",
+      "title": "اسباب بازی سوپر مارکتی مدل شاپی کد 127",
+      "url": "https://www.digikala.com/product/dkp-18253800/اسباب-بازی-سوپر-مارکتی-مدل-شاپی-کد-127",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/96097c137f2b36b2793ddbaf3efd0b3223b4610d_1738918878.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 2180000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": " پاشا تویز",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "خوراکی و سوپرمارکت"
+      },
+      "supplier": {
+        "name": " پاشا تویز",
+        "url": "https://www.digikala.com/seller/CUYRP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -32988,14 +33130,14 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 800000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 1,
       "rating_count": 1,
       "seller": " آفتاب گستر کاخ",
-      "rank": 8,
+      "rank": 9,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -33009,7 +33151,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -33023,7 +33165,7 @@
       "brand": "پنگوئن",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 123000,
       "list_price": null,
       "discount_percent": 0,
@@ -33042,78 +33184,42 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "16076383",
-      "title": "مواد ظهور و ثبوت جهان مدل Chemicals حجم 250 میلی‌لیتری بسته 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-16076383/مواد-ظهور-و-ثبوت-جهان-مدل-chemicals-حجم-250-میلیلیتری-بسته-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8559ad0f5e77f4d7834d62845f7757181f395b6d_1721199290.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "5401025",
+      "title": "مگنت طرح سوپر مارکت مدل 003 مجموعه 10 عددی",
+      "url": "https://www.digikala.com/product/dkp-5401025/مگنت-طرح-سوپر-مارکت-مدل-003-مجموعه-10-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f500520b416c20ac7cae8afa2203442b7e38f313_1623127656.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 4649990,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 187450,
       "list_price": null,
       "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "آداک دنتال",
+      "rating": 4.4,
+      "rating_count": 8,
+      "seller": "سپهر ایران",
       "rank": 9,
       "available": true,
       "badges": [
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "مواد"
-      },
-      "supplier": {
-        "name": "آداک دنتال",
-        "url": "https://www.digikala.com/seller/F6VM2/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "18253800",
-      "title": "اسباب بازی سوپر مارکتی مدل شاپی کد 127",
-      "url": "https://www.digikala.com/product/dkp-18253800/اسباب-بازی-سوپر-مارکتی-مدل-شاپی-کد-127",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/96097c137f2b36b2793ddbaf3efd0b3223b4610d_1738918878.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 2180000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": " پاشا تویز",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 3 عدد در انبار باقی مانده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "خوراکی و سوپرمارکت"
       },
       "supplier": {
-        "name": " پاشا تویز",
-        "url": "https://www.digikala.com/seller/CUYRP/"
+        "name": "سپهر ایران",
+        "url": "https://www.digikala.com/seller/ANUTG/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 5,
         "is_new": false
       }
     },
@@ -33127,7 +33233,7 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 397000,
       "list_price": null,
       "discount_percent": 0,
@@ -33267,7 +33373,7 @@
       "brand": "اکوا",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 579000,
       "list_price": 880000,
       "discount_percent": 34,
@@ -33297,41 +33403,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "5337396",
-      "title": "مگنت طرح سوپر مارکت مدل 001 مجموعه 10 عددی",
-      "url": "https://www.digikala.com/product/dkp-5337396/مگنت-طرح-سوپر-مارکت-مدل-001-مجموعه-10-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2eac8d6b54d79ad7582c3a09a924ec4cc9af6e57_1622399584.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 215400,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 37,
-      "seller": "سپهر ایران",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "مواد غذایی سوپرمارکت"
-      },
-      "supplier": {
-        "name": "سپهر ایران",
-        "url": "https://www.digikala.com/seller/ANUTG/"
-      },
-      "signals": {
-        "price_change_pct": 0.49,
-        "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "21111292",
       "title": "روغن مایع مخلوط خوراکی افتابگردان و کانولا ورژن - 3000 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-21111292/روغن-مایع-مخلوط-خوراکی-آفتابگردان-و-کانولا-ورژن-3000-میلی-لیتر",
@@ -33339,14 +33410,14 @@
       "brand": "ورژن",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1911000,
       "list_price": 2548000,
       "discount_percent": 25,
       "rating": 4.3,
       "rating_count": 212,
       "seller": "کشت و صنعت آبکار گلستان",
-      "rank": 11,
+      "rank": 10,
       "available": true,
       "badges": [
         "فروش ویژه"
@@ -33360,7 +33431,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -33477,6 +33548,150 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "6795145",
+      "title": "برچسب ایمنی مستر راد طرح مصرف مواد مخدر ممنوع مدل HSE-OSHA-288",
+      "url": "https://www.digikala.com/product/dkp-6795145/برچسب-ایمنی-مستر-راد-طرح-مصرف-مواد-مخدر-ممنوع-مدل-hse-osha-288",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/057ecdd595bface066bfdbd6cd9bbfae01ede817_1634621512.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "مستر راد",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 125000,
+      "list_price": 150000,
+      "discount_percent": 17,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "مستر راد",
+      "rank": 11,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "مواد"
+      },
+      "supplier": {
+        "name": "مستر راد",
+        "url": "https://www.digikala.com/seller/A4Z54/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "5401068",
+      "title": "مگنت طرح سوپر مارکت مدل 004 مجموعه 10 عددی",
+      "url": "https://www.digikala.com/product/dkp-5401068/مگنت-طرح-سوپر-مارکت-مدل-004-مجموعه-10-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/368691feafd83466af1335e59cbd6331a2433aa6_1623128452.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 199740,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.5,
+      "rating_count": 2,
+      "seller": "سپهر ایران",
+      "rank": 11,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "خوراکی و سوپرمارکت"
+      },
+      "supplier": {
+        "name": "سپهر ایران",
+        "url": "https://www.digikala.com/seller/ANUTG/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 9,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "11545857",
+      "title": "اینه جیبی خندالو مدل مهندس مواد کد 5600",
+      "url": "https://www.digikala.com/product/dkp-11545857/آینه-جیبی-خندالو-مدل-مهندس-مواد-کد-5600",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9687fa8ebcb87699b239728c7897f44524dbda53_1685795813.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "خندالو",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 159000,
+      "list_price": 200000,
+      "discount_percent": 21,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "خندالو",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "مواد"
+      },
+      "supplier": {
+        "name": "خندالو",
+        "url": "https://www.digikala.com/seller/5A9HF/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "5400953",
+      "title": "مگنت طرح سوپر مارکت مدل 002 مجموعه 10 عددی",
+      "url": "https://www.digikala.com/product/dkp-5400953/مگنت-طرح-سوپر-مارکت-مدل-002-مجموعه-10-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5cd1c319776b07b8ecc6c6e88131ebf0131c0d27_1623126495.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 297280,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 4,
+      "seller": "سپهر ایران",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "خوراکی و سوپرمارکت"
+      },
+      "supplier": {
+        "name": "سپهر ایران",
+        "url": "https://www.digikala.com/seller/ANUTG/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 7,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "5514709",
       "title": "مواد عایق بندی ژیکاوا مدل ژیکابام وزن 4 کیلوگرم",
       "url": "https://www.digikala.com/product/dkp-5514709/مواد-عایق-بندی-ژیکاوا-مدل-ژیکابام-وزن-4-کیلوگرم",
@@ -33484,14 +33699,14 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 4100000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.9,
       "rating_count": 13,
       "seller": "ایرسا شاپ",
-      "rank": 11,
+      "rank": 13,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -33508,80 +33723,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "1482188",
-      "title": "اسباب بازی طرح سوپر مارکت مدل Super Market play set",
-      "url": "https://www.digikala.com/product/dkp-1482188/اسباب-بازی-طرح-سوپر-مارکت-مدل-super-market-play-set",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/110430857.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 2780000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.7,
-      "rating_count": 388,
-      "seller": "توی فکتوری",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "مواد غذایی سوپرمارکت"
-      },
-      "supplier": {
-        "name": "توی فکتوری",
-        "url": "https://www.digikala.com/seller/GMFNF/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -7,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "6795145",
-      "title": "برچسب ایمنی مستر راد طرح مصرف مواد مخدر ممنوع مدل HSE-OSHA-288",
-      "url": "https://www.digikala.com/product/dkp-6795145/برچسب-ایمنی-مستر-راد-طرح-مصرف-مواد-مخدر-ممنوع-مدل-hse-osha-288",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/057ecdd595bface066bfdbd6cd9bbfae01ede817_1634621512.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "مستر راد",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 125000,
-      "list_price": 150000,
-      "discount_percent": 17,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "مستر راد",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "مواد"
-      },
-      "supplier": {
-        "name": "مستر راد",
-        "url": "https://www.digikala.com/seller/A4Z54/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -33595,7 +33737,7 @@
       "brand": "بادوک",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 359100,
       "list_price": 399000,
       "discount_percent": 10,
@@ -33617,7 +33759,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -33692,108 +33834,37 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20706283",
-      "title": "مواد عایق بندی نانو ژیکاوا مدل Zhikabam_AntiBacterial وزن یک کیلوگرم",
-      "url": "https://www.digikala.com/product/dkp-20706283/مواد-عایق-بندی-نانو-ژیکاوا-مدل-zhikabam-antibacterial-وزن-یک-کیلوگرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0160b806f19afa632aa6aaec635cf0d0f45e9530_1760772385.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ژیکاوا",
+      "source_id": "21563622",
+      "title": "گرانولا اجیلی 50 درصد مغزهای خوراکی و مویز بانی بار - 380 گرم بسته 3 عددی",
+      "url": "https://www.digikala.com/product/dkp-21563622/گرانولا-آجیلی-50-درصد-مغزهای-خوراکی-و-مویز-بانی-بار-380-گرم-بسته-3-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/829aa78d76a3790fb7a7982f7c47f7b1467db326_1776797031.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بانی بار",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 945000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 11,
-      "seller": "ایرسا شاپ",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 1527750,
+      "list_price": 2037000,
+      "discount_percent": 25,
+      "rating": 5,
+      "rating_count": 4,
+      "seller": "سالمزی",
       "rank": 13,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "پیشنهاد شگفت انگیز",
+        "شگفت‌انگیز",
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "مواد"
+        "query": "خوراکی و سوپرمارکت"
       },
       "supplier": {
-        "name": "ایرسا شاپ",
-        "url": "https://www.digikala.com/seller/AGCDR/"
+        "name": "سالمزی",
+        "url": "https://www.digikala.com/seller/EMRED/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "5401025",
-      "title": "مگنت طرح سوپر مارکت مدل 003 مجموعه 10 عددی",
-      "url": "https://www.digikala.com/product/dkp-5401025/مگنت-طرح-سوپر-مارکت-مدل-003-مجموعه-10-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f500520b416c20ac7cae8afa2203442b7e38f313_1623127656.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 187450,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 8,
-      "seller": "سپهر ایران",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "مواد غذایی سوپرمارکت"
-      },
-      "supplier": {
-        "name": "سپهر ایران",
-        "url": "https://www.digikala.com/seller/ANUTG/"
-      },
-      "signals": {
-        "price_change_pct": 0.38,
-        "rank_change": -4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "11545857",
-      "title": "اینه جیبی خندالو مدل مهندس مواد کد 5600",
-      "url": "https://www.digikala.com/product/dkp-11545857/آینه-جیبی-خندالو-مدل-مهندس-مواد-کد-5600",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9687fa8ebcb87699b239728c7897f44524dbda53_1685795813.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "خندالو",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 159000,
-      "list_price": 200000,
-      "discount_percent": 21,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "خندالو",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "مواد"
-      },
-      "supplier": {
-        "name": "خندالو",
-        "url": "https://www.digikala.com/seller/5A9HF/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
+        "price_change_pct": -25,
+        "rank_change": 5,
         "is_new": false
       }
     },
@@ -33833,43 +33904,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21350984",
-      "title": "گرانولا رژیمی مغزهای خوراکی و سیب و دارچین بانی بار - 380 گرم",
-      "url": "https://www.digikala.com/product/dkp-21350984/گرانولا-رژیمی-مغزهای-خوراکی-و-سیب-و-دارچین-بانی-بار-380-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a33dd698f41c885a42c69357615ba1155fbffa8a_1776699219.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بانی بار",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 607050,
-      "list_price": 639000,
-      "discount_percent": 5,
-      "rating": 2.7,
-      "rating_count": 3,
-      "seller": "سالمزی",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "خوراکی و سوپرمارکت"
-      },
-      "supplier": {
-        "name": "سالمزی",
-        "url": "https://www.digikala.com/seller/EMRED/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "4278999",
       "title": "اسباب بازی سوپرمارکت اوا مدل AMT3050 کد 2",
       "url": "https://www.digikala.com/product/dkp-4278999/اسباب-بازی-سوپرمارکت-آوا-مدل-amt3050-کد-2",
@@ -33877,14 +33911,14 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 3100000,
       "list_price": 4100000,
       "discount_percent": 24,
       "rating": 3.7,
       "rating_count": 32,
       "seller": "گلدن ابزار",
-      "rank": 15,
+      "rank": 14,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -33899,7 +33933,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -33913,14 +33947,14 @@
       "brand": "مستر راد",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 125000,
       "list_price": 150000,
       "discount_percent": 17,
       "rating": 5,
       "rating_count": 1,
       "seller": "مستر راد",
-      "rank": 15,
+      "rank": 14,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -33936,7 +33970,76 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "347669",
+      "title": "سلفون محافظ موادغذایی شکیل پلاست کد 2436 رول 20 متری",
+      "url": "https://www.digikala.com/product/dkp-347669/سلفون-محافظ-موادغذایی-شکیل-پلاست-کد-2436-رول-20-متری",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2114291.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 198000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "لوازم قنادی کوکی",
+      "rank": 14,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "مواد غذایی سوپرمارکت"
+      },
+      "supplier": {
+        "name": "لوازم قنادی کوکی",
+        "url": "https://www.digikala.com/seller/HUEH5/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20706283",
+      "title": "مواد عایق بندی نانو ژیکاوا مدل Zhikabam_AntiBacterial وزن یک کیلوگرم",
+      "url": "https://www.digikala.com/product/dkp-20706283/مواد-عایق-بندی-نانو-ژیکاوا-مدل-zhikabam-antibacterial-وزن-یک-کیلوگرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0160b806f19afa632aa6aaec635cf0d0f45e9530_1760772385.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "ژیکاوا",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 945000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 11,
+      "seller": "ایرسا شاپ",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "مواد"
+      },
+      "supplier": {
+        "name": "ایرسا شاپ",
+        "url": "https://www.digikala.com/seller/AGCDR/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -33981,74 +34084,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "347669",
-      "title": "سلفون محافظ موادغذایی شکیل پلاست کد 2436 رول 20 متری",
-      "url": "https://www.digikala.com/product/dkp-347669/سلفون-محافظ-موادغذایی-شکیل-پلاست-کد-2436-رول-20-متری",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2114291.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 198000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "لوازم قنادی کوکی",
-      "rank": 15,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "مواد غذایی سوپرمارکت"
-      },
-      "supplier": {
-        "name": "لوازم قنادی کوکی",
-        "url": "https://www.digikala.com/seller/HUEH5/"
-      },
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "7086780",
-      "title": "مگنت مدل مینیاتوری سوپر مارکت مجموعه 10 عددی",
-      "url": "https://www.digikala.com/product/dkp-7086780/مگنت-مدل-مینیاتوری-سوپر-مارکت-مجموعه-10-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/3175e4d8111406dd944f7bb56ddbab93fb0b1f8e_1637074467.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 237760,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 55,
-      "seller": "سپهر ایران",
-      "rank": 16,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "مواد غذایی سوپرمارکت"
-      },
-      "supplier": {
-        "name": "سپهر ایران",
-        "url": "https://www.digikala.com/seller/ANUTG/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -10,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "12450046",
       "title": "رنگ خوراکی مشکی و صورتی و زرد و سبز و ابی خط زرد بسته 5 عددی",
       "url": "https://www.digikala.com/product/dkp-12450046/رنگ-خوراکی-مشکی-و-صورتی-و-زرد-و-سبز-و-آبی-خط-زرد-بسته-5-عددی",
@@ -34056,14 +34091,14 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 550000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
       "rating_count": 38,
       "seller": "لوازم قنادی پاک نو",
-      "rank": 16,
+      "rank": 15,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -34079,7 +34114,44 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21350984",
+      "title": "گرانولا رژیمی مغزهای خوراکی و سیب و دارچین بانی بار - 380 گرم",
+      "url": "https://www.digikala.com/product/dkp-21350984/گرانولا-رژیمی-مغزهای-خوراکی-و-سیب-و-دارچین-بانی-بار-380-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a33dd698f41c885a42c69357615ba1155fbffa8a_1776699219.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بانی بار",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 607050,
+      "list_price": 639000,
+      "discount_percent": 5,
+      "rating": 2.7,
+      "rating_count": 3,
+      "seller": "سالمزی",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "خوراکی و سوپرمارکت"
+      },
+      "supplier": {
+        "name": "سالمزی",
+        "url": "https://www.digikala.com/seller/EMRED/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -34119,57 +34191,58 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "82053",
-      "title": "لوسیون بدن هیدرودرم مدل Multiple Action کرمی 200 گرم حاوی ویتامین A، E و D، هیالورونیک اسید، پروتئین ابریشم، روغن بادام و اووکادو، مرطوب‌کننده قوی و التیام‌بخش فاقد مواد حساسیت‌زا و مناسب انواع پوست",
-      "url": "https://www.digikala.com/product/dkp-82053/لوسیون-بدن-هیدرودرم-مدل-multiple-action-کرمی-200-گرم-حاوی-ویتامین-a-e-و-d-هیالورونیک-اسید-پروتئین-ابریشم-روغن-بادام-و-آووکادو-مرطوبکننده-قوی-و-التیامبخش-فاقد-مواد-حساسیتزا-و-مناسب-انواع-پوست",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/93df9d970585afca107377ab18ede93d846429c6_1789053594.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "هیدرودرم",
+      "source_id": "6185379",
+      "title": "برچسب ایمنی مستر راد طرح ورود با مواد مخدر و روانگردان ممنوع مدل HSE-OSHA-0297",
+      "url": "https://www.digikala.com/product/dkp-6185379/برچسب-ایمنی-مستر-راد-طرح-ورود-با-مواد-مخدر-و-روانگردان-ممنوع-مدل-hse-osha-0297",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e9ef824913720f333125313f4b0c23fcbd8357a6_1629626976.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "مستر راد",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 560000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 1625,
-      "seller": "الیفا استور",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 91000,
+      "list_price": 100000,
+      "discount_percent": 9,
+      "rating": 2.7,
+      "rating_count": 3,
+      "seller": "مستر راد",
       "rank": 16,
       "available": true,
       "badges": [
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
+        "فروش ویژه",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "مواد"
       },
       "supplier": {
-        "name": "ارزانسرای هایپر استور",
-        "url": "https://www.digikala.com/seller/E5MN7/"
+        "name": "مستر راد",
+        "url": "https://www.digikala.com/seller/A4Z54/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 1,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "15855371",
-      "title": "سلفون بادوک مدل محافظ مواد غذایی رول 20 متری",
-      "url": "https://www.digikala.com/product/dkp-15855371/سلفون-بادوک-مدل-محافظ-مواد-غذایی-رول-20-متری",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ede4a1aa3ca3a04c8e8da49ec694b5b990cf8b78_1718785696.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "6064761",
+      "title": "سلفون بادوک مدل محافظ مواد غذایی کد 01 رول 20 متری بسته 2 عددی",
+      "url": "https://www.digikala.com/product/dkp-6064761/سلفون-بادوک-مدل-محافظ-مواد-غذایی-کد-01-رول-20-متری-بسته-2-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5823d2d450cad19d05778632c8ba121e4fbe918e_1628501048.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "بادوک",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 367080,
-      "list_price": 399000,
-      "discount_percent": 8,
-      "rating": null,
-      "rating_count": 0,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 710220,
+      "list_price": 798000,
+      "discount_percent": 11,
+      "rating": 2.7,
+      "rating_count": 3,
       "seller": "پخش پاندیز",
-      "rank": 17,
+      "rank": 16,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -34184,44 +34257,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21351507",
-      "title": "گرانولا شکلات فندقی مغزهای خوراکی و میوه خشک بانی بار - 380 گرم",
-      "url": "https://www.digikala.com/product/dkp-21351507/گرانولا-شکلات-فندقی-مغزهای-خوراکی-و-میوه-خشک-بانی-بار-380-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8b31b68931853eccee2e4acd6362c6adcfb2ac2b_1776699573.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بانی بار",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 690460,
-      "list_price": 726800,
-      "discount_percent": 5,
-      "rating": 4.4,
-      "rating_count": 10,
-      "seller": "سالمزی",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "خوراکی و سوپرمارکت"
-      },
-      "supplier": {
-        "name": "سالمزی",
-        "url": "https://www.digikala.com/seller/EMRED/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 2,
         "is_new": false
       }
     },
@@ -34333,19 +34369,19 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "6185379",
-      "title": "برچسب ایمنی مستر راد طرح ورود با مواد مخدر و روانگردان ممنوع مدل HSE-OSHA-0297",
-      "url": "https://www.digikala.com/product/dkp-6185379/برچسب-ایمنی-مستر-راد-طرح-ورود-با-مواد-مخدر-و-روانگردان-ممنوع-مدل-hse-osha-0297",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e9ef824913720f333125313f4b0c23fcbd8357a6_1629626976.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "6185325",
+      "title": "برچسب ایمنی مستر راد طرح مصرف مواد مخدر ممنوع مدل HSE-OSHA-0296",
+      "url": "https://www.digikala.com/product/dkp-6185325/برچسب-ایمنی-مستر-راد-طرح-مصرف-مواد-مخدر-ممنوع-مدل-hse-osha-0296",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/bc0d084b92ed1a83185ba531a0ee631092b21f17_1629626775.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "مستر راد",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 91000,
       "list_price": 100000,
       "discount_percent": 9,
-      "rating": 2.7,
-      "rating_count": 3,
+      "rating": null,
+      "rating_count": 0,
       "seller": "مستر راد",
       "rank": 17,
       "available": true,
@@ -34363,26 +34399,98 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "6064761",
-      "title": "سلفون بادوک مدل محافظ مواد غذایی کد 01 رول 20 متری بسته 2 عددی",
-      "url": "https://www.digikala.com/product/dkp-6064761/سلفون-بادوک-مدل-محافظ-مواد-غذایی-کد-01-رول-20-متری-بسته-2-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5823d2d450cad19d05778632c8ba121e4fbe918e_1628501048.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "10402481",
+      "title": "اسباب بازی مدل سوپر مارکت",
+      "url": "https://www.digikala.com/product/dkp-10402481/اسباب-بازی-مدل-سوپر-مارکت",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ad213edc527b6cb13cdb6b38145d879de249fd0f_1673349931.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 3280000,
+      "list_price": 4100000,
+      "discount_percent": 20,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "اسباب بازی کپلی",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "خوراکی و سوپرمارکت"
+      },
+      "supplier": {
+        "name": "اسباب بازی کپلی",
+        "url": "https://www.digikala.com/seller/EKMX7/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "82053",
+      "title": "لوسیون بدن هیدرودرم مدل Multiple Action کرمی 200 گرم حاوی ویتامین A، E و D، هیالورونیک اسید، پروتئین ابریشم، روغن بادام و اووکادو، مرطوب‌کننده قوی و التیام‌بخش فاقد مواد حساسیت‌زا و مناسب انواع پوست",
+      "url": "https://www.digikala.com/product/dkp-82053/لوسیون-بدن-هیدرودرم-مدل-multiple-action-کرمی-200-گرم-حاوی-ویتامین-a-e-و-d-هیالورونیک-اسید-پروتئین-ابریشم-روغن-بادام-و-آووکادو-مرطوبکننده-قوی-و-التیامبخش-فاقد-مواد-حساسیتزا-و-مناسب-انواع-پوست",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/93df9d970585afca107377ab18ede93d846429c6_1789053594.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "هیدرودرم",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 560000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 1625,
+      "seller": "الیفا استور",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "مواد"
+      },
+      "supplier": {
+        "name": "ارزانسرای هایپر استور",
+        "url": "https://www.digikala.com/seller/E5MN7/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "15855371",
+      "title": "سلفون بادوک مدل محافظ مواد غذایی رول 20 متری",
+      "url": "https://www.digikala.com/product/dkp-15855371/سلفون-بادوک-مدل-محافظ-مواد-غذایی-رول-20-متری",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ede4a1aa3ca3a04c8e8da49ec694b5b990cf8b78_1718785696.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "بادوک",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 710220,
-      "list_price": 798000,
-      "discount_percent": 11,
-      "rating": 2.7,
-      "rating_count": 3,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 367080,
+      "list_price": 399000,
+      "discount_percent": 8,
+      "rating": null,
+      "rating_count": 0,
       "seller": "پخش پاندیز",
       "rank": 18,
       "available": true,
@@ -34406,23 +34514,25 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21563622",
-      "title": "گرانولا اجیلی 50 درصد مغزهای خوراکی و مویز بانی بار - 380 گرم بسته 3 عددی",
-      "url": "https://www.digikala.com/product/dkp-21563622/گرانولا-آجیلی-50-درصد-مغزهای-خوراکی-و-مویز-بانی-بار-380-گرم-بسته-3-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/829aa78d76a3790fb7a7982f7c47f7b1467db326_1776797031.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "21351507",
+      "title": "گرانولا شکلات فندقی مغزهای خوراکی و میوه خشک بانی بار - 380 گرم",
+      "url": "https://www.digikala.com/product/dkp-21351507/گرانولا-شکلات-فندقی-مغزهای-خوراکی-و-میوه-خشک-بانی-بار-380-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8b31b68931853eccee2e4acd6362c6adcfb2ac2b_1776699573.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "بانی بار",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 2037000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 5,
-      "rating_count": 4,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 690460,
+      "list_price": 726800,
+      "discount_percent": 5,
+      "rating": 4.4,
+      "rating_count": 10,
       "seller": "سالمزی",
       "rank": 18,
       "available": true,
       "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
@@ -34434,44 +34544,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -6,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "6185325",
-      "title": "برچسب ایمنی مستر راد طرح مصرف مواد مخدر ممنوع مدل HSE-OSHA-0296",
-      "url": "https://www.digikala.com/product/dkp-6185325/برچسب-ایمنی-مستر-راد-طرح-مصرف-مواد-مخدر-ممنوع-مدل-hse-osha-0296",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/bc0d084b92ed1a83185ba531a0ee631092b21f17_1629626775.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "مستر راد",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 91000,
-      "list_price": 100000,
-      "discount_percent": 9,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "مستر راد",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "مواد"
-      },
-      "supplier": {
-        "name": "مستر راد",
-        "url": "https://www.digikala.com/seller/A4Z54/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -34622,112 +34695,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "5400953",
-      "title": "مگنت طرح سوپر مارکت مدل 002 مجموعه 10 عددی",
-      "url": "https://www.digikala.com/product/dkp-5400953/مگنت-طرح-سوپر-مارکت-مدل-002-مجموعه-10-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5cd1c319776b07b8ecc6c6e88131ebf0131c0d27_1623126495.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 297280,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 4,
-      "seller": "سپهر ایران",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "مواد غذایی سوپرمارکت"
-      },
-      "supplier": {
-        "name": "سپهر ایران",
-        "url": "https://www.digikala.com/seller/ANUTG/"
-      },
-      "signals": {
-        "price_change_pct": 0.4,
-        "rank_change": -6,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "10402481",
-      "title": "اسباب بازی مدل سوپر مارکت",
-      "url": "https://www.digikala.com/product/dkp-10402481/اسباب-بازی-مدل-سوپر-مارکت",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ad213edc527b6cb13cdb6b38145d879de249fd0f_1673349931.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 3280000,
-      "list_price": 4100000,
-      "discount_percent": 20,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "اسباب بازی کپلی",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "خوراکی و سوپرمارکت"
-      },
-      "supplier": {
-        "name": "اسباب بازی کپلی",
-        "url": "https://www.digikala.com/seller/EKMX7/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "22673189",
-      "title": "سوپر فود صبحانه - 250 گرم",
-      "url": "https://www.digikala.com/product/dkp-22673189/سوپر-فود-صبحانه-250-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7156d3e475a266c6b7a2e7b61cd703d671c33a86_1788683958.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 500000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "محصولات غذایی گنجار",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "مواد غذایی سوپرمارکت"
-      },
-      "supplier": {
-        "name": "محصولات غذایی گنجار",
-        "url": "https://www.digikala.com/seller/EAZ9M/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "5894506",
       "title": "دستگاه وکیوم مواد غذایی مدل G0345",
       "url": "https://www.digikala.com/product/dkp-5894506/دستگاه-وکیوم-مواد-غذایی-مدل-g0345",
@@ -34735,8 +34702,8 @@
       "brand": "متفرقه",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 1329690,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 1300000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.1,
@@ -34755,7 +34722,7 @@
         "url": "https://www.digikala.com/seller/CA2P9/"
       },
       "signals": {
-        "price_change_pct": -2.94,
+        "price_change_pct": -2.23,
         "rank_change": 0,
         "is_new": false
       }
@@ -34976,6 +34943,76 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "7978400",
+      "title": "تابلو ال ای دی میشانه مدل سوپر مارکت کد 880 به همراه فلاشر و کنترل",
+      "url": "https://www.digikala.com/product/dkp-7978400/تابلو-ال-ای-دی-میشانه-مدل-سوپر-مارکت-کد-880-به-همراه-فلاشر-و-کنترل",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f9cfd64abe084612025e5b83f0232eb29bd3e0b5_1646125657.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "میشانه",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 8025000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 13,
+      "seller": "مهرانو چوب",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "خوراکی و سوپرمارکت"
+      },
+      "supplier": {
+        "name": "مهرانو چوب",
+        "url": "https://www.digikala.com/seller/GDJ6A/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "22673189",
+      "title": "سوپر فود صبحانه - 250 گرم",
+      "url": "https://www.digikala.com/product/dkp-22673189/سوپر-فود-صبحانه-250-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7156d3e475a266c6b7a2e7b61cd703d671c33a86_1788683958.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "food",
+      "category_label": "خوراکی و سوپرمارکت",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 500000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "محصولات غذایی گنجار",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "مواد غذایی سوپرمارکت"
+      },
+      "supplier": {
+        "name": "محصولات غذایی گنجار",
+        "url": "https://www.digikala.com/seller/EAZ9M/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "21351276",
       "title": "گرانولا فیتنس مغزهای خوراکی و بادام زمینی و میوه خشک بانی بار - 380 گرم",
       "url": "https://www.digikala.com/product/dkp-21351276/گرانولا-فیتنس-مغزهای-خوراکی-و-بادام-زمینی-و-میوه-خشک-بانی-بار-380-گرم",
@@ -34983,14 +35020,14 @@
       "brand": "بانی بار",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T06:18:41.763Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 607050,
       "list_price": 639000,
       "discount_percent": 5,
       "rating": 4.5,
       "rating_count": 17,
       "seller": "سالمزی",
-      "rank": 19,
+      "rank": 20,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -35006,77 +35043,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "5401068",
-      "title": "مگنت طرح سوپر مارکت مدل 004 مجموعه 10 عددی",
-      "url": "https://www.digikala.com/product/dkp-5401068/مگنت-طرح-سوپر-مارکت-مدل-004-مجموعه-10-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/368691feafd83466af1335e59cbd6331a2433aa6_1623128452.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 199740,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.5,
-      "rating_count": 2,
-      "seller": "سپهر ایران",
-      "rank": 20,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "مواد غذایی سوپرمارکت"
-      },
-      "supplier": {
-        "name": "سپهر ایران",
-        "url": "https://www.digikala.com/seller/ANUTG/"
-      },
-      "signals": {
-        "price_change_pct": 0.52,
-        "rank_change": -8,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "7978400",
-      "title": "تابلو ال ای دی میشانه مدل سوپر مارکت کد 880 به همراه فلاشر و کنترل",
-      "url": "https://www.digikala.com/product/dkp-7978400/تابلو-ال-ای-دی-میشانه-مدل-سوپر-مارکت-کد-880-به-همراه-فلاشر-و-کنترل",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f9cfd64abe084612025e5b83f0232eb29bd3e0b5_1646125657.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "میشانه",
-      "category_key": "food",
-      "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 8025000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 13,
-      "seller": "مهرانو چوب",
-      "rank": 20,
-      "available": true,
-      "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "خوراکی و سوپرمارکت"
-      },
-      "supplier": {
-        "name": "مهرانو چوب",
-        "url": "https://www.digikala.com/seller/GDJ6A/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -35480,7 +35447,7 @@
       "brand": "خندالو",
       "category_key": "food",
       "category_label": "خوراکی و سوپرمارکت",
-      "observed_at": "2026-10-16T06:18:41.763Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 479000,
       "list_price": 550000,
       "discount_percent": 13,
@@ -35502,9 +35469,9 @@
         "url": "https://www.digikala.com/seller/5A9HF/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
       }
     },
     {
@@ -75903,18 +75870,19 @@
       "brand": "سارزی",
       "category_key": "shoes",
       "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 2399000,
       "list_price": 3616700,
       "discount_percent": 34,
       "rating": 3.8,
-      "rating_count": 1881,
+      "rating_count": 1883,
       "seller": "سارزی",
       "rank": 1,
       "available": true,
       "badges": [
         "فروش ویژه",
-        "ارسال توسط فروشنده"
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "کفش"
@@ -75939,12 +75907,12 @@
       "brand": "دوخط",
       "category_key": "shoes",
       "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1099000,
       "list_price": 1280000,
       "discount_percent": 14,
       "rating": 3.9,
-      "rating_count": 6572,
+      "rating_count": 6573,
       "seller": "دبلیو کالای سرگل",
       "rank": 2,
       "available": true,
@@ -75969,6 +75937,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "12672841",
+      "title": "کفش راحتی مردانه مدل 849011602",
+      "url": "https://www.digikala.com/product/dkp-12672841/کفش-راحتی-مردانه-مدل-849011602",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/24d90f8e985cc3f55172f124c53a93220e891d58_1694767127.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "shoes",
+      "category_label": "کفش",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 1000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 135,
+      "seller": "گنگول",
+      "rank": 3,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "کفش"
+      },
+      "supplier": {
+        "name": "گنگول",
+        "url": "https://www.digikala.com/seller/GKV6X/"
+      },
+      "signals": {
+        "price_change_pct": 17.65,
+        "rank_change": 17,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "18236685",
       "title": "کفش پیاده‌روی مدل 1026",
       "url": "https://www.digikala.com/product/dkp-18236685/کفش-پیادهروی-مدل-1026",
@@ -75976,14 +75980,14 @@
       "brand": "متفرقه",
       "category_key": "shoes",
       "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1470000,
       "list_price": 3900000,
       "discount_percent": 62,
-      "rating": 3.9,
-      "rating_count": 415,
+      "rating": 4,
+      "rating_count": 418,
       "seller": "دبلیو کالای سرگل",
-      "rank": 3,
+      "rank": 4,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -75996,42 +76000,6 @@
       "supplier": {
         "name": "گنگول",
         "url": "https://www.digikala.com/seller/GKV6X/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "13976355",
-      "title": "کفش پیاده روی مردانه مدل S",
-      "url": "https://www.digikala.com/product/dkp-13976355/کفش-پیاده-روی-مردانه-مدل-s",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/963e0690d69a374490c01bd09bd882fdb095fcbf_1704384363.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "shoes",
-      "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 1468000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 529,
-      "seller": "کفش آرتین",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کفش"
-      },
-      "supplier": {
-        "name": "کفش آرتین",
-        "url": "https://www.digikala.com/seller/G55NP/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -76078,33 +76046,37 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "16150459",
-      "title": "کفش پیاده روی مردانه مدل 225123009943",
-      "url": "https://www.digikala.com/product/dkp-16150459/کفش-پیاده-روی-مردانه-مدل-225123009943",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/86a098090796b008e10ab18d577b0a7cf22c6581_1783150277.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "13976355",
+      "title": "کفش پیاده روی مردانه مدل S",
+      "url": "https://www.digikala.com/product/dkp-13976355/کفش-پیاده-روی-مردانه-مدل-s",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/963e0690d69a374490c01bd09bd882fdb095fcbf_1704384363.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "shoes",
       "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 2120000,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 1468000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 121,
-      "seller": "بند کفش",
+      "rating": 4,
+      "rating_count": 531,
+      "seller": "کفش آرتین",
       "rank": 5,
       "available": true,
-      "badges": [],
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
       "raw_ref": {
         "query": "کفش"
       },
       "supplier": {
-        "name": "سلامتکده نور",
-        "url": "https://www.digikala.com/seller/E974M/"
+        "name": "کفش آرتین",
+        "url": "https://www.digikala.com/seller/G55NP/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -76114,16 +76086,16 @@
       "source_id": "15981062",
       "title": "کفش پیاده‌روی سارزی مدل t.r.x_",
       "url": "https://www.digikala.com/product/dkp-15981062/کفش-پیادهروی-سارزی-مدل-trx",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1b4e0401cbd4425892aa766ff4f88d6a489014fe_1785761921.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ea8b69bb27b5aecce85836ad11f6bb331bac9b91_1786378928.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "سارزی",
       "category_key": "shoes",
       "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 2399000,
       "list_price": 3721000,
       "discount_percent": 36,
       "rating": 3.8,
-      "rating_count": 256,
+      "rating_count": 257,
       "seller": "سارزی",
       "rank": 6,
       "available": true,
@@ -76155,17 +76127,17 @@
       "brand": "متفرقه",
       "category_key": "shoes",
       "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 780000,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 980000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.9,
-      "rating_count": 17217,
+      "rating_count": 17219,
       "seller": "کیفتو",
       "rank": 7,
       "available": true,
       "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "کفش"
@@ -76175,8 +76147,41 @@
         "url": "https://www.digikala.com/seller/AGDK2/"
       },
       "signals": {
+        "price_change_pct": 25.64,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "16150459",
+      "title": "کفش پیاده روی مردانه مدل 225123009943",
+      "url": "https://www.digikala.com/product/dkp-16150459/کفش-پیاده-روی-مردانه-مدل-225123009943",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a0a591382760c1fbb8ce435a2897eb7af73821e8_1792092248.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "shoes",
+      "category_label": "کفش",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 2120000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 121,
+      "seller": "بند کفش",
+      "rank": 8,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "کفش"
+      },
+      "supplier": {
+        "name": "سلامتکده نور",
+        "url": "https://www.digikala.com/seller/E974M/"
+      },
+      "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -76190,14 +76195,14 @@
       "brand": "سارزی",
       "category_key": "shoes",
       "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1799000,
       "list_price": 2477500,
       "discount_percent": 27,
-      "rating": 3.5,
-      "rating_count": 399,
+      "rating": 3.6,
+      "rating_count": 400,
       "seller": "سارزی",
-      "rank": 8,
+      "rank": 9,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -76213,7 +76218,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -76264,17 +76269,18 @@
       "brand": "متفرقه",
       "category_key": "shoes",
       "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 2350000,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 2330000,
       "list_price": 3000000,
       "discount_percent": 22,
       "rating": 3.4,
       "rating_count": 6781,
       "seller": "کفش رادین",
-      "rank": 9,
+      "rank": 10,
       "available": true,
       "badges": [
         "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا"
       ],
       "raw_ref": {
@@ -76285,8 +76291,8 @@
         "url": "https://www.digikala.com/seller/AVNK5/"
       },
       "signals": {
-        "price_change_pct": -1.67,
-        "rank_change": 0,
+        "price_change_pct": -0.85,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -76300,48 +76306,13 @@
       "brand": "متفرقه",
       "category_key": "shoes",
       "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 1470000,
-      "list_price": 3900000,
-      "discount_percent": 62,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 1270000,
+      "list_price": 1900000,
+      "discount_percent": 33,
       "rating": 4.2,
       "rating_count": 13,
-      "seller": "دبلیو کالای سرگل",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "کفش"
-      },
-      "supplier": {
-        "name": "دبلیو کالای سرگل",
-        "url": "https://www.digikala.com/seller/GMJSE/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "6227126",
-      "title": "کفش پیاده‌روی سارزی مدل S.A.R.Z.I_M.e.s_011",
-      "url": "https://www.digikala.com/product/dkp-6227126/کفش-پیادهروی-سارزی-مدل-sarzi-mes-011",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a2c5846817e2ee2b3bacb75e45cb018b464b381c_1782818870.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "سارزی",
-      "category_key": "shoes",
-      "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 1399000,
-      "list_price": 1932800,
-      "discount_percent": 28,
-      "rating": 3.8,
-      "rating_count": 2981,
-      "seller": "سارزی",
+      "seller": "گنگول",
       "rank": 11,
       "available": true,
       "badges": [
@@ -76352,12 +76323,12 @@
         "query": "کفش"
       },
       "supplier": {
-        "name": "سارزی",
-        "url": "https://www.digikala.com/seller/5AHV9/"
+        "name": "دبلیو کالای سرگل",
+        "url": "https://www.digikala.com/seller/GMJSE/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "price_change_pct": -13.61,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -76435,6 +76406,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "6227126",
+      "title": "کفش پیاده‌روی سارزی مدل S.A.R.Z.I_M.e.s_011",
+      "url": "https://www.digikala.com/product/dkp-6227126/کفش-پیادهروی-سارزی-مدل-sarzi-mes-011",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a2c5846817e2ee2b3bacb75e45cb018b464b381c_1782818870.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "سارزی",
+      "category_key": "shoes",
+      "category_label": "کفش",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 1399000,
+      "list_price": 1932800,
+      "discount_percent": 28,
+      "rating": 3.8,
+      "rating_count": 2981,
+      "seller": "سارزی",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "کفش"
+      },
+      "supplier": {
+        "name": "سارزی",
+        "url": "https://www.digikala.com/seller/5AHV9/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "21427346",
       "title": "کفش پیاده‌روی مدل V2k 2025",
       "url": "https://www.digikala.com/product/dkp-21427346/کفش-پیادهروی-مدل-v2k-2025",
@@ -76466,42 +76473,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "12636148",
-      "title": "کفش پیاده روی مردانه مدل 1001",
-      "url": "https://www.digikala.com/product/dkp-12636148/کفش-پیاده-روی-مردانه-مدل-1001",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/142db0747e1fb159db374064e1b29056f27c2851_1694335899.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "shoes",
-      "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 1240000,
-      "list_price": 1550000,
-      "discount_percent": 20,
-      "rating": 4.2,
-      "rating_count": 327,
-      "seller": "بازرگانی اندیشه نو",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "کفش"
-      },
-      "supplier": {
-        "name": "بازرگانی اندیشه نو",
-        "url": "https://www.digikala.com/seller/AUADK/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
         "is_new": false
       }
     },
@@ -76581,6 +76552,77 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "21401554",
+      "title": "کفش پیاده‌روی مردانه مدل 2020",
+      "url": "https://www.digikala.com/product/dkp-21401554/کفش-پیادهروی-مردانه-مدل-2020",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ac69bfc427645eea5e4d0721ffab993fb2a29a40_1791707802.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "shoes",
+      "category_label": "کفش",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 1756000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.6,
+      "rating_count": 81,
+      "seller": "همراه اسمارت",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کفش"
+      },
+      "supplier": {
+        "name": "بند کفش",
+        "url": "https://www.digikala.com/seller/ER5JX/"
+      },
+      "signals": {
+        "price_change_pct": 1.56,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "12636148",
+      "title": "کفش پیاده روی مردانه مدل 1001",
+      "url": "https://www.digikala.com/product/dkp-12636148/کفش-پیاده-روی-مردانه-مدل-1001",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/142db0747e1fb159db374064e1b29056f27c2851_1694335899.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "shoes",
+      "category_label": "کفش",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 1240000,
+      "list_price": 1550000,
+      "discount_percent": 20,
+      "rating": 4.2,
+      "rating_count": 328,
+      "seller": "بازرگانی اندیشه نو",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "کفش"
+      },
+      "supplier": {
+        "name": "بازرگانی اندیشه نو",
+        "url": "https://www.digikala.com/seller/AUADK/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "16451709",
       "title": "کفش پیاده‌روی مدل Sal_008",
       "url": "https://www.digikala.com/product/dkp-16451709/کفش-پیادهروی-مدل-sal-008",
@@ -76588,17 +76630,16 @@
       "brand": "متفرقه",
       "category_key": "shoes",
       "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 1280000,
-      "list_price": 1362200,
-      "discount_percent": 6,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 1362200,
+      "list_price": null,
+      "discount_percent": 0,
       "rating": 3.8,
       "rating_count": 154,
       "seller": "دوخط",
-      "rank": 13,
+      "rank": 15,
       "available": true,
       "badges": [
-        "فروش ویژه",
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
@@ -76609,44 +76650,8 @@
         "url": "https://www.digikala.com/seller/H2S73/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "13729521",
-      "title": "کفش پیاده روی مردانه مدل Perfect",
-      "url": "https://www.digikala.com/product/dkp-13729521/کفش-پیاده-روی-مردانه-مدل-perfect",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c6bb205e2f3a268af934fe14d8975de4fcc9e532_1783150269.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "shoes",
-      "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 1259000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 798,
-      "seller": "تی شاپ اهواز",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کفش"
-      },
-      "supplier": {
-        "name": "تی شاپ اهواز",
-        "url": "https://www.digikala.com/seller/GXR6S/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
+        "price_change_pct": 6.42,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -76726,35 +76731,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21401554",
-      "title": "کفش پیاده‌روی مردانه مدل 2020",
-      "url": "https://www.digikala.com/product/dkp-21401554/کفش-پیادهروی-مردانه-مدل-2020",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/b40ffb4d459c780c5692af49727d23f2c5b88924_1788689519.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "13729521",
+      "title": "کفش پیاده روی مردانه مدل Perfect",
+      "url": "https://www.digikala.com/product/dkp-13729521/کفش-پیاده-روی-مردانه-مدل-perfect",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c6bb205e2f3a268af934fe14d8975de4fcc9e532_1783150269.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "shoes",
       "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
-      "price": 1729000,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 1259000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.5,
-      "rating_count": 79,
-      "seller": "بند کفش",
-      "rank": 15,
+      "rating": 4.1,
+      "rating_count": 798,
+      "seller": "تی شاپ اهواز",
+      "rank": 16,
       "available": true,
       "badges": [
+        "ارسال توسط فروشنده",
         "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "کفش"
       },
       "supplier": {
-        "name": "بند کفش",
-        "url": "https://www.digikala.com/seller/ER5JX/"
+        "name": "تی شاپ اهواز",
+        "url": "https://www.digikala.com/seller/GXR6S/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -76840,7 +76846,7 @@
       "brand": "سارزی",
       "category_key": "shoes",
       "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1999000,
       "list_price": 2511000,
       "discount_percent": 20,
@@ -76862,7 +76868,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -5,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -76876,7 +76882,7 @@
       "brand": "متفرقه",
       "category_key": "shoes",
       "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1920000,
       "list_price": 2400000,
       "discount_percent": 20,
@@ -76897,7 +76903,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -77123,6 +77129,43 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "13265828",
+      "title": "کفش پیاده روی مردانه مدل اسپرت کد C-8069",
+      "url": "https://www.digikala.com/product/dkp-13265828/کفش-پیاده-روی-مردانه-مدل-اسپرت-کد-c-8069",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2daaff013ec61734f73e330ec3de47e6a5187256_1788689520.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "shoes",
+      "category_label": "کفش",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 2900000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 427,
+      "seller": "گالری وسوسه",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کفش"
+      },
+      "supplier": {
+        "name": "گالری وسوسه",
+        "url": "https://www.digikala.com/seller/ARAC4/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "14119614",
       "title": "کفش راحتی کد 199600213548000",
       "url": "https://www.digikala.com/product/dkp-14119614/کفش-راحتی-کد-199600213548000",
@@ -77130,14 +77173,14 @@
       "brand": "متفرقه",
       "category_key": "shoes",
       "category_label": "کفش",
-      "observed_at": "2026-10-16T16:52:51.366Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 4480000,
       "list_price": 6580000,
       "discount_percent": 32,
       "rating": 3.9,
       "rating_count": 22,
       "seller": "دلوین پاشا",
-      "rank": 19,
+      "rank": 20,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -77154,7 +77197,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -77192,44 +77235,6 @@
       "signals": {
         "price_change_pct": 21.64,
         "rank_change": -12,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "12672841",
-      "title": "کفش راحتی مردانه مدل 849011602",
-      "url": "https://www.digikala.com/product/dkp-12672841/کفش-راحتی-مردانه-مدل-849011602",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/24d90f8e985cc3f55172f124c53a93220e891d58_1694767127.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "shoes",
-      "category_label": "کفش",
-      "observed_at": "2026-10-07T22:12:43.026Z",
-      "price": 850000,
-      "list_price": 1000000,
-      "discount_percent": 15,
-      "rating": 3.8,
-      "rating_count": 132,
-      "seller": "گنگول",
-      "rank": 20,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کفش"
-      },
-      "supplier": {
-        "name": "گنگول",
-        "url": "https://www.digikala.com/seller/GKV6X/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
         "is_new": false
       }
     },
@@ -125354,7 +125359,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 835000,
       "list_price": 940000,
       "discount_percent": 11,
@@ -125460,7 +125465,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 450000,
       "list_price": null,
       "discount_percent": 0,
@@ -125493,7 +125498,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
@@ -125529,7 +125534,7 @@
       "brand": "صنایع دستی فاخر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 169164000,
       "list_price": 225552000,
       "discount_percent": 25,
@@ -125636,7 +125641,7 @@
       "brand": "لوح هنر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1500000,
       "list_price": null,
       "discount_percent": 0,
@@ -125669,7 +125674,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 350000,
       "list_price": null,
       "discount_percent": 0,
@@ -125691,7 +125696,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -125811,7 +125816,7 @@
       "brand": "صنایع دستی فاخر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 44625000,
       "list_price": 59500000,
       "discount_percent": 25,
@@ -125848,7 +125853,7 @@
       "brand": "لوح هنر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1500000,
       "list_price": null,
       "discount_percent": 0,
@@ -125881,7 +125886,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 311000,
       "list_price": null,
       "discount_percent": 0,
@@ -125902,7 +125907,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -126023,7 +126028,7 @@
       "brand": "التین هنر بزازیان",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 13873000,
       "list_price": 20809500,
       "discount_percent": 33,
@@ -126059,7 +126064,7 @@
       "brand": "صنایع دستی فاخر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 35190000,
       "list_price": null,
       "discount_percent": 0,
@@ -126094,7 +126099,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 588750,
       "list_price": 785000,
       "discount_percent": 25,
@@ -126202,7 +126207,7 @@
       "brand": "التین هنر بزازیان",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 19783600,
       "list_price": 29675400,
       "discount_percent": 33,
@@ -126238,7 +126243,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 160000,
       "list_price": null,
       "discount_percent": 0,
@@ -126260,7 +126265,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -126274,7 +126279,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 259000,
       "list_price": null,
       "discount_percent": 0,
@@ -126295,7 +126300,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -126309,7 +126314,7 @@
       "brand": "صنایع دستی فاخر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 79409400,
       "list_price": 108780000,
       "discount_percent": 27,
@@ -126332,7 +126337,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -126491,7 +126496,7 @@
       "brand": "التین هنر بزازیان",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 15428400,
       "list_price": 23142600,
       "discount_percent": 33,
@@ -126527,7 +126532,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
@@ -126600,7 +126605,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 209000,
       "list_price": null,
       "discount_percent": 0,
@@ -126635,7 +126640,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 390000,
       "list_price": null,
       "discount_percent": 0,
@@ -126657,46 +126662,42 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22760274",
-      "title": "بسته لوازم تحریر مدل ملودی کیوت کد 81 مجموعه 11 عددی",
-      "url": "https://www.digikala.com/product/dkp-22760274/بسته-لوازم-تحریر-ملودی-کیوت-مجموعه-11-عددی-کد-81",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e886ea3f66c45ad8a99be746ceeaf3f7795529ae_1789645600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "20556413",
+      "title": "بسته لوازم تحریر طرح ملودی بسته 6 عددی",
+      "url": "https://www.digikala.com/product/dkp-20556413/بسته-لوازم-تحریر-طرح-ملودی-بسته-6-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b65f324d5276dd45b79ba8ab9554dcb4392d2831_1759144016.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 1620000,
-      "list_price": 2000000,
-      "discount_percent": 19,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 699000,
+      "list_price": null,
+      "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
-      "seller": "هنرگلسا",
+      "seller": "بانیبو آرت",
       "rank": 8,
       "available": true,
       "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
         "query": "لوازم"
       },
       "supplier": {
-        "name": "هنرگلسا",
-        "url": "https://www.digikala.com/seller/DCE47/"
+        "name": "بانیبو آرت",
+        "url": "https://www.digikala.com/seller/EE3F3/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -126745,7 +126746,7 @@
       "brand": "التین هنر بزازیان",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 14806300,
       "list_price": 19248100,
       "discount_percent": 23,
@@ -126781,7 +126782,7 @@
       "brand": "صنایع دستی فاخر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 4620000,
       "list_price": 6160000,
       "discount_percent": 25,
@@ -126804,42 +126805,46 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22396419",
-      "title": "بسته لوازم التحریر مدل ملودی مجموعه 7عددی‌",
-      "url": "https://www.digikala.com/product/dkp-22396419/بسته-لوازم-التحریر-مدل-ملودی-مجموعه-۷عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a7ddffa39fc63c18963e6eab843eca326a424d4e_1785505908.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "22760274",
+      "title": "بسته لوازم تحریر مدل ملودی کیوت کد 81 مجموعه 11 عددی",
+      "url": "https://www.digikala.com/product/dkp-22760274/بسته-لوازم-تحریر-ملودی-کیوت-مجموعه-11-عددی-کد-81",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e886ea3f66c45ad8a99be746ceeaf3f7795529ae_1789645600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 390000,
-      "list_price": null,
-      "discount_percent": 0,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 1620000,
+      "list_price": 2000000,
+      "discount_percent": 19,
       "rating": null,
       "rating_count": 0,
-      "seller": "شاهین تک",
+      "seller": "هنرگلسا",
       "rank": 9,
       "available": true,
       "badges": [
-        "تنها 3 عدد در انبار باقی مانده"
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لوازم"
       },
       "supplier": {
-        "name": "شاهین تک",
-        "url": "https://www.digikala.com/seller/FEWN2/"
+        "name": "هنرگلسا",
+        "url": "https://www.digikala.com/seller/DCE47/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -126853,7 +126858,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 180000,
       "list_price": null,
       "discount_percent": 0,
@@ -126875,7 +126880,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -126959,7 +126964,7 @@
       "brand": "التین هنر بزازیان",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 7340300,
       "list_price": 11010400,
       "discount_percent": 33,
@@ -126988,36 +126993,35 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19800745",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new5 مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-19800745/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new5-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0b540c6dfeee4e00b3b70942298e3f8fe79fe1e3_1752344329.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "22396419",
+      "title": "بسته لوازم التحریر مدل ملودی مجموعه 7عددی‌",
+      "url": "https://www.digikala.com/product/dkp-22396419/بسته-لوازم-التحریر-مدل-ملودی-مجموعه-۷عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a7ddffa39fc63c18963e6eab843eca326a424d4e_1785505908.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 178000,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 390000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
-      "seller": "چاپ فانتزی",
+      "seller": "شاهین تک",
       "rank": 10,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لوازم"
       },
       "supplier": {
-        "name": "چاپ فانتزی",
-        "url": "https://www.digikala.com/seller/CZ3GP/"
+        "name": "شاهین تک",
+        "url": "https://www.digikala.com/seller/FEWN2/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -127068,7 +127072,7 @@
       "brand": "لوح هنر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1300000,
       "list_price": null,
       "discount_percent": 0,
@@ -127101,7 +127105,7 @@
       "brand": "صنایع دستی فاخر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 3420000,
       "list_price": 4560000,
       "discount_percent": 25,
@@ -127131,36 +127135,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21519071",
-      "title": "بسته لوازم تحریر مدل ملودی و کرومی مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-21519071/بسته-لوازم-تحریر-مدل-ملودی-و-کرومی-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f233a1121358240166226761488c1b3ee79add21_1771858648.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "19800745",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new5 مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-19800745/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new5-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0b540c6dfeee4e00b3b70942298e3f8fe79fe1e3_1752344329.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 520000,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 178000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 5,
-      "rating_count": 1,
-      "seller": "هنرگلسا",
+      "rating": null,
+      "rating_count": 0,
+      "seller": "چاپ فانتزی",
       "rank": 11,
       "available": true,
       "badges": [
-        "فروشنده معتبر",
-        "تنها 3 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "لوازم"
       },
       "supplier": {
-        "name": "هنرگلسا",
-        "url": "https://www.digikala.com/seller/DCE47/"
+        "name": "چاپ فانتزی",
+        "url": "https://www.digikala.com/seller/CZ3GP/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 5,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -127210,7 +127214,7 @@
       "brand": "به گز",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 500000,
       "list_price": null,
       "discount_percent": 0,
@@ -127283,7 +127287,7 @@
       "brand": "لوح هنر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1300000,
       "list_price": null,
       "discount_percent": 0,
@@ -127302,43 +127306,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19800798",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new6 مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-19800798/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new6-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/753a99acd0f9fc14c6724a6e030835c821ac6677_1752344513.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "21519071",
+      "title": "بسته لوازم تحریر مدل ملودی و کرومی مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-21519071/بسته-لوازم-تحریر-مدل-ملودی-و-کرومی-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f233a1121358240166226761488c1b3ee79add21_1771858648.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 145000,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 520000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "چاپ فانتزی",
+      "rating": 5,
+      "rating_count": 1,
+      "seller": "هنرگلسا",
       "rank": 12,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لوازم"
       },
       "supplier": {
-        "name": "چاپ فانتزی",
-        "url": "https://www.digikala.com/seller/CZ3GP/"
+        "name": "هنرگلسا",
+        "url": "https://www.digikala.com/seller/DCE47/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -127385,7 +127389,7 @@
       "brand": "لوح هنر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1300000,
       "list_price": null,
       "discount_percent": 0,
@@ -127404,7 +127408,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -127418,7 +127422,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 190000,
       "list_price": null,
       "discount_percent": 0,
@@ -127440,43 +127444,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19988901",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 8 عددی",
-      "url": "https://www.digikala.com/product/dkp-19988901/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-8-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d4107b223575ca93bebe149a2615b64e5ad58a81_1753975889.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "19800798",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new6 مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-19800798/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new6-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/753a99acd0f9fc14c6724a6e030835c821ac6677_1752344513.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 648500,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 145000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 5,
-      "seller": "بهتحریر",
+      "rating": null,
+      "rating_count": 0,
+      "seller": "چاپ فانتزی",
       "rank": 13,
       "available": true,
       "badges": [
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "لوازم"
       },
       "supplier": {
-        "name": "بهتحریر",
-        "url": "https://www.digikala.com/seller/6YAH7/"
+        "name": "چاپ فانتزی",
+        "url": "https://www.digikala.com/seller/CZ3GP/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -127490,7 +127494,7 @@
       "brand": "لوح هنر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1500000,
       "list_price": null,
       "discount_percent": 0,
@@ -127509,7 +127513,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -127523,7 +127527,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1050000,
       "list_price": null,
       "discount_percent": 0,
@@ -127545,27 +127549,27 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21520402",
-      "title": "بسته لوازم تحریر مدل کرومی ملودی مجموعه 3 عددی",
-      "url": "https://www.digikala.com/product/dkp-21520402/بسته-لوازم-تحریر-مدل-کرومی-ملودی-مجموعه-3-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/55d6b8befd9e5b8eb3ddd1764b74be0963f31a0c_1771874718.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "19988901",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 8 عددی",
+      "url": "https://www.digikala.com/product/dkp-19988901/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-8-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d4107b223575ca93bebe149a2615b64e5ad58a81_1753975889.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 420000,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 648500,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
-      "rating_count": 1,
-      "seller": "هنرگلسا",
+      "rating_count": 5,
+      "seller": "بهتحریر",
       "rank": 14,
       "available": true,
       "badges": [
@@ -127576,12 +127580,12 @@
         "query": "لوازم"
       },
       "supplier": {
-        "name": "هنرگلسا",
-        "url": "https://www.digikala.com/seller/DCE47/"
+        "name": "بهتحریر",
+        "url": "https://www.digikala.com/seller/6YAH7/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -127740,7 +127744,7 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 216000,
       "list_price": null,
       "discount_percent": 0,
@@ -127761,8 +127765,8 @@
         "url": "https://www.digikala.com/seller/C2SP9/"
       },
       "signals": {
-        "price_change_pct": 5.37,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -127776,7 +127780,7 @@
       "brand": "لوح هنر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 1300000,
       "list_price": null,
       "discount_percent": 0,
@@ -127795,43 +127799,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19683124",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new2 مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-19683124/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new2-مجموعه-۴-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/22167693e204a56b4130ccb51a34904d9c0c7b9c_1751400829.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "21520402",
+      "title": "بسته لوازم تحریر مدل کرومی ملودی مجموعه 3 عددی",
+      "url": "https://www.digikala.com/product/dkp-21520402/بسته-لوازم-تحریر-مدل-کرومی-ملودی-مجموعه-3-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/55d6b8befd9e5b8eb3ddd1764b74be0963f31a0c_1771874718.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 178000,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 420000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 5,
+      "rating": 4,
       "rating_count": 1,
-      "seller": "چاپ فانتزی",
+      "seller": "هنرگلسا",
       "rank": 15,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لوازم"
       },
       "supplier": {
-        "name": "چاپ فانتزی",
-        "url": "https://www.digikala.com/seller/CZ3GP/"
+        "name": "هنرگلسا",
+        "url": "https://www.digikala.com/seller/DCE47/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -127874,42 +127878,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21443881",
-      "title": "تابلو برجسته لوح هنر طرح دعای درخواست توفیق محبت و رضای الهی کد 256",
-      "url": "https://www.digikala.com/product/dkp-21443881/تابلو-برجسته-لوح-هنر-طرح-دعای-درخواست-توفیق-محبت-و-رضای-الهی-کد-256",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4b976200f893648268f2575e4e7c179051fff0d9_1770876447.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "لوح هنر",
-      "category_key": "art",
-      "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 1170000,
-      "list_price": 1300000,
-      "discount_percent": 10,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "لوح هنر",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "هنر و صنایع دستی"
-      },
-      "supplier": {
-        "name": "لوح هنر",
-        "url": "https://www.digikala.com/seller/5A7FT/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "12500979",
       "title": "ابزار سفالگری کد sofal08 مجموعه 8 عددی",
       "url": "https://www.digikala.com/product/dkp-12500979/ابزار-سفالگری-کد-sofal08-مجموعه-8-عددی",
@@ -127945,18 +127913,90 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19683136",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new3 مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-19683136/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new3-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/035458d75f7b75dc0984654ffb2f74bdb377680c_1751399037.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "7912687",
+      "title": "ابزار سفالگری مدل art tools مجموعه 8 عددی",
+      "url": "https://www.digikala.com/product/dkp-7912687/ابزار-سفالگری-مدل-art-tools-مجموعه-8-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4eb2fa664e401cc6565315c08847973e6371b863_1645426203.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 178000,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 190000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
+      "rating_count": 37,
+      "seller": "تجارت لوازم تحریر ",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم هنری صنایع دستی"
+      },
+      "supplier": {
+        "name": "تجارت لوازم تحریر ",
+        "url": "https://www.digikala.com/seller/DH7JA/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "12886362",
+      "title": "کتاب هنرهای اسلامی اثر جمعی از نویسندگان نشر فرهنگستان هنر",
+      "url": "https://www.digikala.com/product/dkp-12886362/کتاب-هنرهای-اسلامی-اثر-جمعی-از-نویسندگان-نشر-فرهنگستان-هنر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/42e04de1b06cc3f80f536fe2295bedf2c8302e6a_1696416546.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "نشر فرهنگستان هنر",
+      "category_key": "art",
+      "category_label": "هنر و صنایع دستی",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 350000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 5,
+      "rating_count": 1,
+      "seller": "فرهنگ و هنر شیراز",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "هنر و صنایع دستی"
+      },
+      "supplier": {
+        "name": "فرهنگ و هنر شیراز",
+        "url": "https://www.digikala.com/seller/GWRMC/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19683124",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new2 مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-19683124/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new2-مجموعه-۴-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/22167693e204a56b4130ccb51a34904d9c0c7b9c_1751400829.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "art",
+      "category_label": "هنر و صنایع دستی",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 178000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 5,
       "rating_count": 1,
       "seller": "چاپ فانتزی",
       "rank": 16,
@@ -127974,43 +128014,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "7912687",
-      "title": "ابزار سفالگری مدل art tools مجموعه 8 عددی",
-      "url": "https://www.digikala.com/product/dkp-7912687/ابزار-سفالگری-مدل-art-tools-مجموعه-8-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4eb2fa664e401cc6565315c08847973e6371b863_1645426203.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "21443881",
+      "title": "تابلو برجسته لوح هنر طرح دعای درخواست توفیق محبت و رضای الهی کد 256",
+      "url": "https://www.digikala.com/product/dkp-21443881/تابلو-برجسته-لوح-هنر-طرح-دعای-درخواست-توفیق-محبت-و-رضای-الهی-کد-256",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4b976200f893648268f2575e4e7c179051fff0d9_1770876447.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "لوح هنر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 190000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 37,
-      "seller": "تجارت لوازم تحریر ",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 1170000,
+      "list_price": 1300000,
+      "discount_percent": 10,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "لوح هنر",
       "rank": 16,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "فروش ویژه",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "لوازم هنری صنایع دستی"
+        "query": "هنر و صنایع دستی"
       },
       "supplier": {
-        "name": "تجارت لوازم تحریر ",
-        "url": "https://www.digikala.com/seller/DH7JA/"
+        "name": "لوح هنر",
+        "url": "https://www.digikala.com/seller/5A7FT/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -128087,76 +128127,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "475075",
-      "title": "کتیبه نقش برجسته لوح هنر طرح یا محمدصلی الله علیه و اله کد 138",
-      "url": "https://www.digikala.com/product/dkp-475075/کتیبه-نقش-برجسته-لوح-هنر-طرح-یا-محمدصلی-الله-علیه-و-آله-کد-138",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1225521.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "لوح هنر",
-      "category_key": "art",
-      "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 2500000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.7,
-      "rating_count": 3,
-      "seller": "لوح هنر",
-      "rank": 16,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "هنر و صنایع دستی"
-      },
-      "supplier": {
-        "name": "لوح هنر",
-        "url": "https://www.digikala.com/seller/5A7FT/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "19970273",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 3 عددی",
-      "url": "https://www.digikala.com/product/dkp-19970273/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-3-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0003bb66492ae44a3fa017f0e06e129a7b1833f5_1753721132.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "art",
-      "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 235000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "بهتحریر",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "بهتحریر",
-        "url": "https://www.digikala.com/seller/6YAH7/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "5609492",
       "title": "ابزار سفالگری مدل ch-800 مجموعه 6 عددی",
       "url": "https://www.digikala.com/product/dkp-5609492/ابزار-سفالگری-مدل-ch-800-مجموعه-6-عددی",
@@ -128164,14 +128134,14 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 270000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 170,
       "seller": "تجارت لوازم تحریر ",
-      "rank": 17,
+      "rank": 16,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -128185,44 +128155,77 @@
         "url": "https://www.digikala.com/seller/EMZA2/"
       },
       "signals": {
-        "price_change_pct": -3.85,
-        "rank_change": -5,
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "12886362",
-      "title": "کتاب هنرهای اسلامی اثر جمعی از نویسندگان نشر فرهنگستان هنر",
-      "url": "https://www.digikala.com/product/dkp-12886362/کتاب-هنرهای-اسلامی-اثر-جمعی-از-نویسندگان-نشر-فرهنگستان-هنر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/42e04de1b06cc3f80f536fe2295bedf2c8302e6a_1696416546.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "نشر فرهنگستان هنر",
+      "source_id": "19683136",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new3 مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-19683136/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new3-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/035458d75f7b75dc0984654ffb2f74bdb377680c_1751399037.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-15T20:29:30.341Z",
-      "price": 350000,
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 178000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 5,
+      "rating": 4,
       "rating_count": 1,
-      "seller": "فرهنگ و هنر شیراز",
+      "seller": "چاپ فانتزی",
       "rank": 17,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
-        "تنها 2 عدد در انبار باقی مانده"
+        "فروشنده معتبر"
       ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "چاپ فانتزی",
+        "url": "https://www.digikala.com/seller/CZ3GP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "475075",
+      "title": "کتیبه نقش برجسته لوح هنر طرح یا محمدصلی الله علیه و اله کد 138",
+      "url": "https://www.digikala.com/product/dkp-475075/کتیبه-نقش-برجسته-لوح-هنر-طرح-یا-محمدصلی-الله-علیه-و-آله-کد-138",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1225521.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "لوح هنر",
+      "category_key": "art",
+      "category_label": "هنر و صنایع دستی",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 2500000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.7,
+      "rating_count": 3,
+      "seller": "لوح هنر",
+      "rank": 17,
+      "available": true,
+      "badges": [],
       "raw_ref": {
         "query": "هنر و صنایع دستی"
       },
       "supplier": {
-        "name": "فرهنگ و هنر شیراز",
-        "url": "https://www.digikala.com/seller/GWRMC/"
+        "name": "لوح هنر",
+        "url": "https://www.digikala.com/seller/5A7FT/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -128331,75 +128334,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20174973",
-      "title": "تابلو برجسته لوح هنر طرح یا ذالفخر و البهاء کد 243",
-      "url": "https://www.digikala.com/product/dkp-20174973/تابلو-برجسته-لوح-هنر-طرح-یا-ذالفخر-و-البهاء-کد-243",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9db97ba34aa4cd44447b0d209bfe888444d73046_1755343752.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "لوح هنر",
-      "category_key": "art",
-      "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 750000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "لوح هنر",
-      "rank": 17,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "هنر و صنایع دستی"
-      },
-      "supplier": {
-        "name": "لوح هنر",
-        "url": "https://www.digikala.com/seller/5A7FT/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "17295163",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی بسته 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-17295163/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-بسته-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ee35eaec535f1aa6e908bda016161ee57e467293_1730918168.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "art",
-      "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 178000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 11,
-      "seller": "چاپ فانتزی",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "چاپ فانتزی",
-        "url": "https://www.digikala.com/seller/CZ3GP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "6832494",
       "title": "ابزار سفال گری مدل Rima-004 کد 39337 مجموعه 8 عددی",
       "url": "https://www.digikala.com/product/dkp-6832494/مجموعه-قالب-گیری-مدل-rima-004-کد-39337-مجموعه-8-عددی",
@@ -128407,14 +128341,14 @@
       "brand": "متفرقه",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 209000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 328,
       "seller": "هنر نقاش",
-      "rank": 18,
+      "rank": 17,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -128425,6 +128359,76 @@
       "supplier": {
         "name": "هنر نقاش",
         "url": "https://www.digikala.com/seller/CARXG/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19970273",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 3 عددی",
+      "url": "https://www.digikala.com/product/dkp-19970273/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-3-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0003bb66492ae44a3fa017f0e06e129a7b1833f5_1753721132.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "art",
+      "category_label": "هنر و صنایع دستی",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 235000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "بهتحریر",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "بهتحریر",
+        "url": "https://www.digikala.com/seller/6YAH7/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20174973",
+      "title": "تابلو برجسته لوح هنر طرح یا ذالفخر و البهاء کد 243",
+      "url": "https://www.digikala.com/product/dkp-20174973/تابلو-برجسته-لوح-هنر-طرح-یا-ذالفخر-و-البهاء-کد-243",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9db97ba34aa4cd44447b0d209bfe888444d73046_1755343752.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "لوح هنر",
+      "category_key": "art",
+      "category_label": "هنر و صنایع دستی",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 750000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "لوح هنر",
+      "rank": 18,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "هنر و صنایع دستی"
+      },
+      "supplier": {
+        "name": "لوح هنر",
+        "url": "https://www.digikala.com/seller/5A7FT/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -128648,6 +128652,75 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "9729912",
+      "title": "ابزار سفالگری کد 100024 بسته 6 عددی",
+      "url": "https://www.digikala.com/product/dkp-9729912/ابزار-سفالگری-کد-100024-بسته-6-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/dfd29790b23c00c621d554c379deac3b357d0c70_1666721154.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "art",
+      "category_label": "هنر و صنایع دستی",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 269000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 40,
+      "seller": "پرهام شاپ تهران",
+      "rank": 18,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "لوازم هنری صنایع دستی"
+      },
+      "supplier": {
+        "name": "فروشگاه افق تهران",
+        "url": "https://www.digikala.com/seller/DGKGT/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17295163",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی بسته 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-17295163/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-بسته-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ee35eaec535f1aa6e908bda016161ee57e467293_1730918168.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "art",
+      "category_label": "هنر و صنایع دستی",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 178000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 11,
+      "seller": "چاپ فانتزی",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "چاپ فانتزی",
+        "url": "https://www.digikala.com/seller/CZ3GP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "21495315",
       "title": "شکلات خوری مسی صنایع دستی فاخر مدل پرداز طرح اسلیمی کد Glorina24p11",
       "url": "https://www.digikala.com/product/dkp-21495315/شکلات-خوری-مسی-صنایع-دستی-فاخر-مدل-پرداز-طرح-اسلیمی-کد-glorina24p11",
@@ -128655,14 +128728,14 @@
       "brand": "صنایع دستی فاخر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 9480000,
       "list_price": 15800000,
       "discount_percent": 40,
       "rating": null,
       "rating_count": 0,
       "seller": " صنایع دستی فاخر",
-      "rank": 18,
+      "rank": 19,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -128675,75 +128748,6 @@
       "supplier": {
         "name": " صنایع دستی فاخر",
         "url": "https://www.digikala.com/seller/C9FMD/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "19935631",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 20 عددی",
-      "url": "https://www.digikala.com/product/dkp-19935631/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-20-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/58e2c08eb92acbd0a71e29e6206adc21a3c498a4_1754208785.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "art",
-      "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 3000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "تهران اکسسوریز",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "تهران اکسسوریز",
-        "url": "https://www.digikala.com/seller/GWCWW/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "9729912",
-      "title": "ابزار سفالگری کد 100024 بسته 6 عددی",
-      "url": "https://www.digikala.com/product/dkp-9729912/ابزار-سفالگری-کد-100024-بسته-6-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/dfd29790b23c00c621d554c379deac3b357d0c70_1666721154.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "art",
-      "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 269000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 40,
-      "seller": "پرهام شاپ تهران",
-      "rank": 19,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "لوازم هنری صنایع دستی"
-      },
-      "supplier": {
-        "name": "فروشگاه افق تهران",
-        "url": "https://www.digikala.com/seller/DGKGT/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -128896,6 +128900,78 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "4796681",
+      "title": "ابزار سفالگری مدل نفیس کد 05 مجموعه 6 عددی",
+      "url": "https://www.digikala.com/product/dkp-4796681/ابزار-سفالگری-مدل-نفیس-کد-05-مجموعه-6-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/657e4913661e30ffecfeeccb6b5c4476b7ac0199_1616859465.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "art",
+      "category_label": "هنر و صنایع دستی",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 240000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 272,
+      "seller": "کالایاری",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم هنری صنایع دستی"
+      },
+      "supplier": {
+        "name": "کالایاری",
+        "url": "https://www.digikala.com/seller/CCEED/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19935631",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 20 عددی",
+      "url": "https://www.digikala.com/product/dkp-19935631/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-20-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/58e2c08eb92acbd0a71e29e6206adc21a3c498a4_1754208785.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "art",
+      "category_label": "هنر و صنایع دستی",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 3000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "تهران اکسسوریز",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "تهران اکسسوریز",
+        "url": "https://www.digikala.com/seller/GWCWW/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "21495617",
       "title": "قندان مسی صنایع دستی فاخر مدل پرداز طرح اسلیمی کد Glorina14p11",
       "url": "https://www.digikala.com/product/dkp-21495617/قندان-مسی-صنایع-دستی-فاخر-مدل-پرداز-طرح-اسلیمی-کد-glorina14p11",
@@ -128903,14 +128979,14 @@
       "brand": "صنایع دستی فاخر",
       "category_key": "art",
       "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
+      "observed_at": "2026-10-17T22:34:06.733Z",
       "price": 8280000,
       "list_price": 13800000,
       "discount_percent": 40,
       "rating": null,
       "rating_count": 0,
       "seller": " صنایع دستی فاخر",
-      "rank": 19,
+      "rank": 20,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -128925,8 +129001,8 @@
         "url": "https://www.digikala.com/seller/C9FMD/"
       },
       "signals": {
-        "price_change_pct": -40,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -128963,42 +129039,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "4796681",
-      "title": "ابزار سفالگری مدل نفیس کد 05 مجموعه 6 عددی",
-      "url": "https://www.digikala.com/product/dkp-4796681/ابزار-سفالگری-مدل-نفیس-کد-05-مجموعه-6-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/657e4913661e30ffecfeeccb6b5c4476b7ac0199_1616859465.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "art",
-      "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:12:20.478Z",
-      "price": 240000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 272,
-      "seller": "کالایاری",
-      "rank": 20,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم هنری صنایع دستی"
-      },
-      "supplier": {
-        "name": "کالایاری",
-        "url": "https://www.digikala.com/seller/CCEED/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
         "is_new": false
       }
     },
@@ -129700,6 +129740,42 @@
       "supplier": {
         "name": " صنایع دستی فاخر",
         "url": "https://www.digikala.com/seller/C9FMD/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "9415629",
+      "title": "ابزار سفالگری به گز مدل ارت لاین مجموعه 8 عددی",
+      "url": "https://www.digikala.com/product/dkp-9415629/ابزار-سفالگری-به-گز-مدل-آرت-لاین",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d72bd4d519e2857e6f8f7ea549d64efb86a60e89_1662829991.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "به گز",
+      "category_key": "art",
+      "category_label": "هنر و صنایع دستی",
+      "observed_at": "2026-10-17T22:34:06.733Z",
+      "price": 208000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 44,
+      "seller": "فروشگاه خواجو",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم هنری صنایع دستی"
+      },
+      "supplier": {
+        "name": "فروشگاه خواجو",
+        "url": "https://www.digikala.com/seller/C2SP9/"
       },
       "signals": {
         "price_change_pct": null,
