@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-18T20:32:11.535Z",
-  "count": 3657,
+  "generated_at": "2026-10-18T21:46:04.014Z",
+  "count": 3659,
   "collection": {
     "mode": "rotating",
     "categories_scanned": 4,
@@ -18272,7 +18272,7 @@
       "brand": "متفرقه",
       "category_key": "snacks",
       "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
+      "observed_at": "2026-10-18T21:46:04.014Z",
       "price": 155000,
       "list_price": null,
       "discount_percent": 0,
@@ -18585,6 +18585,41 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "21818794",
+      "title": "نقل چای ترش مغز گشنیز سویدا - 300 گرم",
+      "url": "https://www.digikala.com/product/dkp-21818794/نقل-چای-ترش-مغز-گشنیز-سویدا-300-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8b3fb11747a6a46b0a90a146d015191cf04d08b0_1778837222.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "سویدا",
+      "category_key": "snacks",
+      "category_label": "تنقلات و شیرینی",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 126490,
+      "list_price": 139000,
+      "discount_percent": 9,
+      "rating": 4.2,
+      "rating_count": 10,
+      "seller": "سویدا",
+      "rank": 2,
+      "available": true,
+      "badges": [
+        "فروش ویژه"
+      ],
+      "raw_ref": {
+        "query": "تنقلات"
+      },
+      "supplier": {
+        "name": "سویدا",
+        "url": "https://www.digikala.com/seller/CNW6G/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "21725960",
       "title": "تنقلات خوری مدل نسترن",
       "url": "https://www.digikala.com/product/dkp-21725960/تنقلات-خوری-مدل-نسترن",
@@ -18592,7 +18627,7 @@
       "brand": "متفرقه",
       "category_key": "snacks",
       "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
+      "observed_at": "2026-10-18T21:46:04.014Z",
       "price": 802780,
       "list_price": null,
       "discount_percent": 0,
@@ -18602,8 +18637,7 @@
       "rank": 3,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
         "query": "تنقلات"
@@ -18721,41 +18755,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21818794",
-      "title": "نقل چای ترش مغز گشنیز سویدا - 300 گرم",
-      "url": "https://www.digikala.com/product/dkp-21818794/نقل-چای-ترش-مغز-گشنیز-سویدا-300-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8b3fb11747a6a46b0a90a146d015191cf04d08b0_1778837222.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "سویدا",
-      "category_key": "snacks",
-      "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 126490,
-      "list_price": 139000,
-      "discount_percent": 9,
-      "rating": 4.2,
-      "rating_count": 10,
-      "seller": "سویدا",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "تنقلات"
-      },
-      "supplier": {
-        "name": "سویدا",
-        "url": "https://www.digikala.com/seller/CNW6G/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "8558087",
       "title": "استند سرو نیل ارت مدل پلکانی 3 طبقه فلزی مناسب سرو شیرینی و تنقلات شستشو با دست",
       "url": "https://www.digikala.com/product/dkp-8558087/استند-سرو-نیل-آرت-مدل-پلکانی-3-طبقه-فلزی-مناسب-سرو-شیرینی-و-تنقلات-شستشو-با-دست",
@@ -18786,6 +18785,44 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20510259",
+      "title": "بار غلات با طعم موز و روکش کاکائو تلخ کیتاریچ - 30 گرم بسته 12 عددی",
+      "url": "https://www.digikala.com/product/dkp-20510259/بار-غلات-با-طعم-موز-و-روکش-کاکائو-تلخ-کیتاریچ-30-گرم-بسته-12-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d636a3948ed1747a5c69b77c7658f4c18ff64ee1_1758608668.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "کیتاریچ",
+      "category_key": "snacks",
+      "category_label": "تنقلات و شیرینی",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 948000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 6,
+      "seller": "پخش پاکشید",
+      "rank": 4,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "تنقلات"
+      },
+      "supplier": {
+        "name": "پخش پاکشید",
+        "url": "https://www.digikala.com/seller/D4SR9/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 6,
         "is_new": false
       }
     },
@@ -18870,7 +18907,7 @@
       "brand": "متفرقه",
       "category_key": "snacks",
       "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
+      "observed_at": "2026-10-18T21:46:04.014Z",
       "price": 375000,
       "list_price": 550000,
       "discount_percent": 32,
@@ -18940,12 +18977,12 @@
       "brand": "متفرقه",
       "category_key": "snacks",
       "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
+      "observed_at": "2026-10-18T21:46:04.014Z",
       "price": 455000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
-      "rating_count": 21,
+      "rating_count": 22,
       "seller": "دیمادیما",
       "rank": 6,
       "available": true,
@@ -19225,41 +19262,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21526880",
-      "title": "ظرف تنقلات مدل T500-63",
-      "url": "https://www.digikala.com/product/dkp-21526880/ظرف-تنقلات-مدل-t500-63",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8ab581510a3863a9404a5dd0f1a37cec8e71e0d3_1771938049.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "snacks",
-      "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 670000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3,
-      "rating_count": 4,
-      "seller": "دکاموند شاپ",
-      "rank": 7,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "تنقلات"
-      },
-      "supplier": {
-        "name": "دکاموند شاپ",
-        "url": "https://www.digikala.com/seller/CMAY9/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "22253235",
       "title": "برچسب مدل خوشمزه طرح تنقلات کد 87",
       "url": "https://www.digikala.com/product/dkp-22253235/برچسب-مدل-خوشمزه-طرح-تنقلات-کد-87",
@@ -19267,14 +19269,14 @@
       "brand": "متفرقه",
       "category_key": "snacks",
       "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
+      "observed_at": "2026-10-18T21:46:04.014Z",
       "price": 170000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
       "seller": "دلا رز",
-      "rank": 8,
+      "rank": 7,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -19286,7 +19288,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -19392,6 +19394,41 @@
       "signals": {
         "price_change_pct": 1.35,
         "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17818244",
+      "title": "شکلات ترافل پینک - 500 گرم",
+      "url": "https://www.digikala.com/product/dkp-17818244/شکلات-ترافل-پینک-500-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/404be199c54a08943373a9446ffb701f5311e8bc_1735136069.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "snacks",
+      "category_label": "تنقلات و شیرینی",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 1400000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 125,
+      "seller": "معیار شاپ",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "تنقلات"
+      },
+      "supplier": {
+        "name": "فروشگاه آدلی سنتر",
+        "url": "https://www.digikala.com/seller/GJWU3/"
+      },
+      "signals": {
+        "price_change_pct": -2.1,
+        "rank_change": 3,
         "is_new": false
       }
     },
@@ -19574,6 +19611,39 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "4819447",
+      "title": "نقل ذرت شکلاتی شهد شهر امید - 200 گرم",
+      "url": "https://www.digikala.com/product/dkp-4819447/نقل-ذرت-شکلاتی-شهد-شهر-امید-200-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f4768108341a9a1da2a498eddcdc8dfcfaeaed3d_1617437230.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "شهد شهر امید",
+      "category_key": "snacks",
+      "category_label": "تنقلات و شیرینی",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 209000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 60,
+      "seller": "فروشگاه لاویج",
+      "rank": 9,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "تنقلات"
+      },
+      "supplier": {
+        "name": "فروشگاه لاویج",
+        "url": "https://www.digikala.com/seller/CDNFY/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "20027090",
       "title": "نان شیرینی خوانسار - 1 کیلوگرم",
       "url": "https://www.digikala.com/product/dkp-20027090/نان-شیرینی-خوانسار-1-کیلوگرم",
@@ -19677,73 +19747,68 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20510259",
-      "title": "بار غلات با طعم موز و روکش کاکائو تلخ کیتاریچ - 30 گرم بسته 12 عددی",
-      "url": "https://www.digikala.com/product/dkp-20510259/بار-غلات-با-طعم-موز-و-روکش-کاکائو-تلخ-کیتاریچ-30-گرم-بسته-12-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d636a3948ed1747a5c69b77c7658f4c18ff64ee1_1758608668.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "کیتاریچ",
+      "source_id": "22179994",
+      "title": "برچسب مدل تنقلات خوشمزه کد 6300",
+      "url": "https://www.digikala.com/product/dkp-22179994/برچسب-مدل-تنقلات-خوشمزه-کد-6300",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ca3a9489c961de63b267695fe469946ceb1f2ca4_1783440070.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "snacks",
       "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 948000,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 159000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 5,
-      "seller": "پخش پاکشید",
+      "rating": null,
+      "rating_count": 0,
+      "seller": "دلا رز",
       "rank": 10,
       "available": true,
-      "badges": [
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
+      "badges": [],
       "raw_ref": {
         "query": "تنقلات"
       },
       "supplier": {
-        "name": "پخش پاکشید",
-        "url": "https://www.digikala.com/seller/D4SR9/"
+        "name": "دلا رز",
+        "url": "https://www.digikala.com/seller/GVFMF/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 4,
+        "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17818244",
-      "title": "شکلات ترافل پینک - 500 گرم",
-      "url": "https://www.digikala.com/product/dkp-17818244/شکلات-ترافل-پینک-500-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/404be199c54a08943373a9446ffb701f5311e8bc_1735136069.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "21526880",
+      "title": "ظرف تنقلات مدل T500-63",
+      "url": "https://www.digikala.com/product/dkp-21526880/ظرف-تنقلات-مدل-t500-63",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8ab581510a3863a9404a5dd0f1a37cec8e71e0d3_1771938049.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "snacks",
       "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 1430000,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 670000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 125,
-      "seller": "فروشگاه آدلی سنتر",
+      "rating": 3,
+      "rating_count": 4,
+      "seller": "دکاموند شاپ",
       "rank": 11,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
         "query": "تنقلات"
       },
       "supplier": {
-        "name": "فروشگاه آدلی سنتر",
-        "url": "https://www.digikala.com/seller/GJWU3/"
+        "name": "دکاموند شاپ",
+        "url": "https://www.digikala.com/seller/CMAY9/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": -4,
         "is_new": false
       }
     },
@@ -19931,39 +19996,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "4819447",
-      "title": "نقل ذرت شکلاتی شهد شهر امید - 200 گرم",
-      "url": "https://www.digikala.com/product/dkp-4819447/نقل-ذرت-شکلاتی-شهد-شهر-امید-200-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f4768108341a9a1da2a498eddcdc8dfcfaeaed3d_1617437230.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "شهد شهر امید",
-      "category_key": "snacks",
-      "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 209000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 60,
-      "seller": "فروشگاه لاویج",
-      "rank": 12,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "تنقلات"
-      },
-      "supplier": {
-        "name": "فروشگاه لاویج",
-        "url": "https://www.digikala.com/seller/CDNFY/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "10527270",
       "title": "بیسکویت با مغزی و روکش کاکائویی فنستر شونیز - 500 گرم",
       "url": "https://www.digikala.com/product/dkp-10527270/بیسکویت-با-مغزی-و-روکش-کاکائویی-فنستر-شونیز-500-گرم",
@@ -20105,6 +20137,39 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "21806751",
+      "title": "نقل زعفرانی مغز گشنیز سویدا - 300 گرم",
+      "url": "https://www.digikala.com/product/dkp-21806751/نقل-زعفرانی-مغز-گشنیز-سویدا-300-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0429c8570df234753340e07a3957ef0d8d1aac1d_1778657928.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "سویدا",
+      "category_key": "snacks",
+      "category_label": "تنقلات و شیرینی",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 159000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 15,
+      "seller": "سویدا",
+      "rank": 12,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "تنقلات"
+      },
+      "supplier": {
+        "name": "سویدا",
+        "url": "https://www.digikala.com/seller/CNW6G/"
+      },
+      "signals": {
+        "price_change_pct": 14.39,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "7494093",
       "title": "ویفر مینی بایکیت بادام زمینی طلایی شونیز - 500 گرم",
       "url": "https://www.digikala.com/product/dkp-7494093/ویفر-مینی-بایکیت-بادام-زمینی-طلایی-شونیز-500-گرم",
@@ -20136,39 +20201,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "11721028",
-      "title": "جعبه پذیرایی مستطیل MDF مدل کلاسیک d150 با طراحی بخش‌بندی داخلی، مناسب نگهداری تی‌بگ، شکلات و تنقلات، وزن 430 گرم، ابعاد 24x15x6 سانتی‌متر، غیرقابل شست‌وشو",
-      "url": "https://www.digikala.com/product/dkp-11721028/جعبه-پذیرایی-مستطیل-mdf-مدل-کلاسیک-d150-با-طراحی-بخشبندی-داخلی-مناسب-نگهداری-تیبگ-شکلات-و-تنقلات-وزن-430-گرم-ابعاد-24x15x6-سانتیمتر-غیرقابل-شستوشو",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2d6994ebe51b95877fefdc22bc4c998d675e4d91_1687192743.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "snacks",
-      "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 450000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 503,
-      "seller": "پیشرو شاپ نوین",
-      "rank": 13,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "تنقلات"
-      },
-      "supplier": {
-        "name": "پیشرو شاپ نوین",
-        "url": "https://www.digikala.com/seller/DNJZX/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
         "is_new": false
       }
     },
@@ -20282,53 +20314,57 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22179994",
-      "title": "برچسب مدل تنقلات خوشمزه کد 6300",
-      "url": "https://www.digikala.com/product/dkp-22179994/برچسب-مدل-تنقلات-خوشمزه-کد-6300",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ca3a9489c961de63b267695fe469946ceb1f2ca4_1783440070.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "7596918",
+      "title": "تافی ترش میوه ای شونیز - 500 گرم",
+      "url": "https://www.digikala.com/product/dkp-7596918/تافی-ترش-میوه-ای-شونیز-500-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/43bbe5d6bb3e6e54d2d85a5f195322c97c0be0f8_1642522768.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "شونیز",
       "category_key": "snacks",
       "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 159000,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 290000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "دلا رز",
-      "rank": 14,
+      "rating": 4.4,
+      "rating_count": 750,
+      "seller": "فودلندز",
+      "rank": 13,
       "available": true,
-      "badges": [],
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
       "raw_ref": {
         "query": "تنقلات"
       },
       "supplier": {
-        "name": "دلا رز",
-        "url": "https://www.digikala.com/seller/GVFMF/"
+        "name": "نیکوکاران مارکت",
+        "url": "https://www.digikala.com/seller/AUSNV/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
+        "price_change_pct": -0.3,
+        "rank_change": 2,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21806751",
-      "title": "نقل زعفرانی مغز گشنیز سویدا - 300 گرم",
-      "url": "https://www.digikala.com/product/dkp-21806751/نقل-زعفرانی-مغز-گشنیز-سویدا-300-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0429c8570df234753340e07a3957ef0d8d1aac1d_1778657928.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "سویدا",
+      "source_id": "11721028",
+      "title": "جعبه پذیرایی مستطیل MDF مدل کلاسیک d150 با طراحی بخش‌بندی داخلی، مناسب نگهداری تی‌بگ، شکلات و تنقلات، وزن 430 گرم، ابعاد 24x15x6 سانتی‌متر، غیرقابل شست‌وشو",
+      "url": "https://www.digikala.com/product/dkp-11721028/جعبه-پذیرایی-مستطیل-mdf-مدل-کلاسیک-d150-با-طراحی-بخشبندی-داخلی-مناسب-نگهداری-تیبگ-شکلات-و-تنقلات-وزن-430-گرم-ابعاد-24x15x6-سانتیمتر-غیرقابل-شستوشو",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2d6994ebe51b95877fefdc22bc4c998d675e4d91_1687192743.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "snacks",
       "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-14T07:56:54.888Z",
-      "price": 139000,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 450000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 15,
-      "seller": "سویدا",
+      "rating": 4.1,
+      "rating_count": 503,
+      "seller": "پیشرو شاپ نوین",
       "rank": 14,
       "available": true,
       "badges": [],
@@ -20336,8 +20372,8 @@
         "query": "تنقلات"
       },
       "supplier": {
-        "name": "سویدا",
-        "url": "https://www.digikala.com/seller/CNW6G/"
+        "name": "پیشرو شاپ نوین",
+        "url": "https://www.digikala.com/seller/DNJZX/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -20555,42 +20591,6 @@
         "price_change_pct": null,
         "rank_change": null,
         "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "7596918",
-      "title": "تافی ترش میوه ای شونیز - 500 گرم",
-      "url": "https://www.digikala.com/product/dkp-7596918/تافی-ترش-میوه-ای-شونیز-500-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/43bbe5d6bb3e6e54d2d85a5f195322c97c0be0f8_1642522768.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "شونیز",
-      "category_key": "snacks",
-      "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 290860,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 749,
-      "seller": "نیکوکاران مارکت",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "تنقلات"
-      },
-      "supplier": {
-        "name": "نیکوکاران مارکت",
-        "url": "https://www.digikala.com/seller/AUSNV/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
       }
     },
     {
@@ -20816,34 +20816,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "10604245",
-      "title": "سینی سرو چوبی تمام چوب کد S01 مناسب پذیرایی و سرو فینگرفود، تنقلات و میوه",
-      "url": "https://www.digikala.com/product/dkp-10604245/سینی-سرو-چوبی-تمام-چوب-کد-s01-مناسب-پذیرایی-و-سرو-فینگرفود-تنقلات-و-میوه",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1521d1f3604825cefe5b9120682ea268b842464d_1787401431.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "20510000",
+      "title": "بار غلات با طعم شکلات و روکش کاکائو تلخ کیتاریچ - 30 گرم بسته 12 عددی",
+      "url": "https://www.digikala.com/product/dkp-20510000/بار-غلات-با-طعم-شکلات-و-روکش-کاکائو-تلخ-کیتاریچ-30-گرم-بسته-12-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/284eccdec5f2e41a968150eb730e8eead61433ec_1758605011.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
       "category_key": "snacks",
       "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 495000,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 948000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 137,
-      "seller": "کادویی آرسس شاپ",
-      "rank": 16,
+      "rating": 4.7,
+      "rating_count": 11,
+      "seller": "پخش پاکشید",
+      "rank": 15,
       "available": true,
-      "badges": [],
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
       "raw_ref": {
         "query": "تنقلات"
       },
-      "supplier": {
-        "name": "کادویی آرسس شاپ",
-        "url": "https://www.digikala.com/seller/ATG5C/"
-      },
+      "supplier": {},
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
       }
     },
     {
@@ -20988,6 +20990,74 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "10744318",
+      "title": "نقل میوه ای نچرال - 100 گرم",
+      "url": "https://www.digikala.com/product/dkp-10744318/نقل-میوه-ای-نچرال-100-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7586daeb6eb45a59671db36aa7255db768282844_1677099895.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "snacks",
+      "category_label": "تنقلات و شیرینی",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 164000,
+      "list_price": 182000,
+      "discount_percent": 10,
+      "rating": 3.6,
+      "rating_count": 31,
+      "seller": "کالاکو",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "فروش ویژه"
+      ],
+      "raw_ref": {
+        "query": "تنقلات"
+      },
+      "supplier": {
+        "name": "کالاکو",
+        "url": "https://www.digikala.com/seller/AVRZT/"
+      },
+      "signals": {
+        "price_change_pct": -3.53,
+        "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "10604245",
+      "title": "سینی سرو چوبی تمام چوب کد S01 مناسب پذیرایی و سرو فینگرفود، تنقلات و میوه",
+      "url": "https://www.digikala.com/product/dkp-10604245/سینی-سرو-چوبی-تمام-چوب-کد-s01-مناسب-پذیرایی-و-سرو-فینگرفود-تنقلات-و-میوه",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1521d1f3604825cefe5b9120682ea268b842464d_1787401431.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "snacks",
+      "category_label": "تنقلات و شیرینی",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 495000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 137,
+      "seller": "کادویی آرسس شاپ",
+      "rank": 17,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "تنقلات"
+      },
+      "supplier": {
+        "name": "کادویی آرسس شاپ",
+        "url": "https://www.digikala.com/seller/ATG5C/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -21435,35 +21505,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "10744318",
-      "title": "نقل میوه ای نچرال - 100 گرم",
-      "url": "https://www.digikala.com/product/dkp-10744318/نقل-میوه-ای-نچرال-100-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7586daeb6eb45a59671db36aa7255db768282844_1677099895.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "10884448",
+      "title": "شکلات مغزدار نانی سریال بار کاکائو شیرین عسل بسته 24 عددی",
+      "url": "https://www.digikala.com/product/dkp-10884448/شکلات-مغزدار-نانی-سریال-بار-کاکائو-شیرین-عسل-بسته-24-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ae8fb4d918e96ca5edeb3dff59ef8db30a7ba4e8_1678719108.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "شیرین عسل",
       "category_key": "snacks",
       "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 170000,
-      "list_price": 182000,
-      "discount_percent": 7,
-      "rating": 3.6,
-      "rating_count": 31,
-      "seller": "کالاکو",
-      "rank": 19,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 360000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 291,
+      "seller": "دیبا نیک",
+      "rank": 18,
       "available": true,
       "badges": [
-        "فروش ویژه"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "تنقلات"
       },
       "supplier": {
-        "name": "کالاکو",
-        "url": "https://www.digikala.com/seller/AVRZT/"
+        "name": "نیکوکاران مارکت",
+        "url": "https://www.digikala.com/seller/AUSNV/"
       },
       "signals": {
-        "price_change_pct": -6.59,
-        "rank_change": -3,
+        "price_change_pct": 0.9,
+        "rank_change": 2,
         "is_new": false
       }
     },
@@ -21681,17 +21752,17 @@
       "brand": "متفرقه",
       "category_key": "snacks",
       "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 422400,
-      "list_price": null,
-      "discount_percent": 0,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 441750,
+      "list_price": 465000,
+      "discount_percent": 5,
       "rating": 4.4,
       "rating_count": 73,
       "seller": "شهد و شکر نایبی",
       "rank": 19,
       "available": true,
       "badges": [
-        "تنها 2 عدد در انبار باقی مانده"
+        "فروش ویژه"
       ],
       "raw_ref": {
         "query": "تنقلات"
@@ -21701,43 +21772,8 @@
         "url": "https://www.digikala.com/seller/CDXHD/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "10884448",
-      "title": "شکلات مغزدار نانی سریال بار کاکائو شیرین عسل بسته 24 عددی",
-      "url": "https://www.digikala.com/product/dkp-10884448/شکلات-مغزدار-نانی-سریال-بار-کاکائو-شیرین-عسل-بسته-24-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ae8fb4d918e96ca5edeb3dff59ef8db30a7ba4e8_1678719108.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "شیرین عسل",
-      "category_key": "snacks",
-      "category_label": "تنقلات و شیرینی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 356780,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 288,
-      "seller": "نیکوکاران مارکت",
-      "rank": 20,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "تنقلات"
-      },
-      "supplier": {
-        "name": "نیکوکاران مارکت",
-        "url": "https://www.digikala.com/seller/AUSNV/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
+        "price_change_pct": 4.58,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -22051,6 +22087,42 @@
       "supplier": {
         "name": "معیار شاپ",
         "url": "https://www.digikala.com/seller/D7CAU/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "22673510",
+      "title": "غلات صبحانه جعبه‌ای رند با مغز کرم کاکائو ادرین - 400 گرم",
+      "url": "https://www.digikala.com/product/dkp-22673510/غلات-صبحانه-جعبهای-رند-با-مغز-کرم-کاکائو-آدرین-400-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/dc7a8e584444f36a1db9906089f48aba10496f92_1788711112.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "ادرین",
+      "category_key": "snacks",
+      "category_label": "تنقلات و شیرینی",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 250000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 2,
+      "rating_count": 1,
+      "seller": "نیکوکاران مارکت",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "تنقلات"
+      },
+      "supplier": {
+        "name": "نیکوکاران مارکت",
+        "url": "https://www.digikala.com/seller/AUSNV/"
       },
       "signals": {
         "price_change_pct": null,
@@ -78141,6 +78213,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "13947085",
+      "title": "کتاب مهارت های یادگیری نوزاد صفر تا سه ماهه اثر داریوش صادقی انتشارات کتاب پرنده",
+      "url": "https://www.digikala.com/product/dkp-13947085/کتاب-مهارت-های-یادگیری-نوزاد-صفر-تا-سه-ماهه-اثر-داریوش-صادقی-انتشارات-کتاب-پرنده",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/228d5a2b3eb1450419d9f115235f3117bb50323b_1704791868.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "انتشارات کتاب پرنده",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 688220,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 191,
+      "seller": "  شهر کتاب و سرگرمی",
+      "rank": 1,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": "ماناکو",
+        "url": "https://www.digikala.com/seller/5AMDY/"
+      },
+      "signals": {
+        "price_change_pct": 3.9,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "12367092",
       "title": "شورت اموزشی کودک کد 044 بسته 4 عددی",
       "url": "https://www.digikala.com/product/dkp-12367092/شورت-آموزشی-کودک-کد-044-بسته-4-عددی",
@@ -78183,8 +78291,8 @@
       "brand": "انتشارات کتاب پرنده",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 661090,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 559030,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.6,
@@ -78197,51 +78305,15 @@
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "کودک"
+        "query": "کودک و نوزاد"
       },
       "supplier": {
         "name": "ماناکو",
         "url": "https://www.digikala.com/seller/5AMDY/"
       },
       "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": -15.44,
         "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "13947085",
-      "title": "کتاب مهارت های یادگیری نوزاد صفر تا سه ماهه اثر داریوش صادقی انتشارات کتاب پرنده",
-      "url": "https://www.digikala.com/product/dkp-13947085/کتاب-مهارت-های-یادگیری-نوزاد-صفر-تا-سه-ماهه-اثر-داریوش-صادقی-انتشارات-کتاب-پرنده",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/228d5a2b3eb1450419d9f115235f3117bb50323b_1704791868.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "انتشارات کتاب پرنده",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 662390,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.7,
-      "rating_count": 189,
-      "seller": "  شهر کتاب و سرگرمی",
-      "rank": 3,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "کودک"
-      },
-      "supplier": {
-        "name": "ماناکو",
-        "url": "https://www.digikala.com/seller/5AMDY/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
         "is_new": false
       }
     },
@@ -78283,36 +78355,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "3591521",
-      "title": "کتاب کودک باهوش من 2 سالگی اثر داریوش صادقی انتشارات کتاب پرنده",
-      "url": "https://www.digikala.com/product/dkp-3591521/کتاب-کودک-باهوش-من-2-سالگی-اثر-داریوش-صادقی-انتشارات-کتاب-پرنده",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/34729f2f8be156621f2dd706dc021d0d3a15ca4d_1603268557.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "14088174",
+      "title": "کتاب مهارت‌ های یادگیری نوزاد باهوش من شیش تا نه ماهه اثر داریوش صادقی انتشارات کتاب پرند ه",
+      "url": "https://www.digikala.com/product/dkp-14088174/کتاب-مهارت-های-یادگیری-نوزاد-باهوش-من-شیش-تا-نه-ماهه-اثر-داریوش-صادقی-انتشارات-کتاب-پرند-ه",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a83fae59c208ebf2f94c29cc6fc31840d21ec800_1705220326.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "انتشارات کتاب پرنده",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 1068210,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 597600,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
-      "rating_count": 632,
+      "rating_count": 246,
       "seller": "  شهر کتاب و سرگرمی",
-      "rank": 4,
+      "rank": 3,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "کودک"
+        "query": "کودک و نوزاد"
       },
       "supplier": {
-        "name": "ماناکو",
-        "url": "https://www.digikala.com/seller/5AMDY/"
+        "name": "  شهر کتاب و سرگرمی",
+        "url": "https://www.digikala.com/seller/D2F5S/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "price_change_pct": -9.6,
+        "rank_change": 3,
         "is_new": false
       }
     },
@@ -78356,62 +78428,60 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "14004812",
-      "title": "کتاب مجموعه شعر ترانه های کودکانه شادی و مهدکودک اثر فلورا کریموند انتشارات اتوسا 3 جلدی",
-      "url": "https://www.digikala.com/product/dkp-14004812/کتاب-مجموعه-شعر-ترانه-های-کودکانه-شادی-و-مهدکودک-اثر-فلورا-کریموند-انتشارات-آتوسا-3-جلدی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c74afc955108a4a017630c76a49713607e56c7e2_1704432971.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "انتشارات اتوسا",
+      "source_id": "14104355",
+      "title": "کتاب مهارت های یادگیری نوزاد نه تا دوازده ماه اثر داریوش صادقی انتشارات کتاب پرند ه",
+      "url": "https://www.digikala.com/product/dkp-14104355/کتاب-مهارت-های-یادگیری-نوزاد-نه-تا-دوازده-ماه-اثر-داریوش-صادقی-انتشارات-کتاب-پرند-ه",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/96dca18994b8140e979499d7c0f9822d0093893f_1705313419.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "انتشارات کتاب پرنده",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 210000,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 557760,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 230,
-      "seller": "کتاب گهواره",
-      "rank": 5,
+      "rating": 4.5,
+      "rating_count": 206,
+      "seller": "  شهر کتاب و سرگرمی",
+      "rank": 4,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
+        "ارسال توسط فروشنده",
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "کودک"
+        "query": "کودک و نوزاد"
       },
       "supplier": {
-        "name": "کتاب گهواره",
-        "url": "https://www.digikala.com/seller/CKKS7/"
+        "name": "بوک باکس",
+        "url": "https://www.digikala.com/seller/DVJTS/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "price_change_pct": -19.16,
+        "rank_change": 15,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17930368",
-      "title": "ساک لوازم کودک و نوزاد دلیجان مدل هانا کد 001",
-      "url": "https://www.digikala.com/product/dkp-17930368/ساک-لوازم-کودک-و-نوزاد-دلیجان-مدل-هانا-کد-001",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/217f25dafe510168153097c958d77705df4ff8f6_1766489876.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "13796262",
+      "title": "ساک لوازم کودک و نوزاد دلیجان مدل دیبا کاملیا",
+      "url": "https://www.digikala.com/product/dkp-13796262/ساک-لوازم-کودک-و-نوزاد-دیبا-مدل-کاملیا",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/080046aa296995fb9d39d033d66bbd89c4d4ac41_1702985282.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "دلیجان",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 2590000,
-      "list_price": 4862000,
-      "discount_percent": 47,
-      "rating": 4.5,
-      "rating_count": 139,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 1741300,
+      "list_price": 1795200,
+      "discount_percent": 3,
+      "rating": 4.3,
+      "rating_count": 287,
       "seller": "دیجی‌کالا",
       "rank": 5,
       "available": true,
       "badges": [
-        "پیشنهاد شگفت انگیز",
-        "شگفت‌انگیز",
+        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا"
       ],
@@ -78423,44 +78493,8 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": -42.34,
-        "rank_change": 5,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "14088174",
-      "title": "کتاب مهارت‌ های یادگیری نوزاد باهوش من شیش تا نه ماهه اثر داریوش صادقی انتشارات کتاب پرند ه",
-      "url": "https://www.digikala.com/product/dkp-14088174/کتاب-مهارت-های-یادگیری-نوزاد-باهوش-من-شیش-تا-نه-ماهه-اثر-داریوش-صادقی-انتشارات-کتاب-پرند-ه",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a83fae59c208ebf2f94c29cc6fc31840d21ec800_1705220326.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "انتشارات کتاب پرنده",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 661090,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 245,
-      "seller": "  شهر کتاب و سرگرمی",
-      "rank": 6,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "کودک"
-      },
-      "supplier": {
-        "name": "  شهر کتاب و سرگرمی",
-        "url": "https://www.digikala.com/seller/D2F5S/"
-      },
-      "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 3,
         "is_new": false
       }
     },
@@ -78505,14 +78539,14 @@
       "brand": "دلیجان",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 3331700,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 3182900,
       "list_price": 3459500,
-      "discount_percent": 4,
+      "discount_percent": 8,
       "rating": 4.4,
-      "rating_count": 544,
+      "rating_count": 545,
       "seller": "دیجی‌کالا",
-      "rank": 7,
+      "rank": 6,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -78527,8 +78561,8 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 86.13,
-        "rank_change": -2,
+        "price_change_pct": -4.47,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -78603,26 +78637,64 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "13796262",
-      "title": "ساک لوازم کودک و نوزاد دلیجان مدل دیبا کاملیا",
-      "url": "https://www.digikala.com/product/dkp-13796262/ساک-لوازم-کودک-و-نوزاد-دیبا-مدل-کاملیا",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/080046aa296995fb9d39d033d66bbd89c4d4ac41_1702985282.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "39706",
+      "title": "کتاب شیوه های تقویت هوش نوزاد (6 تا 9 ماهه) نشر بافرزندان",
+      "url": "https://www.digikala.com/product/dkp-39706/کتاب-شیوه-های-تقویت-هوش-نوزاد-6-تا-9-ماهه-نشر-بافرزندان",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/67bb44a0f4d05914b1a3cfee6ae408a1ebc7e167_1658317642.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بافرزندان",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 220000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 683,
+      "seller": "کتابخانه آفرینش",
+      "rank": 7,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": "کوچه کتاب",
+        "url": "https://www.digikala.com/seller/GY2UN/"
+      },
+      "signals": {
+        "price_change_pct": -4.35,
+        "rank_change": 9,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17930368",
+      "title": "ساک لوازم کودک و نوزاد دلیجان مدل هانا کد 001",
+      "url": "https://www.digikala.com/product/dkp-17930368/ساک-لوازم-کودک-و-نوزاد-دلیجان-مدل-هانا-کد-001",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/217f25dafe510168153097c958d77705df4ff8f6_1766489876.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "دلیجان",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 1741300,
-      "list_price": 1795200,
-      "discount_percent": 3,
-      "rating": 4.3,
-      "rating_count": 284,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 4409700,
+      "list_price": 4862000,
+      "discount_percent": 9,
+      "rating": 4.5,
+      "rating_count": 140,
       "seller": "دیجی‌کالا",
       "rank": 8,
       "available": true,
       "badges": [
         "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
+        "انبار دیجی‌کالا",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "کودک و نوزاد"
@@ -78632,8 +78704,8 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
+        "price_change_pct": 70.26,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -78704,6 +78776,43 @@
       "signals": {
         "price_change_pct": 1.27,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "14004812",
+      "title": "کتاب مجموعه شعر ترانه های کودکانه شادی و مهدکودک اثر فلورا کریموند انتشارات اتوسا 3 جلدی",
+      "url": "https://www.digikala.com/product/dkp-14004812/کتاب-مجموعه-شعر-ترانه-های-کودکانه-شادی-و-مهدکودک-اثر-فلورا-کریموند-انتشارات-آتوسا-3-جلدی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c74afc955108a4a017630c76a49713607e56c7e2_1704432971.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "انتشارات اتوسا",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 210000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 234,
+      "seller": "کتاب گهواره",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": "کتاب گهواره",
+        "url": "https://www.digikala.com/seller/CKKS7/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -4,
         "is_new": false
       }
     },
@@ -78899,7 +79008,7 @@
       "brand": "تافته",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
+      "observed_at": "2026-10-18T21:46:04.014Z",
       "price": 410000,
       "list_price": null,
       "discount_percent": 0,
@@ -78911,7 +79020,7 @@
       "badges": [
         "ارسال توسط فروشنده",
         "فروشنده معتبر",
-        "تنها 3 عدد در انبار باقی مانده"
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "کودک نوزاد"
@@ -78922,7 +79031,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -79001,6 +79110,39 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "39712",
+      "title": "کتاب شیوه های تقویت هوش نوزاد (9 تا 12 ماهه)",
+      "url": "https://www.digikala.com/product/dkp-39712/کتاب-شیوه-های-تقویت-هوش-نوزاد-9-تا-12-ماهه",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3ead1a3125a8675a5db741a405830a86e69009d0_1593852263.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بافرزندان",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 224290,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 615,
+      "seller": "کوچه کتاب",
+      "rank": 10,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": " کتابسرای سام",
+        "url": "https://www.digikala.com/seller/G2ZYG/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 7,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "4526863",
       "title": "کتاب کودک باهوش من مهارت های شنیداری و گفتاری 5 سالگی اثر داریوش صادقی نشر کتاب پرنده",
       "url": "https://www.digikala.com/product/dkp-4526863/کتاب-کودک-باهوش-من-مهارت-های-شنیداری-و-گفتاری-5-سالگی-اثر-داریوش-صادقی-نشر-کتاب-پرنده",
@@ -79034,43 +79176,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20808955",
-      "title": "زیرانداز تعویض نوزاد مای بیبی مدل Cottony Care دو بسته 10 عددی",
-      "url": "https://www.digikala.com/product/dkp-20808955/زیرانداز-تعویض-نوزاد-مای-بیبی-مدل-cottony-care-دو-بسته-10-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c8875abc9ec381e2de4d64d0ff941f08b70ec3b9_1762079703.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "مای بیبی",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 690810,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 132,
-      "seller": "کالای نادر",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "کودک نوزاد"
-      },
-      "supplier": {
-        "name": "پیارات",
-        "url": "https://www.digikala.com/seller/CR654/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "39710",
       "title": "کتاب شیوه های تقویت هوش نوزاد 3 تا 6 ماهه اثر بئاتریس میلتر",
       "url": "https://www.digikala.com/product/dkp-39710/کتاب-شیوه-های-تقویت-هوش-نوزاد-3-تا-6-ماهه-اثر-بئاتریس-میلتر",
@@ -79078,8 +79183,8 @@
       "brand": "بافرزندان",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 342000,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 360000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
@@ -79088,6 +79193,8 @@
       "rank": 11,
       "available": true,
       "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
         "فروشنده معتبر",
         "تنها 3 عدد در انبار باقی مانده"
       ],
@@ -79099,7 +79206,7 @@
         "url": "https://www.digikala.com/seller/AATF9/"
       },
       "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": 5.26,
         "rank_change": 0,
         "is_new": false
       }
@@ -79319,36 +79426,69 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "13960984",
-      "title": "حوله کودک و نوزاد کد 689 سایز 100x100 سانتی متر به همراه لیف",
-      "url": "https://www.digikala.com/product/dkp-13960984/حوله-کودک-و-نوزاد-کد-689-سایز-100x100-سانتی-متر-به-همراه-لیف",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/606d98d467bb8a813b5e0c144bf10362a481b13f_1704119493.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "326960",
+      "title": "کتاب کلیدهای مراقبت از نوزاد از تولد تا یک سالگی اثر تکلا اس نی",
+      "url": "https://www.digikala.com/product/dkp-326960/کتاب-کلیدهای-مراقبت-از-نوزاد-از-تولد-تا-یک-سالگی-اثر-تکلا-اس-نی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/268046.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "انتشارات صابرین",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 1320400,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 869370,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 75,
-      "seller": "ابرک کالا",
+      "rating": 4.4,
+      "rating_count": 72,
+      "seller": "ماناکو",
       "rank": 12,
       "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": "بوک باکس",
+        "url": "https://www.digikala.com/seller/DVJTS/"
+      },
+      "signals": {
+        "price_change_pct": -3.2,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3591521",
+      "title": "کتاب کودک باهوش من 2 سالگی اثر داریوش صادقی انتشارات کتاب پرنده",
+      "url": "https://www.digikala.com/product/dkp-3591521/کتاب-کودک-باهوش-من-2-سالگی-اثر-داریوش-صادقی-انتشارات-کتاب-پرنده",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/34729f2f8be156621f2dd706dc021d0d3a15ca4d_1603268557.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "انتشارات کتاب پرنده",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 1068210,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 636,
+      "seller": "  شهر کتاب و سرگرمی",
+      "rank": 13,
+      "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "کودک و نوزاد"
       },
       "supplier": {
-        "name": "چنار گالری",
-        "url": "https://www.digikala.com/seller/FKJGG/"
+        "name": "ماناکو",
+        "url": "https://www.digikala.com/seller/5AMDY/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": -9,
         "is_new": false
       }
     },
@@ -79387,41 +79527,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "326960",
-      "title": "کتاب کلیدهای مراقبت از نوزاد از تولد تا یک سالگی اثر تکلا اس نی",
-      "url": "https://www.digikala.com/product/dkp-326960/کتاب-کلیدهای-مراقبت-از-نوزاد-از-تولد-تا-یک-سالگی-اثر-تکلا-اس-نی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/268046.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "انتشارات صابرین",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 898120,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 72,
-      "seller": "بوک باکس",
-      "rank": 13,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "کودک و نوزاد"
-      },
-      "supplier": {
-        "name": "بوک باکس",
-        "url": "https://www.digikala.com/seller/DVJTS/"
-      },
-      "signals": {
-        "price_change_pct": -1.79,
-        "rank_change": -1,
         "is_new": false
       }
     },
@@ -79614,14 +79719,14 @@
       "brand": "نیل کوک",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
+      "observed_at": "2026-10-18T21:46:04.014Z",
       "price": 3200000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
-      "rating_count": 342,
+      "rating_count": 343,
       "seller": "نیل کوک",
-      "rank": 14,
+      "rank": 13,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -79634,6 +79739,77 @@
       "supplier": {
         "name": "نیل کوک",
         "url": "https://www.digikala.com/seller/AXF6M/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20808955",
+      "title": "زیرانداز تعویض نوزاد مای بیبی مدل Cottony Care دو بسته 10 عددی",
+      "url": "https://www.digikala.com/product/dkp-20808955/زیرانداز-تعویض-نوزاد-مای-بیبی-مدل-cottony-care-دو-بسته-10-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c8875abc9ec381e2de4d64d0ff941f08b70ec3b9_1762079703.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "مای بیبی",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 663780,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 132,
+      "seller": "پیارات",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کودک نوزاد"
+      },
+      "supplier": {
+        "name": "پیارات",
+        "url": "https://www.digikala.com/seller/CR654/"
+      },
+      "signals": {
+        "price_change_pct": -3.91,
+        "rank_change": -3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "13960984",
+      "title": "حوله کودک و نوزاد کد 689 سایز 100x100 سانتی متر به همراه لیف",
+      "url": "https://www.digikala.com/product/dkp-13960984/حوله-کودک-و-نوزاد-کد-689-سایز-100x100-سانتی-متر-به-همراه-لیف",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/606d98d467bb8a813b5e0c144bf10362a481b13f_1704119493.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 1320400,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 75,
+      "seller": "ابرک کالا",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": "چنار گالری",
+        "url": "https://www.digikala.com/seller/FKJGG/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -79902,12 +80078,12 @@
       "brand": "متفرقه",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
+      "observed_at": "2026-10-18T21:46:04.014Z",
       "price": 1129000,
       "list_price": 1200000,
       "discount_percent": 6,
       "rating": 4.3,
-      "rating_count": 195,
+      "rating_count": 196,
       "seller": "ناو استایل",
       "rank": 15,
       "available": true,
@@ -80082,12 +80258,12 @@
       "brand": "متفرقه",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
+      "observed_at": "2026-10-18T21:46:04.014Z",
       "price": 840000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
-      "rating_count": 692,
+      "rating_count": 693,
       "seller": "پانیذ استور",
       "rank": 16,
       "available": true,
@@ -80098,81 +80274,6 @@
       "supplier": {
         "name": "پانیذ استور",
         "url": "https://www.digikala.com/seller/DTGJJ/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "39706",
-      "title": "کتاب شیوه های تقویت هوش نوزاد (6 تا 9 ماهه) نشر بافرزندان",
-      "url": "https://www.digikala.com/product/dkp-39706/کتاب-شیوه-های-تقویت-هوش-نوزاد-6-تا-9-ماهه-نشر-بافرزندان",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/67bb44a0f4d05914b1a3cfee6ae408a1ebc7e167_1658317642.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بافرزندان",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 230000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 682,
-      "seller": "کتابسرای اشجع",
-      "rank": 16,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کودک"
-      },
-      "supplier": {
-        "name": "کوچه کتاب",
-        "url": "https://www.digikala.com/seller/GY2UN/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "5535266",
-      "title": "ساک لوازم کودک و نوزاد برساد مدل Bb 201",
-      "url": "https://www.digikala.com/product/dkp-5535266/ساک-لوازم-کودک-و-نوزاد-برساد-مدل-bb-201",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/cbf847cac5683e737d18dc0714821c637e18e76f_1677596794.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "برساد",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 4290000,
-      "list_price": 4900000,
-      "discount_percent": 12,
-      "rating": 4.6,
-      "rating_count": 106,
-      "seller": "  برساد پلاس",
-      "rank": 16,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "کودک و نوزاد"
-      },
-      "supplier": {
-        "name": "  برساد پلاس",
-        "url": "https://www.digikala.com/seller/E42TC/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -80257,16 +80358,18 @@
       "brand": "متفرقه",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 699000,
-      "list_price": null,
-      "discount_percent": 0,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 604000,
+      "list_price": 699000,
+      "discount_percent": 14,
       "rating": 4.5,
       "rating_count": 58,
       "seller": "نی نی روم",
-      "rank": 17,
+      "rank": 16,
       "available": true,
-      "badges": [],
+      "badges": [
+        "فروش ویژه"
+      ],
       "raw_ref": {
         "query": "کودک و نوزاد"
       },
@@ -80275,8 +80378,8 @@
         "url": "https://www.digikala.com/seller/C7ESP/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "price_change_pct": -13.59,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -80424,33 +80527,110 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "39712",
-      "title": "کتاب شیوه های تقویت هوش نوزاد (9 تا 12 ماهه)",
-      "url": "https://www.digikala.com/product/dkp-39712/کتاب-شیوه-های-تقویت-هوش-نوزاد-9-تا-12-ماهه",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/3ead1a3125a8675a5db741a405830a86e69009d0_1593852263.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بافرزندان",
+      "source_id": "17732729",
+      "title": "ساک لوازم کودک و نوزاد مامز کیوتی طرح سه کاره مدل تدی",
+      "url": "https://www.digikala.com/product/dkp-17732729/ساک-لوازم-کودک-و-نوزاد-مامز-کیوتی-طرح-سه-کاره-مدل-تدی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e939a96b7849171cb34a226b51c5684a5c21b0bb_1737200610.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "مامز کیوتی",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 224290,
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 6300000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 614,
-      "seller": "کوچه کتاب",
+      "rating": 4.6,
+      "rating_count": 58,
+      "seller": "مامز کیوتی شاپ",
       "rank": 17,
       "available": true,
-      "badges": [],
+      "badges": [
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
       "raw_ref": {
-        "query": "کودک"
+        "query": "کودک نوزاد"
       },
       "supplier": {
-        "name": " کتابسرای سام",
-        "url": "https://www.digikala.com/seller/G2ZYG/"
+        "name": "مامز کیوتی شاپ",
+        "url": "https://www.digikala.com/seller/GM5A9/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20808948",
+      "title": "بازی اموزشی انتشارات ماه کوچولو مدل کتاب پارچه ای نوزاد دنیا را ببین",
+      "url": "https://www.digikala.com/product/dkp-20808948/بازی-آموزشی-انتشارات-ماه-کوچولو-مدل-کتاب-پارچه-ای-نوزاد-دنیا-را-ببین",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f325172154790d4138962357e1d32779d0ddabba_1762342835.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "انتشارات ماه کوچولو",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 353690,
+      "list_price": 410000,
+      "discount_percent": 14,
+      "rating": 4.8,
+      "rating_count": 13,
+      "seller": "فروشگاه مامان کتاب",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": "فروشگاه مامان کتاب",
+        "url": "https://www.digikala.com/seller/DH45D/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "5535266",
+      "title": "ساک لوازم کودک و نوزاد برساد مدل Bb 201",
+      "url": "https://www.digikala.com/product/dkp-5535266/ساک-لوازم-کودک-و-نوزاد-برساد-مدل-bb-201",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/cbf847cac5683e737d18dc0714821c637e18e76f_1677596794.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "برساد",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 4900000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 107,
+      "seller": "  برساد پلاس",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": "  برساد پلاس",
+        "url": "https://www.digikala.com/seller/E42TC/"
+      },
+      "signals": {
+        "price_change_pct": 14.22,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -80494,39 +80674,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17732729",
-      "title": "ساک لوازم کودک و نوزاد مامز کیوتی طرح سه کاره مدل تدی",
-      "url": "https://www.digikala.com/product/dkp-17732729/ساک-لوازم-کودک-و-نوزاد-مامز-کیوتی-طرح-سه-کاره-مدل-تدی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e939a96b7849171cb34a226b51c5684a5c21b0bb_1737200610.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "مامز کیوتی",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 6300000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 58,
-      "seller": "مامز کیوتی شاپ",
-      "rank": 18,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "کودک نوزاد"
-      },
-      "supplier": {
-        "name": "مامز کیوتی شاپ",
-        "url": "https://www.digikala.com/seller/GM5A9/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "3278860",
       "title": "کتاب کودک باهوش من اثر داریوش صادقی انتشارات کتاب پرنده",
       "url": "https://www.digikala.com/product/dkp-3278860/کتاب-کودک-باهوش-من-اثر-داریوش-صادقی-انتشارات-کتاب-پرنده",
@@ -80557,44 +80704,6 @@
       "signals": {
         "price_change_pct": -7.69,
         "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20808948",
-      "title": "بازی اموزشی انتشارات ماه کوچولو مدل کتاب پارچه ای نوزاد دنیا را ببین",
-      "url": "https://www.digikala.com/product/dkp-20808948/بازی-آموزشی-انتشارات-ماه-کوچولو-مدل-کتاب-پارچه-ای-نوزاد-دنیا-را-ببین",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f325172154790d4138962357e1d32779d0ddabba_1762342835.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "انتشارات ماه کوچولو",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 353690,
-      "list_price": 410000,
-      "discount_percent": 14,
-      "rating": 4.8,
-      "rating_count": 13,
-      "seller": "فروشگاه مامان کتاب",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "کودک و نوزاد"
-      },
-      "supplier": {
-        "name": "فروشگاه مامان کتاب",
-        "url": "https://www.digikala.com/seller/DH45D/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
         "is_new": false
       }
     },
@@ -80848,38 +80957,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "3687815",
-      "title": "قنداق 4 تکه نوزاد مدل 02",
-      "url": "https://www.digikala.com/product/dkp-3687815/قنداق-4-تکه-نوزاد-مدل-02",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/b28bccfb1fd4641a48e7d5295384f1b9ba86edd9_1604682168.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "20422896",
+      "title": "سرویس خواب کودک و نوزاد اعیان مدل FH903 مجموعه سه عددی",
+      "url": "https://www.digikala.com/product/dkp-20422896/سرویس-خواب-کودک-و-نوزاد-اعیان-مدل-fh903-مجموعه-سه-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/886539baf38e787e58a3918a0d3855199c2b8958_1757755219.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اعیان",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-14T07:28:47.152Z",
-      "price": 1400000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 807,
-      "seller": "سیسمونی آرین",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 127000000,
+      "list_price": 145200000,
+      "discount_percent": 13,
+      "rating": 5,
+      "rating_count": 2,
+      "seller": "اعیان دکورا",
       "rank": 18,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 3 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "کودک نوزاد"
       },
       "supplier": {
-        "name": "سیسمونی آرین",
-        "url": "https://www.digikala.com/seller/5AA7S/"
+        "name": "اعیان دکورا",
+        "url": "https://www.digikala.com/seller/AKMFG/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -80893,7 +81000,7 @@
       "brand": "مامابیبی",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
+      "observed_at": "2026-10-18T21:46:04.014Z",
       "price": 1300000,
       "list_price": 1600000,
       "discount_percent": 19,
@@ -80912,42 +81019,6 @@
       "supplier": {
         "name": "بازرگانی گلبهی",
         "url": "https://www.digikala.com/seller/FNEPT/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20422896",
-      "title": "سرویس خواب کودک و نوزاد اعیان مدل FH903 مجموعه سه عددی",
-      "url": "https://www.digikala.com/product/dkp-20422896/سرویس-خواب-کودک-و-نوزاد-اعیان-مدل-fh903-مجموعه-سه-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/886539baf38e787e58a3918a0d3855199c2b8958_1757755219.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اعیان",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 127000000,
-      "list_price": 145200000,
-      "discount_percent": 13,
-      "rating": 5,
-      "rating_count": 2,
-      "seller": "اعیان دکورا",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "کودک نوزاد"
-      },
-      "supplier": {
-        "name": "اعیان دکورا",
-        "url": "https://www.digikala.com/seller/AKMFG/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -81063,42 +81134,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "14104355",
-      "title": "کتاب مهارت های یادگیری نوزاد نه تا دوازده ماه اثر داریوش صادقی انتشارات کتاب پرند ه",
-      "url": "https://www.digikala.com/product/dkp-14104355/کتاب-مهارت-های-یادگیری-نوزاد-نه-تا-دوازده-ماه-اثر-داریوش-صادقی-انتشارات-کتاب-پرند-ه",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/96dca18994b8140e979499d7c0f9822d0093893f_1705313419.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "انتشارات کتاب پرنده",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 689950,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 206,
-      "seller": "  شهر کتاب و سرگرمی",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "کودک"
-      },
-      "supplier": {
-        "name": "بوک باکس",
-        "url": "https://www.digikala.com/seller/DVJTS/"
-      },
-      "signals": {
-        "price_change_pct": -6.01,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "21410086",
       "title": "زیرانداز تعویض نوزاد مدل 6045 -T بسته 9 عددی",
       "url": "https://www.digikala.com/product/dkp-21410086/زیرانداز-تعویض-نوزاد-مدل-6045-t-بسته-9-عددی",
@@ -81143,14 +81178,14 @@
       "brand": "متفرقه",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
+      "observed_at": "2026-10-18T21:46:04.014Z",
       "price": 198000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
-      "rating_count": 234,
+      "rating_count": 235,
       "seller": "جورواجور شاپ",
-      "rank": 20,
+      "rank": 19,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -81159,6 +81194,44 @@
       "supplier": {
         "name": "جورواجور شاپ",
         "url": "https://www.digikala.com/seller/E5KUV/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3687815",
+      "title": "قنداق 4 تکه نوزاد مدل 02",
+      "url": "https://www.digikala.com/product/dkp-3687815/قنداق-4-تکه-نوزاد-مدل-02",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b28bccfb1fd4641a48e7d5295384f1b9ba86edd9_1604682168.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-18T21:46:04.014Z",
+      "price": 1400000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 808,
+      "seller": "سیسمونی آرین",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کودک نوزاد"
+      },
+      "supplier": {
+        "name": "سیسمونی آرین",
+        "url": "https://www.digikala.com/seller/5AA7S/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -81176,7 +81249,7 @@
       "brand": "متفرقه",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
+      "observed_at": "2026-10-18T21:46:04.014Z",
       "price": 2550000,
       "list_price": null,
       "discount_percent": 0,
