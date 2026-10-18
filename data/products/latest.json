@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-18T14:07:12.291Z",
-  "count": 3652,
+  "generated_at": "2026-10-18T14:29:39.744Z",
+  "count": 3654,
   "collection": {
     "mode": "rotating",
     "categories_scanned": 4,
@@ -26390,7 +26390,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 2056400,
       "list_price": 2120000,
       "discount_percent": 3,
@@ -26401,10 +26401,12 @@
       "available": true,
       "badges": [
         "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "خانه و آشپزخانه"
+        "query": "لوازم آشپزخانه"
       },
       "supplier": {
         "name": "آنیان",
@@ -26426,7 +26428,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 1891500,
       "list_price": 1950000,
       "discount_percent": 3,
@@ -26440,7 +26442,7 @@
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "خانه و آشپزخانه"
+        "query": "لوازم آشپزخانه"
       },
       "supplier": {
         "name": "مرجان دخت",
@@ -26462,7 +26464,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 3500000,
       "list_price": null,
       "discount_percent": 0,
@@ -26481,7 +26483,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 5,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -26601,8 +26603,8 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 4990000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 5600000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
@@ -26623,7 +26625,7 @@
         "url": "https://www.digikala.com/seller/DV9PE/"
       },
       "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": 12.22,
         "rank_change": 0,
         "is_new": false
       }
@@ -26710,7 +26712,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 3500000,
       "list_price": null,
       "discount_percent": 0,
@@ -26729,7 +26731,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -26772,41 +26774,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "6062297",
-      "title": "ست اسباب بازی اشپزخانه مدل لوازم خانگی مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-6062297/ست-اسباب-بازی-آشپزخانه-مدل-لوازم-خانگی-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/df0a4448bd5bc0284518560928721ca5a79ef938_1630914274.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "kitchen",
-      "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-18T14:07:12.291Z",
-      "price": 1450000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 25,
-      "seller": "فروشگاه دنیای بازی",
-      "rank": 6,
-      "available": true,
-      "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "خانه و آشپزخانه"
-      },
-      "supplier": {
-        "name": "فروشگاه دنیای بازی",
-        "url": "https://www.digikala.com/seller/ACNGA/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "19346155",
       "title": "پایه لوازم اشپزخانه مدل ملاقه کد 01",
       "url": "https://www.digikala.com/product/dkp-19346155/پایه-لوازم-آشپزخانه-مدل-ملاقه-کد-01",
@@ -26814,7 +26781,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 253000,
       "list_price": 275000,
       "discount_percent": 8,
@@ -26886,10 +26853,10 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 2700000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 2600000,
       "list_price": 2950000,
-      "discount_percent": 8,
+      "discount_percent": 12,
       "rating": 4.4,
       "rating_count": 187,
       "seller": "همچی اینجا",
@@ -26898,7 +26865,7 @@
       "badges": [
         "فروش ویژه",
         "ارسال توسط فروشنده",
-        "تنها 2 عدد در انبار باقی مانده"
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لوازم آشپزخانه"
@@ -26908,8 +26875,8 @@
         "url": "https://www.digikala.com/seller/CSVJH/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 13,
+        "price_change_pct": -3.7,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -27029,20 +26996,20 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 1891500,
       "list_price": 1950000,
       "discount_percent": 3,
       "rating": 4.4,
       "rating_count": 80,
       "seller": "مرجان دخت",
-      "rank": 7,
+      "rank": 8,
       "available": true,
       "badges": [
         "فروش ویژه"
       ],
       "raw_ref": {
-        "query": "خانه و آشپزخانه"
+        "query": "لوازم آشپزخانه"
       },
       "supplier": {
         "name": "مرجان دخت",
@@ -27050,7 +27017,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -27126,39 +27093,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "3194558",
-      "title": "سرویس 8 پارچه ابزار اشپزخانه کد 305",
-      "url": "https://www.digikala.com/product/dkp-3194558/سرویس-8-پارچه-ابزار-آشپزخانه-کد-305",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/933295755268d64f852f79f3cdd23cd397f0af7a_1782140001.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "kitchen",
-      "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 3500000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 28,
-      "seller": "تکهوم",
-      "rank": 9,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "لوازم آشپزخانه"
-      },
-      "supplier": {
-        "name": "تکهوم",
-        "url": "https://www.digikala.com/seller/ANE47/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 9,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "21111281",
       "title": "ست لوازم پارچه ای اشپزخانه 11 پارچه دبلیو اس مدل اولترا کد HS1",
       "url": "https://www.digikala.com/product/dkp-21111281/ست-لوازم-پارچه-ای-آشپزخانه-11-پارچه-دبلیو-اس-مدل-اولترا-کد-hs1",
@@ -27227,6 +27161,75 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "4923361",
+      "title": "پایه لوازم اشپزخانه دبلیو ام اف مدل پیمانه قهوه دبلیو ام اف مدل 895",
+      "url": "https://www.digikala.com/product/dkp-4923361/پایه-لوازم-آشپزخانه-دبلیو-ام-اف-مدل-پیمانه-قهوه-دبلیو-ام-اف-مدل-895",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/839970d9f1af00eceb207e47b6eb053099c69e94_1618593070.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "دبلیو ام اف",
+      "category_key": "kitchen",
+      "category_label": "خانه و آشپزخانه",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 4141060,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 9,
+      "seller": "ایما گالریا",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم آشپزخانه"
+      },
+      "supplier": {
+        "name": "ایما گالریا",
+        "url": "https://www.digikala.com/seller/A3S5E/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3194558",
+      "title": "سرویس 8 پارچه ابزار اشپزخانه کد 305",
+      "url": "https://www.digikala.com/product/dkp-3194558/سرویس-8-پارچه-ابزار-آشپزخانه-کد-305",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/933295755268d64f852f79f3cdd23cd397f0af7a_1782140001.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "kitchen",
+      "category_label": "خانه و آشپزخانه",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 3500000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 28,
+      "seller": "تکهوم",
+      "rank": 10,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "لوازم آشپزخانه"
+      },
+      "supplier": {
+        "name": "تکهوم",
+        "url": "https://www.digikala.com/seller/ANE47/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "8450695",
       "title": "ساختنی مدل اشپزخانه",
       "url": "https://www.digikala.com/product/dkp-8450695/ساختنی-مدل-آشپزخانه",
@@ -27257,42 +27260,6 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "4923361",
-      "title": "پایه لوازم اشپزخانه دبلیو ام اف مدل پیمانه قهوه دبلیو ام اف مدل 895",
-      "url": "https://www.digikala.com/product/dkp-4923361/پایه-لوازم-آشپزخانه-دبلیو-ام-اف-مدل-پیمانه-قهوه-دبلیو-ام-اف-مدل-895",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/839970d9f1af00eceb207e47b6eb053099c69e94_1618593070.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "دبلیو ام اف",
-      "category_key": "kitchen",
-      "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 4141060,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 9,
-      "seller": "ایما گالریا",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم آشپزخانه"
-      },
-      "supplier": {
-        "name": "ایما گالریا",
-        "url": "https://www.digikala.com/seller/A3S5E/"
-      },
-      "signals": {
-        "price_change_pct": -3.7,
         "rank_change": 0,
         "is_new": false
       }
@@ -27337,42 +27304,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8080285",
-      "title": "سرویس اشپزخانه 11 پارچه مدل 03",
-      "url": "https://www.digikala.com/product/dkp-8080285/سرویس-آشپزخانه-11-پارچه-مدل-03",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/b9f069d50541cbea4d52aa913ba8bec785cc312f_1785148020.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "kitchen",
-      "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-18T14:07:12.291Z",
-      "price": 2056400,
-      "list_price": 2120000,
-      "discount_percent": 3,
-      "rating": 4.5,
-      "rating_count": 89,
-      "seller": "آنیان",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "خانه و آشپزخانه"
-      },
-      "supplier": {
-        "name": "آنیان",
-        "url": "https://www.digikala.com/seller/CHG3X/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "20425063",
       "title": "پایه لوازم اشپزخانه مدل زیر دسری سیلیکونی مجموعه 6 عددی",
       "url": "https://www.digikala.com/product/dkp-20425063/پایه-لوازم-آشپزخانه-مدل-زیر-دسری-سیلیکونی-مجموعه-6-عددی",
@@ -27380,7 +27311,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 304300,
       "list_price": null,
       "discount_percent": 0,
@@ -27508,6 +27439,42 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8080285",
+      "title": "سرویس اشپزخانه 11 پارچه مدل 03",
+      "url": "https://www.digikala.com/product/dkp-8080285/سرویس-آشپزخانه-11-پارچه-مدل-03",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b9f069d50541cbea4d52aa913ba8bec785cc312f_1785148020.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "kitchen",
+      "category_label": "خانه و آشپزخانه",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 2056400,
+      "list_price": 2120000,
+      "discount_percent": 3,
+      "rating": 4.5,
+      "rating_count": 89,
+      "seller": "آنیان",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم آشپزخانه"
+      },
+      "supplier": {
+        "name": "آنیان",
+        "url": "https://www.digikala.com/seller/CHG3X/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -27702,7 +27669,7 @@
       "brand": "چوبلمه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 345000,
       "list_price": null,
       "discount_percent": 0,
@@ -27915,7 +27882,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 1180800,
       "list_price": null,
       "discount_percent": 0,
@@ -28234,7 +28201,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 265430,
       "list_price": null,
       "discount_percent": 0,
@@ -28269,7 +28236,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 299000,
       "list_price": null,
       "discount_percent": 0,
@@ -28290,7 +28257,7 @@
         "url": "https://www.digikala.com/seller/HPN2C/"
       },
       "signals": {
-        "price_change_pct": -0.85,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -28481,7 +28448,7 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 774200,
       "list_price": null,
       "discount_percent": 0,
@@ -28797,6 +28764,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "10529616",
+      "title": "پایه لوازم اشپزخانه بی ام دی ! مدل زیر دیگی کد MM1818",
+      "url": "https://www.digikala.com/product/dkp-10529616/پایه-لوازم-آشپزخانه-بی-ام-دی-مدل-زیر-دیگی-کد-mm1818",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ec0223dc761947f7de9bb5037897b0c2b7da9164_1674648001.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بی ام دی !",
+      "category_key": "kitchen",
+      "category_label": "خانه و آشپزخانه",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 288000,
+      "list_price": 300000,
+      "discount_percent": 4,
+      "rating": 3.8,
+      "rating_count": 12,
+      "seller": "تولیدی لوازم آشپزخانه ایران",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم آشپزخانه"
+      },
+      "supplier": {
+        "name": "تولیدی لوازم آشپزخانه ایران",
+        "url": "https://www.digikala.com/seller/CNDZV/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "8080257",
       "title": "سرویس اشپزخانه 11 پارچه مدل 02",
       "url": "https://www.digikala.com/product/dkp-8080257/سرویس-آشپزخانه-11-پارچه-مدل-02",
@@ -28804,14 +28807,14 @@
       "brand": "متفرقه",
       "category_key": "kitchen",
       "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 2056400,
       "list_price": 2120000,
       "discount_percent": 3,
       "rating": 4.7,
       "rating_count": 17,
       "seller": "آنیان",
-      "rank": 18,
+      "rank": 19,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -28826,7 +28829,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -28858,41 +28861,6 @@
       "supplier": {
         "name": "ایلیا هوم",
         "url": "https://www.digikala.com/seller/CMYNF/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "10529616",
-      "title": "پایه لوازم اشپزخانه بی ام دی ! مدل زیر دیگی کد MM1818",
-      "url": "https://www.digikala.com/product/dkp-10529616/پایه-لوازم-آشپزخانه-بی-ام-دی-مدل-زیر-دیگی-کد-mm1818",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ec0223dc761947f7de9bb5037897b0c2b7da9164_1674648001.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بی ام دی !",
-      "category_key": "kitchen",
-      "category_label": "خانه و آشپزخانه",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 288000,
-      "list_price": 300000,
-      "discount_percent": 4,
-      "rating": 3.8,
-      "rating_count": 12,
-      "seller": "تولیدی لوازم آشپزخانه ایران",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "لوازم آشپزخانه"
-      },
-      "supplier": {
-        "name": "تولیدی لوازم آشپزخانه ایران",
-        "url": "https://www.digikala.com/seller/CNDZV/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -29005,6 +28973,41 @@
         "price_change_pct": null,
         "rank_change": null,
         "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "6062297",
+      "title": "ست اسباب بازی اشپزخانه مدل لوازم خانگی مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-6062297/ست-اسباب-بازی-آشپزخانه-مدل-لوازم-خانگی-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/df0a4448bd5bc0284518560928721ca5a79ef938_1630914274.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "kitchen",
+      "category_label": "خانه و آشپزخانه",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 1450000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 25,
+      "seller": "فروشگاه دنیای بازی",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم آشپزخانه"
+      },
+      "supplier": {
+        "name": "فروشگاه دنیای بازی",
+        "url": "https://www.digikala.com/seller/ACNGA/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -14,
+        "is_new": false
       }
     },
     {
@@ -107217,54 +107220,16 @@
       "brand": "ریلمی",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-16T12:17:41.469Z",
-      "price": 34060000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 34059000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
-      "rating_count": 501,
+      "rating_count": 502,
       "seller": "سپهر همراه",
       "rank": 1,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "گوشی"
-      },
-      "supplier": {
-        "name": "سپهر همراه",
-        "url": "https://www.digikala.com/seller/A4F6F/"
-      },
-      "signals": {
-        "price_change_pct": -2.49,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "14794189",
-      "title": "گوشی موبایل ریلمی مدل Note 50 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
-      "url": "https://www.digikala.com/product/dkp-14794189/گوشی-موبایل-ریلمی-مدل-note-50-دو-سیم-کارت-ظرفیت-128-گیگابایت-و-رم-4-گیگابایت",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1ec4081e00e6e50316a6c356d7d7cddee894c15f_1731491675.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ریلمی",
-      "category_key": "mobile",
-      "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 38315000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 769,
-      "seller": "سپهر همراه",
-      "rank": 1,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
         "ارسال توسط فروشنده",
         "فروشنده معتبر",
         "تنها 1 عدد در انبار باقی مانده"
@@ -107278,7 +107243,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -107292,20 +107257,19 @@
       "brand": "سامسونگ",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 148699000,
-      "list_price": null,
-      "discount_percent": 0,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 146610000,
+      "list_price": 156322500,
+      "discount_percent": 6,
       "rating": 4.4,
-      "rating_count": 338,
-      "seller": "اسمارت تکنولوژی قشم",
+      "rating_count": 342,
+      "seller": "دیجی‌کالا",
       "rank": 2,
       "available": true,
       "badges": [
+        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
         "query": "گوشی"
@@ -107315,7 +107279,7 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": -1.4,
         "rank_change": 0,
         "is_new": false
       }
@@ -107390,6 +107354,43 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "20127115",
+      "title": "گوشی موبایل اپل مدل iPhone 17 CH دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - نات اکتیو",
+      "url": "https://www.digikala.com/product/dkp-20127115/گوشی-موبایل-اپل-مدل-iphone-17-ch-دو-سیم-کارت-ظرفیت-256-گیگابایت-و-رم-8-گیگابایت-نات-اکتیو",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0a8fff942ea8ee0359edadad85daae399b0e357c_1763462145.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اپل",
+      "category_key": "mobile",
+      "category_label": "موبایل",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 361499000,
+      "list_price": 369999000,
+      "discount_percent": 2,
+      "rating": 4.7,
+      "rating_count": 969,
+      "seller": "دیجی‌کالا",
+      "rank": 3,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "گوشی"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": -7.31,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "14851833",
       "title": "گوشی موبایل سامسونگ مدل Galaxy A55 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
       "url": "https://www.digikala.com/product/dkp-14851833/گوشی-موبایل-سامسونگ-مدل-galaxy-a55-دو-سیم-کارت-ظرفیت-256-گیگابایت-و-رم-8-گیگابایت-ویتنام",
@@ -107397,14 +107398,14 @@
       "brand": "سامسونگ",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 127500000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 118550000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 5249,
+      "rating": 4.5,
+      "rating_count": 5250,
       "seller": "تجارت هوشمند فاخر",
-      "rank": 3,
+      "rank": 4,
       "available": true,
       "badges": [
         "تنها 2 عدد در انبار باقی مانده"
@@ -107417,8 +107418,8 @@
         "url": "https://www.digikala.com/seller/CGXGH/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
+        "price_change_pct": -7.02,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -107498,6 +107499,43 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "14794189",
+      "title": "گوشی موبایل ریلمی مدل Note 50 دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت",
+      "url": "https://www.digikala.com/product/dkp-14794189/گوشی-موبایل-ریلمی-مدل-note-50-دو-سیم-کارت-ظرفیت-128-گیگابایت-و-رم-4-گیگابایت",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1ec4081e00e6e50316a6c356d7d7cddee894c15f_1731491675.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "ریلمی",
+      "category_key": "mobile",
+      "category_label": "موبایل",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 39380000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 770,
+      "seller": "سپهر همراه",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "گوشی"
+      },
+      "supplier": {
+        "name": "سپهر همراه",
+        "url": "https://www.digikala.com/seller/A4F6F/"
+      },
+      "signals": {
+        "price_change_pct": 2.78,
+        "rank_change": -4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "21679993",
       "title": "گوشی موبایل وکال مدل F2 دو سیم‌کارت ظرفیت 32 مگابایت و رم 32 مگابایت",
       "url": "https://www.digikala.com/product/dkp-21679993/گوشی-موبایل-وکال-مدل-f2-دو-سیمکارت-ظرفیت-32-مگابایت-و-رم-32-مگابایت",
@@ -107505,82 +107543,12 @@
       "brand": "وکال",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 2410000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 2380000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
-      "rating_count": 264,
-      "seller": "اسمارت تکنولوژی قشم",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "گوشی"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20127115",
-      "title": "گوشی موبایل اپل مدل iPhone 17 CH دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - نات اکتیو",
-      "url": "https://www.digikala.com/product/dkp-20127115/گوشی-موبایل-اپل-مدل-iphone-17-ch-دو-سیم-کارت-ظرفیت-256-گیگابایت-و-رم-8-گیگابایت-نات-اکتیو",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0a8fff942ea8ee0359edadad85daae399b0e357c_1763462145.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اپل",
-      "category_key": "mobile",
-      "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 390000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.7,
-      "rating_count": 961,
-      "seller": "بهار کیهان ارتباطات",
-      "rank": 5,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "گوشی"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
-        "price_change_pct": 2.63,
-        "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21680145",
-      "title": "گوشی موبایل وکال مدل F1 دو سیم‌کارت ظرفیت 32 مگابایت و رم 32 مگابایت",
-      "url": "https://www.digikala.com/product/dkp-21680145/گوشی-موبایل-وکال-مدل-f1-دو-سیمکارت-ظرفیت-32-مگابایت-و-رم-32-مگابایت",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/978f05a40065967792fa9435cdf16c3716095c02_1776675943.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "وکال",
-      "category_key": "mobile",
-      "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 2389000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 358,
+      "rating_count": 267,
       "seller": "اسمارت تکنولوژی قشم",
       "rank": 6,
       "available": true,
@@ -107593,8 +107561,8 @@
         "query": "گوشی"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
+        "price_change_pct": -1.24,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -107608,19 +107576,20 @@
       "brand": "شیائومی",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 86700000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 86200000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
-      "rating_count": 8821,
+      "rating_count": 8823,
       "seller": "اسمارت تکنولوژی قشم",
       "rank": 7,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا",
-        "فروشنده معتبر"
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "گوشی"
@@ -107630,8 +107599,8 @@
         "url": "https://www.digikala.com/seller/CGDG9/"
       },
       "signals": {
-        "price_change_pct": -0.23,
-        "rank_change": -1,
+        "price_change_pct": -0.58,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -107703,21 +107672,59 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "502456",
-      "title": "گوشی موبایل ارد مدل F240D",
-      "url": "https://www.digikala.com/product/dkp-502456/گوشی-موبایل-ارد-مدل-f240d",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7e345a00cfd088519cb7e886c04c44dff477098e_1656435177.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ارد",
+      "source_id": "20481188",
+      "title": "گوشی موبایل اپل مدل iPhone 17 Pro Max ZAA تک سیم کارت + eSim ظرفیت 256 گیگابایت و رم 12 گیگابایت - نات اکتیو",
+      "url": "https://www.digikala.com/product/dkp-20481188/گوشی-موبایل-اپل-مدل-iphone-17-pro-max-zaa-تک-سیم-کارت-esim-ظرفیت-256-گیگابایت-و-رم-12-گیگابایت-نات-اکتیو",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ec57ce03f2a92834058f502174b1a2aeffc9a580_1759666637.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اپل",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 4000000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 509500000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 3413,
-      "seller": "پایاگستر شهر",
+      "rating": 4.6,
+      "rating_count": 666,
+      "seller": "اسمارت تکنولوژی قشم",
       "rank": 8,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "گوشی"
+      },
+      "supplier": {
+        "name": "اسمارت تکنولوژی قشم",
+        "url": "https://www.digikala.com/seller/CGDG9/"
+      },
+      "signals": {
+        "price_change_pct": -2.02,
+        "rank_change": 6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21680145",
+      "title": "گوشی موبایل وکال مدل F1 دو سیم‌کارت ظرفیت 32 مگابایت و رم 32 مگابایت",
+      "url": "https://www.digikala.com/product/dkp-21680145/گوشی-موبایل-وکال-مدل-f1-دو-سیمکارت-ظرفیت-32-مگابایت-و-رم-32-مگابایت",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/978f05a40065967792fa9435cdf16c3716095c02_1776675943.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "وکال",
+      "category_key": "mobile",
+      "category_label": "موبایل",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 2299000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 360,
+      "seller": "اسمارت تکنولوژی قشم",
+      "rank": 9,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -107727,13 +107734,9 @@
       "raw_ref": {
         "query": "گوشی"
       },
-      "supplier": {
-        "name": "دنیا همراه خاورمیانه",
-        "url": "https://www.digikala.com/seller/H24CE/"
-      },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
+        "price_change_pct": -3.77,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -107854,37 +107857,108 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "15572856",
-      "title": "گوشی موبایل نوکیا مدل 105 2023 دو سیم‌ کارت - مونتاژ ایران تحت لیسانس نوکیا",
-      "url": "https://www.digikala.com/product/dkp-15572856/گوشی-موبایل-نوکیا-مدل-105-2023-دو-سیم-کارت-مونتاژ-ایران-تحت-لیسانس-نوکیا",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/b2d0a98d0c0a42c9af5645136fe0cfc0b47263d9_1731491794.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "نوکیا",
+      "source_id": "21190850",
+      "title": "گوشی موبایل شیائومی مدل Redmi Note 15 4G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+      "url": "https://www.digikala.com/product/dkp-21190850/گوشی-موبایل-شیائومی-مدل-redmi-note-15-4g-دو-سیم-کارت-ظرفیت-256-گیگابایت-و-رم-8-گیگابایت",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8f4c60af446ea82cd1ef27e1f182c94afaf0a990_1771749697.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "شیائومی",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 2997500,
-      "list_price": 3090200,
-      "discount_percent": 3,
-      "rating": 4.2,
-      "rating_count": 4187,
-      "seller": "دیجی‌کالا",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 89499000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 1143,
+      "seller": "اسمارت تکنولوژی قشم",
       "rank": 10,
       "available": true,
       "badges": [
-        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "گوشی"
+        "query": "موبایل"
       },
       "supplier": {
         "name": "دیجی‌کالا",
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": -0.56,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "18575915",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A56 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
+      "url": "https://www.digikala.com/product/dkp-18575915/گوشی-موبایل-سامسونگ-مدل-galaxy-a56-دو-سیم-کارت-ظرفیت-256-گیگابایت-و-رم-8-گیگابایت-ویتنام",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/abb89918836e519343bdad17448cda4adeff4d4e_1746028045.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "سامسونگ",
+      "category_key": "mobile",
+      "category_label": "موبایل",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 131800000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 3152,
+      "seller": "اسمارت تکنولوژی قشم",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "گوشی"
+      },
+      "signals": {
+        "price_change_pct": 3.62,
         "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "502456",
+      "title": "گوشی موبایل ارد مدل F240D",
+      "url": "https://www.digikala.com/product/dkp-502456/گوشی-موبایل-ارد-مدل-f240d",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7e345a00cfd088519cb7e886c04c44dff477098e_1656435177.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "ارد",
+      "category_key": "mobile",
+      "category_label": "موبایل",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 4150000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 3416,
+      "seller": "پایاگستر شهر",
+      "rank": 11,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "گوشی"
+      },
+      "supplier": {
+        "name": "دنیا همراه خاورمیانه",
+        "url": "https://www.digikala.com/seller/H24CE/"
+      },
+      "signals": {
+        "price_change_pct": 3.75,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -107922,79 +107996,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21190850",
-      "title": "گوشی موبایل شیائومی مدل Redmi Note 15 4G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
-      "url": "https://www.digikala.com/product/dkp-21190850/گوشی-موبایل-شیائومی-مدل-redmi-note-15-4g-دو-سیم-کارت-ظرفیت-256-گیگابایت-و-رم-8-گیگابایت",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8f4c60af446ea82cd1ef27e1f182c94afaf0a990_1771749697.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "شیائومی",
-      "category_key": "mobile",
-      "category_label": "موبایل",
-      "observed_at": "2026-10-15T06:19:18.784Z",
-      "price": 90001000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 1131,
-      "seller": "دیجی‌کالا",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "گوشی موبایل"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
-        "price_change_pct": 4.05,
-        "rank_change": 8,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "15595047",
-      "title": "گوشی موبایل نوکیا مدل 106 2023 دو سیم کارت - مونتاژ ایران تحت لیسانس نوکیا",
-      "url": "https://www.digikala.com/product/dkp-15595047/گوشی-موبایل-نوکیا-مدل-106-2023-دو-سیم-کارت-مونتاژ-ایران-تحت-لیسانس-نوکیا",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9bd09e2483ced06bba23eb1fad691b064820b247_1731491852.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "نوکیا",
-      "category_key": "mobile",
-      "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 3999000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 3882,
-      "seller": "آوین مارت",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "گوشی"
-      },
-      "supplier": {
-        "name": "سورین همراه ایرانیان",
-        "url": "https://www.digikala.com/seller/APFVN/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 4,
         "is_new": false
       }
     },
@@ -108039,34 +108040,186 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "18575915",
-      "title": "گوشی موبایل سامسونگ مدل Galaxy A56 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
-      "url": "https://www.digikala.com/product/dkp-18575915/گوشی-موبایل-سامسونگ-مدل-galaxy-a56-دو-سیم-کارت-ظرفیت-256-گیگابایت-و-رم-8-گیگابایت-ویتنام",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/abb89918836e519343bdad17448cda4adeff4d4e_1746028045.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "21679708",
+      "title": "گوشی موبایل وکال مدل F4 دو سیم‌کارت ظرفیت 64 مگابایت و رم 64 مگابایت",
+      "url": "https://www.digikala.com/product/dkp-21679708/گوشی-موبایل-وکال-مدل-f4-دو-سیمکارت-ظرفیت-64-مگابایت-و-رم-64-مگابایت",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7d25857eaa2fe9b3678d3d46bfb6a753099f65b4_1776673271.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "وکال",
+      "category_key": "mobile",
+      "category_label": "موبایل",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 2960000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 118,
+      "seller": "اسمارت تکنولوژی قشم",
+      "rank": 11,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "موبایل"
+      },
+      "supplier": {
+        "name": "اسمارت تکنولوژی قشم",
+        "url": "https://www.digikala.com/seller/CGDG9/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 7,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20135132",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy S25 FE دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
+      "url": "https://www.digikala.com/product/dkp-20135132/گوشی-موبایل-سامسونگ-مدل-galaxy-s25-fe-دو-سیم-کارت-ظرفیت-256-گیگابایت-و-رم-8-گیگابایت-ویتنام",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/55582a9ac4add1b88050b458e7d490564b3ac4b6_1759667022.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "سامسونگ",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 127200000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 229000000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.6,
-      "rating_count": 3149,
+      "rating_count": 2425,
       "seller": "اسمارت تکنولوژی قشم",
       "rank": 12,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "گوشی"
       },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
+        "price_change_pct": 5.77,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "22487659",
+      "title": "گوشی موبایل ارد مدل 106 2025 دو سیم کارت",
+      "url": "https://www.digikala.com/product/dkp-22487659/گوشی-موبایل-ارد-مدل-106-2025-دو-سیم-کارت",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a4bff9a199fc5119b136e6573e6285cbdd43885f_1786459330.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "ارد",
+      "category_key": "mobile",
+      "category_label": "موبایل",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 1850000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.5,
+      "rating_count": 33,
+      "seller": "پایاگستر شهر",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "گوشی موبایل"
+      },
+      "supplier": {
+        "name": "پایاگستر شهر",
+        "url": "https://www.digikala.com/seller/DVEFT/"
+      },
+      "signals": {
+        "price_change_pct": 0.54,
+        "rank_change": 6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20490714",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A17 4G دو سیم کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت - ویتنام",
+      "url": "https://www.digikala.com/product/dkp-20490714/گوشی-موبایل-سامسونگ-مدل-galaxy-a17-4g-دو-سیم-کارت-ظرفیت-128-گیگابایت-و-رم-6-گیگابایت-ویتنام",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/68a4f680e47e209c5b090c5479004a3902342d07_1771839003.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "سامسونگ",
+      "category_key": "mobile",
+      "category_label": "موبایل",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 65830000,
+      "list_price": 72446700,
+      "discount_percent": 9,
+      "rating": 4.5,
+      "rating_count": 1271,
+      "seller": "دیجی‌کالا",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "موبایل"
+      },
+      "supplier": {
+        "name": "بهار کیهان ارتباطات",
+        "url": "https://www.digikala.com/seller/H4SHM/"
+      },
+      "signals": {
+        "price_change_pct": 0.98,
+        "rank_change": 6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "15572856",
+      "title": "گوشی موبایل نوکیا مدل 105 2023 دو سیم‌ کارت - مونتاژ ایران تحت لیسانس نوکیا",
+      "url": "https://www.digikala.com/product/dkp-15572856/گوشی-موبایل-نوکیا-مدل-105-2023-دو-سیم-کارت-مونتاژ-ایران-تحت-لیسانس-نوکیا",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b2d0a98d0c0a42c9af5645136fe0cfc0b47263d9_1731491794.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "نوکیا",
+      "category_key": "mobile",
+      "category_label": "موبایل",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 2999000,
+      "list_price": 3270300,
+      "discount_percent": 8,
+      "rating": 4.2,
+      "rating_count": 4195,
+      "seller": "دیجی‌کالا",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "پیشنهاد شگفت انگیز",
+        "شگفت‌انگیز",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "گوشی"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": 0.05,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -108143,147 +108296,38 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21660241",
-      "title": "گوشی موبایل سامسونگ مدل Galaxy A57 دو سیم‌کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت - ویتنام",
-      "url": "https://www.digikala.com/product/dkp-21660241/گوشی-موبایل-سامسونگ-مدل-galaxy-a57-دو-سیمکارت-ظرفیت-256-گیگابایت-و-رم-12-گیگابایت-ویتنام",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/04cdc74409e5916ba60fb49ee59894e893dc4fd0_1790687799.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "20490734",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A17 4G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
+      "url": "https://www.digikala.com/product/dkp-20490734/گوشی-موبایل-سامسونگ-مدل-galaxy-a17-4g-دو-سیم-کارت-ظرفیت-256-گیگابایت-و-رم-8-گیگابایت-ویتنام",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/eceb8bf074982af4e6d9bf72e2d7f77328074fd8_1765807107.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "سامسونگ",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 158500000,
-      "list_price": null,
-      "discount_percent": 0,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 85040000,
+      "list_price": 91898800,
+      "discount_percent": 7,
       "rating": 4.5,
-      "rating_count": 113,
-      "seller": "اسمارت تکنولوژی قشم",
+      "rating_count": 803,
+      "seller": "دیجی‌کالا",
       "rank": 13,
       "available": true,
       "badges": [
+        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "گوشی"
-      },
-      "supplier": {
-        "name": "سورین همراه ایرانیان",
-        "url": "https://www.digikala.com/seller/APFVN/"
-      },
-      "signals": {
-        "price_change_pct": -0.31,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20481188",
-      "title": "گوشی موبایل اپل مدل iPhone 17 Pro Max ZAA تک سیم کارت + eSim ظرفیت 256 گیگابایت و رم 12 گیگابایت - نات اکتیو",
-      "url": "https://www.digikala.com/product/dkp-20481188/گوشی-موبایل-اپل-مدل-iphone-17-pro-max-zaa-تک-سیم-کارت-esim-ظرفیت-256-گیگابایت-و-رم-12-گیگابایت-نات-اکتیو",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ec57ce03f2a92834058f502174b1a2aeffc9a580_1759666637.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اپل",
-      "category_key": "mobile",
-      "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 519999000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 663,
-      "seller": "دیجی‌کالا",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "گوشی"
-      },
-      "supplier": {
-        "name": "اسمارت تکنولوژی قشم",
-        "url": "https://www.digikala.com/seller/CGDG9/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -6,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20135132",
-      "title": "گوشی موبایل سامسونگ مدل Galaxy S25 FE دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
-      "url": "https://www.digikala.com/product/dkp-20135132/گوشی-موبایل-سامسونگ-مدل-galaxy-s25-fe-دو-سیم-کارت-ظرفیت-256-گیگابایت-و-رم-8-گیگابایت-ویتنام",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/55582a9ac4add1b88050b458e7d490564b3ac4b6_1759667022.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "سامسونگ",
-      "category_key": "mobile",
-      "category_label": "موبایل",
-      "observed_at": "2026-10-16T12:17:41.469Z",
-      "price": 216500000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 2422,
-      "seller": "اسمارت تکنولوژی قشم",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "گوشی"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
-        "price_change_pct": 13.17,
-        "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20125788",
-      "title": "گوشی موبایل اپل مدل iPhone 17 Pro Max ZAA تک سیم کارت + eSim ظرفیت 512 گیگابایت و رم 12 گیگابایت - نات اکتیو",
-      "url": "https://www.digikala.com/product/dkp-20125788/گوشی-موبایل-اپل-مدل-iphone-17-pro-max-zaa-تک-سیم-کارت-esim-ظرفیت-512-گیگابایت-و-رم-12-گیگابایت-نات-اکتیو",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0a0fbbdbedcb7be1e4cfe35e2776ef07a26d17c4_1759666568.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": null,
-      "category_key": "mobile",
-      "category_label": "موبایل",
-      "observed_at": "2026-10-15T06:19:18.784Z",
-      "price": 628040000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 51,
-      "seller": "رایاتک استور",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
         "query": "موبایل"
       },
-      "supplier": {},
+      "supplier": {
+        "name": "بانی نو",
+        "url": "https://www.digikala.com/seller/CAJWJ/"
+      },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": -1.92,
+        "rank_change": 5,
+        "is_new": false
       }
     },
     {
@@ -108320,6 +108364,79 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17918958",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy S25 Ultra دو سیم کارت ظرفیت 512 گیگابایت و رم 12 گیگابایت - پک ویتنام",
+      "url": "https://www.digikala.com/product/dkp-17918958/گوشی-موبایل-سامسونگ-مدل-galaxy-s25-ultra-دو-سیم-کارت-ظرفیت-512-گیگابایت-و-رم-12-گیگابایت-پک-ویتنام",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b898a97a346068c4f8e95cc9c7cfdf2b5f700e3f_1738145246.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "سامسونگ",
+      "category_key": "mobile",
+      "category_label": "موبایل",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 449999000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 262,
+      "seller": "بهار کیهان ارتباطات",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "گوشی"
+      },
+      "supplier": {
+        "name": "بهار کیهان ارتباطات",
+        "url": "https://www.digikala.com/seller/H4SHM/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "15595047",
+      "title": "گوشی موبایل نوکیا مدل 106 2023 دو سیم کارت - مونتاژ ایران تحت لیسانس نوکیا",
+      "url": "https://www.digikala.com/product/dkp-15595047/گوشی-موبایل-نوکیا-مدل-106-2023-دو-سیم-کارت-مونتاژ-ایران-تحت-لیسانس-نوکیا",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9bd09e2483ced06bba23eb1fad691b064820b247_1731491852.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "نوکیا",
+      "category_key": "mobile",
+      "category_label": "موبایل",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 3961300,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 3884,
+      "seller": "آوین مارت",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "گوشی"
+      },
+      "supplier": {
+        "name": "سورین همراه ایرانیان",
+        "url": "https://www.digikala.com/seller/APFVN/"
+      },
+      "signals": {
+        "price_change_pct": -0.94,
+        "rank_change": -4,
         "is_new": false
       }
     },
@@ -108440,20 +108557,20 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19969085",
-      "title": "گوشی موبایل تی سی اچ مدل ARC دو سیم‌کارت ظرفیت 4 مگابایت",
-      "url": "https://www.digikala.com/product/dkp-19969085/گوشی-موبایل-تی-سی-اچ-مدل-arc-دو-سیمکارت-ظرفیت-4-مگابایت",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1bb1a43cf9c30ad04558549da1c829130530064e_1753632099.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "تی سی اچ",
+      "source_id": "21294091",
+      "title": "گوشی موبایل انر مدل X9d دو سیم کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت",
+      "url": "https://www.digikala.com/product/dkp-21294091/گوشی-موبایل-آنر-مدل-x9d-دو-سیم-کارت-ظرفیت-256-گیگابایت-و-رم-12-گیگابایت",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/31e52dd2ecc2b2822699698bbdea7070bd7a378a_1791359259.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "انر",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 2699000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 138600000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 2959,
-      "seller": "اسمارت تکنولوژی قشم",
+      "rating": 4.7,
+      "rating_count": 241,
+      "seller": "پایاگستر شهر",
       "rank": 15,
       "available": true,
       "badges": [
@@ -108465,8 +108582,8 @@
         "query": "موبایل"
       },
       "supplier": {
-        "name": "اسمارت تکنولوژی قشم",
-        "url": "https://www.digikala.com/seller/CGDG9/"
+        "name": "پایاگستر شهر",
+        "url": "https://www.digikala.com/seller/DVEFT/"
       },
       "signals": {
         "price_change_pct": null,
@@ -108549,6 +108666,43 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "20125739",
+      "title": "گوشی موبایل اپل مدل iPhone 17 Pro ZAA تک سیم کارت + eSim ظرفیت 256 گیگابایت و رم 12 گیگابایت - نات اکتیو",
+      "url": "https://www.digikala.com/product/dkp-20125739/گوشی-موبایل-اپل-مدل-iphone-17-pro-zaa-تک-سیم-کارت-esim-ظرفیت-256-گیگابایت-و-رم-12-گیگابایت-نات-اکتیو",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/79bdac3b8275d977c88c804ecc2ff1187db687d5_1760525882.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اپل",
+      "category_key": "mobile",
+      "category_label": "موبایل",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 508000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 67,
+      "seller": "بهار کیهان ارتباطات",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "گوشی"
+      },
+      "supplier": {
+        "name": "اسمارت تکنولوژی قشم",
+        "url": "https://www.digikala.com/seller/CGDG9/"
+      },
+      "signals": {
+        "price_change_pct": -1.93,
+        "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "17464125",
       "title": "گوشی موبایل سامسونگ مدل Galaxy A16 4G دو سیم کارت ظرفیت 128 گیگابایت و رم 4 گیگابایت - ویتنام",
       "url": "https://www.digikala.com/product/dkp-17464125/گوشی-موبایل-سامسونگ-مدل-galaxy-a16-4g-دو-سیم-کارت-ظرفیت-128-گیگابایت-و-رم-4-گیگابایت-ویتنام",
@@ -108556,19 +108710,20 @@
       "brand": "سامسونگ",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 56200000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 56000000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
-      "rating_count": 3582,
-      "seller": "پارس نوین مدیا",
-      "rank": 16,
+      "rating_count": 3583,
+      "seller": "بانی نو",
+      "rank": 17,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "تنها 3 عدد در انبار باقی مانده"
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "گوشی"
@@ -108578,8 +108733,8 @@
         "url": "https://www.digikala.com/seller/CGXGH/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
+        "price_change_pct": -0.36,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -108698,98 +108853,27 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21679708",
-      "title": "گوشی موبایل وکال مدل F4 دو سیم‌کارت ظرفیت 64 مگابایت و رم 64 مگابایت",
-      "url": "https://www.digikala.com/product/dkp-21679708/گوشی-موبایل-وکال-مدل-f4-دو-سیمکارت-ظرفیت-64-مگابایت-و-رم-64-مگابایت",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7d25857eaa2fe9b3678d3d46bfb6a753099f65b4_1776673271.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "وکال",
+      "source_id": "22469143",
+      "title": "گوشی موبایل ارد مدل F200 دو سیم کارت",
+      "url": "https://www.digikala.com/product/dkp-22469143/گوشی-موبایل-ارد-مدل-f200-دو-سیم-کارت",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/182fa7f3b8393a410dfba37175e5b827876de494_1786281695.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "ارد",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 2960000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 4250000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 114,
-      "seller": "اسمارت تکنولوژی قشم",
-      "rank": 18,
+      "rating": 4.3,
+      "rating_count": 60,
+      "seller": "پایاگستر شهر",
+      "rank": 17,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا",
         "فروشنده معتبر"
       ],
-      "raw_ref": {
-        "query": "گوشی"
-      },
-      "supplier": {
-        "name": "اسمارت تکنولوژی قشم",
-        "url": "https://www.digikala.com/seller/CGDG9/"
-      },
-      "signals": {
-        "price_change_pct": 4.23,
-        "rank_change": -8,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20490734",
-      "title": "گوشی موبایل سامسونگ مدل Galaxy A17 4G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام",
-      "url": "https://www.digikala.com/product/dkp-20490734/گوشی-موبایل-سامسونگ-مدل-galaxy-a17-4g-دو-سیم-کارت-ظرفیت-256-گیگابایت-و-رم-8-گیگابایت-ویتنام",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/eceb8bf074982af4e6d9bf72e2d7f77328074fd8_1765807107.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "سامسونگ",
-      "category_key": "mobile",
-      "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 86706700,
-      "list_price": 89388400,
-      "discount_percent": 3,
-      "rating": 4.5,
-      "rating_count": 800,
-      "seller": "دیجی‌کالا",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "موبایل"
-      },
-      "supplier": {
-        "name": "بانی نو",
-        "url": "https://www.digikala.com/seller/CAJWJ/"
-      },
-      "signals": {
-        "price_change_pct": 3.28,
-        "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "22487659",
-      "title": "گوشی موبایل ارد مدل 106 2025 دو سیم کارت",
-      "url": "https://www.digikala.com/product/dkp-22487659/گوشی-موبایل-ارد-مدل-106-2025-دو-سیم-کارت",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a4bff9a199fc5119b136e6573e6285cbdd43885f_1786459330.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ارد",
-      "category_key": "mobile",
-      "category_label": "موبایل",
-      "observed_at": "2026-10-15T06:19:18.784Z",
-      "price": 1840000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.3,
-      "rating_count": 30,
-      "seller": "دنیا همراه خاورمیانه",
-      "rank": 18,
-      "available": true,
-      "badges": [],
       "raw_ref": {
         "query": "گوشی موبایل"
       },
@@ -108798,8 +108882,83 @@
         "url": "https://www.digikala.com/seller/DVEFT/"
       },
       "signals": {
-        "price_change_pct": -0.54,
-        "rank_change": -7,
+        "price_change_pct": 0.24,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20125788",
+      "title": "گوشی موبایل اپل مدل iPhone 17 Pro Max ZAA تک سیم کارت + eSim ظرفیت 512 گیگابایت و رم 12 گیگابایت - نات اکتیو",
+      "url": "https://www.digikala.com/product/dkp-20125788/گوشی-موبایل-اپل-مدل-iphone-17-pro-max-zaa-تک-سیم-کارت-esim-ظرفیت-512-گیگابایت-و-رم-12-گیگابایت-نات-اکتیو",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0a0fbbdbedcb7be1e4cfe35e2776ef07a26d17c4_1759666568.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اپل",
+      "category_key": "mobile",
+      "category_label": "موبایل",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 620370000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 52,
+      "seller": "رایاتک استور",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "گوشی"
+      },
+      "supplier": {
+        "name": "رایاتک استور",
+        "url": "https://www.digikala.com/seller/GZRGK/"
+      },
+      "signals": {
+        "price_change_pct": -1.22,
+        "rank_change": -4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19969085",
+      "title": "گوشی موبایل تی سی اچ مدل ARC دو سیم‌کارت ظرفیت 4 مگابایت",
+      "url": "https://www.digikala.com/product/dkp-19969085/گوشی-موبایل-تی-سی-اچ-مدل-arc-دو-سیمکارت-ظرفیت-4-مگابایت",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1bb1a43cf9c30ad04558549da1c829130530064e_1753632099.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "تی سی اچ",
+      "category_key": "mobile",
+      "category_label": "موبایل",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 2649000,
+      "list_price": 2699000,
+      "discount_percent": 2,
+      "rating": 4.2,
+      "rating_count": 2973,
+      "seller": "اسمارت تکنولوژی قشم",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "پیشنهاد شگفت انگیز",
+        "شگفت‌انگیز",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "موبایل"
+      },
+      "supplier": {
+        "name": "اسمارت تکنولوژی قشم",
+        "url": "https://www.digikala.com/seller/CGDG9/"
+      },
+      "signals": {
+        "price_change_pct": -1.85,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -108843,43 +109002,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20490714",
-      "title": "گوشی موبایل سامسونگ مدل Galaxy A17 4G دو سیم کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت - ویتنام",
-      "url": "https://www.digikala.com/product/dkp-20490714/گوشی-موبایل-سامسونگ-مدل-galaxy-a17-4g-دو-سیم-کارت-ظرفیت-128-گیگابایت-و-رم-6-گیگابایت-ویتنام",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/68a4f680e47e209c5b090c5479004a3902342d07_1771839003.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "سامسونگ",
-      "category_key": "mobile",
-      "category_label": "موبایل",
-      "observed_at": "2026-10-15T06:19:18.784Z",
-      "price": 65190000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 1263,
-      "seller": "ستیاکو",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "موبایل"
-      },
-      "supplier": {
-        "name": "بهار کیهان ارتباطات",
-        "url": "https://www.digikala.com/seller/H4SHM/"
-      },
-      "signals": {
-        "price_change_pct": -2.55,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "18575577",
       "title": "گوشی موبایل سامسونگ مدل Galaxy A56 دو سیم کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت - ویتنام",
       "url": "https://www.digikala.com/product/dkp-18575577/گوشی-موبایل-سامسونگ-مدل-galaxy-a56-دو-سیم-کارت-ظرفیت-256-گیگابایت-و-رم-12-گیگابایت-ویتنام",
@@ -108917,37 +109039,38 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22469143",
-      "title": "گوشی موبایل ارد مدل F200 دو سیم کارت",
-      "url": "https://www.digikala.com/product/dkp-22469143/گوشی-موبایل-ارد-مدل-f200-دو-سیم-کارت",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/182fa7f3b8393a410dfba37175e5b827876de494_1786281695.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ارد",
+      "source_id": "21660241",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A57 دو سیم‌کارت ظرفیت 256 گیگابایت و رم 12 گیگابایت - ویتنام",
+      "url": "https://www.digikala.com/product/dkp-21660241/گوشی-موبایل-سامسونگ-مدل-galaxy-a57-دو-سیمکارت-ظرفیت-256-گیگابایت-و-رم-12-گیگابایت-ویتنام",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/04cdc74409e5916ba60fb49ee59894e893dc4fd0_1790687799.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "سامسونگ",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 4240000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 157200000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 59,
-      "seller": "دنیا همراه خاورمیانه",
+      "rating": 4.4,
+      "rating_count": 115,
+      "seller": "اسمارت تکنولوژی قشم",
       "rank": 19,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا",
-        "تنها 2 عدد در انبار باقی مانده"
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "گوشی"
       },
       "supplier": {
-        "name": "پایاگستر شهر",
-        "url": "https://www.digikala.com/seller/DVEFT/"
+        "name": "سورین همراه ایرانیان",
+        "url": "https://www.digikala.com/seller/APFVN/"
       },
       "signals": {
-        "price_change_pct": -0.24,
-        "rank_change": -5,
+        "price_change_pct": -0.82,
+        "rank_change": -6,
         "is_new": false
       }
     },
@@ -109068,68 +109191,29 @@
       "brand": "شیائومی",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-15T06:19:18.784Z",
-      "price": 165000000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 160000000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.7,
       "rating_count": 112,
-      "seller": "پایاگستر شهر",
-      "rank": 19,
+      "seller": "فروشگاه رویال مال",
+      "rank": 20,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر",
+        "ارسال توسط فروشنده",
         "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "موبایل"
+        "query": "گوشی"
       },
       "supplier": {
         "name": "پایاگستر شهر",
         "url": "https://www.digikala.com/seller/DVEFT/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20125739",
-      "title": "گوشی موبایل اپل مدل iPhone 17 Pro ZAA تک سیم کارت + eSim ظرفیت 256 گیگابایت و رم 12 گیگابایت - نات اکتیو",
-      "url": "https://www.digikala.com/product/dkp-20125739/گوشی-موبایل-اپل-مدل-iphone-17-pro-zaa-تک-سیم-کارت-esim-ظرفیت-256-گیگابایت-و-رم-12-گیگابایت-نات-اکتیو",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/79bdac3b8275d977c88c804ecc2ff1187db687d5_1760525882.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اپل",
-      "category_key": "mobile",
-      "category_label": "موبایل",
-      "observed_at": "2026-10-16T22:58:05.672Z",
-      "price": 518000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 67,
-      "seller": "بهار کیهان ارتباطات",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "موبایل"
-      },
-      "supplier": {
-        "name": "اسمارت تکنولوژی قشم",
-        "url": "https://www.digikala.com/seller/CGDG9/"
-      },
-      "signals": {
-        "price_change_pct": 1.77,
-        "rank_change": 1,
+        "price_change_pct": -3.03,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -109213,20 +109297,19 @@
       "brand": "شیائومی",
       "category_key": "mobile",
       "category_label": "موبایل",
-      "observed_at": "2026-10-15T06:19:18.784Z",
-      "price": 70499000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 72400000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
-      "rating_count": 1663,
-      "seller": "پایاگستر شهر",
+      "rating_count": 1672,
+      "seller": "اسمارت تکنولوژی قشم",
       "rank": 20,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "موبایل"
@@ -109236,7 +109319,7 @@
         "url": "https://www.digikala.com/seller/CGDG9/"
       },
       "signals": {
-        "price_change_pct": -9.03,
+        "price_change_pct": 2.7,
         "rank_change": 0,
         "is_new": false
       }
@@ -118259,7 +118342,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 835000,
       "list_price": 940000,
       "discount_percent": 11,
@@ -118360,7 +118443,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
@@ -118465,7 +118548,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 350000,
       "list_price": null,
       "discount_percent": 0,
@@ -118538,7 +118621,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 311000,
       "list_price": null,
       "discount_percent": 0,
@@ -118559,7 +118642,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -118720,7 +118803,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 588750,
       "list_price": 785000,
       "discount_percent": 25,
@@ -118791,7 +118874,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 259000,
       "list_price": null,
       "discount_percent": 0,
@@ -118812,7 +118895,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -118970,7 +119053,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
@@ -119186,7 +119269,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 699000,
       "list_price": null,
       "discount_percent": 0,
@@ -119207,7 +119290,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -119387,45 +119470,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22760274",
-      "title": "بسته لوازم تحریر مدل ملودی کیوت کد 81 مجموعه 11 عددی",
-      "url": "https://www.digikala.com/product/dkp-22760274/بسته-لوازم-تحریر-ملودی-کیوت-مجموعه-11-عددی-کد-81",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e886ea3f66c45ad8a99be746ceeaf3f7795529ae_1789645600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "sports",
-      "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
-      "price": 1620000,
-      "list_price": 2000000,
-      "discount_percent": 19,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "هنرگلسا",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "هنرگلسا",
-        "url": "https://www.digikala.com/seller/DCE47/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "1632464",
       "title": "نرم افزار اموزش تناسب اندام نشر الکترونیک پاناپرداز",
       "url": "https://www.digikala.com/product/dkp-1632464/نرم-افزار-آموزش-تناسب-اندام-نشر-الکترونیک-پاناپرداز",
@@ -119495,35 +119539,75 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22396419",
-      "title": "بسته لوازم التحریر مدل ملودی مجموعه 7عددی‌",
-      "url": "https://www.digikala.com/product/dkp-22396419/بسته-لوازم-التحریر-مدل-ملودی-مجموعه-۷عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a7ddffa39fc63c18963e6eab843eca326a424d4e_1785505908.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "19800745",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new5 مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-19800745/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new5-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0b540c6dfeee4e00b3b70942298e3f8fe79fe1e3_1752344329.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
-      "price": 390000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 178000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
-      "seller": "شاهین تک",
-      "rank": 10,
+      "seller": "چاپ فانتزی",
+      "rank": 9,
       "available": true,
       "badges": [
-        "تنها 3 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "لوازم"
       },
       "supplier": {
-        "name": "شاهین تک",
-        "url": "https://www.digikala.com/seller/FEWN2/"
+        "name": "چاپ فانتزی",
+        "url": "https://www.digikala.com/seller/CZ3GP/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 4,
+        "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "22760274",
+      "title": "بسته لوازم تحریر مدل ملودی کیوت کد 81 مجموعه 11 عددی",
+      "url": "https://www.digikala.com/product/dkp-22760274/بسته-لوازم-تحریر-ملودی-کیوت-مجموعه-11-عددی-کد-81",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e886ea3f66c45ad8a99be746ceeaf3f7795529ae_1789645600.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "sports",
+      "category_label": "ورزش و تناسب اندام",
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 1620000,
+      "list_price": 2000000,
+      "discount_percent": 19,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "هنرگلسا",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "هنرگلسا",
+        "url": "https://www.digikala.com/seller/DCE47/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -119600,36 +119684,35 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21519071",
-      "title": "بسته لوازم تحریر مدل ملودی و کرومی مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-21519071/بسته-لوازم-تحریر-مدل-ملودی-و-کرومی-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f233a1121358240166226761488c1b3ee79add21_1771858648.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "22396419",
+      "title": "بسته لوازم التحریر مدل ملودی مجموعه 7عددی‌",
+      "url": "https://www.digikala.com/product/dkp-22396419/بسته-لوازم-التحریر-مدل-ملودی-مجموعه-۷عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a7ddffa39fc63c18963e6eab843eca326a424d4e_1785505908.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
-      "price": 520000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 390000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 5,
-      "rating_count": 1,
-      "seller": "هنرگلسا",
+      "rating": null,
+      "rating_count": 0,
+      "seller": "شاهین تک",
       "rank": 11,
       "available": true,
       "badges": [
-        "فروشنده معتبر",
         "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لوازم"
       },
       "supplier": {
-        "name": "هنرگلسا",
-        "url": "https://www.digikala.com/seller/DCE47/"
+        "name": "شاهین تک",
+        "url": "https://www.digikala.com/seller/FEWN2/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -119778,36 +119861,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19800745",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new5 مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-19800745/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new5-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0b540c6dfeee4e00b3b70942298e3f8fe79fe1e3_1752344329.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "21519071",
+      "title": "بسته لوازم تحریر مدل ملودی و کرومی مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-21519071/بسته-لوازم-تحریر-مدل-ملودی-و-کرومی-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f233a1121358240166226761488c1b3ee79add21_1771858648.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
-      "price": 178000,
+      "observed_at": "2026-10-18T14:29:39.744Z",
+      "price": 520000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "چاپ فانتزی",
+      "rating": 5,
+      "rating_count": 1,
+      "seller": "هنرگلسا",
       "rank": 12,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لوازم"
       },
       "supplier": {
-        "name": "چاپ فانتزی",
-        "url": "https://www.digikala.com/seller/CZ3GP/"
+        "name": "هنرگلسا",
+        "url": "https://www.digikala.com/seller/DCE47/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -119987,7 +120070,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 145000,
       "list_price": null,
       "discount_percent": 0,
@@ -120207,7 +120290,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 648500,
       "list_price": null,
       "discount_percent": 0,
@@ -120229,7 +120312,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -120417,7 +120500,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 420000,
       "list_price": null,
       "discount_percent": 0,
@@ -120439,7 +120522,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -120704,7 +120787,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
@@ -120726,7 +120809,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -120877,7 +120960,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
@@ -120899,7 +120982,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -121296,7 +121379,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 235000,
       "list_price": null,
       "discount_percent": 0,
@@ -121319,7 +121402,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -121647,7 +121730,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
@@ -121669,7 +121752,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -122390,7 +122473,7 @@
       "brand": "متفرقه",
       "category_key": "sports",
       "category_label": "ورزش و تناسب اندام",
-      "observed_at": "2026-10-18T14:07:12.291Z",
+      "observed_at": "2026-10-18T14:29:39.744Z",
       "price": 3000000,
       "list_price": null,
       "discount_percent": 0,
