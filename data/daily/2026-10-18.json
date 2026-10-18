@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-18T00:13:41.534Z",
-  "count": 3645,
+  "generated_at": "2026-10-18T00:53:09.048Z",
+  "count": 3647,
   "collection": {
     "mode": "rotating",
     "categories_scanned": 4,
@@ -29333,7 +29333,7 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 8900000,
       "list_price": null,
       "discount_percent": 0,
@@ -29369,7 +29369,7 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 835000,
       "list_price": 940000,
       "discount_percent": 11,
@@ -29404,7 +29404,7 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 9020000,
       "list_price": null,
       "discount_percent": 0,
@@ -29475,7 +29475,7 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
@@ -29544,7 +29544,7 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 270000,
       "list_price": null,
       "discount_percent": 0,
@@ -29573,6 +29573,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "17753255",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 13 عددی",
+      "url": "https://www.digikala.com/product/dkp-17753255/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-13-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b5ff411a807eed8b4818a5486f9f9802d8f3969e_1734515822.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "auto",
+      "category_label": "خودرو و موتورسیکلت",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 350000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 5,
+      "seller": "بهتحریر",
+      "rank": 3,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "بهتحریر",
+        "url": "https://www.digikala.com/seller/6YAH7/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "22291492",
       "title": "بسته لوازم تحریر مدل ملودی کد 1217 بسته 7 عددی",
       "url": "https://www.digikala.com/product/dkp-22291492/بسته-لوازم-تحریر-مدل-ملودی-کد-1217-بسته-7-عددی",
@@ -29580,14 +29616,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 490000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
       "seller": "فروشگاه شیمر",
-      "rank": 3,
+      "rank": 4,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -29602,7 +29638,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -29689,7 +29725,7 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 287910,
       "list_price": null,
       "discount_percent": 0,
@@ -29724,14 +29760,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 588750,
       "list_price": 785000,
       "discount_percent": 25,
       "rating": 4,
       "rating_count": 1,
       "seller": "جادوی رنگ",
-      "rank": 4,
+      "rank": 5,
       "available": true,
       "badges": [
         "فروش ویژه"
@@ -29745,7 +29781,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -29795,7 +29831,7 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 758720,
       "list_price": null,
       "discount_percent": 0,
@@ -29831,14 +29867,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 311000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
       "seller": "قشنگ افزار نیکا",
-      "rank": 5,
+      "rank": 6,
       "available": true,
       "badges": [
         "تنها 2 عدد در انبار باقی مانده"
@@ -29901,7 +29937,7 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 700000,
       "list_price": null,
       "discount_percent": 0,
@@ -29937,14 +29973,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 2.9,
       "rating_count": 7,
       "seller": "چاپ فانتزی",
-      "rank": 6,
+      "rank": 7,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -29959,7 +29995,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -30008,7 +30044,7 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 290000,
       "list_price": null,
       "discount_percent": 0,
@@ -30044,14 +30080,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 259000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 5,
       "rating_count": 1,
       "seller": "بانیبو آرت",
-      "rank": 7,
+      "rank": 8,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -30149,7 +30185,7 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 202740,
       "list_price": null,
       "discount_percent": 0,
@@ -30170,7 +30206,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -30184,14 +30220,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 699000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
       "seller": "بانیبو آرت",
-      "rank": 8,
+      "rank": 9,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -30205,7 +30241,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -30256,7 +30292,7 @@
       "brand": "یاتاش",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 274680,
       "list_price": 285000,
       "discount_percent": 4,
@@ -30277,7 +30313,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -30291,14 +30327,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 1620000,
       "list_price": 2000000,
       "discount_percent": 19,
       "rating": null,
       "rating_count": 0,
       "seller": "هنرگلسا",
-      "rank": 9,
+      "rank": 10,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -30316,7 +30352,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -30395,6 +30431,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "18516762",
+      "title": "لامپ LED تست فیوز و سیم کشی خودرو و موتور سیکلت مدل YS-04",
+      "url": "https://www.digikala.com/product/dkp-18516762/لامپ-led-تست-فیوز-و-سیم-کشی-خودرو-و-موتور-سیکلت-مدل-ys-04",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ecee5309d8cd05c7e878823a45737063d874e558_1741070979.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "auto",
+      "category_label": "خودرو و موتورسیکلت",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 735880,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 12,
+      "seller": "الکترو یدک خودرو",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "خودرو و موتورسیکلت"
+      },
+      "supplier": {
+        "name": "الکترو یدک خودرو",
+        "url": "https://www.digikala.com/seller/GYS7Y/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "21509593",
       "title": "اسپری سرامیک واکس بدنه خودرو و موتورسیکلت مفرا مدل ULTRA SPEED حجم 500 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-21509593/اسپری-سرامیک-واکس-بدنه-خودرو-و-موتورسیکلت-مفرا-مدل-ultra-speed-حجم-500-میلی-لیتر",
@@ -30402,14 +30474,14 @@
       "brand": "مفرا",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 4000000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 5,
       "rating_count": 1,
       "seller": "پخش کالا تهران ",
-      "rank": 10,
+      "rank": 11,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -30425,7 +30497,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -30439,14 +30511,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 520000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 5,
       "rating_count": 1,
       "seller": "هنرگلسا",
-      "rank": 10,
+      "rank": 11,
       "available": true,
       "badges": [
         "فروشنده معتبر",
@@ -30461,81 +30533,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "18516762",
-      "title": "لامپ LED تست فیوز و سیم کشی خودرو و موتور سیکلت مدل YS-04",
-      "url": "https://www.digikala.com/product/dkp-18516762/لامپ-led-تست-فیوز-و-سیم-کشی-خودرو-و-موتور-سیکلت-مدل-ys-04",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ecee5309d8cd05c7e878823a45737063d874e558_1741070979.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 735880,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 12,
-      "seller": "الکترو یدک خودرو",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "خودرو و موتورسیکلت"
-      },
-      "supplier": {
-        "name": "الکترو یدک خودرو",
-        "url": "https://www.digikala.com/seller/GYS7Y/"
-      },
-      "signals": {
-        "price_change_pct": 0,
         "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "15392295",
-      "title": "پولیش براق کننده فلز و رنگ موتورسیکلت مدل موتو پولیش حجم 50 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-15392295/پولیش-براق-کننده-فلز-و-رنگ-موتورسیکلت-مدل-موتو-پولیش-حجم-50-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/64202469c9c0fb8070c62ad5a4f46cf3546ea978_1715175193.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 370500,
-      "list_price": 390000,
-      "discount_percent": 5,
-      "rating": 3.8,
-      "rating_count": 344,
-      "seller": "کاربرد",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم خودرو موتور سیکلت"
-      },
-      "supplier": {
-        "name": "کاربرد",
-        "url": "https://www.digikala.com/seller/EHWCA/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 5,
         "is_new": false
       }
     },
@@ -30549,14 +30547,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
       "seller": "چاپ فانتزی",
-      "rank": 11,
+      "rank": 12,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -30571,7 +30569,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -30585,7 +30583,7 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 894510,
       "list_price": null,
       "discount_percent": 0,
@@ -30607,7 +30605,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -30686,6 +30684,44 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "15392295",
+      "title": "پولیش براق کننده فلز و رنگ موتورسیکلت مدل موتو پولیش حجم 50 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-15392295/پولیش-براق-کننده-فلز-و-رنگ-موتورسیکلت-مدل-موتو-پولیش-حجم-50-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/64202469c9c0fb8070c62ad5a4f46cf3546ea978_1715175193.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "auto",
+      "category_label": "خودرو و موتورسیکلت",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 370500,
+      "list_price": 390000,
+      "discount_percent": 5,
+      "rating": 3.8,
+      "rating_count": 344,
+      "seller": "کاربرد",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "خودرو و موتورسیکلت"
+      },
+      "supplier": {
+        "name": "کاربرد",
+        "url": "https://www.digikala.com/seller/EHWCA/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "19800798",
       "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new6 مجموعه 4 عددی",
       "url": "https://www.digikala.com/product/dkp-19800798/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new6-مجموعه-4-عددی",
@@ -30693,14 +30729,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 145000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
       "seller": "چاپ فانتزی",
-      "rank": 12,
+      "rank": 13,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -30715,7 +30751,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -30799,14 +30835,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 1159340,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 11,
       "seller": "الکترو یدک خودرو",
-      "rank": 13,
+      "rank": 14,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -30821,7 +30857,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -30835,14 +30871,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 390000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
       "seller": "شاهین تک",
-      "rank": 13,
+      "rank": 14,
       "available": true,
       "badges": [
         "تنها 3 عدد در انبار باقی مانده"
@@ -30856,7 +30892,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -30933,41 +30969,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "10707240",
-      "title": "موتور شوی خودرو یاتاش مدل تریگر دار حجم 500 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-10707240/موتور-شوی-خودرو-یاتاش-مدل-تریگر-دار-حجم-500-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4dcd0cc1fe2d9b222ebe4cc29d4e336a3ca048ec_1676837804.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "یاتاش",
-      "category_key": "auto",
-      "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 327970,
-      "list_price": 350000,
-      "discount_percent": 6,
-      "rating": 4.1,
-      "rating_count": 154,
-      "seller": " یاتاش ایران",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "خودرو و موتورسیکلت"
-      },
-      "supplier": {
-        "name": " یاتاش ایران",
-        "url": "https://www.digikala.com/seller/GRZWA/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 5,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "19988901",
       "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 8 عددی",
       "url": "https://www.digikala.com/product/dkp-19988901/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-8-عددی",
@@ -30975,14 +30976,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 648500,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 5,
       "seller": "بهتحریر",
-      "rank": 14,
+      "rank": 15,
       "available": true,
       "badges": [
         "فروشنده معتبر",
@@ -30997,7 +30998,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -31046,7 +31047,7 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 250000,
       "list_price": null,
       "discount_percent": 0,
@@ -31187,14 +31188,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 420000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 1,
       "seller": "هنرگلسا",
-      "rank": 15,
+      "rank": 16,
       "available": true,
       "badges": [
         "فروشنده معتبر",
@@ -31209,7 +31210,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -31296,7 +31297,7 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 3850000,
       "list_price": null,
       "discount_percent": 0,
@@ -31315,7 +31316,42 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "10707240",
+      "title": "موتور شوی خودرو یاتاش مدل تریگر دار حجم 500 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-10707240/موتور-شوی-خودرو-یاتاش-مدل-تریگر-دار-حجم-500-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4dcd0cc1fe2d9b222ebe4cc29d4e336a3ca048ec_1676837804.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "یاتاش",
+      "category_key": "auto",
+      "category_label": "خودرو و موتورسیکلت",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 327970,
+      "list_price": 350000,
+      "discount_percent": 6,
+      "rating": 4.1,
+      "rating_count": 154,
+      "seller": " یاتاش ایران",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "خودرو و موتورسیکلت"
+      },
+      "supplier": {
+        "name": " یاتاش ایران",
+        "url": "https://www.digikala.com/seller/GRZWA/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -31329,14 +31365,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 5,
       "rating_count": 1,
       "seller": "چاپ فانتزی",
-      "rank": 16,
+      "rank": 17,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -31351,7 +31387,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -31578,14 +31614,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 930000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 67,
       "seller": "کار و بار نوین",
-      "rank": 17,
+      "rank": 18,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -31600,7 +31636,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -31614,14 +31650,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 1,
       "seller": "چاپ فانتزی",
-      "rank": 17,
+      "rank": 18,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -31636,7 +31672,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -31823,14 +31859,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 300000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.9,
       "rating_count": 25,
       "seller": " تاو",
-      "rank": 18,
+      "rank": 19,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -31842,7 +31878,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -31856,14 +31892,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 235000,
       "list_price": null,
       "discount_percent": 0,
       "rating": null,
       "rating_count": 0,
       "seller": "بهتحریر",
-      "rank": 18,
+      "rank": 19,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -31879,7 +31915,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -32212,14 +32248,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 272400,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 3,
       "seller": " روز ایران",
-      "rank": 19,
+      "rank": 20,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -32232,8 +32268,8 @@
         "url": "https://www.digikala.com/seller/6XEUK/"
       },
       "signals": {
-        "price_change_pct": -1.13,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -32247,14 +32283,14 @@
       "brand": "متفرقه",
       "category_key": "auto",
       "category_label": "خودرو و موتورسیکلت",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 178000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
       "rating_count": 11,
       "seller": "چاپ فانتزی",
-      "rank": 19,
+      "rank": 20,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -32269,7 +32305,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -50655,7 +50691,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 957000,
       "list_price": null,
       "discount_percent": 0,
@@ -50674,42 +50710,6 @@
       "supplier": {
         "name": "دومینو واچ",
         "url": "https://www.digikala.com/seller/unikwatch/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "2350001",
-      "title": "اویز زیور الات مدل شاخ گوزن 2020",
-      "url": "https://www.digikala.com/product/dkp-2350001/آویز-زیور-آلات-مدل-شاخ-گوزن-2020",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/115114420.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "jewelry",
-      "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 176000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 1158,
-      "seller": "توران کو",
-      "rank": 1,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "زیورآلات"
-      },
-      "supplier": {
-        "name": "سپند آسا",
-        "url": "https://www.digikala.com/seller/DMR7V/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -50800,7 +50800,7 @@
       "brand": "جنوا",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 837000,
       "list_price": 957000,
       "discount_percent": 13,
@@ -50830,23 +50830,24 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22077850",
-      "title": "ست ساعت مچی عقربه‌ای کوارتز و ست زیورالات زنانه مدل 439-blk",
-      "url": "https://www.digikala.com/product/dkp-22077850/ست-ساعت-مچی-عقربهای-کوارتز-و-ست-زیورآلات-زنانه-مدل-439-blk",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a62a41ff83b9e7d5b6a07bf0b2bf7fec6d48c57a_1782805586.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "20844174",
+      "title": "ست ساعت مچی عقربه‌ای کوارتز و دستبند زنانه مدل 429-2 S",
+      "url": "https://www.digikala.com/product/dkp-20844174/ست-ساعت-مچی-عقربهای-کوارتز-و-دستبند-زنانه-مدل-429-2-s",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1953f9acc6446df9a94a40b1eaff08d73034416b_1762757692.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 1000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 32,
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 557000,
+      "list_price": 600000,
+      "discount_percent": 7,
+      "rating": 4,
+      "rating_count": 547,
       "seller": "دومینو واچ",
       "rank": 3,
       "available": true,
       "badges": [
+        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا"
       ],
@@ -50859,42 +50860,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "315049",
-      "title": "اویز زیور الات مدل شاخ گوزن",
-      "url": "https://www.digikala.com/product/dkp-315049/آویز-زیور-آلات-مدل-شاخ-گوزن",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1235577.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "jewelry",
-      "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 179670,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 8491,
-      "seller": "کالافان",
-      "rank": 3,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "زیورآلات"
-      },
-      "supplier": {
-        "name": "کالافان",
-        "url": "https://www.digikala.com/seller/5AJTT/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -50908,7 +50874,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 142000,
       "list_price": null,
       "discount_percent": 0,
@@ -50926,41 +50892,6 @@
       "supplier": {
         "name": "زتوس",
         "url": "https://www.digikala.com/seller/D72UT/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "2342736",
-      "title": "استند زیورالات مدل shkh1",
-      "url": "https://www.digikala.com/product/dkp-2342736/استند-زیورآلات-مدل-shkh1",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/115073537.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "jewelry",
-      "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 524700,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 1882,
-      "seller": "کالافان",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "زیورآلات"
-      },
-      "supplier": {
-        "name": "کالافان",
-        "url": "https://www.digikala.com/seller/5AJTT/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -51006,43 +50937,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20844174",
-      "title": "ست ساعت مچی عقربه‌ای کوارتز و دستبند زنانه مدل 429-2 S",
-      "url": "https://www.digikala.com/product/dkp-20844174/ست-ساعت-مچی-عقربهای-کوارتز-و-دستبند-زنانه-مدل-429-2-s",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1953f9acc6446df9a94a40b1eaff08d73034416b_1762757692.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "jewelry",
-      "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 557000,
-      "list_price": 600000,
-      "discount_percent": 7,
-      "rating": 4,
-      "rating_count": 547,
-      "seller": "دومینو واچ",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "ساعت و زیورآلات"
-      },
-      "supplier": {
-        "name": "دومینو واچ",
-        "url": "https://www.digikala.com/seller/unikwatch/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "9097108",
       "title": "جعبه ساعت مدل جدا کننده کشو",
       "url": "https://www.digikala.com/product/dkp-9097108/جعبه-ساعت-مدل-جدا-کننده-کشو",
@@ -51079,6 +50973,43 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "869157",
+      "title": "بالشتک ساعت و زیورالات کد 258 بسته 6 عددی",
+      "url": "https://www.digikala.com/product/dkp-869157/بالشتک-ساعت-و-زیورآلات-کد-258-بسته-6-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4025091.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "jewelry",
+      "category_label": "ساعت و زیورآلات",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 158000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 167,
+      "seller": "واچ سنتر",
+      "rank": 4,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "ساعت و زیورآلات"
+      },
+      "supplier": {
+        "name": "واچ سنتر",
+        "url": "https://www.digikala.com/seller/A725T/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "5660246",
       "title": "جعبه ساعت مدل B10",
       "url": "https://www.digikala.com/product/dkp-5660246/جعبه-ساعت-مدل-b10",
@@ -51086,7 +51017,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 290000,
       "list_price": null,
       "discount_percent": 0,
@@ -51219,43 +51150,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "869157",
-      "title": "بالشتک ساعت و زیورالات کد 258 بسته 6 عددی",
-      "url": "https://www.digikala.com/product/dkp-869157/بالشتک-ساعت-و-زیورآلات-کد-258-بسته-6-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4025091.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "jewelry",
-      "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 158000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 167,
-      "seller": "واچ سنتر",
-      "rank": 5,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "ساعت و زیورآلات"
-      },
-      "supplier": {
-        "name": "واچ سنتر",
-        "url": "https://www.digikala.com/seller/A725T/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "21546204",
       "title": "ست ساعت مچی عقربه‌ای کوارتز و دستبند مردانه مدل carbon 314 به همراه گردنبند و انگشتر",
       "url": "https://www.digikala.com/product/dkp-21546204/ست-ساعت-مچی-عقربهای-کوارتز-و-دستبند-مردانه-مدل-carbon-314-به-همراه-گردنبند-و-انگشتر",
@@ -51263,14 +51157,14 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 1000000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.4,
       "rating_count": 75,
       "seller": "دومینو واچ",
-      "rank": 6,
+      "rank": 5,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -51285,7 +51179,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -51325,6 +51219,43 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "20844255",
+      "title": "ست ساعت مچی عقربه‌ای کوارتز و دستبند زنانه مدل 429-1 R",
+      "url": "https://www.digikala.com/product/dkp-20844255/ست-ساعت-مچی-عقربهای-کوارتز-و-دستبند-زنانه-مدل-429-1-r",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5062507c6aabe4bd827105ef4563a00dad8fd7e7_1762844806.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "jewelry",
+      "category_label": "ساعت و زیورآلات",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 557000,
+      "list_price": 600000,
+      "discount_percent": 7,
+      "rating": 3.8,
+      "rating_count": 153,
+      "seller": "دومینو واچ",
+      "rank": 6,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "ساعت و زیورآلات"
+      },
+      "supplier": {
+        "name": "دومینو واچ",
+        "url": "https://www.digikala.com/seller/unikwatch/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "16013962",
       "title": "جعبه ساعت مدل رویال کد 6",
       "url": "https://www.digikala.com/product/dkp-16013962/جعبه-ساعت-مدل-رویال-کد-6",
@@ -51332,7 +51263,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 1590000,
       "list_price": null,
       "discount_percent": 0,
@@ -51350,43 +51281,6 @@
       "supplier": {
         "name": "ترمه دیباج",
         "url": "https://www.digikala.com/seller/C7DFG/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20844255",
-      "title": "ست ساعت مچی عقربه‌ای کوارتز و دستبند زنانه مدل 429-1 R",
-      "url": "https://www.digikala.com/product/dkp-20844255/ست-ساعت-مچی-عقربهای-کوارتز-و-دستبند-زنانه-مدل-429-1-r",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5062507c6aabe4bd827105ef4563a00dad8fd7e7_1762844806.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "jewelry",
-      "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 557000,
-      "list_price": 600000,
-      "discount_percent": 7,
-      "rating": 3.8,
-      "rating_count": 153,
-      "seller": "دومینو واچ",
-      "rank": 7,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "ساعت و زیورآلات"
-      },
-      "supplier": {
-        "name": "دومینو واچ",
-        "url": "https://www.digikala.com/seller/unikwatch/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -51469,6 +51363,43 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "12506609",
+      "title": "ساعت مچی عقربه‌ای کوارتز زنانه مدل SA-01",
+      "url": "https://www.digikala.com/product/dkp-12506609/ساعت-مچی-عقربهای-کوارتز-زنانه-مدل-sa-01",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7b9013352a6e806f95f554b5bf724d138028814e_1693216928.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "jewelry",
+      "category_label": "ساعت و زیورآلات",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 837000,
+      "list_price": 957000,
+      "discount_percent": 13,
+      "rating": 4.2,
+      "rating_count": 477,
+      "seller": "دومینو واچ",
+      "rank": 7,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "ساعت و زیورآلات"
+      },
+      "supplier": {
+        "name": "دومینو واچ",
+        "url": "https://www.digikala.com/seller/unikwatch/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "21216670",
       "title": "ملزومات ساخت زیور الات لوم بندز مدل Simple &amp; Easy",
       "url": "https://www.digikala.com/product/dkp-21216670/ملزومات-ساخت-زیور-آلات-لوم-بندز-مدل-simple-amp-easy",
@@ -51537,43 +51468,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "12506609",
-      "title": "ساعت مچی عقربه‌ای کوارتز زنانه مدل SA-01",
-      "url": "https://www.digikala.com/product/dkp-12506609/ساعت-مچی-عقربهای-کوارتز-زنانه-مدل-sa-01",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7b9013352a6e806f95f554b5bf724d138028814e_1693216928.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "jewelry",
-      "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 837000,
-      "list_price": 957000,
-      "discount_percent": 13,
-      "rating": 4.2,
-      "rating_count": 477,
-      "seller": "دومینو واچ",
-      "rank": 8,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "ساعت و زیورآلات"
-      },
-      "supplier": {
-        "name": "دومینو واچ",
-        "url": "https://www.digikala.com/seller/unikwatch/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "19413469",
       "title": "ست زیورالات دست ساز زنانه کد JW177.6",
       "url": "https://www.digikala.com/product/dkp-19413469/ست-زیورآلات-دست-ساز-زنانه-کد-jw1776",
@@ -51618,14 +51512,14 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 460000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
       "rating_count": 23,
       "seller": "واچ سنتر",
-      "rank": 9,
+      "rank": 8,
       "available": true,
       "badges": [
         "فروشنده معتبر",
@@ -51640,7 +51534,42 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "2342736",
+      "title": "استند زیورالات مدل shkh1",
+      "url": "https://www.digikala.com/product/dkp-2342736/استند-زیورآلات-مدل-shkh1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/115073537.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "jewelry",
+      "category_label": "ساعت و زیورآلات",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 524700,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 1882,
+      "seller": "کالافان",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "زیورآلات ساعت"
+      },
+      "supplier": {
+        "name": "کالافان",
+        "url": "https://www.digikala.com/seller/5AJTT/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -5,
         "is_new": false
       }
     },
@@ -51714,6 +51643,42 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "869159",
+      "title": "بالشتک ساعت و زیورالات کد 259 بسته 6 عددی",
+      "url": "https://www.digikala.com/product/dkp-869159/بالشتک-ساعت-و-زیورآلات-کد-259-بسته-6-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4025125.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "jewelry",
+      "category_label": "ساعت و زیورآلات",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 155000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 91,
+      "seller": "واچ سنتر",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ساعت و زیورآلات"
+      },
+      "supplier": {
+        "name": "واچ سنتر",
+        "url": "https://www.digikala.com/seller/A725T/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -51934,42 +51899,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "869159",
-      "title": "بالشتک ساعت و زیورالات کد 259 بسته 6 عددی",
-      "url": "https://www.digikala.com/product/dkp-869159/بالشتک-ساعت-و-زیورآلات-کد-259-بسته-6-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4025125.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "jewelry",
-      "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 155000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 91,
-      "seller": "واچ سنتر",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "ساعت و زیورآلات"
-      },
-      "supplier": {
-        "name": "واچ سنتر",
-        "url": "https://www.digikala.com/seller/A725T/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "14108899",
       "title": "جعبه جواهرات مدل مسافرتی",
       "url": "https://www.digikala.com/product/dkp-14108899/جعبه-جواهرات-مدل-مسافرتی",
@@ -52000,6 +51929,41 @@
       "signals": {
         "price_change_pct": 0.26,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "2299587",
+      "title": "ست ساعت مچی عقربه ای زنانه و مردانه کد A-0002",
+      "url": "https://www.digikala.com/product/dkp-2299587/ست-ساعت-مچی-عقربه-ای-زنانه-و-مردانه-کد-a-0002",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/114839621.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "jewelry",
+      "category_label": "ساعت و زیورآلات",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 1780000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 218,
+      "seller": "گالری اسپیناس",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "ساعت و زیورآلات"
+      },
+      "supplier": {
+        "name": "گالری اسپیناس",
+        "url": "https://www.digikala.com/seller/D9M4J/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -52114,41 +52078,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "2299587",
-      "title": "ست ساعت مچی عقربه ای زنانه و مردانه کد A-0002",
-      "url": "https://www.digikala.com/product/dkp-2299587/ست-ساعت-مچی-عقربه-ای-زنانه-و-مردانه-کد-a-0002",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/114839621.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "jewelry",
-      "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 1780000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 218,
-      "seller": "گالری اسپیناس",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "ساعت و زیورآلات"
-      },
-      "supplier": {
-        "name": "گالری اسپیناس",
-        "url": "https://www.digikala.com/seller/D9M4J/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "3896594",
       "title": "ملزومات ساخت زیور الات کد mel-1 مجموعه 100 عددی",
       "url": "https://www.digikala.com/product/dkp-3896594/ملزومات-ساخت-زیور-آلات-کد-mel-1-مجموعه-100-عددی",
@@ -52185,6 +52114,41 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "12551445",
+      "title": "ست ساعت مچی عقربه ای زنانه و مردانه مدل 02",
+      "url": "https://www.digikala.com/product/dkp-12551445/ست-ساعت-مچی-عقربه-ای-زنانه-و-مردانه-رولکس-مدل-02",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/db83423ee1c01b43862da1fc28294fc30ceef518_1693587151.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "jewelry",
+      "category_label": "ساعت و زیورآلات",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 2717600,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 90,
+      "seller": "راد استار",
+      "rank": 11,
+      "available": true,
+      "badges": [
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ساعت و زیورآلات"
+      },
+      "supplier": {
+        "name": "راد استار",
+        "url": "https://www.digikala.com/seller/CFXAU/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "21390591",
       "title": "اویز ساعت زنانه دلنار گالری مدل شکوفه",
       "url": "https://www.digikala.com/product/dkp-21390591/آویز-ساعت-زنانه-دلنار-گالری-مدل-شکوفه",
@@ -52192,7 +52156,7 @@
       "brand": "دلنار گالری",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 125000,
       "list_price": null,
       "discount_percent": 0,
@@ -52213,7 +52177,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -52325,35 +52289,37 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "12551445",
-      "title": "ست ساعت مچی عقربه ای زنانه و مردانه مدل 02",
-      "url": "https://www.digikala.com/product/dkp-12551445/ست-ساعت-مچی-عقربه-ای-زنانه-و-مردانه-رولکس-مدل-02",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/db83423ee1c01b43862da1fc28294fc30ceef518_1693587151.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "22547391",
+      "title": "ست ساعت مچی عقربه ای و دستبند زنانه مدل 3-437 GD",
+      "url": "https://www.digikala.com/product/dkp-22547391/ست-ساعت-مچی-عقربه-ای-و-دستبند-زنانه-مدل-3-437-gd",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/261b58c135cb52d057a7518003984d1af8e7aacb_1787140302.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 2717600,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 90,
-      "seller": "راد استار",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 987000,
+      "list_price": 1200000,
+      "discount_percent": 18,
+      "rating": 4.1,
+      "rating_count": 11,
+      "seller": "دومینو واچ",
       "rank": 12,
       "available": true,
       "badges": [
-        "تنها 2 عدد در انبار باقی مانده"
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
         "query": "ساعت و زیورآلات"
       },
       "supplier": {
-        "name": "راد استار",
-        "url": "https://www.digikala.com/seller/CFXAU/"
+        "name": "دومینو واچ",
+        "url": "https://www.digikala.com/seller/unikwatch/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -52367,7 +52333,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 180000,
       "list_price": null,
       "discount_percent": 0,
@@ -52386,7 +52352,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -52498,37 +52464,68 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22547391",
-      "title": "ست ساعت مچی عقربه ای و دستبند زنانه مدل 3-437 GD",
-      "url": "https://www.digikala.com/product/dkp-22547391/ست-ساعت-مچی-عقربه-ای-و-دستبند-زنانه-مدل-3-437-gd",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/261b58c135cb52d057a7518003984d1af8e7aacb_1787140302.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "14250557",
+      "title": "ست ساعت مچی عقربه ای زنانه و مردانه مدل Ca_msh01",
+      "url": "https://www.digikala.com/product/dkp-14250557/ست-ساعت-مچی-عقربه-ای-زنانه-و-مردانه-مدل-ca-msh01",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c8f0c13599397fe02fcc99f3cb706a249c73c4b4_1706472054.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 987000,
-      "list_price": 1200000,
-      "discount_percent": 18,
-      "rating": 4.1,
-      "rating_count": 11,
-      "seller": "دومینو واچ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 2636900,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 46,
+      "seller": "راد استار",
       "rank": 13,
       "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
+      "badges": [],
       "raw_ref": {
         "query": "ساعت و زیورآلات"
       },
       "supplier": {
-        "name": "دومینو واچ",
-        "url": "https://www.digikala.com/seller/unikwatch/"
+        "name": "راد استار",
+        "url": "https://www.digikala.com/seller/CFXAU/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "315049",
+      "title": "اویز زیور الات مدل شاخ گوزن",
+      "url": "https://www.digikala.com/product/dkp-315049/آویز-زیور-آلات-مدل-شاخ-گوزن",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1235577.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "jewelry",
+      "category_label": "ساعت و زیورآلات",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 179670,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 8491,
+      "seller": "کالافان",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "زیورآلات ساعت"
+      },
+      "supplier": {
+        "name": "کالافان",
+        "url": "https://www.digikala.com/seller/5AJTT/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -11,
         "is_new": false
       }
     },
@@ -52651,7 +52648,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 670000,
       "list_price": null,
       "discount_percent": 0,
@@ -52679,6 +52676,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "22077850",
+      "title": "ست ساعت مچی عقربه‌ای کوارتز و ست زیورالات زنانه مدل 439-blk",
+      "url": "https://www.digikala.com/product/dkp-22077850/ست-ساعت-مچی-عقربهای-کوارتز-و-ست-زیورآلات-زنانه-مدل-439-blk",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a62a41ff83b9e7d5b6a07bf0b2bf7fec6d48c57a_1782805586.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "jewelry",
+      "category_label": "ساعت و زیورآلات",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 1000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 32,
+      "seller": "دومینو واچ",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "ساعت و زیورآلات"
+      },
+      "supplier": {
+        "name": "دومینو واچ",
+        "url": "https://www.digikala.com/seller/unikwatch/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -12,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "4561327",
       "title": "اویز ساعت زنانه مدل قلب کد heart1299",
       "url": "https://www.digikala.com/product/dkp-4561327/آویز-ساعت-زنانه-مدل-قلب-کد-heart1299",
@@ -52686,7 +52719,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 98000,
       "list_price": null,
       "discount_percent": 0,
@@ -52702,39 +52735,6 @@
       "supplier": {
         "name": "مروارید مشکی",
         "url": "https://www.digikala.com/seller/GYTEG/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "14250557",
-      "title": "ست ساعت مچی عقربه ای زنانه و مردانه مدل Ca_msh01",
-      "url": "https://www.digikala.com/product/dkp-14250557/ست-ساعت-مچی-عقربه-ای-زنانه-و-مردانه-مدل-ca-msh01",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c8f0c13599397fe02fcc99f3cb706a249c73c4b4_1706472054.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "jewelry",
-      "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 2636900,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 46,
-      "seller": "راد استار",
-      "rank": 15,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "ساعت و زیورآلات"
-      },
-      "supplier": {
-        "name": "راد استار",
-        "url": "https://www.digikala.com/seller/CFXAU/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -52883,6 +52883,42 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "2350001",
+      "title": "اویز زیور الات مدل شاخ گوزن 2020",
+      "url": "https://www.digikala.com/product/dkp-2350001/آویز-زیور-آلات-مدل-شاخ-گوزن-2020",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/115114420.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "jewelry",
+      "category_label": "ساعت و زیورآلات",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 176000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 1158,
+      "seller": "توران کو",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "زیورآلات ساعت"
+      },
+      "supplier": {
+        "name": "سپند آسا",
+        "url": "https://www.digikala.com/seller/DMR7V/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -15,
         "is_new": false
       }
     },
@@ -53250,7 +53286,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 990000,
       "list_price": null,
       "discount_percent": 0,
@@ -53319,7 +53355,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 161040,
       "list_price": null,
       "discount_percent": 0,
@@ -53341,7 +53377,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -53534,7 +53570,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 2650000,
       "list_price": null,
       "discount_percent": 0,
@@ -53845,7 +53881,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 987000,
       "list_price": 1200000,
       "discount_percent": 18,
@@ -53882,7 +53918,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 3480000,
       "list_price": null,
       "discount_percent": 0,
@@ -53952,7 +53988,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 174000,
       "list_price": null,
       "discount_percent": 0,
@@ -53974,7 +54010,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -54300,7 +54336,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 2090000,
       "list_price": 2200000,
       "discount_percent": 5,
@@ -54336,7 +54372,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 163350,
       "list_price": null,
       "discount_percent": 0,
@@ -54359,7 +54395,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -54660,7 +54696,7 @@
       "brand": "متفرقه",
       "category_key": "jewelry",
       "category_label": "ساعت و زیورآلات",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 1777770,
       "list_price": null,
       "discount_percent": 0,
@@ -85407,7 +85443,7 @@
       "brand": "مولتی نانو",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T04:12:44.466Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 699000,
       "list_price": null,
       "discount_percent": 0,
@@ -85443,7 +85479,7 @@
       "brand": "متفرقه",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 3490000,
       "list_price": 5000000,
       "discount_percent": 30,
@@ -85584,7 +85620,7 @@
       "brand": "متفرقه",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T04:12:44.466Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 4319100,
       "list_price": null,
       "discount_percent": 0,
@@ -85605,7 +85641,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -85619,7 +85655,7 @@
       "brand": "متفرقه",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 948000,
       "list_price": null,
       "discount_percent": 0,
@@ -85757,12 +85793,12 @@
       "brand": "متفرقه",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T14:20:52.337Z",
-      "price": 338500,
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 351500,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
-      "rating_count": 1616,
+      "rating_count": 1620,
       "seller": "سولی سنتر",
       "rank": 3,
       "available": true,
@@ -85779,7 +85815,7 @@
         "url": "https://www.digikala.com/seller/E4HVM/"
       },
       "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": 3.84,
         "rank_change": 0,
         "is_new": false
       }
@@ -85822,6 +85858,41 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "1448524",
+      "title": "کنسول بازی قابل حمل ساپ گیم باکس مدل Plus 400",
+      "url": "https://www.digikala.com/product/dkp-1448524/کنسول-بازی-قابل-حمل-ساپ-گیم-باکس-مدل-plus-400",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0210d494f7496c594ec3d97177de218c67aa80b3_1786296548.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 1200000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 3528,
+      "seller": "لاوان استور",
+      "rank": 3,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {
+        "name": "شاپ کلاسیک",
+        "url": "https://www.digikala.com/seller/EVFGJ/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "7895523",
       "title": "تابلو مدل انگیزشی و گیمینگ game on بازی در جریان است",
       "url": "https://www.digikala.com/product/dkp-7895523/تابلو-مدل-انگیزشی-و-گیمینگ-game-on-بازی-در-جریان-است",
@@ -85829,14 +85900,14 @@
       "brand": "متفرقه",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 163000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
       "rating_count": 171,
       "seller": "دنیای قاب",
-      "rank": 3,
+      "rank": 4,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -85850,7 +85921,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -85892,36 +85963,33 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1448524",
-      "title": "کنسول بازی قابل حمل ساپ گیم باکس مدل Plus 400",
-      "url": "https://www.digikala.com/product/dkp-1448524/کنسول-بازی-قابل-حمل-ساپ-گیم-باکس-مدل-plus-400",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0210d494f7496c594ec3d97177de218c67aa80b3_1786296548.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "12110066",
+      "title": "کنسول بازی قابل حمل مدل G5",
+      "url": "https://www.digikala.com/product/dkp-12110066/کنسول-بازی-قابل-حمل-مدل-g5",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8b6d246acc3c64f80547cb343634f14a64083f2a_1690276148.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T04:12:44.466Z",
-      "price": 1200000,
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 1950000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 3528,
-      "seller": "لاوان استور",
+      "rating": 4.1,
+      "rating_count": 201,
+      "seller": "موبایل مهیار",
       "rank": 4,
       "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
+      "badges": [],
       "raw_ref": {
         "query": "کنسول بازی گیمینگ"
       },
       "supplier": {
-        "name": "شاپ کلاسیک",
-        "url": "https://www.digikala.com/seller/EVFGJ/"
+        "name": "بت گیم",
+        "url": "https://www.digikala.com/seller/HEFXE/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
+        "price_change_pct": -3.94,
+        "rank_change": 2,
         "is_new": false
       }
     },
@@ -85935,14 +86003,14 @@
       "brand": "متفرقه",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 329000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
       "rating_count": 860,
       "seller": "سولی سنتر",
-      "rank": 4,
+      "rank": 5,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -85957,7 +86025,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -86142,6 +86210,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "15052599",
+      "title": "کنسول بازی پرتابل مدل Game Stick M22",
+      "url": "https://www.digikala.com/product/dkp-15052599/کنسول-بازی-پرتابل-مدل-game-stick-m22",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f80fb5c89edee021d47223ebb69d95220a301151_1786296574.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 7150000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 2.7,
+      "rating_count": 342,
+      "seller": "پاور ایران",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {
+        "name": "پخش جانبی سرو",
+        "url": "https://www.digikala.com/seller/J74CE/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "15965667",
       "title": "ریسه ال ای دی مدل پکیج گیمینگ 16 رنگ کد RGB 12v طول 5 متر",
       "url": "https://www.digikala.com/product/dkp-15965667/ریسه-ال-ای-دی-مدل-پکیج-گیمینگ-16-رنگ-کد-rgb-12v-طول-5-متر",
@@ -86149,14 +86253,14 @@
       "brand": "متفرقه",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 1300000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
-      "rating_count": 1045,
+      "rating_count": 1046,
       "seller": " کارو شاپ",
-      "rank": 5,
+      "rank": 6,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -86167,43 +86271,6 @@
       "supplier": {
         "name": " کارو شاپ",
         "url": "https://www.digikala.com/seller/D5CG2/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 5,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "12110066",
-      "title": "کنسول بازی قابل حمل مدل G5",
-      "url": "https://www.digikala.com/product/dkp-12110066/کنسول-بازی-قابل-حمل-مدل-g5",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8b6d246acc3c64f80547cb343634f14a64083f2a_1690276148.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-15T22:09:10.661Z",
-      "price": 2030000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 201,
-      "seller": "راشافیبل",
-      "rank": 6,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کنسول بازی گیمینگ"
-      },
-      "supplier": {
-        "name": "بت گیم",
-        "url": "https://www.digikala.com/seller/HEFXE/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -86321,42 +86388,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "15052599",
-      "title": "کنسول بازی پرتابل مدل Game Stick M22",
-      "url": "https://www.digikala.com/product/dkp-15052599/کنسول-بازی-پرتابل-مدل-game-stick-m22",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f80fb5c89edee021d47223ebb69d95220a301151_1786296574.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T04:12:44.466Z",
-      "price": 7150000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 2.7,
-      "rating_count": 342,
-      "seller": "پاور ایران",
-      "rank": 6,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کنسول بازی گیمینگ"
-      },
-      "supplier": {
-        "name": "پخش جانبی سرو",
-        "url": "https://www.digikala.com/seller/J74CE/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "7558166",
       "title": "کنسول مدل Sj1184",
       "url": "https://www.digikala.com/product/dkp-7558166/کنسول-مدل-sj1184",
@@ -86394,36 +86425,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "16676284",
-      "title": "ایکون لایت گیم لند مدل GAME ROOM",
-      "url": "https://www.digikala.com/product/dkp-16676284/آیکون-لایت-گیم-لند-مدل-game-room",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8d9fb71859f0ddccf63eebe708bfa9e2ab372a8c_1786296579.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "12201477",
+      "title": "کنسول بازی پرتابل دستی Controller GamePad مدل S10",
+      "url": "https://www.digikala.com/product/dkp-12201477/کنسول-بازی-پرتابل-دستی-controller-gamepad-مدل-s10",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0edfe4b374e37b75cb2fa3e77ac2803c43679d4f_1786296568.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 329000,
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 2234400,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 228,
-      "seller": "سولی سنتر",
+      "rating": 3.9,
+      "rating_count": 207,
+      "seller": "رابین توی",
       "rank": 6,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "گیمینگ"
+        "query": "کنسول بازی گیمینگ"
       },
       "supplier": {
-        "name": "سولی سنتر",
-        "url": "https://www.digikala.com/seller/E4HVM/"
+        "name": "شاپ کلاسیک",
+        "url": "https://www.digikala.com/seller/EVFGJ/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 5,
+        "price_change_pct": 39.65,
+        "rank_change": 4,
         "is_new": false
       }
     },
@@ -86502,41 +86533,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "14237267",
-      "title": "صندلی گیمینگ مدل s50",
-      "url": "https://www.digikala.com/product/dkp-14237267/صندلی-گیمینگ-مدل-s2",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/02ee0121e6fdc1acedb55b159f3692261f605d4a_1778307250.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 12770000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 656,
-      "seller": "مبل میراژ",
-      "rank": 7,
-      "available": true,
-      "badges": [
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "گیمینگ"
-      },
-      "supplier": {
-        "name": "مبلمان اداری امیران",
-        "url": "https://www.digikala.com/seller/G29XG/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "11291589",
       "title": "کنسول مدل IKE4524",
       "url": "https://www.digikala.com/product/dkp-11291589/کنسول-مدل-ike4524",
@@ -86566,6 +86562,114 @@
       "signals": {
         "price_change_pct": 0.08,
         "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20896980",
+      "title": "لپ‌تاپ گیمینگ 15.6 اینچی لنوو مدل LOQ 15IAX9E با پردازنده Core i5-12450HX، کارت گرافیک GeForce RTX 3050 با 6 گیگابایت حافظه اختصاصی، رم 16 گیگابایت DDR5، حافظه SSD با ظرفیت 512 گیگابایت و نمایشگر Full HD با نرخ نوسازی 144 هرتز، سیستم عامل Windows 11",
+      "url": "https://www.digikala.com/product/dkp-20896980/لپتاپ-گیمینگ-156-اینچی-لنوو-مدل-loq-15iax9e-با-پردازنده-core-i5-12450hx-کارت-گرافیک-geforce-rtx-3050-با-6-گیگابایت-حافظه-اختصاصی-رم-16-گیگابایت-ddr5-حافظه-ssd-با-ظرفیت-512-گیگابایت-و-نمایشگر-full-hd-با-نرخ-نوسازی-144-هرتز-سیستم-عامل-windows-11",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5b048de06d4774a73308b412a5fceeb7dced70db_1763211364.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "لنوو",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 273000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 15,
+      "seller": "امیتاک",
+      "rank": 7,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "گیمینگ"
+      },
+      "supplier": {
+        "name": "طرح اندیشان سمت نو",
+        "url": "https://www.digikala.com/seller/CH4KA/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3739184",
+      "title": "کنسول بازی مایکروسافت مدل Xbox Series S ظرفیت 512 گیگابایت",
+      "url": "https://www.digikala.com/product/dkp-3739184/کنسول-بازی-مایکروسافت-مدل-xbox-series-s-ظرفیت-512-گیگابایت",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ec7bee41c0bba7343c029310b2384f187639fd7e_1786296553.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "مایکروسافت",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 124000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 1047,
+      "seller": "آنالوگ",
+      "rank": 7,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {
+        "name": "آنالوگ",
+        "url": "https://www.digikala.com/seller/ACVN2/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "14237267",
+      "title": "صندلی گیمینگ مدل s50",
+      "url": "https://www.digikala.com/product/dkp-14237267/صندلی-گیمینگ-مدل-s2",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/02ee0121e6fdc1acedb55b159f3692261f605d4a_1778307250.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 12770000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 656,
+      "seller": "مبل میراژ",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "گیمینگ"
+      },
+      "supplier": {
+        "name": "مبلمان اداری امیران",
+        "url": "https://www.digikala.com/seller/G29XG/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -86608,42 +86712,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20896980",
-      "title": "لپ‌تاپ گیمینگ 15.6 اینچی لنوو مدل LOQ 15IAX9E با پردازنده Core i5-12450HX، کارت گرافیک GeForce RTX 3050 با 6 گیگابایت حافظه اختصاصی، رم 16 گیگابایت DDR5، حافظه SSD با ظرفیت 512 گیگابایت و نمایشگر Full HD با نرخ نوسازی 144 هرتز، سیستم عامل Windows 11",
-      "url": "https://www.digikala.com/product/dkp-20896980/لپتاپ-گیمینگ-156-اینچی-لنوو-مدل-loq-15iax9e-با-پردازنده-core-i5-12450hx-کارت-گرافیک-geforce-rtx-3050-با-6-گیگابایت-حافظه-اختصاصی-رم-16-گیگابایت-ddr5-حافظه-ssd-با-ظرفیت-512-گیگابایت-و-نمایشگر-full-hd-با-نرخ-نوسازی-144-هرتز-سیستم-عامل-windows-11",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5b048de06d4774a73308b412a5fceeb7dced70db_1763211364.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "لنوو",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 273000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 15,
-      "seller": "امیتاک",
-      "rank": 8,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "گیمینگ"
-      },
-      "supplier": {
-        "name": "طرح اندیشان سمت نو",
-        "url": "https://www.digikala.com/seller/CH4KA/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "21145876",
       "title": "کنسول بازی قابل حمل مدل R36 ULTRA",
       "url": "https://www.digikala.com/product/dkp-21145876/کنسول-بازی-قابل-حمل-مدل-r36-ultra",
@@ -86674,42 +86742,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "17986004",
-      "title": "کنسول بازی گیم استیک کد1001 Game stick 4K Ultra",
-      "url": "https://www.digikala.com/product/dkp-17986004/کنسول-بازی-گیم-استیک-کد1001-game-stick-4k-ultra",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5d39103b74857641cb037a6d3c9b7891529a04a9_1736595322.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T04:12:44.466Z",
-      "price": 4540270,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 2.5,
-      "rating_count": 30,
-      "seller": "فروشگاه کامپیوتر دریا",
-      "rank": 8,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کنسول بازی گیمینگ"
-      },
-      "supplier": {
-        "name": "فروشگاه دراگونا",
-        "url": "https://www.digikala.com/seller/C6RFA/"
-      },
-      "signals": {
-        "price_change_pct": 1.61,
-        "rank_change": 4,
         "is_new": false
       }
     },
@@ -86753,6 +86785,76 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "15086571",
+      "title": "کنسول بازی پرتابل مدل game stick lite",
+      "url": "https://www.digikala.com/product/dkp-15086571/کنسول-بازی-پرتابل-مدل-game-stick-lite",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7020e0d56d181530d3d1ad1aef35b60efd14ab09_1786296574.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 4480000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.3,
+      "rating_count": 355,
+      "seller": "آیرال سیتی",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {
+        "name": "آیرال سیتی",
+        "url": "https://www.digikala.com/seller/DAEJK/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17986004",
+      "title": "کنسول بازی گیم استیک کد1001 Game stick 4K Ultra",
+      "url": "https://www.digikala.com/product/dkp-17986004/کنسول-بازی-گیم-استیک-کد1001-game-stick-4k-ultra",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5d39103b74857641cb037a6d3c9b7891529a04a9_1736595322.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 4606300,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 2.6,
+      "rating_count": 32,
+      "seller": "آیرال سیتی",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {
+        "name": "فروشگاه دراگونا",
+        "url": "https://www.digikala.com/seller/C6RFA/"
+      },
+      "signals": {
+        "price_change_pct": 1.45,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "20709043",
       "title": "لپ‌تاپ گیمینگ 16 اینچی ایسوس مدل TUF Gaming F16 FX608JMR با پردازنده Core i7-14650HX، گرافیک GeForce RTX 5060 8GB، رم 16 گیگابایت DDR5 با فرکانس 5600 مگاهرتز، حافظه SSD با ظرفیت 512 گیگابایت و نمایشگر WUXGA با نرخ نوسازی 165 هرتز، پشتیبانی از G-Sync",
       "url": "https://www.digikala.com/product/dkp-20709043/لپتاپ-گیمینگ-16-اینچی-ایسوس-مدل-tuf-gaming-f16-fx608jmr-با-پردازنده-core-i7-14650hx-گرافیک-geforce-rtx-5060-8gb-رم-16-گیگابایت-ddr5-با-فرکانس-5600-مگاهرتز-حافظه-ssd-با-ظرفیت-512-گیگابایت-و-نمایشگر-wuxga-با-نرخ-نوسازی-165-هرتز-پشتیبانی-از-g-sync",
@@ -86760,7 +86862,7 @@
       "brand": "ایسوس",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 411500000,
       "list_price": null,
       "discount_percent": 0,
@@ -86862,43 +86964,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "4175861",
-      "title": "کنسول بازی مایکروسافت مدل Xbox Series S ظرفیت 512 گیگابایت به همراه دسته اضافی",
-      "url": "https://www.digikala.com/product/dkp-4175861/مجموعه-کنسول-بازی-مایکروسافت-مدل-xbox-series-s-ظرفیت-500-گیگابایت-به-همراه-دسته-اضافی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/b3c7bb2be0b178e4f28797afdcd81ca77ca56ce6_1754244116.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "مایکروسافت",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T04:12:44.466Z",
-      "price": 135000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 270,
-      "seller": "آنالوگ",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کنسول بازی گیمینگ"
-      },
-      "supplier": {
-        "name": "آنالوگ",
-        "url": "https://www.digikala.com/seller/ACVN2/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "8499581",
       "title": "کنسول مدل NA-20542",
       "url": "https://www.digikala.com/product/dkp-8499581/کنسول-مدل-na-20542",
@@ -86926,6 +86991,79 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "16676284",
+      "title": "ایکون لایت گیم لند مدل GAME ROOM",
+      "url": "https://www.digikala.com/product/dkp-16676284/آیکون-لایت-گیم-لند-مدل-game-room",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8d9fb71859f0ddccf63eebe708bfa9e2ab372a8c_1786296579.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 329000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 228,
+      "seller": "سولی سنتر",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "گیمینگ"
+      },
+      "supplier": {
+        "name": "سولی سنتر",
+        "url": "https://www.digikala.com/seller/E4HVM/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "4175861",
+      "title": "کنسول بازی مایکروسافت مدل Xbox Series S ظرفیت 512 گیگابایت به همراه دسته اضافی",
+      "url": "https://www.digikala.com/product/dkp-4175861/مجموعه-کنسول-بازی-مایکروسافت-مدل-xbox-series-s-ظرفیت-500-گیگابایت-به-همراه-دسته-اضافی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b3c7bb2be0b178e4f28797afdcd81ca77ca56ce6_1754244116.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "مایکروسافت",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 135000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 270,
+      "seller": "آنالوگ",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {
+        "name": "آنالوگ",
+        "url": "https://www.digikala.com/seller/ACVN2/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -86962,76 +87100,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "15086571",
-      "title": "کنسول بازی پرتابل مدل game stick lite",
-      "url": "https://www.digikala.com/product/dkp-15086571/کنسول-بازی-پرتابل-مدل-game-stick-lite",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7020e0d56d181530d3d1ad1aef35b60efd14ab09_1786296574.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T04:12:44.466Z",
-      "price": 4480000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.3,
-      "rating_count": 355,
-      "seller": "آیرال سیتی",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "کنسول بازی گیمینگ"
-      },
-      "supplier": {
-        "name": "آیرال سیتی",
-        "url": "https://www.digikala.com/seller/DAEJK/"
-      },
-      "signals": {
-        "price_change_pct": -1.06,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "12201477",
-      "title": "کنسول بازی پرتابل دستی Controller GamePad مدل S10",
-      "url": "https://www.digikala.com/product/dkp-12201477/کنسول-بازی-پرتابل-دستی-controller-gamepad-مدل-s10",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0edfe4b374e37b75cb2fa3e77ac2803c43679d4f_1786296568.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-15T22:09:10.661Z",
-      "price": 1600000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 207,
-      "seller": "فرستک",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "کنسول بازی گیمینگ"
-      },
-      "supplier": {
-        "name": "شاپ کلاسیک",
-        "url": "https://www.digikala.com/seller/EVFGJ/"
-      },
-      "signals": {
-        "price_change_pct": -3.03,
-        "rank_change": -2,
         "is_new": false
       }
     },
@@ -87222,14 +87290,14 @@
       "brand": "متفرقه",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 85000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
       "rating_count": 13,
       "seller": "وینتج",
-      "rank": 10,
+      "rank": 11,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -87242,8 +87310,8 @@
         "url": "https://www.digikala.com/seller/FN6KG/"
       },
       "signals": {
-        "price_change_pct": 41.67,
-        "rank_change": 6,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -87286,42 +87354,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20288078",
-      "title": "لپ تاپ گیمینگ 15.6 اینچی لنوو مدل LOQ 15IRX10 با پردازنده Core i7-14700HX، کارت گرافیک GeForce RTX 5050 با 8 گیگابایت حافظه GDDR7، رم 24 گیگابایتی DDR5، حافظه SSD با ظرفیت 512 گیگابایت و نمایشگر Full HD با نرخ نوسازی 144 هرتز و پشتیبانی از G-Sync",
-      "url": "https://www.digikala.com/product/dkp-20288078/لپ-تاپ-گیمینگ-156-اینچی-لنوو-مدل-loq-15irx10-با-پردازنده-core-i7-14700hx-کارت-گرافیک-geforce-rtx-5050-با-8-گیگابایت-حافظه-gddr7-رم-24-گیگابایتی-ddr5-حافظه-ssd-با-ظرفیت-512-گیگابایت-و-نمایشگر-full-hd-با-نرخ-نوسازی-144-هرتز-و-پشتیبانی-از-g-sync",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/74907d6d88dd258c5aa511fa055a30366fe737bb_1756502029.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "لنوو",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 416000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 43,
-      "seller": "طرح اندیشان سمت نو",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "گیمینگ"
-      },
-      "supplier": {
-        "name": "طرح اندیشان سمت نو",
-        "url": "https://www.digikala.com/seller/CH4KA/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "11291633",
       "title": "کنسول مدل IKE4525",
       "url": "https://www.digikala.com/product/dkp-11291633/کنسول-مدل-ike4525",
@@ -87351,6 +87383,77 @@
       "signals": {
         "price_change_pct": 0.08,
         "rank_change": 6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "6404260",
+      "title": "کنسول بازی پرتابل مدل X7",
+      "url": "https://www.digikala.com/product/dkp-6404260/کنسول-بازی-پرتابل-مدل-x7",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8b3ebc43eeaddd39e8ff2639ca3b6e6af704909e_1786296559.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 6800000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.4,
+      "rating_count": 74,
+      "seller": "جانبی سالیوان",
+      "rank": 11,
+      "available": true,
+      "badges": [
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {
+        "name": "پخش عمده جهان",
+        "url": "https://www.digikala.com/seller/F9GEW/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20288078",
+      "title": "لپ تاپ گیمینگ 15.6 اینچی لنوو مدل LOQ 15IRX10 با پردازنده Core i7-14700HX، کارت گرافیک GeForce RTX 5050 با 8 گیگابایت حافظه GDDR7، رم 24 گیگابایتی DDR5، حافظه SSD با ظرفیت 512 گیگابایت و نمایشگر Full HD با نرخ نوسازی 144 هرتز و پشتیبانی از G-Sync",
+      "url": "https://www.digikala.com/product/dkp-20288078/لپ-تاپ-گیمینگ-156-اینچی-لنوو-مدل-loq-15irx10-با-پردازنده-core-i7-14700hx-کارت-گرافیک-geforce-rtx-5050-با-8-گیگابایت-حافظه-gddr7-رم-24-گیگابایتی-ddr5-حافظه-ssd-با-ظرفیت-512-گیگابایت-و-نمایشگر-full-hd-با-نرخ-نوسازی-144-هرتز-و-پشتیبانی-از-g-sync",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/74907d6d88dd258c5aa511fa055a30366fe737bb_1756502029.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "لنوو",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 416000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 43,
+      "seller": "طرح اندیشان سمت نو",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "گیمینگ"
+      },
+      "supplier": {
+        "name": "طرح اندیشان سمت نو",
+        "url": "https://www.digikala.com/seller/CH4KA/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -87428,41 +87531,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "6404260",
-      "title": "کنسول بازی پرتابل مدل X7",
-      "url": "https://www.digikala.com/product/dkp-6404260/کنسول-بازی-پرتابل-مدل-x7",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8b3ebc43eeaddd39e8ff2639ca3b6e6af704909e_1786296559.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T04:12:44.466Z",
-      "price": 6800000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.4,
-      "rating_count": 74,
-      "seller": "جانبی سالیوان",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کنسول بازی گیمینگ"
-      },
-      "supplier": {
-        "name": "پخش عمده جهان",
-        "url": "https://www.digikala.com/seller/F9GEW/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "11764182",
       "title": "کنسول مدل IKE4535",
       "url": "https://www.digikala.com/product/dkp-11764182/کنسول-مدل-ike4535",
@@ -87498,42 +87566,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "12673955",
-      "title": "تابلو شاسی مدل گیمینگ کد 39",
-      "url": "https://www.digikala.com/product/dkp-12673955/تابلو-شاسی-مدل-گیمینگ-کد-39",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a9648552f4221056c0eced30b48a6f49502e761f_1694787109.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 135200,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 95,
-      "seller": "آتریسا سنتر",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "گیمینگ"
-      },
-      "supplier": {
-        "name": "بهی سنتر",
-        "url": "https://www.digikala.com/seller/F7MZR/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "7622347",
       "title": "کنسول مدل NA-19161",
       "url": "https://www.digikala.com/product/dkp-7622347/کنسول-مدل-na-19161",
@@ -87563,6 +87595,78 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "12660687",
+      "title": "کنسول بازی قابل حمل مدل X7M",
+      "url": "https://www.digikala.com/product/dkp-12660687/کنسول-بازی-قابل-حمل-مدل-x7m",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1c86d20d254fa9d0d9a5e704be1e149c1f683ceb_1694559215.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 4357980,
+      "list_price": 4686000,
+      "discount_percent": 7,
+      "rating": 3.5,
+      "rating_count": 51,
+      "seller": "گستران سازان اینده",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {
+        "name": "گستران سازان اینده",
+        "url": "https://www.digikala.com/seller/FRFF5/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "12673955",
+      "title": "تابلو شاسی مدل گیمینگ کد 39",
+      "url": "https://www.digikala.com/product/dkp-12673955/تابلو-شاسی-مدل-گیمینگ-کد-39",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a9648552f4221056c0eced30b48a6f49502e761f_1694787109.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 135200,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 95,
+      "seller": "آتریسا سنتر",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "گیمینگ"
+      },
+      "supplier": {
+        "name": "بهی سنتر",
+        "url": "https://www.digikala.com/seller/F7MZR/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -87747,6 +87851,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "3738743",
+      "title": "کنسول بازی مایکروسافت مدل Xbox Series X ظرفیت 1 ترابایت",
+      "url": "https://www.digikala.com/product/dkp-3738743/کنسول-بازی-مایکروسافت-مدل-xbox-series-x-ظرفیت-1-ترابایت",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0cc0625f3c5590d7c1d1bbb88a0d21c74df23aae_1754243849.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "مایکروسافت",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 215000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 188,
+      "seller": "پی اس فور تهرانسر",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {
+        "name": "پی اس فور تهرانسر",
+        "url": "https://www.digikala.com/seller/GUDFH/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "20758213",
       "title": "لپ‌تاپ گیمینگ 15.6 اینچی اچ‌پی مدل Victus 15 Gaming fa2082wm، مجهز به پردازنده Core i5-13420H، کارت گرافیک GeForce RTX 4050 با 6 گیگابایت حافظه، رم 16 گیگابایت DDR4 و حافظه SSD با ظرفیت 1 ترابایت، نمایشگر Full HD با نرخ نوسازی 144 هرتز - کاستوم شده",
       "url": "https://www.digikala.com/product/dkp-20758213/لپتاپ-گیمینگ-156-اینچی-اچپی-مدل-victus-15-gaming-fa2082wm-مجهز-به-پردازنده-core-i5-13420h-کارت-گرافیک-geforce-rtx-4050-با-6-گیگابایت-حافظه-رم-16-گیگابایت-ddr4-و-حافظه-ssd-با-ظرفیت-1-ترابایت-نمایشگر-full-hd-با-نرخ-نوسازی-144-هرتز-کاستوم-شده",
@@ -87754,14 +87894,14 @@
       "brand": "اچ‌ پی",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 299000000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.6,
       "rating_count": 11,
       "seller": "طرح اندیشان سمت نو",
-      "rank": 13,
+      "rank": 14,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -87776,44 +87916,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "3739184",
-      "title": "کنسول بازی مایکروسافت مدل Xbox Series S ظرفیت 512 گیگابایت",
-      "url": "https://www.digikala.com/product/dkp-3739184/کنسول-بازی-مایکروسافت-مدل-xbox-series-s-ظرفیت-512-گیگابایت",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ec7bee41c0bba7343c029310b2384f187639fd7e_1786296553.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "مایکروسافت",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T04:12:44.466Z",
-      "price": 124000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 1047,
-      "seller": "آنالوگ",
-      "rank": 13,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کنسول بازی گیمینگ"
-      },
-      "supplier": {
-        "name": "آنالوگ",
-        "url": "https://www.digikala.com/seller/ACVN2/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -87964,79 +88067,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "4153832",
-      "title": "مجموعه کنسول بازی مایکروسافت مدل Xbox Series S ظرفیت 512 گیگابایت به همراه دسته اضافی",
-      "url": "https://www.digikala.com/product/dkp-4153832/مجموعه-کنسول-بازی-مایکروسافت-مدل-xbox-series-s-ظرفیت-500-گیگابایت-به-همراه-دسته-اضافی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c0decbd4b80d6e8e71ee157776df348e9976440a_1754244114.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "مایکروسافت",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T04:12:44.466Z",
-      "price": 135000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 468,
-      "seller": "آنالوگ",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کنسول بازی گیمینگ"
-      },
-      "supplier": {
-        "name": "آنالوگ",
-        "url": "https://www.digikala.com/seller/ACVN2/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20376064",
-      "title": "لپ‌تاپ گیمینگ 16 اینچی اچ‌پی مدل OMEN Gaming 16-ap0167AX، با پردازنده Ryzen 9-8940HX، کارت گرافیک NVIDIA GeForce RTX 5060 با 8 گیگابایت حافظه اختصاصی، رم 32 گیگابایت DDR5 و حافظه داخلی SSD با ظرفیت 1 ترابایت، نمایشگر IPS با وضوح WUXGA، وبکم FHD",
-      "url": "https://www.digikala.com/product/dkp-20376064/لپتاپ-گیمینگ-16-اینچی-اچپی-مدل-omen-gaming-16-ap0167ax-با-پردازنده-ryzen-9-8940hx-کارت-گرافیک-nvidia-geforce-rtx-5060-با-8-گیگابایت-حافظه-اختصاصی-رم-32-گیگابایت-ddr5-و-حافظه-داخلی-ssd-با-ظرفیت-1-ترابایت-نمایشگر-ips-با-وضوح-wuxga-وبکم-fhd",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a8be800ae60fa8701ef26a0b589070bf6a8a892f_1757254212.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 488000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 1,
-      "rating_count": 1,
-      "seller": "ایران پشتیبان",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "گیمینگ"
-      },
-      "supplier": {
-        "name": "ایران پشتیبان",
-        "url": "https://www.digikala.com/seller/HXY35/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "11853054",
       "title": "کنسول مدل IKE4565",
       "url": "https://www.digikala.com/product/dkp-11853054/کنسول-مدل-ike4565",
@@ -88066,6 +88096,115 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "14763426",
+      "title": "کنسول بازی پرتابل مدل 2.4G WIRELESS 2024",
+      "url": "https://www.digikala.com/product/dkp-14763426/کنسول-بازی-پرتابل-مدل-24g-wireless-2024",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/866829a288aae73021bea24aaed6cc83df9956fe_1786296574.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 4411920,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.3,
+      "rating_count": 635,
+      "seller": "رابین توی",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {
+        "name": "دایان اسپیکر",
+        "url": "https://www.digikala.com/seller/ESXN2/"
+      },
+      "signals": {
+        "price_change_pct": 0.11,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "4153832",
+      "title": "مجموعه کنسول بازی مایکروسافت مدل Xbox Series S ظرفیت 512 گیگابایت به همراه دسته اضافی",
+      "url": "https://www.digikala.com/product/dkp-4153832/مجموعه-کنسول-بازی-مایکروسافت-مدل-xbox-series-s-ظرفیت-500-گیگابایت-به-همراه-دسته-اضافی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c0decbd4b80d6e8e71ee157776df348e9976440a_1754244114.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "مایکروسافت",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 135000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 468,
+      "seller": "آنالوگ",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {
+        "name": "آنالوگ",
+        "url": "https://www.digikala.com/seller/ACVN2/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20376064",
+      "title": "لپ‌تاپ گیمینگ 16 اینچی اچ‌پی مدل OMEN Gaming 16-ap0167AX، با پردازنده Ryzen 9-8940HX، کارت گرافیک NVIDIA GeForce RTX 5060 با 8 گیگابایت حافظه اختصاصی، رم 32 گیگابایت DDR5 و حافظه داخلی SSD با ظرفیت 1 ترابایت، نمایشگر IPS با وضوح WUXGA، وبکم FHD",
+      "url": "https://www.digikala.com/product/dkp-20376064/لپتاپ-گیمینگ-16-اینچی-اچپی-مدل-omen-gaming-16-ap0167ax-با-پردازنده-ryzen-9-8940hx-کارت-گرافیک-nvidia-geforce-rtx-5060-با-8-گیگابایت-حافظه-اختصاصی-رم-32-گیگابایت-ddr5-و-حافظه-داخلی-ssd-با-ظرفیت-1-ترابایت-نمایشگر-ips-با-وضوح-wuxga-وبکم-fhd",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a8be800ae60fa8701ef26a0b589070bf6a8a892f_1757254212.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 488000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 1,
+      "rating_count": 1,
+      "seller": "ایران پشتیبان",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "گیمینگ"
+      },
+      "supplier": {
+        "name": "ایران پشتیبان",
+        "url": "https://www.digikala.com/seller/HXY35/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -88180,78 +88319,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "12660687",
-      "title": "کنسول بازی قابل حمل مدل X7M",
-      "url": "https://www.digikala.com/product/dkp-12660687/کنسول-بازی-قابل-حمل-مدل-x7m",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1c86d20d254fa9d0d9a5e704be1e149c1f683ceb_1694559215.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T04:12:44.466Z",
-      "price": 4357980,
-      "list_price": 4686000,
-      "discount_percent": 7,
-      "rating": 3.5,
-      "rating_count": 51,
-      "seller": "گستران سازان اینده",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کنسول بازی گیمینگ"
-      },
-      "supplier": {
-        "name": "گستران سازان اینده",
-        "url": "https://www.digikala.com/seller/FRFF5/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "13883868",
-      "title": "دیوارکوب مدل گیمینگ گیم اور GAME OVER",
-      "url": "https://www.digikala.com/product/dkp-13883868/دیوارکوب-مدل-گیمینگ-گیم-اور-game-over",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/14f5f15a1639924964f61713b0a38f0df23bb0be_1787210091.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 235000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 51,
-      "seller": "گیم وکنسول علیرضا",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "گیمینگ"
-      },
-      "supplier": {
-        "name": "گیم وکنسول علیرضا",
-        "url": "https://www.digikala.com/seller/9Z6Z2/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "18001290",
       "title": "کنسول مدل 120",
       "url": "https://www.digikala.com/product/dkp-18001290/کنسول-مدل-120",
@@ -88283,6 +88350,42 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "13883868",
+      "title": "دیوارکوب مدل گیمینگ گیم اور GAME OVER",
+      "url": "https://www.digikala.com/product/dkp-13883868/دیوارکوب-مدل-گیمینگ-گیم-اور-game-over",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/14f5f15a1639924964f61713b0a38f0df23bb0be_1787210091.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 235000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 51,
+      "seller": "گیم وکنسول علیرضا",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "گیمینگ"
+      },
+      "supplier": {
+        "name": "گیم وکنسول علیرضا",
+        "url": "https://www.digikala.com/seller/9Z6Z2/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -88430,35 +88533,35 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "14763426",
-      "title": "کنسول بازی پرتابل مدل 2.4G WIRELESS 2024",
-      "url": "https://www.digikala.com/product/dkp-14763426/کنسول-بازی-پرتابل-مدل-24g-wireless-2024",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/866829a288aae73021bea24aaed6cc83df9956fe_1786296574.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "16365977",
+      "title": "کنسول بازی قابل حمل مدل S 10",
+      "url": "https://www.digikala.com/product/dkp-16365977/کنسول-بازی-قابل-حمل-مدل-s-10",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6be50fd7e1b5d328521992fd8459c987319810a9_1786296578.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T04:12:44.466Z",
-      "price": 4407160,
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 2500000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.3,
-      "rating_count": 634,
-      "seller": "رابین توی",
+      "rating": 3.9,
+      "rating_count": 28,
+      "seller": "فرستک",
       "rank": 16,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
-        "تنها 2 عدد در انبار باقی مانده"
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "کنسول بازی گیمینگ"
       },
       "supplier": {
-        "name": "دایان اسپیکر",
-        "url": "https://www.digikala.com/seller/ESXN2/"
+        "name": "فرستک",
+        "url": "https://www.digikala.com/seller/GUXUF/"
       },
       "signals": {
-        "price_change_pct": -1.34,
+        "price_change_pct": 91.67,
         "rank_change": 3,
         "is_new": false
       }
@@ -88473,14 +88576,14 @@
       "brand": "لنوو",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 409999000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 1,
       "seller": "ائلمان سیستم",
-      "rank": 16,
+      "rank": 17,
       "available": true,
       "badges": [
         "تنها 1 عدد در انبار باقی مانده"
@@ -88494,7 +88597,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -88678,76 +88781,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20209110",
-      "title": "تابلو نوری بکلیت طرح دکوری گیمینگ و گیم نت کنسول بازی ps5 مدل B-bu6136 فریم مشکی",
-      "url": "https://www.digikala.com/product/dkp-20209110/تابلو-نوری-بکلیت-طرح-دکوری-گیمینگ-و-گیم-نت-کنسول-بازی-ps5-مدل-b-bu6136-فریم-مشکی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/700809e49fd4863e1e008994624680093e2825fc_1787407129.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بکلیت",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T04:12:44.466Z",
-      "price": 5500000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 5,
-      "rating_count": 1,
-      "seller": "قاب پروفیل",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "کنسول بازی گیمینگ"
-      },
-      "supplier": {
-        "name": "قاب پروفیل",
-        "url": "https://www.digikala.com/seller/FK6SV/"
-      },
-      "signals": {
-        "price_change_pct": 11.11,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "10659489",
-      "title": "صندلی گیمینگ ریزر مدل G2020",
-      "url": "https://www.digikala.com/product/dkp-10659489/صندلی-گیمینگ-ریزر-مدل-g2020",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/79f4d57094943c27e9a7ed14f6c1094cb891068e_1778307287.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ریزر",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 18490000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 755,
-      "seller": "ریزر شاپ",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "گیمینگ"
-      },
-      "supplier": {
-        "name": "نوا سیت",
-        "url": "https://www.digikala.com/seller/J5ZYJ/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "4079209",
       "title": "کنسول مدل erw120000",
       "url": "https://www.digikala.com/product/dkp-4079209/کنسول-مدل-erw120000",
@@ -88775,6 +88808,76 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3464675",
+      "title": "کنسول بازی قابل حمل مدل K5",
+      "url": "https://www.digikala.com/product/dkp-3464675/کنسول-بازی-قابل-حمل-مدل-k5",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/24f8499d757a77faf7546a0c4e89d54f5e6f2655_1601716253.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 3699950,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.7,
+      "rating_count": 122,
+      "seller": "رابین توی",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {
+        "name": "رابین توی",
+        "url": "https://www.digikala.com/seller/GPTHJ/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "10659489",
+      "title": "صندلی گیمینگ ریزر مدل G2020",
+      "url": "https://www.digikala.com/product/dkp-10659489/صندلی-گیمینگ-ریزر-مدل-g2020",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/79f4d57094943c27e9a7ed14f6c1094cb891068e_1778307287.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "ریزر",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 18490000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 755,
+      "seller": "ریزر شاپ",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "گیمینگ"
+      },
+      "supplier": {
+        "name": "نوا سیت",
+        "url": "https://www.digikala.com/seller/J5ZYJ/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -88957,76 +89060,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "3464675",
-      "title": "کنسول بازی قابل حمل مدل K5",
-      "url": "https://www.digikala.com/product/dkp-3464675/کنسول-بازی-قابل-حمل-مدل-k5",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/24f8499d757a77faf7546a0c4e89d54f5e6f2655_1601716253.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-11T08:41:14.299Z",
-      "price": 3699950,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.7,
-      "rating_count": 122,
-      "seller": "رابین توی",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "کنسول بازی گیمینگ"
-      },
-      "supplier": {
-        "name": "رابین توی",
-        "url": "https://www.digikala.com/seller/GPTHJ/"
-      },
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "12531334",
-      "title": "تابلو شاسی مدل گیمینگ",
-      "url": "https://www.digikala.com/product/dkp-12531334/تابلو-شاسی-مدل-گیمینگ",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/93964a4dcac1914a2ba82e409c990ac283671e80_1787639660.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
-      "price": 70000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.7,
-      "rating_count": 90,
-      "seller": "وینتج",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "گیمینگ"
-      },
-      "supplier": {
-        "name": "وینتج",
-        "url": "https://www.digikala.com/seller/GTWUY/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "13179223",
       "title": "مجموعه کنسول بازی مدل گیم استیک",
       "url": "https://www.digikala.com/product/dkp-13179223/مجموعه-کنسول-بازی-مدل-گیم-استیک",
@@ -89063,6 +89096,111 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "12521323",
+      "title": "کنسول بازی مدل GAME STICK PRO",
+      "url": "https://www.digikala.com/product/dkp-12521323/کنسول-بازی-مدل-game-stick-pro",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0440e00f6ab971db7960dd4354b2c3941e357f78_1754250915.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 4274650,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.4,
+      "rating_count": 162,
+      "seller": "فرستک",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {
+        "name": "کار ماکتی",
+        "url": "https://www.digikala.com/seller/E9399/"
+      },
+      "signals": {
+        "price_change_pct": -5.77,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20209110",
+      "title": "تابلو نوری بکلیت طرح دکوری گیمینگ و گیم نت کنسول بازی ps5 مدل B-bu6136 فریم مشکی",
+      "url": "https://www.digikala.com/product/dkp-20209110/تابلو-نوری-بکلیت-طرح-دکوری-گیمینگ-و-گیم-نت-کنسول-بازی-ps5-مدل-b-bu6136-فریم-مشکی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/700809e49fd4863e1e008994624680093e2825fc_1787407129.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بکلیت",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 5500000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 5,
+      "rating_count": 1,
+      "seller": "قاب پروفیل",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {
+        "name": "قاب پروفیل",
+        "url": "https://www.digikala.com/seller/FK6SV/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "12531334",
+      "title": "تابلو شاسی مدل گیمینگ",
+      "url": "https://www.digikala.com/product/dkp-12531334/تابلو-شاسی-مدل-گیمینگ",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/93964a4dcac1914a2ba82e409c990ac283671e80_1787639660.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 70000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.7,
+      "rating_count": 90,
+      "seller": "وینتج",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "گیمینگ"
+      },
+      "supplier": {
+        "name": "وینتج",
+        "url": "https://www.digikala.com/seller/GTWUY/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "6548010",
       "title": "کنسول مدل SAZH",
       "url": "https://www.digikala.com/product/dkp-6548010/کنسول-مدل-klm",
@@ -89090,41 +89228,6 @@
       "signals": {
         "price_change_pct": -2.04,
         "rank_change": -7,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "16365977",
-      "title": "کنسول بازی قابل حمل مدل S 10",
-      "url": "https://www.digikala.com/product/dkp-16365977/کنسول-بازی-قابل-حمل-مدل-s-10",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/6be50fd7e1b5d328521992fd8459c987319810a9_1786296578.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-17T04:12:44.466Z",
-      "price": 1304320,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 28,
-      "seller": "فرستک",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "کنسول بازی گیمینگ"
-      },
-      "supplier": {
-        "name": "فرستک",
-        "url": "https://www.digikala.com/seller/GUXUF/"
-      },
-      "signals": {
-        "price_change_pct": -16.29,
-        "rank_change": -2,
         "is_new": false
       }
     },
@@ -89389,14 +89492,14 @@
       "brand": "متفرقه",
       "category_key": "gaming",
       "category_label": "گیمینگ",
-      "observed_at": "2026-10-18T00:13:41.534Z",
+      "observed_at": "2026-10-18T00:53:09.048Z",
       "price": 235000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.7,
       "rating_count": 24,
       "seller": "گیم وکنسول علیرضا",
-      "rank": 19,
+      "rank": 20,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -89411,7 +89514,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -89846,42 +89949,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "12521323",
-      "title": "کنسول بازی مدل GAME STICK PRO",
-      "url": "https://www.digikala.com/product/dkp-12521323/کنسول-بازی-مدل-game-stick-pro",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0440e00f6ab971db7960dd4354b2c3941e357f78_1754250915.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "gaming",
-      "category_label": "گیمینگ",
-      "observed_at": "2026-10-11T08:41:14.299Z",
-      "price": 4536540,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.4,
-      "rating_count": 162,
-      "seller": "کار ماکتی",
-      "rank": 20,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کنسول بازی گیمینگ"
-      },
-      "supplier": {
-        "name": "کار ماکتی",
-        "url": "https://www.digikala.com/seller/E9399/"
-      },
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "1617886",
       "title": "کنسول بازی سونی مدل Playstation 4 Slim ریجن 2 کد CUH-2216B ظرفیت 1 ترابایت به همراه 20 عدد بازی",
       "url": "https://www.digikala.com/product/dkp-1617886/مجموعه-کنسول-بازی-سونی-مدل-playstation-4-slim-ریجن-2-کد-cuh-2216b-ظرفیت-1-ترابایت-به-همراه-20-عدد-بازی",
@@ -89976,6 +90043,39 @@
         "name": "هوماژ",
         "url": "https://www.digikala.com/seller/DN2NW/"
       },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "12681517",
+      "title": "کنسول بازی دستی مدل Game Stick Sup X7m",
+      "url": "https://www.digikala.com/product/dkp-12681517/کنسول-بازی-دستی-مدل-game-stick-sup-x7m",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d420a8845371a3c976f22aafda6afce598f9069b_1694885988.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "gaming",
+      "category_label": "گیمینگ",
+      "observed_at": "2026-10-18T00:53:09.048Z",
+      "price": 6300000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 20,
+      "seller": "بازرگانی انوشا",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کنسول بازی گیمینگ"
+      },
+      "supplier": {},
       "signals": {
         "price_change_pct": null,
         "rank_change": null,
@@ -126299,42 +126399,6 @@
       "supplier": {
         "name": "لوح هنر",
         "url": "https://www.digikala.com/seller/5A7FT/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "17753255",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 13 عددی",
-      "url": "https://www.digikala.com/product/dkp-17753255/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-13-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/b5ff411a807eed8b4818a5486f9f9802d8f3969e_1734515822.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "art",
-      "category_label": "هنر و صنایع دستی",
-      "observed_at": "2026-10-17T22:34:06.733Z",
-      "price": 350000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 5,
-      "seller": "بهتحریر",
-      "rank": 3,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "بهتحریر",
-        "url": "https://www.digikala.com/seller/6YAH7/"
       },
       "signals": {
         "price_change_pct": 0,
