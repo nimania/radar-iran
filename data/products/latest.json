@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T13:01:35.987Z",
-  "count": 3674,
+  "generated_at": "2026-10-19T17:41:14.350Z",
+  "count": 3691,
   "collection": {
     "mode": "rotating",
     "categories_scanned": 4,
@@ -13704,41 +13704,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "19131412",
-      "title": "کتاب سیستم‌سازی کسب‌وکار اثر جورج هدلی ترجمه علی سیبویه و راضیه میرنژاد انتشارات اتی‌نگر",
-      "url": "https://www.digikala.com/product/dkp-19131412/کتاب-سیستمسازی-کسبوکار-اثر-جورج-هدلی-ترجمه-علی-سیبویه-و-راضیه-میرنژاد-انتشارات-آتینگر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/aa3ece0f58c5464b49c4b948f3a39f7d36c3337a_1746193813.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "انتشارات اتی‌ نگر",
-      "category_key": "industrial",
-      "category_label": "تجهیزات صنعتی و کسب‌وکار",
-      "observed_at": "2026-10-18T23:00:56.343Z",
-      "price": 1140000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 1,
-      "rating_count": 1,
-      "seller": "ایران همتا",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "تجهیزات صنعتی و کسب‌وکار"
-      },
-      "supplier": {
-        "name": "ایران همتا",
-        "url": "https://www.digikala.com/seller/D56TT/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
         "is_new": false
       }
     },
@@ -65867,55 +65832,56 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21484635",
-      "title": "دوربین مداربسته تحت شبکه داخلی 3 مگاپیکسل اسفیورد مدل Z338 با اتصال بی‌سیم Wi-Fi، ذخیره‌سازی ابری، دید در شب رنگی و دزدگیر هوشمند با تشخیص حرکت انسان",
-      "url": "https://www.digikala.com/product/dkp-21484635/دوربین-مداربسته-تحت-شبکه-داخلی-3-مگاپیکسل-اسفیورد-مدل-z338-با-اتصال-بیسیم-wi-fi-ذخیرهسازی-ابری-دید-در-شب-رنگی-و-دزدگیر-هوشمند-با-تشخیص-حرکت-انسان",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0755e247af49e819b73efbdb7757b721c67ff62c_1787417421.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اسفیورد",
+      "source_id": "269374",
+      "title": "کتاب مرجع کاربردی HTML,CSS برای طراحی وب سایت اثر کریگ گرانل",
+      "url": "https://www.digikala.com/product/dkp-269374/کتاب-مرجع-کاربردی-htmlcss-برای-طراحی-وب-سایت-اثر-کریگ-گرانل",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/190299.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "نشر کیان",
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 5500000,
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 1100000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 176,
-      "seller": "اسفیورد",
+      "rating": 4.3,
+      "rating_count": 27,
+      "seller": "آلیانس",
       "rank": 1,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "شبکه و ذخیره‌سازی"
       },
       "supplier": {
-        "name": "اسفیورد",
-        "url": "https://www.digikala.com/seller/E25DC/"
+        "name": "آلیانس",
+        "url": "https://www.digikala.com/seller/CCSSR/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 6,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "4492750",
-      "title": "مودم روتر VDSL/ADSL تی پی-لینک مدل TD-W9960-v1.20",
-      "url": "https://www.digikala.com/product/dkp-4492750/مودم-روتر-vdsladsl-تی-پی-لینک-مدل-td-w9960-v120",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ccb0eadfadfd76b11fb2ec608078b300136df009_1613588161.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "تی پی-لینک",
+      "source_id": "3954639",
+      "title": "مودم 4G/LTE قابل حمل دی-لینک مدل DWR-930M با باتری 3000 میلی‌امپر، پشتیبانی از 8 کاربر همزمان، سرعت دانلود 150 مگابیت بر ثانیه، استاندارد بی‌سیم 802.11n/g/b و امنیت WPA/WPA2",
+      "url": "https://www.digikala.com/product/dkp-3954639/مودم-4glte-قابل-حمل-دی-لینک-مدل-dwr-930m-با-باتری-3000-میلیآمپر-پشتیبانی-از-8-کاربر-همزمان-سرعت-دانلود-150-مگابیت-بر-ثانیه-استاندارد-بیسیم-80211ngb-و-امنیت-wpawpa2",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3af4ece28f5ec145d323cc44cfe102c46933ecb9_1786388707.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "دی-لینک",
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 6621900,
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 7510040,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 6690,
+      "rating": 4.2,
+      "rating_count": 2579,
       "seller": "های نو",
       "rank": 1,
       "available": true,
@@ -65924,15 +65890,15 @@
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "مودم"
+        "query": "مودم هارد حافظه"
       },
       "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
+        "name": "های نو",
+        "url": "https://www.digikala.com/seller/DK649/"
       },
       "signals": {
-        "price_change_pct": 0.33,
-        "rank_change": 0,
+        "price_change_pct": -3.36,
+        "rank_change": 10,
         "is_new": false
       }
     },
@@ -65975,36 +65941,70 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "48414",
-      "title": "مودم روتر ADSL2 Plus بی‌سیم N300 تی پی-لینک مدل TD-W8961N_V1",
-      "url": "https://www.digikala.com/product/dkp-48414/مودم-روتر-adsl2-plus-بیسیم-n300-تی-پی-لینک-مدل-td-w8961n-v1",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/3237820.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "تی پی-لینک",
+      "source_id": "10402523",
+      "title": "کتاب مفاهیم سیستم پایگاه داده اثر جمعی از نویسندگان انتشارات اتی‌نگر جلد 1",
+      "url": "https://www.digikala.com/product/dkp-10402523/کتاب-مفاهیم-سیستم-پایگاه-داده-اثر-جمعی-از-نویسندگان-انتشارات-آتینگر-جلد-1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6d75c81940ed68a88d9499fcc10d11e05154ac73_1673350172.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "انتشارات اتی‌ نگر",
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 6050000,
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 1340000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 6947,
-      "seller": "رایان دیجی ایرانیان",
+      "rating": 5,
+      "rating_count": 4,
+      "seller": "ایران همتا",
       "rank": 2,
       "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
+      "badges": [],
       "raw_ref": {
-        "query": "مودم"
+        "query": "شبکه و ذخیره‌سازی"
       },
       "supplier": {
-        "name": "های نو",
-        "url": "https://www.digikala.com/seller/DK649/"
+        "name": "ایران همتا",
+        "url": "https://www.digikala.com/seller/D56TT/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "7659320",
+      "title": "مودم 4.5G قابل حمل الکاتل مدل BT71 با تکنولوژی Cat6 و Cat7، سرعت دانلود تا 300Mbps، پشتیبانی همزمان از 20 کاربر، وای‌فای دو بانده 2.4GHz و 5GHz، استاندارد IEEE 802.11b/g/n/ac، باتری با شارژدهی 7 تا 8 ساعت و قابلیت ارسال SMS",
+      "url": "https://www.digikala.com/product/dkp-7659320/مودم-45g-قابل-حمل-آلکاتل-مدل-bt71-با-تکنولوژی-cat6-و-cat7-سرعت-دانلود-تا-300mbps-پشتیبانی-همزمان-از-20-کاربر-وایفای-دو-بانده-24ghz-و-5ghz-استاندارد-ieee-80211bgnac-باتری-با-شارژدهی-7-تا-8-ساعت-و-قابلیت-ارسال-sms",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/160e5313ccf2af9d875762709f050ea2b58852ed_1786388717.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "الکاتل",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 5800000,
+      "list_price": 6900000,
+      "discount_percent": 16,
+      "rating": 3.9,
+      "rating_count": 762,
+      "seller": "همراه مودم",
+      "rank": 2,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "مودم هارد حافظه"
+      },
+      "supplier": {
+        "name": "همراه مودم",
+        "url": "https://www.digikala.com/seller/AHTEW/"
+      },
+      "signals": {
+        "price_change_pct": -4.92,
+        "rank_change": 6,
         "is_new": false
       }
     },
@@ -66149,6 +66149,76 @@
       "signals": {
         "price_change_pct": -1.35,
         "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "18134250",
+      "title": "اموزش طراحی وب‌سایت به زبان ساده: HTML و CSS اثر گرانت اسمیت ترجمه داود خاتمی نژاد نشر کیان",
+      "url": "https://www.digikala.com/product/dkp-18134250/آموزش-طراحی-وبسایت-به-زبان-ساده-html-و-css-اثر-گرانت-اسمیت-ترجمه-داود-خاتمی-نژاد-نشر-کیان",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ba66c57b40bb5f5fec2f04e038dadb747e983b8e_1737907343.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "نشر کیان",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 295000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 46,
+      "seller": "آلیانس",
+      "rank": 3,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
+      "supplier": {
+        "name": "آلیانس",
+        "url": "https://www.digikala.com/seller/CCSSR/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 7,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "14876965",
+      "title": "مودم 5G رومیزی ZLT X28 با پشتیبانی از همه سیم‌کارت‌های ایران، وای‌فای 6، سرعت دانلود 4 گیگابیت بر ثانیه، قابلیت تجمیع باند، پنل سوپر ادمین دائمی، اتصال USB Type-C و LAN",
+      "url": "https://www.digikala.com/product/dkp-14876965/مودم-5g-رومیزی-zlt-x28-با-پشتیبانی-از-همه-سیمکارتهای-ایران-وایفای-6-سرعت-دانلود-4-گیگابیت-بر-ثانیه-قابلیت-تجمیع-باند-پنل-سوپر-ادمین-دائمی-اتصال-usb-type-c-و-lan",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7aed7de8a3c8c92701959a0216269ab89a4f6e97_1786387718.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 21900000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 661,
+      "seller": "فرا دیجیتال",
+      "rank": 3,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "مودم هارد حافظه"
+      },
+      "supplier": {
+        "name": "رایان دیجی ایرانیان",
+        "url": "https://www.digikala.com/seller/CE6WY/"
+      },
+      "signals": {
+        "price_change_pct": 2.34,
+        "rank_change": 11,
         "is_new": false
       }
     },
@@ -66300,6 +66370,75 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "17480975",
+      "title": "مودم 4G/LTE قابل حمل دی-لینک مدل DWR-930M با باتری 3000 میلی‌امپر ساعت، شارژدهی 12 ساعت، پشتیبانی از شبکه 3G/4G/LTE، سرعت دانلود تا 150Mbps و اتصال همزمان 10 کاربر",
+      "url": "https://www.digikala.com/product/dkp-17480975/مودم-4glte-قابل-حمل-دی-لینک-مدل-dwr-930m-با-باتری-3000-میلیآمپر-ساعت-شارژدهی-12-ساعت-پشتیبانی-از-شبکه-3g4glte-سرعت-دانلود-تا-150mbps-و-اتصال-همزمان-10-کاربر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2036930d50f583694ec0b1692b2c4c5a5eebf609_1786388220.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "دی-لینک",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 8010660,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 69,
+      "seller": "های نو",
+      "rank": 4,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "مودم هارد حافظه"
+      },
+      "supplier": {
+        "name": "هرمس شبکه",
+        "url": "https://www.digikala.com/seller/HTK4J/"
+      },
+      "signals": {
+        "price_change_pct": -0.1,
+        "rank_change": 14,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8870965",
+      "title": "نرم افزار اموزش برنامه نویسی استخراج اطلاعات از صفحات وب در برنامه نویسی پایتون نشر پدیا سافت",
+      "url": "https://www.digikala.com/product/dkp-8870965/نرم-افزار-آموزش-برنامه-نویسی-استخراج-اطلاعات-از-صفحات-وب-در-برنامه-نویسی-پایتون-نشر-پدیا-سافت",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d22d39c0a52d35a74b09e5440d0d543a127bfaba_1656436545.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 347490,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 4,
+      "seller": "نو آموز",
+      "rank": 4,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
+      "supplier": {
+        "name": "نو آموز",
+        "url": "https://www.digikala.com/seller/AD9K5/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 15,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "3306896",
       "title": "مودم روتر بی سیم ADSL2 Plus و VDSL2 دی لینک مدل DSL-224 NEW",
       "url": "https://www.digikala.com/product/dkp-3306896/مودم-روتر-بی-سیم-adsl2-plus-و-vdsl2-دی-لینک-مدل-dsl-224-new",
@@ -66380,14 +66519,14 @@
       "brand": "اسفیورد",
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-14T07:56:54.888Z",
+      "observed_at": "2026-10-19T17:41:14.350Z",
       "price": 8944000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 445,
+      "rating": 3.7,
+      "rating_count": 449,
       "seller": "اسفیورد",
-      "rank": 6,
+      "rank": 5,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -66402,8 +66541,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 1,
         "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "11720186",
+      "title": "کتاب سخت افزار اثر مانی حیدریان نشر گوهر دانش",
+      "url": "https://www.digikala.com/product/dkp-11720186/کتاب-سخت-افزار-اثر-مانی-حیدریان-نشر-گوهر-دانش",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0006b53cec9090232a5aee802f0703ea0a9905fa_1687253996.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "نشر گوهر دانش",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 139000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.6,
+      "rating_count": 10,
+      "seller": "انتشارات گوهردانش",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
+      "supplier": {
+        "name": "انتشارات گوهردانش",
+        "url": "https://www.digikala.com/seller/AYU7H/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
       }
     },
     {
@@ -66554,36 +66728,103 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "11021014",
-      "title": "مودم فیبر نوری هواوی مدل EG8145X6",
-      "url": "https://www.digikala.com/product/dkp-11021014/مودم-فیبر-نوری-هوآوی-مدل-eg8145x6",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/861d6e5acd532f7016b8a56bc8b8b373620f8585_1680978942.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "هواوی",
+      "source_id": "14549673",
+      "title": "مودم قابل حمل الکاتل مدل BT70 با پشتیبانی از 4.5G Cat7، سرعت دانلود تا 300Mbps و اپلود تا 100Mbps، وای‌فای دو بانده 2.4GHz و 5GHz با استاندارد 802.11a/b/g/n/ac، شارژدهی باتری تا 8 ساعت و اتصال همزمان 20 کاربر",
+      "url": "https://www.digikala.com/product/dkp-14549673/مودم-قابل-حمل-آلکاتل-مدل-bt70-با-پشتیبانی-از-45g-cat7-سرعت-دانلود-تا-300mbps-و-آپلود-تا-100mbps-وایفای-دو-بانده-24ghz-و-5ghz-با-استاندارد-80211abgnac-شارژدهی-باتری-تا-8-ساعت-و-اتصال-همزمان-20-کاربر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/172ca183d04bd6ff473a636bd77d96c8f01caf62_1786387717.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "الکاتل",
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 18249030,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.7,
-      "rating_count": 117,
-      "seller": "های نو",
-      "rank": 7,
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 5700000,
+      "list_price": 6100000,
+      "discount_percent": 7,
+      "rating": 3.9,
+      "rating_count": 183,
+      "seller": "همراه مودم",
+      "rank": 6,
       "available": true,
       "badges": [
+        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "مودم"
+        "query": "مودم هارد حافظه"
       },
       "supplier": {
-        "name": "های نو",
-        "url": "https://www.digikala.com/seller/DK649/"
+        "name": "همراه مودم",
+        "url": "https://www.digikala.com/seller/AHTEW/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "42365",
+      "title": "کتاب سیستمهای عامل اثر ویلیام استالینگز",
+      "url": "https://www.digikala.com/product/dkp-42365/کتاب-سیستمهای-عامل-اثر-ویلیام-استالینگز",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/243952.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 448630,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 2,
+      "seller": "کوچه کتاب",
+      "rank": 6,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19131412",
+      "title": "کتاب سیستم‌سازی کسب‌وکار اثر جورج هدلی ترجمه علی سیبویه و راضیه میرنژاد انتشارات اتی‌نگر",
+      "url": "https://www.digikala.com/product/dkp-19131412/کتاب-سیستمسازی-کسبوکار-اثر-جورج-هدلی-ترجمه-علی-سیبویه-و-راضیه-میرنژاد-انتشارات-آتینگر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aa3ece0f58c5464b49c4b948f3a39f7d36c3337a_1746193813.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "انتشارات اتی‌ نگر",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 1140000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 1,
+      "rating_count": 1,
+      "seller": "ایران همتا",
+      "rank": 7,
+      "available": true,
+      "badges": [
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
+      "supplier": {
+        "name": "ایران همتا",
+        "url": "https://www.digikala.com/seller/D56TT/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 5,
         "is_new": false
       }
     },
@@ -66623,74 +66864,72 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "269374",
-      "title": "کتاب مرجع کاربردی HTML,CSS برای طراحی وب سایت اثر کریگ گرانل",
-      "url": "https://www.digikala.com/product/dkp-269374/کتاب-مرجع-کاربردی-htmlcss-برای-طراحی-وب-سایت-اثر-کریگ-گرانل",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/190299.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "نشر کیان",
+      "source_id": "4926961",
+      "title": "مودم 4G/LTE قابل حمل دی-لینک مدل DWR-910M با سرعت دانلود 150Mbps، پشتیبانی همزمان از 8 کاربر، استاندارد وایرلس 802.11n/g/b، اتصال با کابل USB و امنیت WPA2-PSK",
+      "url": "https://www.digikala.com/product/dkp-4926961/مودم-4glte-قابل-حمل-دی-لینک-مدل-dwr-910m-با-سرعت-دانلود-150mbps-پشتیبانی-همزمان-از-8-کاربر-استاندارد-وایرلس-80211ngb-اتصال-با-کابل-usb-و-امنیت-wpa2-psk",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/06d094ea7779396c14e6c35d03d399522b349d23_1786388710.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "دی-لینک",
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 1100000,
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 7300000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 27,
-      "seller": "آلیانس",
+      "rating": 4.2,
+      "rating_count": 1368,
+      "seller": "بازارسو",
       "rank": 7,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "شبکه و ذخیره‌سازی"
+        "query": "مودم هارد حافظه"
       },
       "supplier": {
-        "name": "آلیانس",
-        "url": "https://www.digikala.com/seller/CCSSR/"
+        "name": "بازارسو",
+        "url": "https://www.digikala.com/seller/5ANEU/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 2,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "14549673",
-      "title": "مودم قابل حمل الکاتل مدل BT70 با پشتیبانی از 4.5G Cat7، سرعت دانلود تا 300Mbps و اپلود تا 100Mbps، وای‌فای دو بانده 2.4GHz و 5GHz با استاندارد 802.11a/b/g/n/ac، شارژدهی باتری تا 8 ساعت و اتصال همزمان 20 کاربر",
-      "url": "https://www.digikala.com/product/dkp-14549673/مودم-قابل-حمل-آلکاتل-مدل-bt70-با-پشتیبانی-از-45g-cat7-سرعت-دانلود-تا-300mbps-و-آپلود-تا-100mbps-وایفای-دو-بانده-24ghz-و-5ghz-با-استاندارد-80211abgnac-شارژدهی-باتری-تا-8-ساعت-و-اتصال-همزمان-20-کاربر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/172ca183d04bd6ff473a636bd77d96c8f01caf62_1786387717.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "الکاتل",
+      "source_id": "21484635",
+      "title": "دوربین مداربسته تحت شبکه داخلی 3 مگاپیکسل اسفیورد مدل Z338 با اتصال بی‌سیم Wi-Fi، ذخیره‌سازی ابری، دید در شب رنگی و دزدگیر هوشمند با تشخیص حرکت انسان",
+      "url": "https://www.digikala.com/product/dkp-21484635/دوربین-مداربسته-تحت-شبکه-داخلی-3-مگاپیکسل-اسفیورد-مدل-z338-با-اتصال-بیسیم-wi-fi-ذخیرهسازی-ابری-دید-در-شب-رنگی-و-دزدگیر-هوشمند-با-تشخیص-حرکت-انسان",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0755e247af49e819b73efbdb7757b721c67ff62c_1787417421.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اسفیورد",
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-14T07:56:54.888Z",
-      "price": 5700000,
-      "list_price": 6000000,
-      "discount_percent": 5,
-      "rating": 3.9,
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 5500000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
       "rating_count": 180,
-      "seller": "همراه مودم",
-      "rank": 7,
+      "seller": "اسفیورد",
+      "rank": 8,
       "available": true,
       "badges": [
-        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 3 عدد در انبار باقی مانده"
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
-        "query": "مودم هارد حافظه"
+        "query": "شبکه و ذخیره‌سازی"
       },
       "supplier": {
-        "name": "همراه مودم",
-        "url": "https://www.digikala.com/seller/AHTEW/"
+        "name": "اسفیورد",
+        "url": "https://www.digikala.com/seller/E25DC/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": -7,
         "is_new": false
       }
     },
@@ -66770,108 +67009,38 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "10402523",
-      "title": "کتاب مفاهیم سیستم پایگاه داده اثر جمعی از نویسندگان انتشارات اتی‌نگر جلد 1",
-      "url": "https://www.digikala.com/product/dkp-10402523/کتاب-مفاهیم-سیستم-پایگاه-داده-اثر-جمعی-از-نویسندگان-انتشارات-آتینگر-جلد-1",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/6d75c81940ed68a88d9499fcc10d11e05154ac73_1673350172.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "انتشارات اتی‌ نگر",
+      "source_id": "10710408",
+      "title": "مودم 4G/TD-LTE خانگی ایرانسل مدل TF-i60 S1 با پشتیبانی هم‌زمان 32 کاربر، 4 شبکه بی‌سیم مستقل، 4 پورت LAN، انتن 5dBi و سیم‌کارت 300 گیگابایت اینترنت 6 ماهه",
+      "url": "https://www.digikala.com/product/dkp-10710408/مودم-4gtd-lte-خانگی-ایرانسل-مدل-tf-i60-s1-با-پشتیبانی-همزمان-32-کاربر-4-شبکه-بیسیم-مستقل-4-پورت-lan-آنتن-5dbi-و-سیمکارت-300-گیگابایت-اینترنت-6-ماهه",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4ebb59cb5eed3db6f1bb4ef72f412b9a2c09b37e_1786388728.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "ایرانسل",
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 1340000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 5,
-      "rating_count": 4,
-      "seller": "ایران همتا",
-      "rank": 8,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "شبکه و ذخیره‌سازی"
-      },
-      "supplier": {
-        "name": "ایران همتا",
-        "url": "https://www.digikala.com/seller/D56TT/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "7659320",
-      "title": "مودم 4.5G قابل حمل الکاتل مدل BT71 با تکنولوژی Cat6 و Cat7، سرعت دانلود تا 300Mbps، پشتیبانی همزمان از 20 کاربر، وای‌فای دو بانده 2.4GHz و 5GHz، استاندارد IEEE 802.11b/g/n/ac، باتری با شارژدهی 7 تا 8 ساعت و قابلیت ارسال SMS",
-      "url": "https://www.digikala.com/product/dkp-7659320/مودم-45g-قابل-حمل-آلکاتل-مدل-bt71-با-تکنولوژی-cat6-و-cat7-سرعت-دانلود-تا-300mbps-پشتیبانی-همزمان-از-20-کاربر-وایفای-دو-بانده-24ghz-و-5ghz-استاندارد-ieee-80211bgnac-باتری-با-شارژدهی-7-تا-8-ساعت-و-قابلیت-ارسال-sms",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/160e5313ccf2af9d875762709f050ea2b58852ed_1786388717.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "الکاتل",
-      "category_key": "network",
-      "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-12T15:57:15.508Z",
-      "price": 6100000,
-      "list_price": 6900000,
-      "discount_percent": 12,
-      "rating": 3.9,
-      "rating_count": 758,
-      "seller": "همراه مودم",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 11850000,
+      "list_price": 12850000,
+      "discount_percent": 8,
+      "rating": 3.7,
+      "rating_count": 218,
+      "seller": "دنیای نت",
       "rank": 8,
       "available": true,
       "badges": [
         "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "مودم"
-      },
-      "supplier": {
-        "name": "همراه مودم",
-        "url": "https://www.digikala.com/seller/AHTEW/"
-      },
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "17173212",
-      "title": "مودم فیبر نوری تی پی لینک مدل XC220-G3v",
-      "url": "https://www.digikala.com/product/dkp-17173212/مودم-فیبر-نوری-تی-پی-لینک-مدل-xc220-g3v",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d65104f96ae4e878613d0a46fe6a85992d95e646_1787420217.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "تی پی-لینک",
-      "category_key": "network",
-      "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-14T07:56:54.888Z",
-      "price": 9328500,
-      "list_price": 13891300,
-      "discount_percent": 33,
-      "rating": 2.9,
-      "rating_count": 12,
-      "seller": "دیجی‌کالا",
-      "rank": 8,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "مودم هارد حافظه"
       },
       "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
+        "name": "دنیای نت",
+        "url": "https://www.digikala.com/seller/CHSNT/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "price_change_pct": 1.72,
+        "rank_change": 3,
         "is_new": false
       }
     },
@@ -66987,37 +67156,69 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "4926961",
-      "title": "مودم 4G/LTE قابل حمل دی-لینک مدل DWR-910M با سرعت دانلود 150Mbps، پشتیبانی همزمان از 8 کاربر، استاندارد وایرلس 802.11n/g/b، اتصال با کابل USB و امنیت WPA2-PSK",
-      "url": "https://www.digikala.com/product/dkp-4926961/مودم-4glte-قابل-حمل-دی-لینک-مدل-dwr-910m-با-سرعت-دانلود-150mbps-پشتیبانی-همزمان-از-8-کاربر-استاندارد-وایرلس-80211ngb-اتصال-با-کابل-usb-و-امنیت-wpa2-psk",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/06d094ea7779396c14e6c35d03d399522b349d23_1786388710.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "دی-لینک",
+      "source_id": "17990408",
+      "title": "مودم قابل حمل 4G LTE نتربیت مدل NWR-940X با باتری 3000 میلی‌امپر، پشتیبانی همزمان تا 32 کاربر، فناوری Wi-Fi 6، سرعت دانلود 150Mbps و امنیت WPA3 با صفحه نمایش 2 اینچ و درگاه USB Type-C",
+      "url": "https://www.digikala.com/product/dkp-17990408/مودم-قابل-حمل-4g-lte-نتربیت-مدل-nwr-940x-با-باتری-3000-میلیآمپر-پشتیبانی-همزمان-تا-32-کاربر-فناوری-wi-fi-6-سرعت-دانلود-150mbps-و-امنیت-wpa3-با-صفحه-نمایش-2-اینچ-و-درگاه-usb-type-c",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c460ddbbd96b423ce1855ea271410e9683365152_1786388223.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-14T07:56:54.888Z",
-      "price": 7300000,
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 10999990,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 1365,
-      "seller": "بازارسو",
+      "rating": 4.3,
+      "rating_count": 2563,
+      "seller": "رایانه گستر",
       "rank": 9,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
+        "ارسال توسط فروشنده",
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "مودم هارد حافظه"
       },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1045582",
+      "title": "مجموعه نرم افزارهای برنامه نویسی نشر پرنیان",
+      "url": "https://www.digikala.com/product/dkp-1045582/مجموعه-نرم-افزارهای-برنامه-نویسی-نشر-پرنیان",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4937445.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 250000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.6,
+      "rating_count": 11,
+      "seller": "شهران موبایل سیستم",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
       "supplier": {
-        "name": "بازارسو",
-        "url": "https://www.digikala.com/seller/5ANEU/"
+        "name": "شهران موبایل سیستم",
+        "url": "https://www.digikala.com/seller/A7MHS/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
       }
     },
     {
@@ -67096,73 +67297,66 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "18134250",
-      "title": "اموزش طراحی وب‌سایت به زبان ساده: HTML و CSS اثر گرانت اسمیت ترجمه داود خاتمی نژاد نشر کیان",
-      "url": "https://www.digikala.com/product/dkp-18134250/آموزش-طراحی-وبسایت-به-زبان-ساده-html-و-css-اثر-گرانت-اسمیت-ترجمه-داود-خاتمی-نژاد-نشر-کیان",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ba66c57b40bb5f5fec2f04e038dadb747e983b8e_1737907343.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "نشر کیان",
+      "source_id": "15884769",
+      "title": "مودم 4G LTE قابل حمل اسفیورد مدل M750 با باتری 3000 میلی‌امپرساعت، پشتیبانی از 10 کاربر همزمان، نمایشگر رنگی دیجیتال، اتصال بی‌سیم WIFI 802.11b/g/n و سرعت دانلود تا 150 مگابیت بر ثانیه",
+      "url": "https://www.digikala.com/product/dkp-15884769/مودم-4g-lte-قابل-حمل-اسفیورد-مدل-m750-با-باتری-3000-میلیآمپرساعت-پشتیبانی-از-10-کاربر-همزمان-نمایشگر-رنگی-دیجیتال-اتصال-بیسیم-wifi-80211bgn-و-سرعت-دانلود-تا-150-مگابیت-بر-ثانیه",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/94cca0b5f41c01b44b61f35ebe103dde17c4c446_1786388213.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اسفیورد",
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 295000,
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 7900000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 46,
-      "seller": "آلیانس",
+      "rating": 3.9,
+      "rating_count": 116,
+      "seller": "تارا همراه هاشمیه",
       "rank": 10,
       "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
+      "badges": [],
       "raw_ref": {
-        "query": "شبکه و ذخیره‌سازی"
+        "query": "مودم هارد حافظه"
       },
       "supplier": {
-        "name": "آلیانس",
-        "url": "https://www.digikala.com/seller/CCSSR/"
+        "name": "تارا همراه هاشمیه",
+        "url": "https://www.digikala.com/seller/CYHEG/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "price_change_pct": 22.48,
+        "rank_change": 9,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "3954639",
-      "title": "مودم 4G/LTE قابل حمل دی-لینک مدل DWR-930M با باتری 3000 میلی‌امپر، پشتیبانی از 8 کاربر همزمان، سرعت دانلود 150 مگابیت بر ثانیه، استاندارد بی‌سیم 802.11n/g/b و امنیت WPA/WPA2",
-      "url": "https://www.digikala.com/product/dkp-3954639/مودم-4glte-قابل-حمل-دی-لینک-مدل-dwr-930m-با-باتری-3000-میلیآمپر-پشتیبانی-از-8-کاربر-همزمان-سرعت-دانلود-150-مگابیت-بر-ثانیه-استاندارد-بیسیم-80211ngb-و-امنیت-wpawpa2",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/3af4ece28f5ec145d323cc44cfe102c46933ecb9_1786388707.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "دی-لینک",
+      "source_id": "7871742",
+      "title": "نرم افزار اموزش تولید محتوای حرفه ای با کامپیوتر و موبایل نشر کارن",
+      "url": "https://www.digikala.com/product/dkp-7871742/نرم-افزار-آموزش-تولید-محتوای-حرفه-ای-با-کامپیوتر-و-موبایل-نشر-کارن",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/fbbdf4d52cdacfec4b5ca36fdaae34dedad62e0a_1644926968.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 7770790,
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 330000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 2576,
-      "seller": "های نو",
-      "rank": 11,
+      "rating": 4.6,
+      "rating_count": 5,
+      "seller": "ستایشگر",
+      "rank": 10,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "مودم"
+        "query": "شبکه و ذخیره‌سازی"
       },
-      "supplier": {
-        "name": "های نو",
-        "url": "https://www.digikala.com/seller/DK649/"
-      },
+      "supplier": {},
       "signals": {
-        "price_change_pct": -5.81,
-        "rank_change": -1,
-        "is_new": false
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
       }
     },
     {
@@ -67237,20 +67431,56 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "10710408",
-      "title": "مودم 4G/TD-LTE خانگی ایرانسل مدل TF-i60 S1 با پشتیبانی هم‌زمان 32 کاربر، 4 شبکه بی‌سیم مستقل، 4 پورت LAN، انتن 5dBi و سیم‌کارت 300 گیگابایت اینترنت 6 ماهه",
-      "url": "https://www.digikala.com/product/dkp-10710408/مودم-4gtd-lte-خانگی-ایرانسل-مدل-tf-i60-s1-با-پشتیبانی-همزمان-32-کاربر-4-شبکه-بیسیم-مستقل-4-پورت-lan-آنتن-5dbi-و-سیمکارت-300-گیگابایت-اینترنت-6-ماهه",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4ebb59cb5eed3db6f1bb4ef72f412b9a2c09b37e_1786388728.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ایرانسل",
+      "source_id": "279863",
+      "title": "کتاب اموزش تخصصی شبیه سازی شبکه های کامپیوتری و مخابراتی با OPNET اثر رضا ابراهیمی اتانی",
+      "url": "https://www.digikala.com/product/dkp-279863/کتاب-آموزش-تخصصی-شبیه-سازی-شبکه-های-کامپیوتری-و-مخابراتی-با-opnet-اثر-رضا-ابراهیمی-آتانی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1155459.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "نشر کیان",
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-14T07:56:54.888Z",
-      "price": 11650000,
-      "list_price": 12850000,
-      "discount_percent": 9,
-      "rating": 3.7,
-      "rating_count": 212,
-      "seller": "دنیای نت",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 350000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 3,
+      "seller": "آلیانس",
+      "rank": 11,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
+      "supplier": {
+        "name": "روزن بوک",
+        "url": "https://www.digikala.com/seller/DF5Z3/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17762403",
+      "title": "مودم سیم‌کارتی رومیزی 4G LTE اسفیورد مدل T842 با پشتیبانی از وای‌فای نسل 6، سرعت دانلود تا 300Mbps، امکان اتصال تا 16 دستگاه همزمان، پورت شبکه و چیپست مدیاتک",
+      "url": "https://www.digikala.com/product/dkp-17762403/مودم-سیمکارتی-رومیزی-4g-lte-اسفیورد-مدل-t842-با-پشتیبانی-از-وایفای-نسل-6-سرعت-دانلود-تا-300mbps-امکان-اتصال-تا-16-دستگاه-همزمان-پورت-شبکه-و-چیپست-مدیاتک",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5cc6f367d40d9b3889b52db0ac5b6f4b8f136663_1734940266.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اسفیورد",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 9999000,
+      "list_price": 11158000,
+      "discount_percent": 10,
+      "rating": 3.4,
+      "rating_count": 46,
+      "seller": "کیانام ارتباط",
       "rank": 11,
       "available": true,
       "badges": [
@@ -67263,49 +67493,49 @@
         "query": "مودم هارد حافظه"
       },
       "supplier": {
-        "name": "دنیای نت",
-        "url": "https://www.digikala.com/seller/CHSNT/"
+        "name": "کیانام ارتباط",
+        "url": "https://www.digikala.com/seller/C7ZFU/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 8,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19913307",
-      "title": "تستر کابل شبکه و زوج یاب هابوتست مدل HT801",
-      "url": "https://www.digikala.com/product/dkp-19913307/تستر-کابل-شبکه-و-زوج-یاب-هابوتست-مدل-ht801",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/27f759100569d56f1d74d24af5c57c10594127e4_1786909505.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "هابوتست",
+      "source_id": "11021014",
+      "title": "مودم فیبر نوری هواوی مدل EG8145X6",
+      "url": "https://www.digikala.com/product/dkp-11021014/مودم-فیبر-نوری-هوآوی-مدل-eg8145x6",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/861d6e5acd532f7016b8a56bc8b8b373620f8585_1680978942.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "هواوی",
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 12600000,
-      "list_price": 13300000,
-      "discount_percent": 5,
-      "rating": 3.3,
-      "rating_count": 9,
-      "seller": "کالا پترو پژوهش",
-      "rank": 11,
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 16500000,
+      "list_price": 18249030,
+      "discount_percent": 10,
+      "rating": 3.7,
+      "rating_count": 118,
+      "seller": "بازرگانی تجارت بریتان",
+      "rank": 12,
       "available": true,
       "badges": [
         "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "شبکه و ذخیره‌سازی"
+        "query": "مودم هارد حافظه"
       },
       "supplier": {
-        "name": "کالا پترو پژوهش",
-        "url": "https://www.digikala.com/seller/A25AG/"
+        "name": "های نو",
+        "url": "https://www.digikala.com/seller/DK649/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "price_change_pct": -9.58,
+        "rank_change": -5,
         "is_new": false
       }
     },
@@ -67454,6 +67684,78 @@
         "price_change_pct": null,
         "rank_change": null,
         "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "11257496",
+      "title": "تبدیل 1 به 2 شبکه فلزی RJ45 مدل 5855",
+      "url": "https://www.digikala.com/product/dkp-11257496/تبدیل-1-به-2-شبکه-فلزی-rj45-مدل-5855",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a79b87ccb3aa59e0633e6786f2c1d2de8d237419_1786909462.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 425600,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.3,
+      "rating_count": 82,
+      "seller": "مکا شاپ",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
+      "supplier": {
+        "name": "هایپرمارکت شهریار",
+        "url": "https://www.digikala.com/seller/A4CET/"
+      },
+      "signals": {
+        "price_change_pct": 6.93,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "4492750",
+      "title": "مودم روتر VDSL/ADSL تی پی-لینک مدل TD-W9960-v1.20",
+      "url": "https://www.digikala.com/product/dkp-4492750/مودم-روتر-vdsladsl-تی-پی-لینک-مدل-td-w9960-v120",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ccb0eadfadfd76b11fb2ec608078b300136df009_1613588161.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "تی پی-لینک",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 6671820,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 6694,
+      "seller": "های نو",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "مودم هارد حافظه"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": 0.75,
+        "rank_change": -12,
+        "is_new": false
       }
     },
     {
@@ -67632,6 +67934,40 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "162668",
+      "title": "کتاب برنامه نویسی تحت وب از پایه تا پیشرفته اثر حمیدرضا طالبی",
+      "url": "https://www.digikala.com/product/dkp-162668/کتاب-برنامه-نویسی-تحت-وب-از-پایه-تا-پیشرفته-اثر-حمیدرضا-طالبی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1406568.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 1389960,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 45,
+      "seller": "آموزش فنی و حرفه ای مزرعه زرین",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "3944698",
       "title": "نرم افزار راز حرفه ای فتوشاپ نشر پدیا سافت به همراه نرم افزار اموزش فتوشاپ برای گرافیک کار ها",
       "url": "https://www.digikala.com/product/dkp-3944698/نرم-افزار-راز-حرفه-ای-فتوشاپ-نشر-پدیا-سافت-به-همراه-نرم-افزار-آموزش-فتوشاپ-برای-گرافیک-کار-ها",
@@ -67701,39 +68037,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "11257496",
-      "title": "تبدیل 1 به 2 شبکه فلزی RJ45 مدل 5855",
-      "url": "https://www.digikala.com/product/dkp-11257496/تبدیل-1-به-2-شبکه-فلزی-rj45-مدل-5855",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a79b87ccb3aa59e0633e6786f2c1d2de8d237419_1786909462.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "network",
-      "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 398000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.2,
-      "rating_count": 80,
-      "seller": "مکا شاپ",
-      "rank": 14,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "شبکه و ذخیره‌سازی"
-      },
-      "supplier": {
-        "name": "هایپرمارکت شهریار",
-        "url": "https://www.digikala.com/seller/A4CET/"
-      },
-      "signals": {
-        "price_change_pct": 85.12,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "18238449",
       "title": "مودم روتر AX1800 تی پی-لینک مدل XX230V",
       "url": "https://www.digikala.com/product/dkp-18238449/مودم-روتر-ax1800-تی-پی-لینک-مدل-xx230v",
@@ -67772,35 +68075,104 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "14876965",
-      "title": "مودم 5G رومیزی ZLT X28 با پشتیبانی از همه سیم‌کارت‌های ایران، وای‌فای 6، سرعت دانلود 4 گیگابیت بر ثانیه، قابلیت تجمیع باند، پنل سوپر ادمین دائمی، اتصال USB Type-C و LAN",
-      "url": "https://www.digikala.com/product/dkp-14876965/مودم-5g-رومیزی-zlt-x28-با-پشتیبانی-از-همه-سیمکارتهای-ایران-وایفای-6-سرعت-دانلود-4-گیگابیت-بر-ثانیه-قابلیت-تجمیع-باند-پنل-سوپر-ادمین-دائمی-اتصال-usb-type-c-و-lan",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7aed7de8a3c8c92701959a0216269ab89a4f6e97_1786387718.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "10450652",
+      "title": "مودم رومیزی 4.5G همراه اول مدل MIMO 4x4-HA6400، انتن چهارگانه داخلی، پشتیبانی از Wi-Fi دو بانده 2.4 و 5 گیگاهرتز، 1000 پورت LAN گیگابیتی و پشتیبانی از 32 کاربر همزمان، به همراه کارت فعالسازی سیم‌کارت اعتباری و 300 گیگابایت اینترنت 1 ساله",
+      "url": "https://www.digikala.com/product/dkp-10450652/مودم-رومیزی-45g-همراه-اول-مدل-mimo-4x4-ha6400-آنتن-چهارگانه-داخلی-پشتیبانی-از-wi-fi-دو-بانده-24-و-5-گیگاهرتز-1000-پورت-lan-گیگابیتی-و-پشتیبانی-از-32-کاربر-همزمان-به-همراه-کارت-فعالسازی-سیمکارت-اعتباری-و-300-گیگابایت-اینترنت-1-ساله",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/973bf8ea5251911bedeb196fc8e9e83bb2a2c2f3_1673935962.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 21400000,
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 16000000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 659,
-      "seller": "بوشهر لند جانبی",
+      "rating": 3.4,
+      "rating_count": 202,
+      "seller": "مودم اصفهان دارا",
       "rank": 14,
       "available": true,
       "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "مودم هارد حافظه"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "393424",
+      "title": "کتاب برنامه ‌نویسی کامپیوتری اثر کریس مینیک انتشارات اوند دانش",
+      "url": "https://www.digikala.com/product/dkp-393424/کتاب-برنامه-نویسی-کامپیوتری-اثر-کریس-مینیک-انتشارات-آوند-دانش",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9e1720692b2dd488dedd06866f2115b496160aa6_1660749601.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 302510,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 45,
+      "seller": "برکه کتاب",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19913307",
+      "title": "تستر کابل شبکه و زوج یاب هابوتست مدل HT801",
+      "url": "https://www.digikala.com/product/dkp-19913307/تستر-کابل-شبکه-و-زوج-یاب-هابوتست-مدل-ht801",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/27f759100569d56f1d74d24af5c57c10594127e4_1786909505.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "هابوتست",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 12600000,
+      "list_price": 13300000,
+      "discount_percent": 5,
+      "rating": 3.3,
+      "rating_count": 9,
+      "seller": "کالا پترو پژوهش",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "مودم"
+        "query": "شبکه و ذخیره‌سازی"
       },
       "supplier": {
-        "name": "رایان دیجی ایرانیان",
-        "url": "https://www.digikala.com/seller/CE6WY/"
+        "name": "کالا پترو پژوهش",
+        "url": "https://www.digikala.com/seller/A25AG/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": -4,
         "is_new": false
       }
     },
@@ -68094,6 +68466,39 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "18264037",
+      "title": "مودم روتر 4G LTE قابل حمل نتربیت مدل NWR-MINI، پشتیبانی از بیش از 10 کاربر، سرعت دانلود تا 150 مگابیت و اپلود تا 50 مگابیت، دارای درگاه RJ-45 LAN و USB Type-C، شیار سیم‌کارت و نشانگر LED",
+      "url": "https://www.digikala.com/product/dkp-18264037/مودم-روتر-4g-lte-قابل-حمل-نتربیت-مدل-nwr-mini-پشتیبانی-از-بیش-از-10-کاربر-سرعت-دانلود-تا-150-مگابیت-و-آپلود-تا-50-مگابیت-دارای-درگاه-rj-45-lan-و-usb-type-c-شیار-سیمکارت-و-نشانگر-led",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/bef2ec95b09558b582abacea5fc4593a29b26edc_1739019057.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 5980000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 276,
+      "seller": "پنجره دیجیتال",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "مودم هارد حافظه"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "5289",
       "title": "مودم روتر ADSL2 Plus بی‌سیم N300 دی-لینک مدل DSL-2750U",
       "url": "https://www.digikala.com/product/dkp-5289/مودم-روتر-adsl2-plus-بیسیم-n300-دی-لینک-مدل-dsl-2750u",
@@ -68304,6 +68709,70 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "17762026",
+      "title": "مودم 4G LTE قابل حمل اسفیورد مدل M770 با باتری 8000mAh، پشتیبانی از 10 دستگاه همزمان، سرعت دانلود تا 50Mbps، فایروال داخلی و اتصال وای‌فای 802.11b/g/n",
+      "url": "https://www.digikala.com/product/dkp-17762026/مودم-4g-lte-قابل-حمل-اسفیورد-مدل-m770-با-باتری-8000mah-پشتیبانی-از-10-دستگاه-همزمان-سرعت-دانلود-تا-50mbps-فایروال-داخلی-و-اتصال-وایفای-80211bgn",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/28a04162cec6722cf6e771bc3fc46e5dad6f23ab_1735015169.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 9139200,
+      "list_price": 9520000,
+      "discount_percent": 4,
+      "rating": 3.8,
+      "rating_count": 372,
+      "seller": "روکالا دات آی آر",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "مودم هارد حافظه"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "48694",
+      "title": "نرم افزار اموزش دنیای مجازی - اموزش اینترنت",
+      "url": "https://www.digikala.com/product/dkp-48694/نرم-افزار-آموزش-دنیای-مجازی-آموزش-اینترنت",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/255854.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 347490,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 5,
+      "rating_count": 1,
+      "seller": "نو آموز",
+      "rank": 16,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "10335357",
       "title": "مودم روتر Gpon-ONT هواوی مدل HG 8120 C",
       "url": "https://www.digikala.com/product/dkp-10335357/مودم-روتر-gpon-ont-هوآوی-مدل-hg-8120-c",
@@ -68330,42 +68799,6 @@
       "supplier": {
         "name": "های نو",
         "url": "https://www.digikala.com/seller/DK649/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "279863",
-      "title": "کتاب اموزش تخصصی شبیه سازی شبکه های کامپیوتری و مخابراتی با OPNET اثر رضا ابراهیمی اتانی",
-      "url": "https://www.digikala.com/product/dkp-279863/کتاب-آموزش-تخصصی-شبیه-سازی-شبکه-های-کامپیوتری-و-مخابراتی-با-opnet-اثر-رضا-ابراهیمی-آتانی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1155459.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "نشر کیان",
-      "category_key": "network",
-      "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 350000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 3,
-      "seller": "آلیانس",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "شبکه و ذخیره‌سازی"
-      },
-      "supplier": {
-        "name": "روزن بوک",
-        "url": "https://www.digikala.com/seller/DF5Z3/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -68544,6 +68977,116 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19966096",
+      "title": "یو پی اس کارت خوان و مودم اسفیورد مدل U-112 ظرفیت 12 ولت 1.5 امپر",
+      "url": "https://www.digikala.com/product/dkp-19966096/یو-پی-اس-کارت-خوان-و-مودم-اسفیورد-مدل-u-112-ظرفیت-12-ولت-15-آمپر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9ea76b4940d1402abdcfa55e76f0d86d337a7213_1787419345.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اسفیورد",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 2599000,
+      "list_price": 3547000,
+      "discount_percent": 27,
+      "rating": 4.5,
+      "rating_count": 75,
+      "seller": "کیانام ارتباط",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "مودم هارد حافظه"
+      },
+      "supplier": {
+        "name": "کیانام ارتباط",
+        "url": "https://www.digikala.com/seller/C7ZFU/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "279934",
+      "title": "کتاب مرجع کاربردی برنامه نویسان ANDROID اثر جف فریسن",
+      "url": "https://www.digikala.com/product/dkp-279934/کتاب-مرجع-کاربردی-برنامه-نویسان-android-اثر-جف-فریسن",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1964870.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "نشر کیان",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 149500,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 3,
+      "seller": "آلیانس",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
+      "supplier": {
+        "name": "آلیانس",
+        "url": "https://www.digikala.com/seller/CCSSR/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "48414",
+      "title": "مودم روتر ADSL2 Plus بی‌سیم N300 تی پی-لینک مدل TD-W8961N_V1",
+      "url": "https://www.digikala.com/product/dkp-48414/مودم-روتر-adsl2-plus-بیسیم-n300-تی-پی-لینک-مدل-td-w8961n-v1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3237820.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "تی پی-لینک",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 5906950,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 6949,
+      "seller": "های نو",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "مودم هارد حافظه"
+      },
+      "supplier": {
+        "name": "های نو",
+        "url": "https://www.digikala.com/seller/DK649/"
+      },
+      "signals": {
+        "price_change_pct": -2.36,
+        "rank_change": -16,
         "is_new": false
       }
     },
@@ -68837,42 +69380,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17480975",
-      "title": "مودم 4G/LTE قابل حمل دی-لینک مدل DWR-930M با باتری 3000 میلی‌امپر ساعت، شارژدهی 12 ساعت، پشتیبانی از شبکه 3G/4G/LTE، سرعت دانلود تا 150Mbps و اتصال همزمان 10 کاربر",
-      "url": "https://www.digikala.com/product/dkp-17480975/مودم-4glte-قابل-حمل-دی-لینک-مدل-dwr-930m-با-باتری-3000-میلیآمپر-ساعت-شارژدهی-12-ساعت-پشتیبانی-از-شبکه-3g4glte-سرعت-دانلود-تا-150mbps-و-اتصال-همزمان-10-کاربر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2036930d50f583694ec0b1692b2c4c5a5eebf609_1786388220.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "دی-لینک",
-      "category_key": "network",
-      "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 8018790,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 69,
-      "seller": "های نو",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "مودم"
-      },
-      "supplier": {
-        "name": "هرمس شبکه",
-        "url": "https://www.digikala.com/seller/HTK4J/"
-      },
-      "signals": {
-        "price_change_pct": -2.37,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "16694009",
       "title": "مودم روتر +ADSL2 دی-لینک مدل DSL-2750U USB",
       "url": "https://www.digikala.com/product/dkp-16694009/مودم-روتر-adsl2-دی-لینک-مدل-dsl-2750u-usb",
@@ -68906,38 +69413,73 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17762403",
-      "title": "مودم سیم‌کارتی رومیزی 4G LTE اسفیورد مدل T842 با پشتیبانی از وای‌فای نسل 6، سرعت دانلود تا 300Mbps، امکان اتصال تا 16 دستگاه همزمان، پورت شبکه و چیپست مدیاتک",
-      "url": "https://www.digikala.com/product/dkp-17762403/مودم-سیمکارتی-رومیزی-4g-lte-اسفیورد-مدل-t842-با-پشتیبانی-از-وایفای-نسل-6-سرعت-دانلود-تا-300mbps-امکان-اتصال-تا-16-دستگاه-همزمان-پورت-شبکه-و-چیپست-مدیاتک",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5cc6f367d40d9b3889b52db0ac5b6f4b8f136663_1734940266.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اسفیورد",
+      "source_id": "10891496",
+      "title": "نرم افزار حسابداری نسخه پاور تخصصی خدمات کامپیوتری و ماشین اداری نشر پژواک",
+      "url": "https://www.digikala.com/product/dkp-10891496/نرم-افزار-حسابداری-نسخه-پاور-تخصصی-خدمات-کامپیوتری-و-ماشین-اداری-نشر-پژواک",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4c7f4188379962c0b0ea62a81190afa897116268_1678873945.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "network",
       "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-14T07:56:54.888Z",
-      "price": 9999000,
-      "list_price": 11158000,
-      "discount_percent": 10,
-      "rating": 3.5,
-      "rating_count": 44,
-      "seller": "کیانام ارتباط",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 18530000,
+      "list_price": 21800000,
+      "discount_percent": 15,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "رویال پژواک",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
+      "supplier": {
+        "name": "رویال پژواک",
+        "url": "https://www.digikala.com/seller/9PCPR/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17173212",
+      "title": "مودم فیبر نوری تی پی لینک مدل XC220-G3v",
+      "url": "https://www.digikala.com/product/dkp-17173212/مودم-فیبر-نوری-تی-پی-لینک-مدل-xc220-g3v",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d65104f96ae4e878613d0a46fe6a85992d95e646_1787420217.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "تی پی-لینک",
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 9301500,
+      "list_price": 13891300,
+      "discount_percent": 33,
+      "rating": 2.9,
+      "rating_count": 12,
+      "seller": "دیجی‌کالا",
       "rank": 19,
       "available": true,
       "badges": [
         "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
         "query": "مودم هارد حافظه"
       },
       "supplier": {
-        "name": "کیانام ارتباط",
-        "url": "https://www.digikala.com/seller/C7ZFU/"
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
+        "price_change_pct": -0.29,
+        "rank_change": -11,
         "is_new": false
       }
     },
@@ -69050,72 +69592,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8870965",
-      "title": "نرم افزار اموزش برنامه نویسی استخراج اطلاعات از صفحات وب در برنامه نویسی پایتون نشر پدیا سافت",
-      "url": "https://www.digikala.com/product/dkp-8870965/نرم-افزار-آموزش-برنامه-نویسی-استخراج-اطلاعات-از-صفحات-وب-در-برنامه-نویسی-پایتون-نشر-پدیا-سافت",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d22d39c0a52d35a74b09e5440d0d543a127bfaba_1656436545.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "network",
-      "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-15T13:19:59.829Z",
-      "price": 347490,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 4,
-      "seller": "نو آموز",
-      "rank": 19,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "شبکه و ذخیره‌سازی"
-      },
-      "supplier": {
-        "name": "نو آموز",
-        "url": "https://www.digikala.com/seller/AD9K5/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "15884769",
-      "title": "مودم 4G LTE قابل حمل اسفیورد مدل M750 با باتری 3000 میلی‌امپرساعت، پشتیبانی از 10 کاربر همزمان، نمایشگر رنگی دیجیتال، اتصال بی‌سیم WIFI 802.11b/g/n و سرعت دانلود تا 150 مگابیت بر ثانیه",
-      "url": "https://www.digikala.com/product/dkp-15884769/مودم-4g-lte-قابل-حمل-اسفیورد-مدل-m750-با-باتری-3000-میلیآمپرساعت-پشتیبانی-از-10-کاربر-همزمان-نمایشگر-رنگی-دیجیتال-اتصال-بیسیم-wifi-80211bgn-و-سرعت-دانلود-تا-150-مگابیت-بر-ثانیه",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/94cca0b5f41c01b44b61f35ebe103dde17c4c446_1786388213.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اسفیورد",
-      "category_key": "network",
-      "category_label": "شبکه و ذخیره‌سازی",
-      "observed_at": "2026-10-14T07:28:47.152Z",
-      "price": 6450000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 116,
-      "seller": "تارا همراه هاشمیه",
-      "rank": 19,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "مودم هارد حافظه"
-      },
-      "supplier": {
-        "name": "تارا همراه هاشمیه",
-        "url": "https://www.digikala.com/seller/CYHEG/"
-      },
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "20225756",
       "title": "مودم روتر بی سیم ایرانسل مدل FD-i40 F1",
       "url": "https://www.digikala.com/product/dkp-20225756/مودم-روتر-بی-سیم-ایرانسل-مدل-fd-i40-f1",
@@ -69144,6 +69620,36 @@
         "name": "دنیای نت",
         "url": "https://www.digikala.com/seller/CHSNT/"
       },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19802835",
+      "title": "نرم افزار اموزش سری برنامه نویسی android نشر نوین پندار",
+      "url": "https://www.digikala.com/product/dkp-19802835/نرم-افزار-آموزش-سری-برنامه-نویسی-android-نشر-نوین-پندار",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6048f0d4d458b176b771c896b276af11d68a6b6c_1752356522.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 347490,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "نو آموز",
+      "rank": 19,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
+      "supplier": {},
       "signals": {
         "price_change_pct": null,
         "rank_change": null,
@@ -69577,6 +70083,70 @@
         "name": "های نو",
         "url": "https://www.digikala.com/seller/DK649/"
       },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "11489314",
+      "title": "مودم 4G LTE نتربیت مدل NW-431F با پشتیبانی از استاندارد Wi-Fi 4، سرعت 300Mbps در باند 2.4GHz، چهار پورت LAN برای اتصال سیمی پایدار و منبع تغذیه اداپتور برق",
+      "url": "https://www.digikala.com/product/dkp-11489314/مودم-4g-lte-نتربیت-مدل-nw-431f-با-پشتیبانی-از-استاندارد-wi-fi-4-سرعت-300mbps-در-باند-24ghz-چهار-پورت-lan-برای-اتصال-سیمی-پایدار-و-منبع-تغذیه-آداپتور-برق",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/be8e71f5328b2159d6f35d576702b6bffabb5429_1786388731.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 8908900,
+      "list_price": 11569800,
+      "discount_percent": 23,
+      "rating": 4.3,
+      "rating_count": 676,
+      "seller": "دیجی‌کالا",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "مودم هارد حافظه"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19717129",
+      "title": "نرم افزار اموزش سری برنامه نویسی android نشر نوین پندار",
+      "url": "https://www.digikala.com/product/dkp-19717129/نرم-افزار-آموزش-سری-برنامه-نویسی-android-نشر-نوین-پندار",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f417d31e5757a608b88f1f2c7b0a631b24a5fc6d_1751804672.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "network",
+      "category_label": "شبکه و ذخیره‌سازی",
+      "observed_at": "2026-10-19T17:41:14.350Z",
+      "price": 192310,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "نو آموز",
+      "rank": 20,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "شبکه و ذخیره‌سازی"
+      },
+      "supplier": {},
       "signals": {
         "price_change_pct": null,
         "rank_change": null,
