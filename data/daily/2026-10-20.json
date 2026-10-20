@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T17:26:49.844Z",
-  "count": 3798,
+  "generated_at": "2026-10-20T19:09:28.240Z",
+  "count": 3801,
   "collection": {
     "mode": "rotating",
     "categories_scanned": 4,
@@ -45068,12 +45068,12 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 1318600,
       "list_price": 1572600,
       "discount_percent": 16,
       "rating": 4.1,
-      "rating_count": 3929,
+      "rating_count": 3930,
       "seller": "دیجی‌کالا",
       "rank": 1,
       "available": true,
@@ -45098,39 +45098,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "7612528",
-      "title": "چراغ پیشانی مدل Portable 101",
-      "url": "https://www.digikala.com/product/dkp-7612528/چراغ-پیشانی-مدل-portable-101",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/00d3b512814ee9979ba606e89cac512c64ea9ac4_1642683939.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "lighting",
-      "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 570000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 8320,
-      "seller": "ابزار دوسو",
-      "rank": 1,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "چراغ"
-      },
-      "supplier": {
-        "name": "فروشگاه آشیل کالا",
-        "url": "https://www.digikala.com/seller/CEM4Y/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "10519658",
       "title": "چراغ قوه دستی مدل 8 کاره led torch",
       "url": "https://www.digikala.com/product/dkp-10519658/چراغ-قوه-دستی-مدل-8-کاره-led-torch",
@@ -45138,12 +45105,12 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 546000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.5,
-      "rating_count": 2717,
+      "rating_count": 2718,
       "seller": "پارس اکسسوری تهران",
       "rank": 2,
       "available": true,
@@ -45152,7 +45119,7 @@
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "چراغ"
+        "query": "چراغ روشنایی"
       },
       "supplier": {
         "name": "سلامت ساز راد تهران",
@@ -45174,18 +45141,16 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 307040,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 308000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
       "rating_count": 355,
-      "seller": "شعله نور",
+      "seller": "گالری نورانی",
       "rank": 2,
       "available": true,
-      "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
+      "badges": [],
       "raw_ref": {
         "query": "روشنایی"
       },
@@ -45194,7 +45159,7 @@
         "url": "https://www.digikala.com/seller/EVFC4/"
       },
       "signals": {
-        "price_change_pct": -2.53,
+        "price_change_pct": 0.31,
         "rank_change": 0,
         "is_new": false
       }
@@ -45209,12 +45174,12 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 1780000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
-      "rating_count": 592,
+      "rating_count": 593,
       "seller": "برق رستاک نوین",
       "rank": 3,
       "available": true,
@@ -45229,42 +45194,6 @@
       "supplier": {
         "name": "تجهیزات لایت ایران",
         "url": "https://www.digikala.com/seller/D526X/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "17996248",
-      "title": "چراغ پیشانی مدل Portable 101 بسته 3 عددی",
-      "url": "https://www.digikala.com/product/dkp-17996248/چراغ-پیشانی-مدل-portable-101-بسته-3-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d46f1ec51c5d0c793e8ff08432255c29bd9abb68_1736683024.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "lighting",
-      "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 1535000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 247,
-      "seller": "ابزار دوسو",
-      "rank": 3,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "چراغ"
-      },
-      "supplier": {
-        "name": "ابزار یراق جعفری",
-        "url": "https://www.digikala.com/seller/JCVF5/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -45319,7 +45248,7 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 421400,
       "list_price": 430000,
       "discount_percent": 2,
@@ -45342,7 +45271,7 @@
         "url": "https://www.digikala.com/seller/CK9VY/"
       },
       "signals": {
-        "price_change_pct": 2.78,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -45387,6 +45316,43 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "17201791",
+      "title": "چراغ اویز چادر دی پی مدل DP-7823B",
+      "url": "https://www.digikala.com/product/dkp-17201791/چراغ-آویز-چادر-دی-پی-مدل-dp-7823b",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/530778276a120d4165ed4f6a65c4fd9683f267ef_1730645849.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "دی پی",
+      "category_key": "lighting",
+      "category_label": "روشنایی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 1150000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 692,
+      "seller": "ارس لایت",
+      "rank": 4,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "چراغ روشنایی"
+      },
+      "supplier": {
+        "name": "الکتریکی سگال شاپ",
+        "url": "https://www.digikala.com/seller/FFR9J/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 5,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "15656017",
       "title": "لامپ شارژی ال ای دی 5 وات مدل T01 پایه E27",
       "url": "https://www.digikala.com/product/dkp-15656017/لامپ-شارژی-ال-ای-دی-5-وات-مدل-t01-پایه-e27",
@@ -45394,7 +45360,7 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 281000,
       "list_price": 370000,
       "discount_percent": 24,
@@ -45406,7 +45372,7 @@
       "badges": [
         "فروش ویژه",
         "ارسال توسط فروشنده",
-        "تنها 3 عدد در انبار باقی مانده"
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "چراغ روشنایی"
@@ -45417,7 +45383,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -45545,12 +45511,12 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 1565000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
-      "rating_count": 216,
+      "rating_count": 217,
       "seller": "گالری نورانی",
       "rank": 5,
       "available": true,
@@ -45566,8 +45532,8 @@
         "url": "https://www.digikala.com/seller/DGZVS/"
       },
       "signals": {
-        "price_change_pct": -0.63,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -45654,12 +45620,12 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 498500,
       "list_price": 546000,
       "discount_percent": 9,
       "rating": 4.1,
-      "rating_count": 3361,
+      "rating_count": 3364,
       "seller": "دیجی‌کالا",
       "rank": 6,
       "available": true,
@@ -45677,8 +45643,8 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": -2.14,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -45728,12 +45694,12 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 1067000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
-      "rating_count": 595,
+      "rating_count": 596,
       "seller": "تجهیزات لایت ایران",
       "rank": 7,
       "available": true,
@@ -45750,7 +45716,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -45870,7 +45836,7 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 465000,
       "list_price": null,
       "discount_percent": 0,
@@ -45889,7 +45855,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -45938,7 +45904,7 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 380000,
       "list_price": null,
       "discount_percent": 0,
@@ -45960,45 +45926,8 @@
         "url": "https://www.digikala.com/seller/C6HHR/"
       },
       "signals": {
-        "price_change_pct": 0.53,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "17201791",
-      "title": "چراغ اویز چادر دی پی مدل DP-7823B",
-      "url": "https://www.digikala.com/product/dkp-17201791/چراغ-آویز-چادر-دی-پی-مدل-dp-7823b",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/530778276a120d4165ed4f6a65c4fd9683f267ef_1730645849.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "دی پی",
-      "category_key": "lighting",
-      "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 1150000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 690,
-      "seller": "ارس لایت",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "چراغ"
-      },
-      "supplier": {
-        "name": "الکتریکی سگال شاپ",
-        "url": "https://www.digikala.com/seller/FFR9J/"
-      },
-      "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -46012,14 +45941,14 @@
       "brand": "دی پی",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 1340000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.4,
       "rating_count": 325,
       "seller": "بازرگانی آرم ترید",
-      "rank": 10,
+      "rank": 9,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -46034,7 +45963,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -46117,12 +46046,12 @@
       "brand": "شاهان تک",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 2171500,
       "list_price": 2500000,
       "discount_percent": 13,
       "rating": 4.3,
-      "rating_count": 780,
+      "rating_count": 781,
       "seller": "دیجی‌کالا",
       "rank": 10,
       "available": true,
@@ -46140,7 +46069,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -46192,14 +46121,14 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 3277120,
       "list_price": null,
       "discount_percent": 0,
       "rating": 5,
       "rating_count": 1,
       "seller": "لوستر لند",
-      "rank": 11,
+      "rank": 10,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -46213,43 +46142,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "8472381",
-      "title": "رقص نور مدل گردان کد FULL ROTATING LAMP E27",
-      "url": "https://www.digikala.com/product/dkp-8472381/رقص-نور-مدل-گردان-کد-full-rotating-lamp-e27",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0f00e596a2fa61579abf6bdf8833242493a3861e_1652132599.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "lighting",
-      "category_label": "روشنایی",
-      "observed_at": "2026-10-17T01:28:07.088Z",
-      "price": 399000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 1702,
-      "seller": "تجهیزات لایت ایران",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "روشنایی"
-      },
-      "supplier": {
-        "name": "تجهیزات لایت ایران",
-        "url": "https://www.digikala.com/seller/D526X/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -46403,7 +46296,7 @@
       "brand": null,
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 1570000,
       "list_price": null,
       "discount_percent": 0,
@@ -46421,9 +46314,45 @@
       },
       "supplier": {},
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8472381",
+      "title": "رقص نور مدل گردان کد FULL ROTATING LAMP E27",
+      "url": "https://www.digikala.com/product/dkp-8472381/رقص-نور-مدل-گردان-کد-full-rotating-lamp-e27",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0f00e596a2fa61579abf6bdf8833242493a3861e_1652132599.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "lighting",
+      "category_label": "روشنایی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 399000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 1703,
+      "seller": "تجهیزات لایت ایران",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "روشنایی"
+      },
+      "supplier": {
+        "name": "تجهیزات لایت ایران",
+        "url": "https://www.digikala.com/seller/D526X/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
       }
     },
     {
@@ -46676,6 +46605,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "20295719",
+      "title": "چراغ روشنایی مدل YL9693T",
+      "url": "https://www.digikala.com/product/dkp-20295719/چراغ-روشنایی-مدل-yl9693t",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c2fbf0719e7aab3fbbd9cc3b6e4f4433141a2ada_1756533196.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "lighting",
+      "category_label": "روشنایی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 1990000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 7,
+      "seller": "میلاد مارکت",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "چراغ روشنایی"
+      },
+      "supplier": {
+        "name": "میلاد مارکت",
+        "url": "https://www.digikala.com/seller/5AECV/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "8448778",
       "title": "لوستر پادینا مدل مدرن کد MNB_300",
       "url": "https://www.digikala.com/product/dkp-8448778/لوستر-پادینا-مدل-مدرن-کد-mnb-300",
@@ -46683,14 +46648,14 @@
       "brand": "پادینا",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 6500000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
       "rating_count": 949,
       "seller": "امیران لایتینگ",
-      "rank": 12,
+      "rank": 13,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -46704,43 +46669,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "7265903",
-      "title": "لامپ ال ای دی 20 وات ارسون مدل شارژی",
-      "url": "https://www.digikala.com/product/dkp-7265903/لامپ-ال-ای-دی-20-وات-آرسون-مدل-شارژی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/47d40863368539ba11d13a15e807d22dd30dd3e9_1754246890.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ارسون",
-      "category_key": "lighting",
-      "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 580000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 1059,
-      "seller": "زمان طلایی",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "چراغ روشنایی"
-      },
-      "supplier": {
-        "name": "زمان طلایی",
-        "url": "https://www.digikala.com/seller/A6V5C/"
-      },
-      "signals": {
-        "price_change_pct": -0.85,
-        "rank_change": 6,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -46890,6 +46819,76 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "11166798",
+      "title": "لامپ شارژی خورشیدی مدل 2029",
+      "url": "https://www.digikala.com/product/dkp-11166798/لامپ-شارژی-خورشیدی-مدل-2029",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4d8159b04fee99b13ec01653373edff982954e32_1789378513.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "lighting",
+      "category_label": "روشنایی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 999000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.5,
+      "rating_count": 810,
+      "seller": "رایکا نیو شاپ",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "چراغ روشنایی"
+      },
+      "supplier": {
+        "name": "فلورنس لند",
+        "url": "https://www.digikala.com/seller/FJTKM/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "7265903",
+      "title": "لامپ ال ای دی 20 وات ارسون مدل شارژی",
+      "url": "https://www.digikala.com/product/dkp-7265903/لامپ-ال-ای-دی-20-وات-آرسون-مدل-شارژی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/47d40863368539ba11d13a15e807d22dd30dd3e9_1754246890.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "ارسون",
+      "category_key": "lighting",
+      "category_label": "روشنایی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 585000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 1060,
+      "seller": "موبایل آرسون",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "چراغ روشنایی"
+      },
+      "supplier": {
+        "name": "زمان طلایی",
+        "url": "https://www.digikala.com/seller/A6V5C/"
+      },
+      "signals": {
+        "price_change_pct": 0.86,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "7136914",
       "title": "لامپ هوشمند و اسپیکر بلوتوثی مدل led music blub کد HB-61",
       "url": "https://www.digikala.com/product/dkp-7136914/لامپ-هوشمند-و-اسپیکر-بلوتوثی-مدل-led-music-blub-کد-hb-61",
@@ -46897,14 +46896,14 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 756480,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 730400,
       "list_price": 870000,
-      "discount_percent": 13,
+      "discount_percent": 16,
       "rating": 3.9,
-      "rating_count": 6260,
+      "rating_count": 6262,
       "seller": "داترون",
-      "rank": 13,
+      "rank": 14,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -46919,8 +46918,8 @@
         "url": "https://www.digikala.com/seller/FWU2A/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
+        "price_change_pct": -3.45,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -47177,42 +47176,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20295719",
-      "title": "چراغ روشنایی مدل YL9693T",
-      "url": "https://www.digikala.com/product/dkp-20295719/چراغ-روشنایی-مدل-yl9693t",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c2fbf0719e7aab3fbbd9cc3b6e4f4433141a2ada_1756533196.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "lighting",
-      "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 1990000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 7,
-      "seller": "میلاد مارکت",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "چراغ روشنایی"
-      },
-      "supplier": {
-        "name": "میلاد مارکت",
-        "url": "https://www.digikala.com/seller/5AECV/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "940383",
       "title": "چراغ دیواری کد تک لامپ",
       "url": "https://www.digikala.com/product/dkp-940383/چراغ-دیواری-مدل-تک-لامپ",
@@ -47220,14 +47183,14 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 260000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.8,
       "rating_count": 669,
       "seller": "کالای برق آتا",
-      "rank": 14,
+      "rank": 15,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -47241,42 +47204,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "11166798",
-      "title": "لامپ شارژی خورشیدی مدل 2029",
-      "url": "https://www.digikala.com/product/dkp-11166798/لامپ-شارژی-خورشیدی-مدل-2029",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4d8159b04fee99b13ec01653373edff982954e32_1789378513.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "lighting",
-      "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 999000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.5,
-      "rating_count": 810,
-      "seller": "رایکا نیو شاپ",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "چراغ روشنایی"
-      },
-      "supplier": {
-        "name": "فلورنس لند",
-        "url": "https://www.digikala.com/seller/FJTKM/"
-      },
-      "signals": {
-        "price_change_pct": -3.94,
-        "rank_change": -3,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -47389,6 +47317,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "9898924",
+      "title": "چراغ دیواری روشنایی بزرگ زاد کد 234",
+      "url": "https://www.digikala.com/product/dkp-9898924/چراغ-دیواری-روشنایی-بزرگ-زاد-کد-234",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/13ce68379c1f20a05922a6e9a4b5b333478df508_1668616235.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "روشنایی بزرگ زاده",
+      "category_key": "lighting",
+      "category_label": "روشنایی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 315000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 79,
+      "seller": "گالری نورانی",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "چراغ روشنایی"
+      },
+      "supplier": {
+        "name": "گالری نورانی",
+        "url": "https://www.digikala.com/seller/CZAZS/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "6096801",
       "title": "لوستر پادینا مدل مدرن کد 7701",
       "url": "https://www.digikala.com/product/dkp-6096801/لوستر-پادینا-مدل-مدرن-کد-7701",
@@ -47396,14 +47360,14 @@
       "brand": "پادینا",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 5500000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
       "rating_count": 1827,
       "seller": "امیران لایتینگ",
-      "rank": 15,
+      "rank": 16,
       "available": true,
       "badges": [
         "فروشنده معتبر"
@@ -47417,7 +47381,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -47543,14 +47507,14 @@
       "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 474000,
       "list_price": 510000,
       "discount_percent": 7,
       "rating": 4.4,
-      "rating_count": 2932,
+      "rating_count": 2933,
       "seller": "گالری نورانی",
-      "rank": 16,
+      "rank": 17,
       "available": true,
       "badges": [
         "فروش ویژه"
@@ -47564,7 +47528,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 4,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -47921,36 +47885,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "9898924",
-      "title": "چراغ دیواری روشنایی بزرگ زاد کد 234",
-      "url": "https://www.digikala.com/product/dkp-9898924/چراغ-دیواری-روشنایی-بزرگ-زاد-کد-234",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/13ce68379c1f20a05922a6e9a4b5b333478df508_1668616235.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "روشنایی بزرگ زاده",
+      "source_id": "17996248",
+      "title": "چراغ پیشانی مدل Portable 101 بسته 3 عددی",
+      "url": "https://www.digikala.com/product/dkp-17996248/چراغ-پیشانی-مدل-portable-101-بسته-3-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d46f1ec51c5d0c793e8ff08432255c29bd9abb68_1736683024.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 315000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 1535000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 79,
-      "seller": "گالری نورانی",
-      "rank": 17,
+      "rating": 3.9,
+      "rating_count": 247,
+      "seller": "ابزار دوسو",
+      "rank": 18,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا"
       ],
       "raw_ref": {
-        "query": "روشنایی"
+        "query": "چراغ روشنایی"
       },
       "supplier": {
-        "name": "گالری نورانی",
-        "url": "https://www.digikala.com/seller/CZAZS/"
+        "name": "ابزار یراق جعفری",
+        "url": "https://www.digikala.com/seller/JCVF5/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -15,
         "is_new": false
       }
     },
@@ -48098,21 +48062,56 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "9756354",
+      "title": "چراغ دیواری روشنایی بزرگ زاده مدل st",
+      "url": "https://www.digikala.com/product/dkp-9756354/چراغ-دیواری-روشنایی-بزرگ-زاده-مدل-st",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d49b9f5c6893beb35317d8504aa285f7f02e552e_1667081424.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "روشنایی بزرگ زاده",
+      "category_key": "lighting",
+      "category_label": "روشنایی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 339440,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 152,
+      "seller": "شعله نور",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "روشنایی"
+      },
+      "supplier": {
+        "name": "رخشا نور",
+        "url": "https://www.digikala.com/seller/GRJE3/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "14056956",
       "title": "لوستر سقفی شاهان تک مدل E316/2",
       "url": "https://www.digikala.com/product/dkp-14056956/لوستر-سقفی-شاهان-تک-مدل-e3162",
       "image": "https://dkstatics-public.digikala.com/digikala-products/bf8643ab2879887a364a389958d3cdfaac2b7770_1789819674.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": null,
+      "brand": "شاهان تک",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 2060200,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 567,
       "seller": "دیجی‌کالا",
-      "rank": 18,
+      "rank": 19,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -48121,11 +48120,14 @@
       "raw_ref": {
         "query": "روشنایی"
       },
-      "supplier": {},
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
       }
     },
     {
@@ -48515,35 +48517,69 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "9756354",
-      "title": "چراغ دیواری روشنایی بزرگ زاده مدل st",
-      "url": "https://www.digikala.com/product/dkp-9756354/چراغ-دیواری-روشنایی-بزرگ-زاده-مدل-st",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d49b9f5c6893beb35317d8504aa285f7f02e552e_1667081424.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "روشنایی بزرگ زاده",
+      "source_id": "20823086",
+      "title": "چراغ روشنایی مدل شارژی سولار 100 وات CC8013A",
+      "url": "https://www.digikala.com/product/dkp-20823086/چراغ-روشنایی-مدل-شارژی-سولار-100-وات-cc8013a",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/90dd1384bbdf74bdcd2b9f2cfa0e92ec0fd5300b_1762246714.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "lighting",
       "category_label": "روشنایی",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 339440,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 3350000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 152,
-      "seller": "شعله نور",
-      "rank": 20,
+      "rating": 4.4,
+      "rating_count": 114,
+      "seller": "ارایدن پلاس",
+      "rank": 19,
       "available": true,
       "badges": [
-        "تنها 3 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
+      "raw_ref": {
+        "query": "چراغ روشنایی"
+      },
+      "supplier": {
+        "name": "ارس لایت",
+        "url": "https://www.digikala.com/seller/EPDJY/"
+      },
+      "signals": {
+        "price_change_pct": -5.21,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "7612528",
+      "title": "چراغ پیشانی مدل Portable 101",
+      "url": "https://www.digikala.com/product/dkp-7612528/چراغ-پیشانی-مدل-portable-101",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/00d3b512814ee9979ba606e89cac512c64ea9ac4_1642683939.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "lighting",
+      "category_label": "روشنایی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 570000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 8321,
+      "seller": "ابزار دوسو",
+      "rank": 20,
+      "available": true,
+      "badges": [],
       "raw_ref": {
         "query": "روشنایی"
       },
       "supplier": {
-        "name": "رخشا نور",
-        "url": "https://www.digikala.com/seller/GRJE3/"
+        "name": "فروشگاه آشیل کالا",
+        "url": "https://www.digikala.com/seller/CEM4Y/"
       },
       "signals": {
-        "price_change_pct": -2,
-        "rank_change": -9,
+        "price_change_pct": 0,
+        "rank_change": -19,
         "is_new": false
       }
     },
@@ -48647,43 +48683,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20823086",
-      "title": "چراغ روشنایی مدل شارژی سولار 100 وات CC8013A",
-      "url": "https://www.digikala.com/product/dkp-20823086/چراغ-روشنایی-مدل-شارژی-سولار-100-وات-cc8013a",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/90dd1384bbdf74bdcd2b9f2cfa0e92ec0fd5300b_1762246714.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "lighting",
-      "category_label": "روشنایی",
-      "observed_at": "2026-10-13T07:38:23.925Z",
-      "price": 3534080,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 112,
-      "seller": "ارس لایت",
-      "rank": 20,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "چراغ روشنایی"
-      },
-      "supplier": {
-        "name": "ارس لایت",
-        "url": "https://www.digikala.com/seller/EPDJY/"
-      },
-      "signals": {
-        "price_change_pct": 3.94,
-        "rank_change": -11,
         "is_new": false
       }
     },
@@ -48960,6 +48959,39 @@
       ],
       "raw_ref": {
         "query": "چراغ"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1804477",
+      "title": "چراغ حیاطی کد w5022",
+      "url": "https://www.digikala.com/product/dkp-1804477/چراغ-حیاطی-مدل-w5022",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/dea24108ee5897a06b96ab91c8345ca06b2e7356_1782130764.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "lighting",
+      "category_label": "روشنایی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 585000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 1178,
+      "seller": " مدیا شاپ",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "چراغ روشنایی"
       },
       "supplier": {},
       "signals": {
@@ -56287,7 +56319,7 @@
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 1321900,
       "list_price": null,
       "discount_percent": 0,
@@ -56305,7 +56337,7 @@
         "url": "https://www.digikala.com/seller/HH5ZK/"
       },
       "signals": {
-        "price_change_pct": -10.32,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -56320,18 +56352,18 @@
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 1290000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.6,
-      "rating_count": 3684,
+      "rating_count": 3685,
       "seller": "مه فون",
-      "rank": 1,
+      "rank": 2,
       "available": true,
       "badges": [],
       "raw_ref": {
-        "query": "ساعت هوشمند"
+        "query": "ساعت"
       },
       "supplier": {
         "name": "محصولات الکترونیک تک",
@@ -56339,7 +56371,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -56389,12 +56421,12 @@
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
-      "price": 967400,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 988000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
-      "rating_count": 8232,
+      "rating_count": 8235,
       "seller": "دیجی‌کالا",
       "rank": 2,
       "available": true,
@@ -56411,44 +56443,8 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": 2.13,
         "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "16073422",
-      "title": "ساعت هوشمند سامسونگ مدل Galaxy Watch Ultra دارای قابلیت های کنترل موسیقی (Music Player)، قابلیت مکالمه از طریق بلوتوث، قابلیت تغییر طرح ساعت یا تم، صفحه همیشه روشن (Always-on Display)، پشتیبانی از دستیار صوتی بند سیلیکون",
-      "url": "https://www.digikala.com/product/dkp-16073422/ساعت-هوشمند-سامسونگ-مدل-galaxy-watch-ultra-دارای-قابلیت-های-کنترل-موسیقی-music-player-قابلیت-مکالمه-از-طریق-بلوتوث-قابلیت-تغییر-طرح-ساعت-یا-تم-صفحه-همیشه-روشن-always-on-display-پشتیبانی-از-دستیار-صوتی-بند-سیلیکون",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a677414a3b7e96576c9ca7b4aa593a206f9e9fbc_1747411161.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "سامسونگ",
-      "category_key": "wearables",
-      "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 80840000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 332,
-      "seller": "رایاتک استور",
-      "rank": 2,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "ساعت هوشمند"
-      },
-      "supplier": {
-        "name": "رایاتک استور",
-        "url": "https://www.digikala.com/seller/GZRGK/"
-      },
-      "signals": {
-        "price_change_pct": 3.26,
-        "rank_change": 2,
         "is_new": false
       }
     },
@@ -56462,8 +56458,8 @@
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
-      "price": 655490,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 656930,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.7,
@@ -56480,7 +56476,7 @@
         "url": "https://www.digikala.com/seller/ERNC6/"
       },
       "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": 0.22,
         "rank_change": 0,
         "is_new": false
       }
@@ -56495,8 +56491,8 @@
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
-      "price": 1488000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 1487000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.5,
@@ -56504,11 +56500,7 @@
       "seller": "دومینو واچ",
       "rank": 3,
       "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
+      "badges": [],
       "raw_ref": {
         "query": "ساعت"
       },
@@ -56517,7 +56509,7 @@
         "url": "https://www.digikala.com/seller/E65RM/"
       },
       "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": -0.07,
         "rank_change": 0,
         "is_new": false
       }
@@ -56605,12 +56597,12 @@
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 1600000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
-      "rating_count": 1018,
+      "rating_count": 1020,
       "seller": "شیپور شاپ",
       "rank": 4,
       "available": true,
@@ -56634,35 +56626,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "15281661",
-      "title": "ساعت هوشمند مدل t900 ultra",
-      "url": "https://www.digikala.com/product/dkp-15281661/ساعت-هوشمند-مدل-t900-ultra",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ee4f68bb81979de2c10208e441b8c33b64c4f43c_1738415196.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "13310149",
+      "title": "ساعت هوشمند مدل T1000 ULTRA",
+      "url": "https://www.digikala.com/product/dkp-13310149/ساعت-هوشمند-مدل-t1000-ultra",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c5acca7fe5fb87c2c19363de9fa2c90a4d36b0f7_1754251776.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 2300000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 1490000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.5,
-      "rating_count": 470,
-      "seller": "اوو مارکت",
+      "rating_count": 1173,
+      "seller": "لوازم جانبی موبایل توسعه",
       "rank": 4,
       "available": true,
       "badges": [
-        "تنها 3 عدد در انبار باقی مانده"
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
-        "query": "ساعت هوشمند"
+        "query": "ساعت"
       },
       "supplier": {
-        "name": "اوو مارکت",
-        "url": "https://www.digikala.com/seller/E65RM/"
+        "name": "پخش حامد دیجیتال",
+        "url": "https://www.digikala.com/seller/CFXJD/"
       },
       "signals": {
-        "price_change_pct": 4.64,
-        "rank_change": 15,
+        "price_change_pct": 0.68,
+        "rank_change": 3,
         "is_new": false
       }
     },
@@ -56705,43 +56698,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "10611637",
-      "title": "ساعت هوشمند مدل T900 Ultra",
-      "url": "https://www.digikala.com/product/dkp-10611637/ساعت-هوشمند-مدل-t900-ultra",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c72fba65953cb3a915e166879a540060b11d23cd_1754235320.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "wearables",
-      "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 2250000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.7,
-      "rating_count": 9331,
-      "seller": "سیناآف",
-      "rank": 5,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "ساعت هوشمند"
-      },
-      "supplier": {
-        "name": "اوو مارکت",
-        "url": "https://www.digikala.com/seller/E65RM/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 5,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "12560993",
       "title": "ساعت هوشمند تی سی اچ مدل TCH Z40",
       "url": "https://www.digikala.com/product/dkp-12560993/ساعت-هوشمند-تی-سی-اچ-مدل-tch-z40",
@@ -56749,31 +56705,63 @@
       "brand": "تی سی اچ",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 5518600,
-      "list_price": 7359000,
-      "discount_percent": 25,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 5519900,
+      "list_price": null,
+      "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 567,
-      "seller": "دیجی‌کالا",
-      "rank": 6,
+      "seller": "اسمارت تکنولوژی قشم",
+      "rank": 5,
       "available": true,
       "badges": [
-        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا",
-        "تنها 1 عدد در انبار باقی مانده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "ساعت هوشمند"
+        "query": "ساعت"
       },
       "supplier": {
         "name": "اسمارت تکنولوژی قشم",
         "url": "https://www.digikala.com/seller/CGDG9/"
       },
       "signals": {
-        "price_change_pct": -1.16,
-        "rank_change": -2,
+        "price_change_pct": 0.02,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "10832569",
+      "title": "ساعت مچی دیجیتال مدل هوشمند کد gersdam02",
+      "url": "https://www.digikala.com/product/dkp-10832569/ساعت-مچی-دیجیتال-مدل-هوشمند-کد-gersdam02",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6b4590e25e4401f499d32a432b31be4b69190edd_1678035279.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "wearables",
+      "category_label": "ساعت و گجت پوشیدنی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 550000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 33,
+      "seller": "عقیق اصل",
+      "rank": 5,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "ساعت و گجت پوشیدنی"
+      },
+      "supplier": {
+        "name": "عقیق اصل",
+        "url": "https://www.digikala.com/seller/C9KHY/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 6,
         "is_new": false
       }
     },
@@ -56890,33 +56878,37 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "13310149",
-      "title": "ساعت هوشمند مدل T1000 ULTRA",
-      "url": "https://www.digikala.com/product/dkp-13310149/ساعت-هوشمند-مدل-t1000-ultra",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c5acca7fe5fb87c2c19363de9fa2c90a4d36b0f7_1754251776.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "17015612",
+      "title": "ساعت هوشمند تی سی اچ مدل TCH Z40+ Tech Sense دارای قابلیت های کنترل موسیقی (Music Player)، قابلیت مکالمه از طریق بلوتوث، پشتیبانی از زبان فارسی در منو و سیستم‌عامل، قابلیت تغییر طرح ساعت یا تم بند سیلیکون",
+      "url": "https://www.digikala.com/product/dkp-17015612/ساعت-هوشمند-تی-سی-اچ-مدل-tch-z40-tech-sense-دارای-قابلیت-های-کنترل-موسیقی-music-player-قابلیت-مکالمه-از-طریق-بلوتوث-پشتیبانی-از-زبان-فارسی-در-منو-و-سیستمعامل-قابلیت-تغییر-طرح-ساعت-یا-تم-بند-سیلیکون",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/063f2434583171164ea8027f5ef2bde41bb73b1b_1754237122.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "تی سی اچ",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 1480000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.5,
-      "rating_count": 1173,
-      "seller": "لوازم جانبی موبایل توسعه",
-      "rank": 7,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 4943700,
+      "list_price": 6721900,
+      "discount_percent": 26,
+      "rating": 4.5,
+      "rating_count": 513,
+      "seller": "دیجی‌کالا",
+      "rank": 6,
       "available": true,
-      "badges": [],
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
       "raw_ref": {
-        "query": "ساعت هوشمند"
+        "query": "ساعت"
       },
       "supplier": {
-        "name": "پخش حامد دیجیتال",
-        "url": "https://www.digikala.com/seller/CFXJD/"
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": -1.27,
-        "rank_change": -3,
+        "price_change_pct": 5.08,
+        "rank_change": 4,
         "is_new": false
       }
     },
@@ -57029,20 +57021,20 @@
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 2530000,
       "list_price": 4700000,
       "discount_percent": 46,
       "rating": 3.4,
-      "rating_count": 1021,
+      "rating_count": 1022,
       "seller": "سنقر",
-      "rank": 8,
+      "rank": 7,
       "available": true,
       "badges": [
         "فروش ویژه"
       ],
       "raw_ref": {
-        "query": "ساعت هوشمند"
+        "query": "ساعت"
       },
       "supplier": {
         "name": "پخش سوپرمارکت نانینو",
@@ -57050,7 +57042,44 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "15281661",
+      "title": "ساعت هوشمند مدل t900 ultra",
+      "url": "https://www.digikala.com/product/dkp-15281661/ساعت-هوشمند-مدل-t900-ultra",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ee4f68bb81979de2c10208e441b8c33b64c4f43c_1738415196.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "wearables",
+      "category_label": "ساعت و گجت پوشیدنی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 2198000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.5,
+      "rating_count": 470,
+      "seller": "هانمی",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ساعت"
+      },
+      "supplier": {
+        "name": "اوو مارکت",
+        "url": "https://www.digikala.com/seller/E65RM/"
+      },
+      "signals": {
+        "price_change_pct": -4.43,
+        "rank_change": -4,
         "is_new": false
       }
     },
@@ -57086,6 +57115,41 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "9269398",
+      "title": "ساعت هوشمند سامسونگ مدل Galaxy Watch5 Pro",
+      "url": "https://www.digikala.com/product/dkp-9269398/ساعت-هوشمند-سامسونگ-مدل-galaxy-watch5-pro",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/721c7366de4c1c66ce3fbad0bea319be245b8cfe_1754248988.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "سامسونگ",
+      "category_key": "wearables",
+      "category_label": "ساعت و گجت پوشیدنی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 34000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 610,
+      "seller": "آلفا بلا",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ساعت هوشمند"
+      },
+      "supplier": {
+        "name": " توسکان نوین",
+        "url": "https://www.digikala.com/seller/GV64C/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 3,
         "is_new": false
       }
     },
@@ -57162,44 +57226,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "9537840",
-      "title": "ساعت مچی دیجیتال مدل AWS",
-      "url": "https://www.digikala.com/product/dkp-9537840/ساعت-مچی-دیجیتال-مدل-aws",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1c948b3b4d852feb95c61e66c6fef11471246885_1664214066.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "wearables",
-      "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
-      "price": 537000,
-      "list_price": 587000,
-      "discount_percent": 9,
-      "rating": 3.6,
-      "rating_count": 1314,
-      "seller": "دومینو واچ",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "پیشنهاد شگفت انگیز",
-        "شگفت‌انگیز",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "ساعت"
-      },
-      "supplier": {
-        "name": "عقیق اصل",
-        "url": "https://www.digikala.com/seller/C9KHY/"
-      },
-      "signals": {
-        "price_change_pct": -8.52,
-        "rank_change": 8,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "16073869",
       "title": "ساعت هوشمند سامسونگ مدل Galaxy Watch 7 40mm دارای قابلیت های کنترل موسیقی (Music Player)، قابلیت مکالمه از طریق بلوتوث، قابلیت تغییر طرح ساعت یا تم، صفحه همیشه روشن (Always-on Display)، پشتیبانی از دستیار صوتی بند پلاستیک",
       "url": "https://www.digikala.com/product/dkp-16073869/ساعت-هوشمند-سامسونگ-مدل-galaxy-watch-7-40mm-دارای-قابلیت-های-کنترل-موسیقی-music-player-قابلیت-مکالمه-از-طریق-بلوتوث-قابلیت-تغییر-طرح-ساعت-یا-تم-صفحه-همیشه-روشن-always-on-display-پشتیبانی-از-دستیار-صوتی-بند-پلاستیک",
@@ -57236,36 +57262,73 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17015612",
-      "title": "ساعت هوشمند تی سی اچ مدل TCH Z40+ Tech Sense دارای قابلیت های کنترل موسیقی (Music Player)، قابلیت مکالمه از طریق بلوتوث، پشتیبانی از زبان فارسی در منو و سیستم‌عامل، قابلیت تغییر طرح ساعت یا تم بند سیلیکون",
-      "url": "https://www.digikala.com/product/dkp-17015612/ساعت-هوشمند-تی-سی-اچ-مدل-tch-z40-tech-sense-دارای-قابلیت-های-کنترل-موسیقی-music-player-قابلیت-مکالمه-از-طریق-بلوتوث-پشتیبانی-از-زبان-فارسی-در-منو-و-سیستمعامل-قابلیت-تغییر-طرح-ساعت-یا-تم-بند-سیلیکون",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/063f2434583171164ea8027f5ef2bde41bb73b1b_1754237122.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "تی سی اچ",
+      "source_id": "15314695",
+      "title": "ساعت هوشمند مدل T1000 ORIG دارای قابلیت های صفحه نمایش رنگی بند سیلیکون",
+      "url": "https://www.digikala.com/product/dkp-15314695/ساعت-هوشمند-مدل-t1000-orig-دارای-قابلیت-های-صفحه-نمایش-رنگی-بند-سیلیکون",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8ef6e572b230439261ab77d20e1d4f855814b995_1738580164.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 4704600,
-      "list_price": 6721900,
-      "discount_percent": 30,
-      "rating": 4.5,
-      "rating_count": 511,
-      "seller": "دیجی‌کالا",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 1450000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.5,
+      "rating_count": 185,
+      "seller": "ایران نوین هوشمند",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ساعت"
+      },
+      "supplier": {
+        "name": "اوو مارکت",
+        "url": "https://www.digikala.com/seller/E65RM/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "10611637",
+      "title": "ساعت هوشمند مدل T900 Ultra",
+      "url": "https://www.digikala.com/product/dkp-10611637/ساعت-هوشمند-مدل-t900-ultra",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c72fba65953cb3a915e166879a540060b11d23cd_1754235320.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "wearables",
+      "category_label": "ساعت و گجت پوشیدنی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 2250000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.7,
+      "rating_count": 9331,
+      "seller": "سیناآف",
       "rank": 10,
       "available": true,
       "badges": [
-        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
+        "ارسال توسط فروشنده",
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "ساعت هوشمند"
+        "query": "ساعت"
       },
       "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
+        "name": "اوو مارکت",
+        "url": "https://www.digikala.com/seller/E65RM/"
       },
       "signals": {
-        "price_change_pct": -6.4,
+        "price_change_pct": 0,
         "rank_change": -5,
         "is_new": false
       }
@@ -57379,109 +57442,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "15401871",
-      "title": "ساعت مچی دیجیتال مردانه مدل جهانی کد AB1",
-      "url": "https://www.digikala.com/product/dkp-15401871/ساعت-مچی-دیجیتال-مردانه-مدل-جهانی-کد-ab1",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/648fb2961b007a3e5bbfd825770f24c3b0796fdd_1715272412.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "wearables",
-      "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
-      "price": 699000,
-      "list_price": 750000,
-      "discount_percent": 7,
-      "rating": 4.3,
-      "rating_count": 75,
-      "seller": "گالری علی بابا",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "ساعت"
-      },
-      "supplier": {
-        "name": "گالری علی بابا",
-        "url": "https://www.digikala.com/seller/DZZAA/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "10832569",
-      "title": "ساعت مچی دیجیتال مدل هوشمند کد gersdam02",
-      "url": "https://www.digikala.com/product/dkp-10832569/ساعت-مچی-دیجیتال-مدل-هوشمند-کد-gersdam02",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/6b4590e25e4401f499d32a432b31be4b69190edd_1678035279.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "wearables",
-      "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
-      "price": 550000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 33,
-      "seller": "عقیق اصل",
-      "rank": 11,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "ساعت و گجت پوشیدنی"
-      },
-      "supplier": {
-        "name": "عقیق اصل",
-        "url": "https://www.digikala.com/seller/C9KHY/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "9269398",
-      "title": "ساعت هوشمند سامسونگ مدل Galaxy Watch5 Pro",
-      "url": "https://www.digikala.com/product/dkp-9269398/ساعت-هوشمند-سامسونگ-مدل-galaxy-watch5-pro",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/721c7366de4c1c66ce3fbad0bea319be245b8cfe_1754248988.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "سامسونگ",
-      "category_key": "wearables",
-      "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-17T01:28:07.088Z",
-      "price": 34000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 610,
-      "seller": "آلفا بلا",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "ساعت هوشمند"
-      },
-      "supplier": {
-        "name": " توسکان نوین",
-        "url": "https://www.digikala.com/seller/GV64C/"
-      },
-      "signals": {
-        "price_change_pct": -6.08,
-        "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "3656504",
       "title": "ساعت مچی دیجیتال مدل LE 2667 - ME",
       "url": "https://www.digikala.com/product/dkp-3656504/ساعت-مچی-دیجیتال-دیتر-مدل-le-2667-me",
@@ -57515,29 +57475,62 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "15985727",
-      "title": "ساعت هوشمند مدل اولترا T1000 دارای قابلیت های قابلیت مکالمه مستقیم، قابلیت مکالمه از طریق بلوتوث، ضد اب بند سیلیکون",
-      "url": "https://www.digikala.com/product/dkp-15985727/ساعت-هوشمند-مدل-اولترا-t1000-دارای-قابلیت-های-قابلیت-مکالمه-مستقیم-قابلیت-مکالمه-از-طریق-بلوتوث-ضد-آب-بند-سیلیکون",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4dd06ca0400eed1b47e0b3a4aaf74ae757df0dde_1738582830.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "14495589",
+      "title": "ساعت مچی دیجیتال پسرانه والار مدل ضداب اسپرتSPORTمچی چراغدار کرنومتردار کد 0080",
+      "url": "https://www.digikala.com/product/dkp-14495589/ساعت-مچی-دیجیتال-پسرانه-والار-مدل-ضدآب-اسپرتsportمچی-چراغدار-کرنومتردار-کد-0080",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0ea8f7a98d7f1fc7db5bbd90451ad1bafa866c04_1717435268.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "والار",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 1290000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 756310,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.5,
-      "rating_count": 1356,
-      "seller": "مه فون",
+      "rating": 4.3,
+      "rating_count": 79,
+      "seller": "راد استار",
       "rank": 11,
       "available": true,
       "badges": [],
       "raw_ref": {
-        "query": "ساعت هوشمند"
+        "query": "ساعت و گجت پوشیدنی"
       },
       "supplier": {
-        "name": "لوازم جانبی طلوع اراک",
-        "url": "https://www.digikala.com/seller/G526S/"
+        "name": "راد استار",
+        "url": "https://www.digikala.com/seller/CFXAU/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "9767313",
+      "title": "ساعت مچی دیجیتال مدل هوشمند کد w1",
+      "url": "https://www.digikala.com/product/dkp-9767313/ساعت-مچی-دیجیتال-مدل-هوشمند-کد-w1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/01b3b9e0761006c406ada3ca98154c0cd2a0f3b1_1667207536.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "wearables",
+      "category_label": "ساعت و گجت پوشیدنی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 616000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 692,
+      "seller": "مای شاپ می",
+      "rank": 11,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "ساعت"
+      },
+      "supplier": {
+        "name": "مای شاپ می",
+        "url": "https://www.digikala.com/seller/HTR4S/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -57617,100 +57610,64 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "14506046",
-      "title": "مچ بند هوشمند سامسونگ مدل Galaxy Fit3",
-      "url": "https://www.digikala.com/product/dkp-14506046/مچ-بند-هوشمند-سامسونگ-مدل-galaxy-fit3",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/327bd87ee0231a686f7f3065d3f6b9715b70eac9_1708424773.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "16073844",
+      "title": "ساعت هوشمند سامسونگ مدل Galaxy Watch 7 44mm دارای قابلیت های کنترل موسیقی (Music Player) بند پلاستیک",
+      "url": "https://www.digikala.com/product/dkp-16073844/ساعت-هوشمند-سامسونگ-مدل-galaxy-watch-7-44mm-دارای-قابلیت-های-کنترل-موسیقی-music-player-بند-پلاستیک",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0729b5a31e4e18a4a60b379878e446bae7c258ef_1747411212.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "سامسونگ",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 7983000,
-      "list_price": 8600000,
-      "discount_percent": 7,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 39000000,
+      "list_price": null,
+      "discount_percent": 0,
       "rating": 4.6,
-      "rating_count": 2085,
-      "seller": "دیجی‌کالا",
+      "rating_count": 1241,
+      "seller": "پردازش واچ",
       "rank": 12,
       "available": true,
       "badges": [
-        "پیشنهاد شگفت انگیز",
-        "شگفت‌انگیز",
         "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
+        "انبار دیجی‌کالا",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "ساعت هوشمند"
       },
       "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
+        "name": "رایاتک استور",
+        "url": "https://www.digikala.com/seller/GZRGK/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 5,
+        "price_change_pct": -0.69,
+        "rank_change": 2,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "15314695",
-      "title": "ساعت هوشمند مدل T1000 ORIG دارای قابلیت های صفحه نمایش رنگی بند سیلیکون",
-      "url": "https://www.digikala.com/product/dkp-15314695/ساعت-هوشمند-مدل-t1000-orig-دارای-قابلیت-های-صفحه-نمایش-رنگی-بند-سیلیکون",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8ef6e572b230439261ab77d20e1d4f855814b995_1738580164.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "2620112",
+      "title": "ساعت مچی دیجیتال مدل 2022",
+      "url": "https://www.digikala.com/product/dkp-2620112/ساعت-مچی-دیجیتال-مدل-2022",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/120135240.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 1450000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 480000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.5,
-      "rating_count": 184,
-      "seller": "ایران نوین هوشمند",
-      "rank": 13,
+      "rating_count": 644,
+      "seller": "راد استار",
+      "rank": 12,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "تنها 2 عدد در انبار باقی مانده"
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "ساعت هوشمند"
-      },
-      "supplier": {
-        "name": "اوو مارکت",
-        "url": "https://www.digikala.com/seller/E65RM/"
-      },
-      "signals": {
-        "price_change_pct": -3.27,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "14495589",
-      "title": "ساعت مچی دیجیتال پسرانه والار مدل ضداب اسپرتSPORTمچی چراغدار کرنومتردار کد 0080",
-      "url": "https://www.digikala.com/product/dkp-14495589/ساعت-مچی-دیجیتال-پسرانه-والار-مدل-ضدآب-اسپرتsportمچی-چراغدار-کرنومتردار-کد-0080",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0ea8f7a98d7f1fc7db5bbd90451ad1bafa866c04_1717435268.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "والار",
-      "category_key": "wearables",
-      "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
-      "price": 756310,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 79,
-      "seller": "راد استار",
-      "rank": 13,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "ساعت و گجت پوشیدنی"
+        "query": "ساعت"
       },
       "supplier": {
         "name": "راد استار",
@@ -57718,7 +57675,72 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "11343579",
+      "title": "ساعت مچی دیجیتال مدل هوشمند کد 307sb",
+      "url": "https://www.digikala.com/product/dkp-11343579/ساعت-مچی-دیجیتال-مدل-هوشمند-کد-307sb",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/af41e72a8546494afc943e160123dad458cc51db_1684246734.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "wearables",
+      "category_label": "ساعت و گجت پوشیدنی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 599000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.5,
+      "rating_count": 62,
+      "seller": "عقیق اصل",
+      "rank": 12,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "ساعت و گجت پوشیدنی"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "15401871",
+      "title": "ساعت مچی دیجیتال مردانه مدل جهانی کد AB1",
+      "url": "https://www.digikala.com/product/dkp-15401871/ساعت-مچی-دیجیتال-مردانه-مدل-جهانی-کد-ab1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/648fb2961b007a3e5bbfd825770f24c3b0796fdd_1715272412.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "wearables",
+      "category_label": "ساعت و گجت پوشیدنی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 699000,
+      "list_price": 750000,
+      "discount_percent": 7,
+      "rating": 4.2,
+      "rating_count": 76,
+      "seller": "گالری علی بابا",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "فروش ویژه"
+      ],
+      "raw_ref": {
+        "query": "ساعت"
+      },
+      "supplier": {
+        "name": "گالری علی بابا",
+        "url": "https://www.digikala.com/seller/DZZAA/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -57832,41 +57854,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "13518017",
-      "title": "ساعت هوشمند مدل T1000 ULTRA",
-      "url": "https://www.digikala.com/product/dkp-13518017/ساعت-هوشمند-مدل-t1000-ultra",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d78590ac370c377849b8f21f0c62301fc70dcc50_1754251911.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "wearables",
-      "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
-      "price": 1499000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.4,
-      "rating_count": 154,
-      "seller": "مرکز پخش سانترال",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "ساعت"
-      },
-      "supplier": {
-        "name": "پخش حامد دیجیتال",
-        "url": "https://www.digikala.com/seller/CFXJD/"
-      },
-      "signals": {
-        "price_change_pct": -6.25,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "9851822",
       "title": "ساعت مچی دیجیتال پسرانه مدل Spiderman-tuch",
       "url": "https://www.digikala.com/product/dkp-9851822/ساعت-مچی-دیجیتال-پسرانه-مدل-spiderman-tuch",
@@ -57874,7 +57861,7 @@
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 261600,
       "list_price": null,
       "discount_percent": 0,
@@ -57974,43 +57961,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "16073844",
-      "title": "ساعت هوشمند سامسونگ مدل Galaxy Watch 7 44mm دارای قابلیت های کنترل موسیقی (Music Player) بند پلاستیک",
-      "url": "https://www.digikala.com/product/dkp-16073844/ساعت-هوشمند-سامسونگ-مدل-galaxy-watch-7-44mm-دارای-قابلیت-های-کنترل-موسیقی-music-player-بند-پلاستیک",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0729b5a31e4e18a4a60b379878e446bae7c258ef_1747411212.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "سامسونگ",
-      "category_key": "wearables",
-      "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 39270000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.6,
-      "rating_count": 1241,
-      "seller": "تامین کالای آرتین همتا",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "ساعت هوشمند"
-      },
-      "supplier": {
-        "name": "رایاتک استور",
-        "url": "https://www.digikala.com/seller/GZRGK/"
-      },
-      "signals": {
-        "price_change_pct": 1.34,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "15262218",
       "title": "ساعت هوشمند مدل T1000ULTRA ORIG دارای قابلیت های صفحه نمایش لمسی، صفحه نمایش رنگی بند سیلیکون",
       "url": "https://www.digikala.com/product/dkp-15262218/ساعت-هوشمند-مدل-t1000ultra-orig-دارای-قابلیت-های-صفحه-نمایش-لمسی-صفحه-نمایش-رنگی-بند-سیلیکون",
@@ -58018,20 +57968,20 @@
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 1499000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.6,
       "rating_count": 421,
       "seller": "مرکز پخش سانترال",
-      "rank": 15,
+      "rank": 14,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "ساعت هوشمند"
+        "query": "ساعت"
       },
       "supplier": {
         "name": "محصولات الکترونیک تک",
@@ -58039,42 +57989,40 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 1,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "2620112",
-      "title": "ساعت مچی دیجیتال مدل 2022",
-      "url": "https://www.digikala.com/product/dkp-2620112/ساعت-مچی-دیجیتال-مدل-2022",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/120135240.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "15985727",
+      "title": "ساعت هوشمند مدل اولترا T1000 دارای قابلیت های قابلیت مکالمه مستقیم، قابلیت مکالمه از طریق بلوتوث، ضد اب بند سیلیکون",
+      "url": "https://www.digikala.com/product/dkp-15985727/ساعت-هوشمند-مدل-اولترا-t1000-دارای-قابلیت-های-قابلیت-مکالمه-مستقیم-قابلیت-مکالمه-از-طریق-بلوتوث-ضد-آب-بند-سیلیکون",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4dd06ca0400eed1b47e0b3a4aaf74ae757df0dde_1738582830.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
-      "price": 480000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 1290000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.5,
-      "rating_count": 644,
-      "seller": "راد استار",
+      "rating_count": 1357,
+      "seller": "مه فون",
       "rank": 15,
       "available": true,
-      "badges": [
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
+      "badges": [],
       "raw_ref": {
         "query": "ساعت"
       },
       "supplier": {
-        "name": "راد استار",
-        "url": "https://www.digikala.com/seller/CFXAU/"
+        "name": "لوازم جانبی طلوع اراک",
+        "url": "https://www.digikala.com/seller/G526S/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": -4,
         "is_new": false
       }
     },
@@ -58088,7 +58036,7 @@
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 299510,
       "list_price": null,
       "discount_percent": 0,
@@ -58219,35 +58167,73 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "9767313",
-      "title": "ساعت مچی دیجیتال مدل هوشمند کد w1",
-      "url": "https://www.digikala.com/product/dkp-9767313/ساعت-مچی-دیجیتال-مدل-هوشمند-کد-w1",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/01b3b9e0761006c406ada3ca98154c0cd2a0f3b1_1667207536.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "9537840",
+      "title": "ساعت مچی دیجیتال مدل AWS",
+      "url": "https://www.digikala.com/product/dkp-9537840/ساعت-مچی-دیجیتال-مدل-aws",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1c948b3b4d852feb95c61e66c6fef11471246885_1664214066.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 616000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 691,
-      "seller": "مای شاپ می",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 537000,
+      "list_price": 587000,
+      "discount_percent": 9,
+      "rating": 3.6,
+      "rating_count": 1315,
+      "seller": "دومینو واچ",
       "rank": 16,
       "available": true,
       "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
+        "پیشنهاد شگفت انگیز",
+        "شگفت‌انگیز",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
-        "query": "ساعت هوشمند"
+        "query": "ساعت و گجت پوشیدنی"
       },
       "supplier": {
-        "name": "مای شاپ می",
-        "url": "https://www.digikala.com/seller/HTR4S/"
+        "name": "عقیق اصل",
+        "url": "https://www.digikala.com/seller/C9KHY/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -8,
+        "rank_change": -7,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "13518017",
+      "title": "ساعت هوشمند مدل T1000 ULTRA",
+      "url": "https://www.digikala.com/product/dkp-13518017/ساعت-هوشمند-مدل-t1000-ultra",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d78590ac370c377849b8f21f0c62301fc70dcc50_1754251911.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "wearables",
+      "category_label": "ساعت و گجت پوشیدنی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 1499000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.4,
+      "rating_count": 154,
+      "seller": "مرکز پخش سانترال",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "ساعت"
+      },
+      "supplier": {
+        "name": "پخش حامد دیجیتال",
+        "url": "https://www.digikala.com/seller/CFXJD/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -58474,14 +58460,14 @@
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 1399000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.3,
       "rating_count": 322,
       "seller": "مرکز پخش سانترال",
-      "rank": 17,
+      "rank": 16,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -58495,42 +58481,45 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "6535061",
-      "title": "ساعت مچی دیجیتال مدل W1",
-      "url": "https://www.digikala.com/product/dkp-6535061/ساعت-مچی-دیجیتال-مدل-w1",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/fb8bfe0440182ed2bd4de5ae59fbad53a725fed0_1632391444.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "14506046",
+      "title": "مچ بند هوشمند سامسونگ مدل Galaxy Fit3",
+      "url": "https://www.digikala.com/product/dkp-14506046/مچ-بند-هوشمند-سامسونگ-مدل-galaxy-fit3",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/327bd87ee0231a686f7f3065d3f6b9715b70eac9_1708424773.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "سامسونگ",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
-      "price": 575330,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 2537,
-      "seller": "مای شاپ می",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 7983000,
+      "list_price": 8600000,
+      "discount_percent": 7,
+      "rating": 4.6,
+      "rating_count": 2085,
+      "seller": "دیجی‌کالا",
       "rank": 17,
       "available": true,
       "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
+        "پیشنهاد شگفت انگیز",
+        "شگفت‌انگیز",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
-        "query": "ساعت و گجت پوشیدنی"
+        "query": "ساعت"
       },
       "supplier": {
-        "name": "گالری سیتی واج",
-        "url": "https://www.digikala.com/seller/CFUUE/"
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": -3.17,
-        "rank_change": 0,
+        "price_change_pct": 0,
+        "rank_change": -5,
         "is_new": false
       }
     },
@@ -58743,6 +58732,76 @@
       "signals": {
         "price_change_pct": -24.09,
         "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "14359898",
+      "title": "مچ بند هوشمند شیائومی مدل Mi Band 8 گلوبال",
+      "url": "https://www.digikala.com/product/dkp-14359898/مچ-بند-هوشمند-شیائومی-مدل-mi-band-8-گلوبال",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/fe24e46c2ed3e72590144384308cfc14e84b4605_1707326921.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "شیائومی",
+      "category_key": "wearables",
+      "category_label": "ساعت و گجت پوشیدنی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 8700000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 1841,
+      "seller": "اسمارت بای قشم",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "ساعت هوشمند"
+      },
+      "supplier": {
+        "name": "اسمارت بای قشم",
+        "url": "https://www.digikala.com/seller/FMAKZ/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "6535061",
+      "title": "ساعت مچی دیجیتال مدل W1",
+      "url": "https://www.digikala.com/product/dkp-6535061/ساعت-مچی-دیجیتال-مدل-w1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/fb8bfe0440182ed2bd4de5ae59fbad53a725fed0_1632391444.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "wearables",
+      "category_label": "ساعت و گجت پوشیدنی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 594100,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 2538,
+      "seller": "مای شاپ می",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ساعت"
+      },
+      "supplier": {
+        "name": "گالری سیتی واج",
+        "url": "https://www.digikala.com/seller/CFUUE/"
+      },
+      "signals": {
+        "price_change_pct": 3.26,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -58964,35 +59023,73 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "14359898",
-      "title": "مچ بند هوشمند شیائومی مدل Mi Band 8 گلوبال",
-      "url": "https://www.digikala.com/product/dkp-14359898/مچ-بند-هوشمند-شیائومی-مدل-mi-band-8-گلوبال",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/fe24e46c2ed3e72590144384308cfc14e84b4605_1707326921.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "شیائومی",
+      "source_id": "15407253",
+      "title": "ساعت هوشمند مدل T900 ultra 2024",
+      "url": "https://www.digikala.com/product/dkp-15407253/ساعت-هوشمند-مدل-t900-ultra-2024",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/09ed1f2755d64e72486065623715b2c4c5e4c161_1739100283.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 8700000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 1841,
-      "seller": "اسمارت بای قشم",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 2450000,
+      "list_price": 2500000,
+      "discount_percent": 2,
+      "rating": 3.2,
+      "rating_count": 91,
+      "seller": "حراج ارزان کالا",
       "rank": 18,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده"
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
         "query": "ساعت هوشمند"
       },
       "supplier": {
-        "name": "اسمارت بای قشم",
-        "url": "https://www.digikala.com/seller/FMAKZ/"
+        "name": "حراج ارزان کالا",
+        "url": "https://www.digikala.com/seller/HAUVU/"
       },
       "signals": {
         "price_change_pct": 0,
         "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "16073422",
+      "title": "ساعت هوشمند سامسونگ مدل Galaxy Watch Ultra دارای قابلیت های کنترل موسیقی (Music Player)، قابلیت مکالمه از طریق بلوتوث، قابلیت تغییر طرح ساعت یا تم، صفحه همیشه روشن (Always-on Display)، پشتیبانی از دستیار صوتی بند سیلیکون",
+      "url": "https://www.digikala.com/product/dkp-16073422/ساعت-هوشمند-سامسونگ-مدل-galaxy-watch-ultra-دارای-قابلیت-های-کنترل-موسیقی-music-player-قابلیت-مکالمه-از-طریق-بلوتوث-قابلیت-تغییر-طرح-ساعت-یا-تم-صفحه-همیشه-روشن-always-on-display-پشتیبانی-از-دستیار-صوتی-بند-سیلیکون",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a677414a3b7e96576c9ca7b4aa593a206f9e9fbc_1747411161.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "سامسونگ",
+      "category_key": "wearables",
+      "category_label": "ساعت و گجت پوشیدنی",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 80640000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 332,
+      "seller": "رایاتک استور",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ساعت هوشمند"
+      },
+      "supplier": {
+        "name": "رایاتک استور",
+        "url": "https://www.digikala.com/seller/GZRGK/"
+      },
+      "signals": {
+        "price_change_pct": -0.25,
+        "rank_change": -17,
         "is_new": false
       }
     },
@@ -59422,33 +59519,29 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "15407253",
-      "title": "ساعت هوشمند مدل T900 ultra 2024",
-      "url": "https://www.digikala.com/product/dkp-15407253/ساعت-هوشمند-مدل-t900-ultra-2024",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/09ed1f2755d64e72486065623715b2c4c5e4c161_1739100283.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "15807380",
+      "title": "ساعت مچی دیجیتال مدل اسپرت تک زمانه کرنومتر دار کد 3",
+      "url": "https://www.digikala.com/product/dkp-15807380/ساعت-مچی-دیجیتال-مدل-اسپرت-تک-زمانه-کرنومتر-دار-کد-3",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f061386ea59336e84c39dc187726b16581c3ab32_1718406959.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 2450000,
-      "list_price": 2500000,
-      "discount_percent": 2,
-      "rating": 3.2,
-      "rating_count": 91,
-      "seller": "حراج ارزان کالا",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 987100,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 223,
+      "seller": "آونگ نقره ای",
       "rank": 19,
       "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
+      "badges": [],
       "raw_ref": {
-        "query": "ساعت هوشمند"
+        "query": "ساعت"
       },
       "supplier": {
-        "name": "حراج ارزان کالا",
-        "url": "https://www.digikala.com/seller/HAUVU/"
+        "name": "آونگ نقره ای",
+        "url": "https://www.digikala.com/seller/E2YT4/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -59466,7 +59559,7 @@
       "brand": "متفرقه",
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T23:33:09.661Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 1800000,
       "list_price": null,
       "discount_percent": 0,
@@ -59484,8 +59577,8 @@
         "url": "https://www.digikala.com/seller/E65RM/"
       },
       "signals": {
-        "price_change_pct": -4.26,
-        "rank_change": -1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -59915,30 +60008,29 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "15807380",
-      "title": "ساعت مچی دیجیتال مدل اسپرت تک زمانه کرنومتر دار کد 3",
-      "url": "https://www.digikala.com/product/dkp-15807380/ساعت-مچی-دیجیتال-مدل-اسپرت-تک-زمانه-کرنومتر-دار-کد-3",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f061386ea59336e84c39dc187726b16581c3ab32_1718406959.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "918833",
+      "title": "ساعت مچی دیجیتال مدل G004",
+      "url": "https://www.digikala.com/product/dkp-918833/ساعت-مچی-دیجیتال-مدل-g004",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4289700.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
       "category_key": "wearables",
       "category_label": "ساعت و گجت پوشیدنی",
-      "observed_at": "2026-10-19T13:01:35.987Z",
-      "price": 987100,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 322200,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 223,
-      "seller": "آونگ نقره ای",
+      "rating": 3.4,
+      "rating_count": 78,
+      "seller": "هیرمان استور",
       "rank": 20,
       "available": true,
-      "badges": [],
+      "badges": [
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
       "raw_ref": {
         "query": "ساعت"
       },
-      "supplier": {
-        "name": "آونگ نقره ای",
-        "url": "https://www.digikala.com/seller/E2YT4/"
-      },
+      "supplier": {},
       "signals": {
         "price_change_pct": null,
         "rank_change": null,
@@ -108095,7 +108187,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 999000,
       "list_price": null,
       "discount_percent": 0,
@@ -108117,7 +108209,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 9,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -108168,7 +108260,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 303900,
       "list_price": null,
       "discount_percent": 0,
@@ -108189,7 +108281,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 11,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -108203,17 +108295,17 @@
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 709000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
-      "rating_count": 659,
+      "rating_count": 660,
       "seller": "دیلون",
       "rank": 3,
       "available": true,
       "badges": [
-        "تنها 3 عدد در انبار باقی مانده"
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لباس مردانه"
@@ -108224,7 +108316,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -108386,7 +108478,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 999000,
       "list_price": null,
       "discount_percent": 0,
@@ -108409,7 +108501,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -108533,7 +108625,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 340000,
       "list_price": null,
       "discount_percent": 0,
@@ -108554,7 +108646,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 12,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -108606,7 +108698,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 348700,
       "list_price": null,
       "discount_percent": 0,
@@ -108627,7 +108719,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 11,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -108641,7 +108733,7 @@
       "brand": "دیجی استایل اسنشیال",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 1740000,
       "list_price": 3787000,
       "discount_percent": 54,
@@ -108664,8 +108756,8 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 27.94,
-        "rank_change": -2,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -108716,7 +108808,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 12300000,
       "list_price": null,
       "discount_percent": 0,
@@ -108737,8 +108829,8 @@
         "url": "https://www.digikala.com/seller/EJ9AP/"
       },
       "signals": {
-        "price_change_pct": 39.77,
-        "rank_change": -2,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -109075,19 +109167,19 @@
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 999000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.6,
-      "rating_count": 39,
+      "rating_count": 40,
       "seller": "ارزانسرای مهدی تبریز",
-      "rank": 10,
+      "rank": 9,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
         "انبار دیجی‌کالا",
-        "تنها 3 عدد در انبار باقی مانده"
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لباس مردانه"
@@ -109098,7 +109190,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -3,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -109212,37 +109304,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "4071492",
-      "title": "ست تی شرت و شلوار مردانه مدل 909261",
-      "url": "https://www.digikala.com/product/dkp-4071492/ست-تی-شرت-و-شلوار-مردانه-مدل-909261",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a9890ab95557f25ec85e790607f166f33397937b_1755036682.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "22252327",
+      "title": "پیراهن مردانه مدل MDSS-CH9817",
+      "url": "https://www.digikala.com/product/dkp-22252327/پیراهن-مردانه-مدل-mdss-ch9817",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/10ad91bea9bbb54eba81e3fe0cc2b27a409a613c_1784038777.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 2600000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 8800000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 134,
-      "seller": "فیشن استار",
-      "rank": 11,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "کالاسنتر ارشیا",
+      "rank": 10,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لباس مردانه"
       },
       "supplier": {
-        "name": "میک رویال",
-        "url": "https://www.digikala.com/seller/ASTRN/"
+        "name": "کالاسنتر ارشیا",
+        "url": "https://www.digikala.com/seller/EJ9AP/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
+        "rank_change": 2,
         "is_new": false
       }
     },
@@ -109395,36 +109486,37 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22252327",
-      "title": "پیراهن مردانه مدل MDSS-CH9817",
-      "url": "https://www.digikala.com/product/dkp-22252327/پیراهن-مردانه-مدل-mdss-ch9817",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/10ad91bea9bbb54eba81e3fe0cc2b27a409a613c_1784038777.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "10034217",
+      "title": "پیراهن استین بلند یقه برگردان با تنخور معمولی (regular fit) مردانه مدل DL47",
+      "url": "https://www.digikala.com/product/dkp-10034217/پیراهن-آستین-بلند-یقه-برگردان-با-تنخور-معمولی-regular-fit-مردانه-مدل-dl47",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7d928873615d2813819d2dceba6c66bc45ad75e2_1771272737.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 8800000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 999000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "کالاسنتر ارشیا",
-      "rank": 12,
+      "rating": 3.9,
+      "rating_count": 549,
+      "seller": "ارزانسرای مهدی تبریز",
+      "rank": 11,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لباس مردانه"
       },
       "supplier": {
-        "name": "کالاسنتر ارشیا",
-        "url": "https://www.digikala.com/seller/EJ9AP/"
+        "name": "ارزانسرای مهدی تبریز",
+        "url": "https://www.digikala.com/seller/DKK7R/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 2,
         "is_new": false
       }
     },
@@ -109503,37 +109595,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "10034217",
-      "title": "پیراهن استین بلند یقه برگردان با تنخور معمولی (regular fit) مردانه مدل DL47",
-      "url": "https://www.digikala.com/product/dkp-10034217/پیراهن-آستین-بلند-یقه-برگردان-با-تنخور-معمولی-regular-fit-مردانه-مدل-dl47",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7d928873615d2813819d2dceba6c66bc45ad75e2_1771272737.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "21035491",
+      "title": "ست پیراهن و شلوار راحتی مردانه مدل کلاسیک",
+      "url": "https://www.digikala.com/product/dkp-21035491/ست-پیراهن-و-شلوار-راحتی-مردانه-مدل-کلاسیک",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/58c81bee446bc2175dd5d016428c79135e7f7c3f_1792178362.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 999000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 3950000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 549,
-      "seller": "ارزانسرای مهدی تبریز",
-      "rank": 13,
+      "rating": 4.8,
+      "rating_count": 5,
+      "seller": "کتان کالا",
+      "rank": 12,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 3 عدد در انبار باقی مانده"
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لباس مردانه"
       },
       "supplier": {
-        "name": "ارزانسرای مهدی تبریز",
-        "url": "https://www.digikala.com/seller/DKK7R/"
+        "name": "کتان کالا",
+        "url": "https://www.digikala.com/seller/H54FA/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -5,
+        "rank_change": 2,
         "is_new": false
       }
     },
@@ -109724,32 +109815,70 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "16929266",
-      "title": "ست سویشرت و شلوار مردانه مدل 003",
-      "url": "https://www.digikala.com/product/dkp-16929266/ست-سویشرت-و-شلوار-مردانه-مدل-003",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/764564333e0a709a76a72730d7218aa8149ed4f8_1728303289.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "1907226",
+      "title": "تی شرت مردانه کد 347005102",
+      "url": "https://www.digikala.com/product/dkp-1907226/تی-شرت-مردانه-کد-347005102",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2e4d2db56a61823c61303d023a78c676b5ef78e3_1767626321.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-19T13:01:35.987Z",
-      "price": 1200000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 18,
-      "seller": "بیشاپور الکترونیک فارس",
-      "rank": 14,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 449900,
+      "list_price": 567900,
+      "discount_percent": 21,
+      "rating": 2.9,
+      "rating_count": 328,
+      "seller": "نوین کالا",
+      "rank": 13,
       "available": true,
-      "badges": [],
+      "badges": [
+        "فروش ویژه"
+      ],
       "raw_ref": {
-        "query": "مد و پوشاک مردانه"
+        "query": "لباس مردانه"
       },
       "supplier": {
-        "name": "بیشاپور الکترونیک فارس",
-        "url": "https://www.digikala.com/seller/GXN3F/"
+        "name": "نوین کالا",
+        "url": "https://www.digikala.com/seller/5A6GG/"
       },
       "signals": {
         "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "4071492",
+      "title": "ست تی شرت و شلوار مردانه مدل 909261",
+      "url": "https://www.digikala.com/product/dkp-4071492/ست-تی-شرت-و-شلوار-مردانه-مدل-909261",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a9890ab95557f25ec85e790607f166f33397937b_1755036682.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "fashion-men",
+      "category_label": "مد و پوشاک مردانه",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 2565000,
+      "list_price": 2850000,
+      "discount_percent": 10,
+      "rating": 4,
+      "rating_count": 134,
+      "seller": "ویژن فیت",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لباس مردانه"
+      },
+      "supplier": {
+        "name": "میک رویال",
+        "url": "https://www.digikala.com/seller/ASTRN/"
+      },
+      "signals": {
+        "price_change_pct": -1.35,
         "rank_change": -3,
         "is_new": false
       }
@@ -109892,77 +110021,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21035491",
-      "title": "ست پیراهن و شلوار راحتی مردانه مدل کلاسیک",
-      "url": "https://www.digikala.com/product/dkp-21035491/ست-پیراهن-و-شلوار-راحتی-مردانه-مدل-کلاسیک",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/58c81bee446bc2175dd5d016428c79135e7f7c3f_1792178362.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "fashion-men",
-      "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 3950000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.8,
-      "rating_count": 5,
-      "seller": "کتان کالا",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لباس مردانه"
-      },
-      "supplier": {
-        "name": "کتان کالا",
-        "url": "https://www.digikala.com/seller/H54FA/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "1907226",
-      "title": "تی شرت مردانه کد 347005102",
-      "url": "https://www.digikala.com/product/dkp-1907226/تی-شرت-مردانه-کد-347005102",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/2e4d2db56a61823c61303d023a78c676b5ef78e3_1767626321.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "fashion-men",
-      "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 449900,
-      "list_price": 567900,
-      "discount_percent": 21,
-      "rating": 2.9,
-      "rating_count": 328,
-      "seller": "نوین کالا",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "لباس مردانه"
-      },
-      "supplier": {
-        "name": "نوین کالا",
-        "url": "https://www.digikala.com/seller/5A6GG/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -13,
         "is_new": false
       }
     },
@@ -110147,6 +110205,41 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "14857780",
+      "title": "ست تی شرت و شلوارک مردانه مدل 14",
+      "url": "https://www.digikala.com/product/dkp-14857780/ست-تی-شرت-و-شلوارک-مردانه-مدل-14",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5a339aa5926f7d88af9128f8cbd366d8016636af_1755038459.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "fashion-men",
+      "category_label": "مد و پوشاک مردانه",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 990000,
+      "list_price": 1390000,
+      "discount_percent": 29,
+      "rating": 3.4,
+      "rating_count": 66,
+      "seller": "زامیاد",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "فروش ویژه"
+      ],
+      "raw_ref": {
+        "query": "لباس مردانه"
+      },
+      "supplier": {
+        "name": "زامیاد",
+        "url": "https://www.digikala.com/seller/6XPV2/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "22269921",
       "title": "پیراهن مردانه مدل MDSS-CH8724",
       "url": "https://www.digikala.com/product/dkp-22269921/پیراهن-مردانه-مدل-mdss-ch8724",
@@ -110154,7 +110247,7 @@
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 5500000,
       "list_price": null,
       "discount_percent": 0,
@@ -110176,7 +110269,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -110249,41 +110342,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "14857780",
-      "title": "ست تی شرت و شلوارک مردانه مدل 14",
-      "url": "https://www.digikala.com/product/dkp-14857780/ست-تی-شرت-و-شلوارک-مردانه-مدل-14",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5a339aa5926f7d88af9128f8cbd366d8016636af_1755038459.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "fashion-men",
-      "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 990000,
-      "list_price": 1390000,
-      "discount_percent": 29,
-      "rating": 3.4,
-      "rating_count": 66,
-      "seller": "زامیاد",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "لباس مردانه"
-      },
-      "supplier": {
-        "name": "زامیاد",
-        "url": "https://www.digikala.com/seller/6XPV2/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -13,
         "is_new": false
       }
     },
@@ -110513,14 +110571,14 @@
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 999000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.1,
       "rating_count": 28,
       "seller": "ارزانسرای مهدی تبریز",
-      "rank": 18,
+      "rank": 17,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -110535,7 +110593,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -110827,6 +110885,41 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "9832712",
+      "title": "ست تیشرت و شلوار مردانه مدل گرم",
+      "url": "https://www.digikala.com/product/dkp-9832712/ست-تیشرت-و-شلوار-مردانه-مدل-گرم",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a17d87b1cdf39705e1ce2f0293f442c520530537_1789900002.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "fashion-men",
+      "category_label": "مد و پوشاک مردانه",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 900000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 196,
+      "seller": "فالن شاپ البرز",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لباس مردانه"
+      },
+      "supplier": {
+        "name": "فالن شاپ البرز",
+        "url": "https://www.digikala.com/seller/HHJRU/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -111297,41 +111390,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "9832712",
-      "title": "ست تیشرت و شلوار مردانه مدل گرم",
-      "url": "https://www.digikala.com/product/dkp-9832712/ست-تیشرت-و-شلوار-مردانه-مدل-گرم",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a17d87b1cdf39705e1ce2f0293f442c520530537_1789900002.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "fashion-men",
-      "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
-      "price": 900000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 196,
-      "seller": "فالن شاپ البرز",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لباس مردانه"
-      },
-      "supplier": {
-        "name": "فالن شاپ البرز",
-        "url": "https://www.digikala.com/seller/HHJRU/"
-      },
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "3254418",
       "title": "پیراهن مردانه کد 344000232",
       "url": "https://www.digikala.com/product/dkp-3254418/پیراهن-مردانه-کد-344000232",
@@ -111339,14 +111397,14 @@
       "brand": "متفرقه",
       "category_key": "fashion-men",
       "category_label": "مد و پوشاک مردانه",
-      "observed_at": "2026-10-20T09:57:54.880Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 1592000,
       "list_price": 1990000,
       "discount_percent": 20,
       "rating": 2.6,
       "rating_count": 13,
       "seller": "دلیچی",
-      "rank": 20,
+      "rank": 19,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -111362,8 +111420,41 @@
         "url": "https://www.digikala.com/seller/5AN67/"
       },
       "signals": {
-        "price_change_pct": 29.01,
-        "rank_change": -2,
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "16929266",
+      "title": "ست سویشرت و شلوار مردانه مدل 003",
+      "url": "https://www.digikala.com/product/dkp-16929266/ست-سویشرت-و-شلوار-مردانه-مدل-003",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6f77a8310228444c1e079e0c42efa8e38b187a2b_1792418672.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "fashion-men",
+      "category_label": "مد و پوشاک مردانه",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 1200000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 18,
+      "seller": "بیشاپور الکترونیک فارس",
+      "rank": 20,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "لباس مردانه"
+      },
+      "supplier": {
+        "name": "بیشاپور الکترونیک فارس",
+        "url": "https://www.digikala.com/seller/GXN3F/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -6,
         "is_new": false
       }
     },
@@ -114400,6 +114491,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "1100711",
+      "title": "ساز دهنی مدل هارمونیکا کد 002",
+      "url": "https://www.digikala.com/product/dkp-1100711/ساز-دهنی-مدل-هارمونیکا-کد-002",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5215768.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "رساکو",
+      "category_key": "music",
+      "category_label": "موسیقی و ساز",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 619000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 468,
+      "seller": "پرپری",
+      "rank": 1,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ساز"
+      },
+      "supplier": {
+        "name": "پرپری",
+        "url": "https://www.digikala.com/seller/F5UET/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 11,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "4041448",
       "title": "ساز دهنی مدل mv",
       "url": "https://www.digikala.com/product/dkp-4041448/ساز-دهنی-مدل-mv",
@@ -114407,14 +114534,14 @@
       "brand": "متفرقه",
       "category_key": "music",
       "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 110000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.9,
       "rating_count": 1032,
       "seller": "اسباب بازی نیما",
-      "rank": 1,
+      "rank": 2,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -114430,7 +114557,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -114472,43 +114599,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1101474",
-      "title": "ساز دهنی چیمی دیاتونیک مدل GD01",
-      "url": "https://www.digikala.com/product/dkp-1101474/ساز-دهنی-چیمی-دیاتونیک-مدل-gd01",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5219890.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "music",
-      "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 3290000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 231,
-      "seller": "دایان لند",
-      "rank": 2,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "ساز"
-      },
-      "supplier": {
-        "name": "دایان لند",
-        "url": "https://www.digikala.com/seller/AHJ5K/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "18299014",
       "title": "دکوری مدل ماکت موسیقی و ساز عود کد01",
       "url": "https://www.digikala.com/product/dkp-18299014/دکوری-مدل-ماکت-موسیقی-و-ساز-عود-کد01",
@@ -114538,6 +114628,43 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1101474",
+      "title": "ساز دهنی چیمی دیاتونیک مدل GD01",
+      "url": "https://www.digikala.com/product/dkp-1101474/ساز-دهنی-چیمی-دیاتونیک-مدل-gd01",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5219890.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "music",
+      "category_label": "موسیقی و ساز",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 3290000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 231,
+      "seller": "دایان لند",
+      "rank": 3,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ساز"
+      },
+      "supplier": {
+        "name": "دایان لند",
+        "url": "https://www.digikala.com/seller/AHJ5K/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -114580,41 +114707,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1835388",
-      "title": "سازدهنی کروماتیک ایستاپ مدل T10-40",
-      "url": "https://www.digikala.com/product/dkp-1835388/سازدهنی-کروماتیک-ایستاپ-مدل-t10-40",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/112333208.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ایستاپ",
-      "category_key": "music",
-      "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 8800000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 35,
-      "seller": "فروشگاه موسیقی لگاتو",
-      "rank": 3,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "ساز"
-      },
-      "supplier": {
-        "name": "فروشگاه موسیقی لگاتو",
-        "url": "https://www.digikala.com/seller/EPG5U/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "2695917",
       "title": "کتاب چهل اهنگ برگزیده برای پیانو اثر ناصر جهان ارای انتشارات چندگاه",
       "url": "https://www.digikala.com/product/dkp-2695917/کتاب-چهل-آهنگ-برگزیده-برای-پیانو-اثر-ناصر-جهان-آرای-انتشارات-چندگاه",
@@ -114645,6 +114737,41 @@
       "signals": {
         "price_change_pct": 15.79,
         "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1835388",
+      "title": "سازدهنی کروماتیک ایستاپ مدل T10-40",
+      "url": "https://www.digikala.com/product/dkp-1835388/سازدهنی-کروماتیک-ایستاپ-مدل-t10-40",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/112333208.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "ایستاپ",
+      "category_key": "music",
+      "category_label": "موسیقی و ساز",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 8800000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 35,
+      "seller": "فروشگاه موسیقی لگاتو",
+      "rank": 4,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "ساز"
+      },
+      "supplier": {
+        "name": "فروشگاه موسیقی لگاتو",
+        "url": "https://www.digikala.com/seller/EPG5U/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -114724,41 +114851,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1835537",
-      "title": "سازدهنی کروماتیک ایستاپ مدل کینگ دریم T12-48k",
-      "url": "https://www.digikala.com/product/dkp-1835537/سازدهنی-کروماتیک-ایستاپ-مدل-کینگ-دریم-t12-48k",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/112333978.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ایستاپ",
-      "category_key": "music",
-      "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 12450000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 74,
-      "seller": "فروشگاه موسیقی لگاتو",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "ساز"
-      },
-      "supplier": {
-        "name": "فروشگاه موسیقی لگاتو",
-        "url": "https://www.digikala.com/seller/EPG5U/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "21635709",
       "title": "البوم موسیقی موزیک جاز فارسی با اشعار مولانا البوم 1 اثر هوش مصنوعی نشر فیزیکی",
       "url": "https://www.digikala.com/product/dkp-21635709/آلبوم-موسیقی-موزیک-جاز-فارسی-با-اشعار-مولانا-آلبوم-1-اثر-هوش-مصنوعی-نشر-فیزیکی",
@@ -114803,7 +114895,7 @@
       "brand": "ایستاپ",
       "category_key": "music",
       "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T13:01:35.987Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 12450000,
       "list_price": null,
       "discount_percent": 0,
@@ -114824,7 +114916,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -114980,36 +115072,35 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "849623",
-      "title": "سازدهنی کروماتیک 10 سوراخ مدل SWAN1040 کدRF137",
-      "url": "https://www.digikala.com/product/dkp-849623/سازدهنی-کروماتیک-10-سوراخ-مدل-swan1040-کدrf137",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/3921349.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "1835537",
+      "title": "سازدهنی کروماتیک ایستاپ مدل کینگ دریم T12-48k",
+      "url": "https://www.digikala.com/product/dkp-1835537/سازدهنی-کروماتیک-ایستاپ-مدل-کینگ-دریم-t12-48k",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/112333978.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "ایستاپ",
       "category_key": "music",
       "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 7900000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 12450000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
-      "rating_count": 45,
-      "seller": "دلشاد موزیک",
-      "rank": 5,
+      "rating_count": 74,
+      "seller": "فروشگاه موسیقی لگاتو",
+      "rank": 6,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
         "query": "ساز"
       },
       "supplier": {
-        "name": "دلشاد موزیک",
-        "url": "https://www.digikala.com/seller/AGNPM/"
+        "name": "فروشگاه موسیقی لگاتو",
+        "url": "https://www.digikala.com/seller/EPG5U/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 4,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -115159,37 +115250,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "7790854",
-      "title": "سازدهنی کروماتیک ایستاپ مدل فرونر 1248",
-      "url": "https://www.digikala.com/product/dkp-7790854/سازدهنی-کروماتیک-ایستاپ-مدل-فرونر-1248",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/37bf2f62a868113be03e15e2763670867ab340a8_1644162068.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ایستاپ",
+      "source_id": "849623",
+      "title": "سازدهنی کروماتیک 10 سوراخ مدل SWAN1040 کدRF137",
+      "url": "https://www.digikala.com/product/dkp-849623/سازدهنی-کروماتیک-10-سوراخ-مدل-swan1040-کدrf137",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3921349.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "music",
       "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 12500000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 7900000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.3,
+      "rating": 4,
       "rating_count": 45,
-      "seller": "دایان لند",
-      "rank": 6,
+      "seller": "دلشاد موزیک",
+      "rank": 7,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 3 عدد در انبار باقی مانده"
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "ساز"
       },
       "supplier": {
-        "name": "دایان لند",
-        "url": "https://www.digikala.com/seller/AHJ5K/"
+        "name": "دلشاد موزیک",
+        "url": "https://www.digikala.com/seller/AGNPM/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -115342,26 +115432,26 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1101465",
-      "title": "سازدهنی چیمه کروماتیک نقره ای مدل ED-24",
-      "url": "https://www.digikala.com/product/dkp-1101465/سازدهنی-چیمه-کروماتیک-نقره-ای-مدل-ed-24",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5219845.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "7790854",
+      "title": "سازدهنی کروماتیک ایستاپ مدل فرونر 1248",
+      "url": "https://www.digikala.com/product/dkp-7790854/سازدهنی-کروماتیک-ایستاپ-مدل-فرونر-1248",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/37bf2f62a868113be03e15e2763670867ab340a8_1644162068.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "ایستاپ",
       "category_key": "music",
       "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 3290000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 12500000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.7,
-      "rating_count": 55,
+      "rating": 4.3,
+      "rating_count": 45,
       "seller": "دایان لند",
-      "rank": 7,
+      "rank": 8,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
         "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "ساز"
@@ -115372,7 +115462,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 4,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -115486,41 +115576,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1055364",
-      "title": "ساز دهنی تاور کروماتیک مدل M1015",
-      "url": "https://www.digikala.com/product/dkp-1055364/ساز-دهنی-تاور-کروماتیک-مدل-m1015",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4987645.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "music",
-      "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 2500000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 65,
-      "seller": "دلشاد موزیک",
-      "rank": 8,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "ساز"
-      },
-      "supplier": {
-        "name": "دایان لند",
-        "url": "https://www.digikala.com/seller/AHJ5K/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "18238949",
       "title": "تابلو بکلیت طرح نت موسیقی و ساز ویولن مدل B-2984 مجموعه 3 عددی",
       "url": "https://www.digikala.com/product/dkp-18238949/تابلو-بکلیت-طرح-نت-موسیقی-و-ساز-ویولن-مدل-b-2984-مجموعه-3-عددی",
@@ -115551,6 +115606,43 @@
         "price_change_pct": null,
         "rank_change": null,
         "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1101465",
+      "title": "سازدهنی چیمه کروماتیک نقره ای مدل ED-24",
+      "url": "https://www.digikala.com/product/dkp-1101465/سازدهنی-چیمه-کروماتیک-نقره-ای-مدل-ed-24",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5219845.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "music",
+      "category_label": "موسیقی و ساز",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 3290000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.7,
+      "rating_count": 55,
+      "seller": "دایان لند",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ساز"
+      },
+      "supplier": {
+        "name": "دایان لند",
+        "url": "https://www.digikala.com/seller/AHJ5K/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
       }
     },
     {
@@ -115627,41 +115719,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "3397185",
-      "title": "سازدهنی کروماتیک ایستاپ مدل Forerunner T1248NV",
-      "url": "https://www.digikala.com/product/dkp-3397185/سازدهنی-کروماتیک-ایستاپ-مدل-forerunner-t1248nv",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c84383210316c2322f807092915358ab5254a78d_1600119842.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ایستاپ",
-      "category_key": "music",
-      "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 10360000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 125,
-      "seller": "دلشاد موزیک",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "ساز"
-      },
-      "supplier": {
-        "name": "دایان لند",
-        "url": "https://www.digikala.com/seller/AHJ5K/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "128093",
       "title": "اموزش تصویری ساز عود و بربط سطح مقدماتی نشر دنیای نرم افزار سینا",
       "url": "https://www.digikala.com/product/dkp-128093/آموزش-تصویری-ساز-عود-و-بربط-سطح-مقدماتی-نشر-دنیای-نرم-افزار-سینا",
@@ -115693,6 +115750,41 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 7,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1055364",
+      "title": "ساز دهنی تاور کروماتیک مدل M1015",
+      "url": "https://www.digikala.com/product/dkp-1055364/ساز-دهنی-تاور-کروماتیک-مدل-m1015",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4987645.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "music",
+      "category_label": "موسیقی و ساز",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 2500000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 65,
+      "seller": "دلشاد موزیک",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "ساز"
+      },
+      "supplier": {
+        "name": "دایان لند",
+        "url": "https://www.digikala.com/seller/AHJ5K/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -115875,26 +115967,24 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1003706",
-      "title": "ساز دهنی کروماتیک10 سوراخ طلایی مدل SWAN 1040",
-      "url": "https://www.digikala.com/product/dkp-1003706/ساز-دهنی-کروماتیک10-سوراخ-طلایی-مدل-swan-1040",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4854792.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "3397185",
+      "title": "سازدهنی کروماتیک ایستاپ مدل Forerunner T1248NV",
+      "url": "https://www.digikala.com/product/dkp-3397185/سازدهنی-کروماتیک-ایستاپ-مدل-forerunner-t1248nv",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c84383210316c2322f807092915358ab5254a78d_1600119842.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "ایستاپ",
       "category_key": "music",
       "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 10500000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 10360000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 15,
-      "seller": "دایان لند",
-      "rank": 10,
+      "rating": 4.3,
+      "rating_count": 125,
+      "seller": "دلشاد موزیک",
+      "rank": 11,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
         "query": "ساز"
@@ -115905,7 +115995,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -116126,42 +116216,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1100711",
-      "title": "ساز دهنی مدل هارمونیکا کد 002",
-      "url": "https://www.digikala.com/product/dkp-1100711/ساز-دهنی-مدل-هارمونیکا-کد-002",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5215768.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "رساکو",
-      "category_key": "music",
-      "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 619000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 468,
-      "seller": "پرپری",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "ساز"
-      },
-      "supplier": {
-        "name": "پرپری",
-        "url": "https://www.digikala.com/seller/F5UET/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -11,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "1552992",
       "title": "ارشه کربن ویولن مدل MZ66 CARBON",
       "url": "https://www.digikala.com/product/dkp-1552992/ارشه-کربن-ویولن-مدل-mz66-carbon",
@@ -116302,33 +116356,73 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "12948909",
-      "title": "نرم افزار اموزش موسیقی ساز دهنی هارمونیکا نشر اطلس ابی به همراه نرم افزار اموزش گیتار پاپ نشر اطلس ابی",
-      "url": "https://www.digikala.com/product/dkp-12948909/نرم-افزار-آموزش-موسیقی-ساز-دهنی-هارمونیکا-نشر-اطلس-آبی-به-همراه-نرم-افزار-آموزش-گیتار-پاپ-نشر-اطلس-آبی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/65aa832d3000d121137ffb5376cd699b3cbdc1ce_1696959231.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اطلس ابی",
+      "source_id": "1607684",
+      "title": "بازی اموزشی طرح ساز دهنی کد 101",
+      "url": "https://www.digikala.com/product/dkp-1607684/بازی-آموزشی-طرح-ساز-دهنی-کد-101",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/111095553.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "music",
       "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 497000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 135000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.5,
-      "rating_count": 2,
-      "seller": "نو آموز",
-      "rank": 13,
+      "rating": 3.6,
+      "rating_count": 130,
+      "seller": "همبازی شاپ",
+      "rank": 12,
       "available": true,
-      "badges": [],
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
       "raw_ref": {
         "query": "ساز"
       },
       "supplier": {
-        "name": "نو آموز",
-        "url": "https://www.digikala.com/seller/AD9K5/"
+        "name": "همبازی شاپ",
+        "url": "https://www.digikala.com/seller/HTH9F/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -7,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1003706",
+      "title": "ساز دهنی کروماتیک10 سوراخ طلایی مدل SWAN 1040",
+      "url": "https://www.digikala.com/product/dkp-1003706/ساز-دهنی-کروماتیک10-سوراخ-طلایی-مدل-swan-1040",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4854792.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "music",
+      "category_label": "موسیقی و ساز",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 10500000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 15,
+      "seller": "دایان لند",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ساز"
+      },
+      "supplier": {
+        "name": "دایان لند",
+        "url": "https://www.digikala.com/seller/AHJ5K/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -116808,42 +116902,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1607684",
-      "title": "بازی اموزشی طرح ساز دهنی کد 101",
-      "url": "https://www.digikala.com/product/dkp-1607684/بازی-آموزشی-طرح-ساز-دهنی-کد-101",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/111095553.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "music",
-      "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T13:01:35.987Z",
-      "price": 135000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.6,
-      "rating_count": 130,
-      "seller": "همبازی شاپ",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "ساز"
-      },
-      "supplier": {
-        "name": "همبازی شاپ",
-        "url": "https://www.digikala.com/seller/HTH9F/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "19382781",
       "title": "ماکت دکوری مدل ساز موسیقی طرح سنتور SS-08",
       "url": "https://www.digikala.com/product/dkp-19382781/ماکت-دکوری-مدل-ساز-موسیقی-طرح-سنتور-ss-08",
@@ -116886,7 +116944,7 @@
       "brand": "متفرقه",
       "category_key": "music",
       "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 3250000,
       "list_price": null,
       "discount_percent": 0,
@@ -116908,7 +116966,40 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "12948909",
+      "title": "نرم افزار اموزش موسیقی ساز دهنی هارمونیکا نشر اطلس ابی به همراه نرم افزار اموزش گیتار پاپ نشر اطلس ابی",
+      "url": "https://www.digikala.com/product/dkp-12948909/نرم-افزار-آموزش-موسیقی-ساز-دهنی-هارمونیکا-نشر-اطلس-آبی-به-همراه-نرم-افزار-آموزش-گیتار-پاپ-نشر-اطلس-آبی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/65aa832d3000d121137ffb5376cd699b3cbdc1ce_1696959231.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اطلس ابی",
+      "category_key": "music",
+      "category_label": "موسیقی و ساز",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 497000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.5,
+      "rating_count": 2,
+      "seller": "نو آموز",
+      "rank": 15,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "ساز"
+      },
+      "supplier": {
+        "name": "نو آموز",
+        "url": "https://www.digikala.com/seller/AD9K5/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -117095,39 +117186,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1981147",
-      "title": "بازی اموزشی طرح ساز دهنی کد 31",
-      "url": "https://www.digikala.com/product/dkp-1981147/بازی-آموزشی-طرح-ساز-دهنی-کد-31",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/113121167.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "music",
-      "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 124280,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.8,
-      "rating_count": 175,
-      "seller": "پخش چیتگر",
-      "rank": 15,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "ساز"
-      },
-      "supplier": {
-        "name": "پخش چیتگر",
-        "url": "https://www.digikala.com/seller/DNUSN/"
-      },
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "22110552",
       "title": "ویدئو اموزشی اموزش بداهه نوازی به زبان ساده نشر شریفیان",
       "url": "https://www.digikala.com/product/dkp-22110552/ویدئو-آموزشی-آموزش-بداهه-نوازی-به-زبان-ساده-نشر-شریفیان",
@@ -117268,36 +117326,71 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "7263784",
-      "title": "بازی اموزشی موزیکال مدل ساز دهنی کد HCA 015",
-      "url": "https://www.digikala.com/product/dkp-7263784/بازی-آموزشی-موزیکال-مدل-ساز-دهنی-کد-hca-015",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/203db83b643bf1bf9187b56e86d8e8cbb30090bf_1638965904.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "849701",
+      "title": "سازدهنی کروماتیک 16 سوراخ مدل SWAN1664 کدRF139",
+      "url": "https://www.digikala.com/product/dkp-849701/سازدهنی-کروماتیک-16-سوراخ-مدل-swan1664-کدrf139",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3921780.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "music",
       "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 190000,
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 18490000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.5,
-      "rating_count": 8,
-      "seller": "سی و سه پل",
+      "rating": 4.3,
+      "rating_count": 6,
+      "seller": "دایان لند",
       "rank": 16,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "ساز"
       },
       "supplier": {
-        "name": "سی و سه پل",
-        "url": "https://www.digikala.com/seller/9NXJV/"
+        "name": "دایان لند",
+        "url": "https://www.digikala.com/seller/AHJ5K/"
       },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1981147",
+      "title": "بازی اموزشی طرح ساز دهنی کد 31",
+      "url": "https://www.digikala.com/product/dkp-1981147/بازی-آموزشی-طرح-ساز-دهنی-کد-31",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/113121167.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "music",
+      "category_label": "موسیقی و ساز",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 124280,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.8,
+      "rating_count": 175,
+      "seller": "پخش چیتگر",
+      "rank": 17,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "ساز"
+      },
+      "supplier": {
+        "name": "پخش چیتگر",
+        "url": "https://www.digikala.com/seller/DNUSN/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
       }
     },
     {
@@ -117332,43 +117425,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -12,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "849701",
-      "title": "سازدهنی کروماتیک 16 سوراخ مدل SWAN1664 کدRF139",
-      "url": "https://www.digikala.com/product/dkp-849701/سازدهنی-کروماتیک-16-سوراخ-مدل-swan1664-کدrf139",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/3921780.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "music",
-      "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 18490000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 6,
-      "seller": "دایان لند",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "ساز"
-      },
-      "supplier": {
-        "name": "دایان لند",
-        "url": "https://www.digikala.com/seller/AHJ5K/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
         "is_new": false
       }
     },
@@ -117586,6 +117642,41 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "7263784",
+      "title": "بازی اموزشی موزیکال مدل ساز دهنی کد HCA 015",
+      "url": "https://www.digikala.com/product/dkp-7263784/بازی-آموزشی-موزیکال-مدل-ساز-دهنی-کد-hca-015",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/203db83b643bf1bf9187b56e86d8e8cbb30090bf_1638965904.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "music",
+      "category_label": "موسیقی و ساز",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 190000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.5,
+      "rating_count": 8,
+      "seller": "سی و سه پل",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "ساز"
+      },
+      "supplier": {
+        "name": "سی و سه پل",
+        "url": "https://www.digikala.com/seller/9NXJV/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -117943,39 +118034,6 @@
         "price_change_pct": 0,
         "rank_change": 2,
         "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "7263757",
-      "title": "بازی اموزشی موزیکال مدل ساز دهنی کد HCA 014",
-      "url": "https://www.digikala.com/product/dkp-7263757/بازی-آموزشی-موزیکال-مدل-ساز-دهنی-کد-hca-014",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/efa00a59812a7b38882d519d302c3539a1083727_1638965750.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": null,
-      "category_key": "music",
-      "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
-      "price": 190000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.7,
-      "rating_count": 6,
-      "seller": "سی و سه پل",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "ساز"
-      },
-      "supplier": {},
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
       }
     },
     {
@@ -118383,10 +118441,10 @@
       "title": "سازدهنی هوهنر مدل M110",
       "url": "https://www.digikala.com/product/dkp-57515/سازدهنی-هوهنر-مدل-m110",
       "image": "https://dkstatics-public.digikala.com/digikala-products/179691.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": null,
+      "brand": "هوهنر",
       "category_key": "music",
       "category_label": "موسیقی و ساز",
-      "observed_at": "2026-10-19T23:33:09.661Z",
+      "observed_at": "2026-10-20T19:09:28.240Z",
       "price": 2490000,
       "list_price": null,
       "discount_percent": 0,
@@ -118402,11 +118460,47 @@
       "raw_ref": {
         "query": "ساز"
       },
+      "supplier": {
+        "name": "دایان لند",
+        "url": "https://www.digikala.com/seller/AHJ5K/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "7263757",
+      "title": "بازی اموزشی موزیکال مدل ساز دهنی کد HCA 014",
+      "url": "https://www.digikala.com/product/dkp-7263757/بازی-آموزشی-موزیکال-مدل-ساز-دهنی-کد-hca-014",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/efa00a59812a7b38882d519d302c3539a1083727_1638965750.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "music",
+      "category_label": "موسیقی و ساز",
+      "observed_at": "2026-10-20T19:09:28.240Z",
+      "price": 190000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.7,
+      "rating_count": 6,
+      "seller": "سی و سه پل",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "ساز"
+      },
       "supplier": {},
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
       }
     },
     {
