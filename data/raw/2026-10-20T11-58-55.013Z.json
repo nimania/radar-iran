@@ -1,0 +1,164 @@
+{
+  "generated_at": "2026-10-20T11:58:55.013Z",
+  "source": "digikala-mcp",
+  "mode": "rotating",
+  "categories": {
+    "camera": {
+      "label": "دوربین و تجهیزات عکاسی",
+      "queries": [
+        "دوربین عکاسی",
+        "دوربین و تجهیزات عکاسی",
+        "دوربین"
+      ],
+      "results": [
+        {
+          "query": "دوربین عکاسی",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala is temporarily not serving data (rate-limited on their side). Retry the same call in about 15-30 seconds. The failure was recorded for the service owner - no need to report it."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "دوربین و تجهیزات عکاسی",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala is temporarily not serving data (rate-limited on their side). Retry the same call in about 15-30 seconds. The failure was recorded for the service owner - no need to report it."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "دوربین",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala is temporarily not serving data (rate-limited on their side). Retry the same call in about 15-30 seconds. The failure was recorded for the service owner - no need to report it."
+              }
+            ],
+            "isError": true
+          }
+        }
+      ]
+    },
+    "coffee": {
+      "label": "قهوه و تجهیزات",
+      "queries": [
+        "قهوه",
+        "قهوه و تجهیزات"
+      ],
+      "results": [
+        {
+          "query": "قهوه",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "{\n  \"query\": \"قهوه\",\n  \"query_used\": \"قهوه\",\n  \"category_id\": null,\n  \"sort\": \"مرتبط‌ترین\",\n  \"page\": 1,\n  \"total_pages\": 47,\n  \"total_items_estimate\": 934,\n  \"items\": [\n    {\n      \"id\": 16251738,\n      \"title\": \"پودر قهوه ترک ونزکافه - 250 گرم\",\n      \"price_toman\": 1273730,\n      \"price_rial\": 12737300,\n      \"price_before_toman\": 1498500,\n      \"discount_percent\": 15,\n      \"rating_stars\": 4.1,\n      \"rating_count\": 157,\n      \"in_stock\": true,\n      \"seller\": \"ونزکافه\",\n      \"badges\": [\n        \"فروش ویژه\",\n        \"ارسال سریع دیجی‌کالا\",\n        \"ارسال توسط فروشنده\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-16251738/پودر-قهوه-ترک-ونزکافه-250-گرم\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/a570c1fe4eebaacce1457c095087f167a7f44e3c_1722506354.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 3173750,\n      \"title\": \"پودر قهوه اسپرسو 20 درصد عربیکا، 80 درصد ربوستا مدیوم ونزکافه - 250 گرم\",\n      \"price_toman\": 1198800,\n      \"price_rial\": 11988000,\n      \"price_before_toman\": 1498500,\n      \"discount_percent\": 20,\n      \"rating_stars\": 4,\n      \"rating_count\": 226,\n      \"in_stock\": true,\n      \"seller\": \"ونزکافه\",\n      \"badges\": [\n        \"فروش ویژه\",\n        \"ارسال سریع دیجی‌کالا\",\n        \"ارسال توسط فروشنده\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-3173750/پودر-قهوه-اسپرسو-20-درصد-عربيكا-80-درصد-ربوستا-مدیوم-ونزکافه-250-گرم\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/917b0cebe477f92ff74d9570684cdb49e287f153_1596532981.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 3520807,\n      \"title\": \"قهوه فوری اسپرسو ارام بسته 30 عددی\",\n      \"price_toman\": 720000,\n      \"price_rial\": 7200000,\n      \"price_before_toman\": null,\n      \"discount_percent\": 0,\n      \"rating_stars\": 3.9,\n      \"rating_count\": 119,\n      \"in_stock\": true,\n      \"seller\": \"قهوه آرام\",\n      \"badges\": [],\n      \"url\": \"https://www.digikala.com/product/dkp-3520807/قهوه-فوری-اسپرسو-آرام-بسته-30-عددی\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/ce492e60222a8d29a4d3901d7c1f2a260ccf4965_1602400614.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 705585,\n      \"title\": \"قهوه ترک بن مانو مقدار 250 گرم\",\n      \"price_toman\": 880000,\n      \"price_rial\": 8800000,\n      \"price_before_toman\": 985600,\n      \"discount_percent\": 11,\n      \"rating_stars\": 4.1,\n      \"rating_count\": 10182,\n      \"in_stock\": true,\n      \"seller\": \"تجارت ایران اطلس\",\n      \"badges\": [\n        \"فروش ویژه\",\n        \"ارسال سریع دیجی‌کالا\",\n        \"انبار دیجی‌کالا\",\n        \"فروشنده معتبر\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-705585/قهوه-ترک-بن-مانو-مقدار-250-گرم\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/53ff7543b1d5aab79e5fbf03ec83f3b278c38616_1730894587.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\",\n      \"sold_percent\": 86\n    },\n    {\n      \"id\": 20528944,\n      \"title\": \"قهوه دمی 9 صبح 60 درصد عربیکا بن مانو - 240 گرمبسته 24 عددی\",\n      \"price_toman\": 1170000,\n      \"price_rial\": 11700000,\n      \"price_before_toman\": 1293600,\n      \"discount_percent\": 10,\n      \"rating_stars\": 4.7,\n      \"rating_count\": 77,\n      \"in_stock\": true,\n      \"seller\": \"تجارت ایران اطلس\",\n      \"badges\": [\n        \"فروش ویژه\",\n        \"ارسال سریع دیجی‌کالا\",\n        \"انبار دیجی‌کالا\",\n        \"فروشنده معتبر\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-20528944/قهوه-دمی-9-صبح-60-درصد-عربیکا-بن-مانو-240-گرمبسته-24-عددی\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/e0b7d39c0d8c2c2b06c702ff8321d950576c2871_1758794204.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\",\n      \"sold_percent\": 67\n    },\n    {\n      \"id\": 13838046,\n      \"title\": \"پودر قهوه اسپرسو 20 درصد عربیکا، 80 درصد ربوستا با طعم کارامل ونزکافه - 250 گرم\",\n      \"price_toman\": 948000,\n      \"price_rial\": 9480000,\n      \"price_before_toman\": 1580000,\n      \"discount_percent\": 40,\n      \"rating_stars\": 4.2,\n      \"rating_count\": 307,\n      \"in_stock\": true,\n      \"seller\": \"ونزکافه\",\n      \"badges\": [\n        \"پیشنهاد شگفت انگیز\",\n        \"شگفت‌انگیز\",\n        \"ارسال سریع دیجی‌کالا\",\n        \"انبار دیجی‌کالا\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-13838046/پودر-قهوه-اسپرسو-20-درصد-عربيكا-80-درصد-ربوستا-با-طعم-کارامل-ونزکافه-250-گرم\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/9d0007b6d24839c0a86470fb12db645cf398b580_1734958313.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\",\n      \"ends_at\": \"2026-10-21 00:00:00\",\n      \"ends_in_seconds\": 30597\n    },\n    {\n      \"id\": 8358601,\n      \"title\": \"پودر قهوه اسپرسو میکس استرانگ شاران - 250 گرم\",\n      \"price_toman\": 755000,\n      \"price_rial\": 7550000,\n      \"price_before_toman\": null,\n      \"discount_percent\": 0,\n      \"rating_stars\": 4.3,\n      \"rating_count\": 3539,\n      \"in_stock\": true,\n      \"seller\": \"کارخانه قهوه شاران\",\n      \"badges\": [],\n      \"url\": \"https://www.digikala.com/product/dkp-8358601/پودر-قهوه-اسپرسو-میکس-استرانگ-شاران-250-گرم\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/61417e9e55fac01acc1ed0743982b97ffc640cd4_1770469052.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 22012665,\n      \"title\": \"اسپرسو فوری مولتی کافه - 2.5 گرم بسته 40 عددی\",\n      \"price_toman\": 1290900,\n      \"price_rial\": 12909000,\n      \"price_before_toman\": null,\n      \"discount_percent\": 0,\n      \"rating_stars\": 4.6,\n      \"rating_count\": 22,\n      \"in_stock\": true,\n      \"seller\": \"دیبا نیک\",\n      \"badges\": [\n        \"ارسال سریع دیجی‌کالا\",\n        \"ارسال توسط فروشنده\",\n        \"فروشنده معتبر\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-22012665/اسپرسو-فوری-مولتی-کافه-25-گرم-بسته-40-عددی\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/6c108cfaf611d17159659834b9dfc17415e01dbe_1781434785.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 356073,\n      \"title\": \"بسته قهوه ترک پندار مدل مدیوم\",\n      \"price_toman\": 731500,\n      \"price_rial\": 7315000,\n      \"price_before_toman\": 770000,\n      \"discount_percent\": 5,\n      \"rating_stars\": 4.2,\n      \"rating_count\": 688,\n      \"in_stock\": true,\n      \"seller\": \"قهوه پندار\",\n      \"badges\": [\n        \"فروش ویژه\",\n        \"ارسال توسط فروشنده\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-356073/بسته-قهوه-ترک-پندار-مدل-مدیوم\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/1888924.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 3814987,\n      \"title\": \"پودر قهوه ترک مدیم ویژه شاران - 250 گرم\",\n      \"price_toman\": 860000,\n      \"price_rial\": 8600000,\n      \"price_before_toman\": null,\n      \"discount_percent\": 0,\n      \"rating_stars\": 4.2,\n      \"rating_count\": 678,\n      \"in_stock\": true,\n      \"seller\": \"کارخانه قهوه شاران\",\n      \"badges\": [],\n      \"url\": \"https://www.digikala.com/product/dkp-3814987/پودر-قهوه-ترک-مدیم-ویژه-شاران-250-گرم\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/163898bb367d031cb6f6bfb593cd000085550adc_1730897083.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 20226465,\n      \"title\": \"قهوه فوری گلد ممتاز سرمد - 100 گرم\",\n      \"price_toman\": 720000,\n      \"price_rial\": 7200000,\n      \"price_before_toman\": 850000,\n      \"discount_percent\": 15,\n      \"rating_stars\": 4.1,\n      \"rating_count\": 216,\n      \"in_stock\": true,\n      \"seller\": \"رزدارو\",\n      \"badges\": [\n        \"فروش ویژه\",\n        \"ارسال سریع دیجی‌کالا\",\n        \"انبار دیجی‌کالا\",\n        \"فروشنده معتبر\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-20226465/قهوه-فوری-گلد-ممتاز-سرمد-100-گرم\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/5f9aca1dc11c2febc0fd21768784d48418b3e109_1779173217.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 20860246,\n      \"title\": \"پودر قهوه اسپرسو فول کافیین ایران ایتالیا - 500 گرم\",\n      \"price_toman\": 1700000,\n      \"price_rial\": 17000000,\n      \"price_before_toman\": null,\n      \"discount_percent\": 0,\n      \"rating_stars\": 4.4,\n      \"rating_count\": 85,\n      \"in_stock\": true,\n      \"seller\": \"ایران ایتالیا مارکت\",\n      \"badges\": [\n        \"ارسال توسط فروشنده\",\n        \"فروشنده معتبر\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-20860246/پودر-قهوه-اسپرسو-فول-کافیین-ایران-ایتالیا-500-گرم\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/1124fa0dafd366ec7e7e92a94798616f05136abf_1762714531.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 10102371,\n      \"title\": \"قهوه فوری بلک گلد تیمز بسته 40 عددی\",\n      \"price_toman\": 1070000,\n      \"price_rial\": 10700000,\n      \"price_before_toman\": null,\n      \"discount_percent\": 0,\n      \"rating_stars\": 4.4,\n      \"rating_count\": 4414,\n      \"in_stock\": true,\n      \"seller\": \"دیجی‌کالا\",\n      \"badges\": [\n        \"انبار دیجی‌کالا\",\n        \"تنها 0 عدد در انبار باقی مانده\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-10102371/قهوه-فوری-بلک-گلد-تیمز-بسته-40-عددی\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/d4bc3824762476df3d9d50fac4dce23564c99bcb_1732536431.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 16805600,\n      \"title\": \"قهوه اسپرسو عربیکا موکاپات قهوه پندار - 150 گرم\",\n      \"price_toman\": 817000,\n      \"price_rial\": 8170000,\n      \"price_before_toman\": 860000,\n      \"discount_percent\": 5,\n      \"rating_stars\": 4.5,\n      \"rating_count\": 8,\n      \"rating_low_sample\": true,\n      \"in_stock\": true,\n      \"seller\": \"قهوه پندار\",\n      \"badges\": [\n        \"فروش ویژه\",\n        \"ارسال توسط فروشنده\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-16805600/قهوه-اسپرسو-عربیکا-موکاپات-قهوه-پندار-150-گرم\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/c2488dd4fa422787ac5d4866bdf49cbb826969a0_1730893299.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 7796416,\n      \"title\": \"قهوه فوری اسپرسو ماگوش - 2 گرم بسته 40 عددی\",\n      \"price_toman\": 800000,\n      \"price_rial\": 8000000,\n      \"price_before_toman\": null,\n      \"discount_percent\": 0,\n      \"rating_stars\": 4.2,\n      \"rating_count\": 459,\n      \"in_stock\": true,\n      \"seller\": \"پخش شیرانا\",\n      \"badges\": [\n        \"ارسال سریع دیجی‌کالا\",\n        \"انبار دیجی‌کالا\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-7796416/قهوه-فوری-اسپرسو-ماگوش-2-گرم-بسته-40-عددی\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/0fc922f8c77d2db951c4154146b10de84bb29b30_1644226609.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 3831679,\n      \"title\": \"پودر قهوه ترک مولتی کافه - 100 گرم\",\n      \"price_toman\": 352440,\n      \"price_rial\": 3524400,\n      \"price_before_toman\": 396000,\n      \"discount_percent\": 11,\n      \"rating_stars\": 4.1,\n      \"rating_count\": 1094,\n      \"in_stock\": true,\n      \"seller\": \"شکلات دل چوکو\",\n      \"badges\": [\n        \"فروش ویژه\",\n        \"تنها 1 عدد در انبار باقی مانده\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-3831679/پودر-قهوه-ترک-مولتی-کافه-100-گرم\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/bc87a648ffd771d358646a6ce9deefc1cac7832e_1606738082.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\",\n      \"sold_percent\": 92\n    },\n    {\n      \"id\": 20536547,\n      \"title\": \"قهوه اسپرسو %80 عربیکا بن مانو - 250 گرم\",\n      \"price_toman\": 1150000,\n      \"price_rial\": 11500000,\n      \"price_before_toman\": null,\n      \"discount_percent\": 0,\n      \"rating_stars\": 4.4,\n      \"rating_count\": 30,\n      \"in_stock\": true,\n      \"seller\": \"فراز پلاس\",\n      \"badges\": [\n        \"ارسال سریع دیجی‌کالا\",\n        \"انبار دیجی‌کالا\",\n        \"فروشنده معتبر\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-20536547/قهوه-اسپرسو-80-عربیکا-بن-مانو-250-گرم\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/2b849df2f2f3309e094facb048e36877d1c2c050_1759329755.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 13846412,\n      \"title\": \"پودر قهوه اسپرسو 20 درصد عربیکا، 80 درصد ربوستا با طعم وانیل ونزکافه - 250 گرم\",\n      \"price_toman\": 1264000,\n      \"price_rial\": 12640000,\n      \"price_before_toman\": 1580000,\n      \"discount_percent\": 20,\n      \"rating_stars\": 4.2,\n      \"rating_count\": 205,\n      \"in_stock\": true,\n      \"seller\": \"ونزکافه\",\n      \"badges\": [\n        \"فروش ویژه\",\n        \"ارسال سریع دیجی‌کالا\",\n        \"ارسال توسط فروشنده\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-13846412/پودر-قهوه-اسپرسو-20-درصد-عربيكا-80-درصد-ربوستا-با-طعم-وانیل-ونزکافه-250-گرم\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/a5ed66a0875322fe8615060001ab0bc39f0976f1_1734958142.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 6972721,\n      \"title\": \"قهوه فوری 3 در 1 تیمز - 20 ساشه 20 گرمی\",\n      \"price_toman\": 595000,\n      \"price_rial\": 5950000,\n      \"price_before_toman\": null,\n      \"discount_percent\": 0,\n      \"rating_stars\": 4.3,\n      \"rating_count\": 1163,\n      \"in_stock\": true,\n      \"seller\": \"فودلندز\",\n      \"badges\": [\n        \"ارسال سریع دیجی‌کالا\",\n        \"انبار دیجی‌کالا\",\n        \"فروشنده معتبر\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-6972721/قهوه-فوری-3-در-1-تیمز-20-ساشه-20-گرمی\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/c92c81ce30a5dd15941cf0015f28865b9e3a4e0d_1636890044.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    },\n    {\n      \"id\": 16241475,\n      \"title\": \"پودر قهوه فوری ونزکافه - 2.5 گرم بسته 40 عددی\",\n      \"price_toman\": 1320000,\n      \"price_rial\": 13200000,\n      \"price_before_toman\": null,\n      \"discount_percent\": 0,\n      \"rating_stars\": 3.8,\n      \"rating_count\": 226,\n      \"in_stock\": true,\n      \"seller\": \"لامینور مارکت\",\n      \"badges\": [\n        \"تنها 1 عدد در انبار باقی مانده\"\n      ],\n      \"url\": \"https://www.digikala.com/product/dkp-16241475/پودر-قهوه-فوری-ونزکافه-25-گرم-بسته-40-عددی\",\n      \"image\": \"https://dkstatics-public.digikala.com/digikala-products/444a67a03cc4b9e0fd78c127422829b793a1ef17_1722406905.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80\"\n    }\n  ],\n  \"returned\": 20,\n  \"did_you_mean\": null,\n  \"related_searches\": [\n    \"قهوه فوری\",\n    \"قهوه اسپرسو\",\n    \"قهوه جوش\",\n    \"دانه قهوه\",\n    \"قهوه ساز\"\n  ],\n  \"returned_price_range_toman\": {\n    \"min\": 352440,\n    \"max\": 1700000\n  },\n  \"price_range_note\": \"Range across the items returned here, not across everything that matches.\",\n  \"currency\": \"toman\",\n  \"filters_applied_to_this_page\": {\n    \"only_marketable\": true\n  },\n  \"price_filter_sent_upstream\": false,\n  \"fetched_from_digikala\": 20,\n  \"matched_on_page\": 20,\n  \"attribution\": \"Data comes from Digikala's public web API. Prices, stock and discounts change constantly - always confirm on digikala.com before buying. This server is not affiliated with or endorsed by Digikala.\"\n}"
+              }
+            ]
+          }
+        },
+        {
+          "query": "قهوه و تجهیزات",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala is temporarily limiting how fast we may call it, so this request could not get its turn in time. Retry the same call in about 7 seconds."
+              }
+            ],
+            "isError": true
+          }
+        }
+      ]
+    },
+    "bags": {
+      "label": "کیف و اکسسوری",
+      "queries": [
+        "کیف اکسسوری",
+        "کیف و اکسسوری",
+        "کیف"
+      ],
+      "results": [
+        {
+          "query": "کیف اکسسوری",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala is temporarily not serving data (rate-limited on their side). Retry the same call in about 15-30 seconds. The failure was recorded for the service owner - no need to report it."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "کیف و اکسسوری",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala is temporarily not serving data (rate-limited on their side). Retry the same call in about 15-30 seconds. The failure was recorded for the service owner - no need to report it."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "کیف",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala is temporarily not serving data (rate-limited on their side). Retry the same call in about 15-30 seconds. The failure was recorded for the service owner - no need to report it."
+              }
+            ],
+            "isError": true
+          }
+        }
+      ]
+    },
+    "tools": {
+      "label": "ابزار و تجهیزات",
+      "queries": [
+        "ابزار",
+        "ابزار و تجهیزات"
+      ],
+      "results": [
+        {
+          "query": "ابزار",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala did not answer within this call's 20s budget. Retry the same call."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "ابزار و تجهیزات",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala is temporarily not serving data (rate-limited on their side). Retry the same call in about 15-30 seconds. The failure was recorded for the service owner - no need to report it."
+              }
+            ],
+            "isError": true
+          }
+        }
+      ]
+    }
+  }
+}
