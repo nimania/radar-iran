@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-21T10:01:39.870Z",
-  "count": 3857,
+  "generated_at": "2026-10-21T10:30:10.120Z",
+  "count": 3859,
   "collection": {
     "mode": "rotating",
     "categories_scanned": 4,
@@ -1539,7 +1539,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 149230,
       "list_price": null,
       "discount_percent": 0,
@@ -1552,7 +1552,7 @@
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "افی تویز",
@@ -1574,7 +1574,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 1596460,
       "list_price": null,
       "discount_percent": 0,
@@ -1587,7 +1587,7 @@
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "چایلد شاپ",
@@ -1679,21 +1679,21 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 480000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.5,
       "rating_count": 105,
       "seller": "همبازی شاپ",
-      "rank": 4,
+      "rank": 3,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
         "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "اسباب بازی نیما",
@@ -1701,7 +1701,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -1715,20 +1715,20 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 2450000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.7,
       "rating_count": 313,
       "seller": "بیشاپور سیستم",
-      "rank": 5,
+      "rank": 4,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "بیشاپور سیستم",
@@ -1736,7 +1736,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -1786,14 +1786,14 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 390000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 709,
       "seller": "فکرچین",
-      "rank": 6,
+      "rank": 5,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -1801,7 +1801,7 @@
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "فکرچین",
@@ -1809,7 +1809,42 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "22261177",
+      "title": "اسباب بازی مدل W-01",
+      "url": "https://www.digikala.com/product/dkp-22261177/اسباب-بازی-مدل-w-01",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3ef7bcf468b269b1cfd0150ff5651d8ee152d0a7_1784131171.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "toys",
+      "category_label": "اسباب‌بازی",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 2890000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "اسباب بازی نابغه کوچولو",
+      "rank": 6,
+      "available": true,
+      "badges": [
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "اسباب بازی"
+      },
+      "supplier": {
+        "name": "اسباب بازی نابغه کوچولو",
+        "url": "https://www.digikala.com/seller/DMS2J/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
         "is_new": false
       }
     },
@@ -1823,7 +1858,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 635000,
       "list_price": null,
       "discount_percent": 0,
@@ -1837,7 +1872,7 @@
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "مهر امیدان",
@@ -1852,35 +1887,35 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22261177",
-      "title": "اسباب بازی مدل W-01",
-      "url": "https://www.digikala.com/product/dkp-22261177/اسباب-بازی-مدل-w-01",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/3ef7bcf468b269b1cfd0150ff5651d8ee152d0a7_1784131171.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "8211140",
+      "title": "اسباب بازی مدل دستگاه پوز کد Best-44",
+      "url": "https://www.digikala.com/product/dkp-8211140/اسباب-بازی-مدل-دستگاه-پوز-کد-best-44",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/39e316d7834b5aafe2ea66c73b17a59d5148f06c_1649315415.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 2890000,
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 438920,
       "list_price": null,
       "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "اسباب بازی نابغه کوچولو",
+      "rating": 3.9,
+      "rating_count": 3321,
+      "seller": "پکاوج",
       "rank": 8,
       "available": true,
       "badges": [
-        "تنها 2 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
-        "name": "اسباب بازی نابغه کوچولو",
-        "url": "https://www.digikala.com/seller/DMS2J/"
+        "name": "ریحان عروسک",
+        "url": "https://www.digikala.com/seller/FJ9JZ/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -1924,41 +1959,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8211140",
-      "title": "اسباب بازی مدل دستگاه پوز کد Best-44",
-      "url": "https://www.digikala.com/product/dkp-8211140/اسباب-بازی-مدل-دستگاه-پوز-کد-best-44",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/39e316d7834b5aafe2ea66c73b17a59d5148f06c_1649315415.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "toys",
-      "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 438920,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 3321,
-      "seller": "پکاوج",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "اسباب‌بازی"
-      },
-      "supplier": {
-        "name": "ریحان عروسک",
-        "url": "https://www.digikala.com/seller/FJ9JZ/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "12504519",
       "title": "ست اسباب بازی ابزار مدل SE-10",
       "url": "https://www.digikala.com/product/dkp-12504519/ست-اسباب-بازی-ابزار-مدل-se-10",
@@ -1966,28 +1966,28 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 150310,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.8,
       "rating_count": 360,
       "seller": "افی تویز",
-      "rank": 10,
+      "rank": 9,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": " نیک تویز",
         "url": "https://www.digikala.com/seller/E22GA/"
       },
       "signals": {
-        "price_change_pct": 2.84,
-        "rank_change": 0,
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -2001,18 +2001,18 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 515000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
       "rating_count": 414,
       "seller": "شادرنگ",
-      "rank": 11,
+      "rank": 10,
       "available": true,
       "badges": [],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "شادرنگ",
@@ -2027,41 +2027,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "12004169",
-      "title": "اسباب بازی مدل مدل میوه برشی cutting funny کد z123",
-      "url": "https://www.digikala.com/product/dkp-12004169/اسباب-بازی-مدل-مدل-میوه-برشی-cutting-funny-کد-z123",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4d6560d6a3e2d2ab0806da5d811501bc6c0b6c28_1689101692.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "toys",
-      "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-20T14:57:44.250Z",
-      "price": 420000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 4250,
-      "seller": "پوشاک اروپایی",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "اسباب"
-      },
-      "supplier": {
-        "name": "پوشاک اروپایی",
-        "url": "https://www.digikala.com/seller/DHCU5/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -9,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "11398524",
       "title": "اسباب بازی سوپر مارکت زیبا مدل شاپی",
       "url": "https://www.digikala.com/product/dkp-11398524/اسباب-بازی-سوپر-مارکت-زیبا-مدل-شاپی",
@@ -2069,21 +2034,21 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 1710000,
       "list_price": 1800000,
       "discount_percent": 5,
       "rating": 3.9,
       "rating_count": 277,
       "seller": "رانا هوم",
-      "rank": 12,
+      "rank": 11,
       "available": true,
       "badges": [
         "فروش ویژه",
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "رانا هوم",
@@ -2105,21 +2070,21 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 930000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 478,
       "seller": "توی فکتوری",
-      "rank": 13,
+      "rank": 12,
       "available": true,
       "badges": [
-        "فروشنده معتبر",
-        "تنها 0 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "توی فکتوری",
@@ -2127,7 +2092,42 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "12004169",
+      "title": "اسباب بازی مدل مدل میوه برشی cutting funny کد z123",
+      "url": "https://www.digikala.com/product/dkp-12004169/اسباب-بازی-مدل-مدل-میوه-برشی-cutting-funny-کد-z123",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4d6560d6a3e2d2ab0806da5d811501bc6c0b6c28_1689101692.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "toys",
+      "category_label": "اسباب‌بازی",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 420000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 4252,
+      "seller": "پوشاک اروپایی",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "اسباب بازی"
+      },
+      "supplier": {
+        "name": "پوشاک اروپایی",
+        "url": "https://www.digikala.com/seller/DHCU5/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -2286,8 +2286,8 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 657360,
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 656030,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.8,
@@ -2300,15 +2300,15 @@
         "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "افی تویز",
         "url": "https://www.digikala.com/seller/HA2V6/"
       },
       "signals": {
-        "price_change_pct": 0.64,
-        "rank_change": 3,
+        "price_change_pct": -0.2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -2322,7 +2322,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 1020000,
       "list_price": null,
       "discount_percent": 0,
@@ -2336,7 +2336,7 @@
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "تیمبو توی",
@@ -2344,7 +2344,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -2394,7 +2394,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 850000,
       "list_price": null,
       "discount_percent": 0,
@@ -2405,7 +2405,7 @@
       "available": true,
       "badges": [],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "اسپورتینو",
@@ -2413,7 +2413,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -2492,7 +2492,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 690000,
       "list_price": null,
       "discount_percent": 0,
@@ -2505,7 +2505,7 @@
         "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "افی تویز",
@@ -2513,7 +2513,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -2666,7 +2666,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 597100,
       "list_price": null,
       "discount_percent": 0,
@@ -2677,7 +2677,7 @@
       "available": true,
       "badges": [],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "تولیدی بازرگانی شگفت انگیز",
@@ -2881,7 +2881,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 138000,
       "list_price": null,
       "discount_percent": 0,
@@ -2895,7 +2895,7 @@
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "ناب ترین محصول",
@@ -3132,7 +3132,7 @@
       "brand": "متفرقه",
       "category_key": "toys",
       "category_label": "اسباب‌بازی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 546890,
       "list_price": null,
       "discount_percent": 0,
@@ -3145,7 +3145,7 @@
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "اسباب‌بازی"
+        "query": "اسباب بازی"
       },
       "supplier": {
         "name": "شهریار تویز",
@@ -102464,7 +102464,7 @@
       "brand": "اچ‌ پی",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
+      "observed_at": "2026-10-21T10:30:10.120Z",
       "price": 68000000,
       "list_price": null,
       "discount_percent": 0,
@@ -102478,15 +102478,15 @@
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "پرینتر"
+        "query": "پرینتر ماشین اداری"
       },
       "supplier": {
         "name": "دیجی‌کالا",
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": -4.23,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -102526,43 +102526,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8486000",
-      "title": "پرینتر اچ‌پی تک رنگ تک کاره با چاپ لیزری مدل LaserJet M111w، سایز چاپ A4، مجهز به درگاه‌های (High Speed USB 2.0) و همچنین شبکه بی سیم (WiFi)",
-      "url": "https://www.digikala.com/product/dkp-8486000/پرینتر-اچپی-تک-رنگ-تک-کاره-با-چاپ-لیزری-مدل-laserjet-m111w-سایز-چاپ-a4-مجهز-به-درگاههای-high-speed-usb-20-و-همچنین-شبکه-بی-سیم-wifi",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/00615f4e9cb10ccddf5f1ebc5c54ea83c891717f_1787425880.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
-      "price": 40290000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 400,
-      "seller": "سرزمین پرینتر",
-      "rank": 2,
-      "available": true,
-      "badges": [
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "رایانه خاورمیانه",
-        "url": "https://www.digikala.com/seller/AFCXF/"
-      },
-      "signals": {
-        "price_change_pct": -1.49,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "15894116",
       "title": "مجموعه 4 عددی ماشین بازی سواری مدل جعبه ای با بدنه پلاستیکی و چرخ‌های روان",
       "url": "https://www.digikala.com/product/dkp-15894116/مجموعه-4-عددی-ماشین-بازی-سواری-مدل-جعبه-ای-با-بدنه-پلاستیکی-و-چرخهای-روان",
@@ -102593,6 +102556,43 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8484530",
+      "title": "پرینتر اچ‌پی تک رنگ تک کاره با چاپ لیزری مدل LaserJet M111a، سایز چاپ A4، قابلیت چاپ اسناد روی فلش مموری",
+      "url": "https://www.digikala.com/product/dkp-8484530/پرینتر-اچپی-تک-رنگ-تک-کاره-با-چاپ-لیزری-مدل-laserjet-m111a-سایز-چاپ-a4-قابلیت-چاپ-اسناد-روی-فلش-مموری",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0aff0dfdef6c3891ad47f51aecd17b230e9e44ff_1787425879.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 34290000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 604,
+      "seller": "سرزمین پرینتر",
+      "rank": 2,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": -0.84,
+        "rank_change": 2,
         "is_new": false
       }
     },
@@ -102639,12 +102639,12 @@
       "brand": "اچ‌ پی",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
-      "price": 50250000,
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 49100000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
-      "rating_count": 864,
+      "rating_count": 865,
       "seller": "تدبیر کالای چاپگر",
       "rank": 3,
       "available": true,
@@ -102654,15 +102654,15 @@
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "پرینتر"
+        "query": "پرینتر ماشین اداری"
       },
       "supplier": {
         "name": "دیجی‌کالا",
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": -0.69,
-        "rank_change": 2,
+        "price_change_pct": -2.29,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -102772,42 +102772,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8484530",
-      "title": "پرینتر اچ‌پی تک رنگ تک کاره با چاپ لیزری مدل LaserJet M111a، سایز چاپ A4، قابلیت چاپ اسناد روی فلش مموری",
-      "url": "https://www.digikala.com/product/dkp-8484530/پرینتر-اچپی-تک-رنگ-تک-کاره-با-چاپ-لیزری-مدل-laserjet-m111a-سایز-چاپ-a4-قابلیت-چاپ-اسناد-روی-فلش-مموری",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0aff0dfdef6c3891ad47f51aecd17b230e9e44ff_1787425879.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
-      "price": 34580000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 604,
-      "seller": "سرزمین پرینتر",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
-        "price_change_pct": -0.63,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "18351971",
       "title": "پرینتر چندکاره جوهرافشان کانن مدل PIXMA TS3640 با قابلیت چاپ بدون حاشیه، اتصال بی‌سیم Wi-Fi و پشتیبانی از چاپ موبایلی",
       "url": "https://www.digikala.com/product/dkp-18351971/پرینتر-چندکاره-جوهرافشان-کانن-مدل-pixma-ts3640-با-قابلیت-چاپ-بدون-حاشیه-اتصال-بیسیم-wi-fi-و-پشتیبانی-از-چاپ-موبایلی",
@@ -102815,30 +102779,30 @@
       "brand": "کانن",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
-      "price": 19520000,
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 19419000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.8,
-      "rating_count": 538,
-      "seller": "رایانه خاورمیانه",
-      "rank": 5,
+      "rating_count": 539,
+      "seller": "سرزمین پرینتر",
+      "rank": 4,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
+        "انبار دیجی‌کالا",
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "پرینتر"
+        "query": "پرینتر ماشین اداری"
       },
       "supplier": {
         "name": "رایانه خاورمیانه",
         "url": "https://www.digikala.com/seller/AFCXF/"
       },
       "signals": {
-        "price_change_pct": -1.06,
-        "rank_change": -4,
+        "price_change_pct": -0.52,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -102917,6 +102881,43 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "20714685",
+      "title": "پرینتر لیزری تک‌کاره اچ‌پی مدل Laser 108w با اتصال وای‌فای و USB، سازگار با اپ اختصاصی موبایل و چراغ نشانگر",
+      "url": "https://www.digikala.com/product/dkp-20714685/پرینتر-لیزری-تککاره-اچپی-مدل-laser-108w-با-اتصال-وایفای-و-usb-سازگار-با-اپ-اختصاصی-موبایل-و-چراغ-نشانگر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8758c5c2d0061a49970675bacc5e53c99f2c6868_1787425883.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 44699000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 338,
+      "seller": "رایانه خاورمیانه",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {
+        "name": "تدبیر کالای چاپگر",
+        "url": "https://www.digikala.com/seller/6XGTT/"
+      },
+      "signals": {
+        "price_change_pct": 3.98,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "5228199",
       "title": "ماشین بازی مسابقه‌ای ایمن با بدنه پلاستیکی نرم، کد 180",
       "url": "https://www.digikala.com/product/dkp-5228199/ماشین-بازی-مسابقهای-ایمن-با-بدنه-پلاستیکی-نرم-کد-180",
@@ -102989,74 +102990,73 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "8484728",
-      "title": "پرینتر اچ‌پی تک رنگ تک کاره با چاپ لیزری مدل M111w، سایز چاپ A4",
-      "url": "https://www.digikala.com/product/dkp-8484728/پرینتر-اچپی-تک-رنگ-تک-کاره-با-چاپ-لیزری-مدل-m111w-سایز-چاپ-a4",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9f62585f46e9cfdd5ad231807c55c0ff9b1b259c_1787425879.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "20715226",
+      "title": "پرینتر لیزری 3 کاره اچ‌پی مدل Laser MFP 136w با قابلیت پرینت، اسکن و کپی، مجهز به اتصال Wi-Fi و USB",
+      "url": "https://www.digikala.com/product/dkp-20715226/پرینتر-لیزری-3-کاره-اچپی-مدل-laser-mfp-136w-با-قابلیت-پرینت-اسکن-و-کپی-مجهز-به-اتصال-wi-fi-و-usb",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7301357594229afd5a438c201dfdc4b3486629ca_1787425884.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "اچ‌ پی",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
-      "price": 40499000,
-      "list_price": 42500000,
-      "discount_percent": 5,
-      "rating": 4.4,
-      "rating_count": 393,
-      "seller": "رایانه خاورمیانه",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 59450000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 120,
+      "seller": "تدبیر کالای چاپگر",
       "rank": 6,
       "available": true,
       "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
         "ارسال توسط فروشنده",
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "چاپگر تهران",
-        "url": "https://www.digikala.com/seller/GKMSY/"
-      },
-      "signals": {
-        "price_change_pct": -0.74,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20714685",
-      "title": "پرینتر لیزری تک‌کاره اچ‌پی مدل Laser 108w با اتصال وای‌فای و USB، سازگار با اپ اختصاصی موبایل و چراغ نشانگر",
-      "url": "https://www.digikala.com/product/dkp-20714685/پرینتر-لیزری-تککاره-اچپی-مدل-laser-108w-با-اتصال-وایفای-و-usb-سازگار-با-اپ-اختصاصی-موبایل-و-چراغ-نشانگر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8758c5c2d0061a49970675bacc5e53c99f2c6868_1787425883.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
-      "price": 42990000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 335,
-      "seller": "رایانه خاورمیانه",
-      "rank": 7,
-      "available": true,
-      "badges": [
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
+        "query": "پرینتر ماشین اداری"
       },
       "supplier": {
         "name": "تدبیر کالای چاپگر",
         "url": "https://www.digikala.com/seller/6XGTT/"
       },
       "signals": {
-        "price_change_pct": 3.59,
-        "rank_change": 0,
+        "price_change_pct": 1.63,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8486000",
+      "title": "پرینتر اچ‌پی تک رنگ تک کاره با چاپ لیزری مدل LaserJet M111w، سایز چاپ A4، مجهز به درگاه‌های (High Speed USB 2.0) و همچنین شبکه بی سیم (WiFi)",
+      "url": "https://www.digikala.com/product/dkp-8486000/پرینتر-اچپی-تک-رنگ-تک-کاره-با-چاپ-لیزری-مدل-laserjet-m111w-سایز-چاپ-a4-مجهز-به-درگاههای-high-speed-usb-20-و-همچنین-شبکه-بی-سیم-wifi",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/00615f4e9cb10ccddf5f1ebc5c54ea83c891717f_1787425880.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 40120000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 400,
+      "seller": "تامین مهام",
+      "rank": 7,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {
+        "name": "رایانه خاورمیانه",
+        "url": "https://www.digikala.com/seller/AFCXF/"
+      },
+      "signals": {
+        "price_change_pct": -0.42,
+        "rank_change": -5,
         "is_new": false
       }
     },
@@ -103201,43 +103201,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20715226",
-      "title": "پرینتر لیزری 3 کاره اچ‌پی مدل Laser MFP 136w با قابلیت پرینت، اسکن و کپی، مجهز به اتصال Wi-Fi و USB",
-      "url": "https://www.digikala.com/product/dkp-20715226/پرینتر-لیزری-3-کاره-اچپی-مدل-laser-mfp-136w-با-قابلیت-پرینت-اسکن-و-کپی-مجهز-به-اتصال-wi-fi-و-usb",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7301357594229afd5a438c201dfdc4b3486629ca_1787425884.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
-      "price": 58499000,
-      "list_price": 61600000,
-      "discount_percent": 5,
-      "rating": 4.3,
-      "rating_count": 120,
-      "seller": "رایانه خاورمیانه",
-      "rank": 8,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "تدبیر کالای چاپگر",
-        "url": "https://www.digikala.com/seller/6XGTT/"
-      },
-      "signals": {
-        "price_change_pct": 6.95,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "3762029",
       "title": "صندلی کارمندی مدل 2020",
       "url": "https://www.digikala.com/product/dkp-3762029/صندلی-کارمندی-مدل-2020",
@@ -103304,6 +103267,42 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21130574",
+      "title": "پرینتر چندکاره لیزری تک‌رنگ A4 اچ‌پی مدل Laser MFP 139fnw با قابلیت پرینت، اسکن، کپی و فکس، اتصال USB، وای‌فای و شبکه",
+      "url": "https://www.digikala.com/product/dkp-21130574/پرینتر-چندکاره-لیزری-تکرنگ-a4-اچپی-مدل-laser-mfp-139fnw-با-قابلیت-پرینت-اسکن-کپی-و-فکس-اتصال-usb-وایفای-و-شبکه",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4cdd2e3479f48ab72c0103dd6a30960d64653baf_1787425884.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 63099000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 39,
+      "seller": "رایانه خاورمیانه",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {
+        "name": "تدبیر کالای چاپگر",
+        "url": "https://www.digikala.com/seller/6XGTT/"
+      },
+      "signals": {
+        "price_change_pct": -0.79,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -103383,42 +103382,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21130574",
-      "title": "پرینتر چندکاره لیزری تک‌رنگ A4 اچ‌پی مدل Laser MFP 139fnw با قابلیت پرینت، اسکن، کپی و فکس، اتصال USB، وای‌فای و شبکه",
-      "url": "https://www.digikala.com/product/dkp-21130574/پرینتر-چندکاره-لیزری-تکرنگ-a4-اچپی-مدل-laser-mfp-139fnw-با-قابلیت-پرینت-اسکن-کپی-و-فکس-اتصال-usb-وایفای-و-شبکه",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4cdd2e3479f48ab72c0103dd6a30960d64653baf_1787425884.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
-      "price": 63600000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 39,
-      "seller": "تدبیر کالای چاپگر",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "تدبیر کالای چاپگر",
-        "url": "https://www.digikala.com/seller/6XGTT/"
-      },
-      "signals": {
-        "price_change_pct": -3.27,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "15791454",
       "title": "دفتر یادداشت 50 برگ خندالو مدل ماشین باز مملکت کد 6711",
       "url": "https://www.digikala.com/product/dkp-15791454/دفتر-یادداشت-50-برگ-خندالو-مدل-ماشین-باز-مملکت-کد-6711",
@@ -103456,21 +103419,21 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17227195",
-      "title": "پرینتر کانن رنگی سه کاره با چاپ جوهرافشان مدل PIXMA MG2541S، سایز چاپ A4، مجهز به پورت USB",
-      "url": "https://www.digikala.com/product/dkp-17227195/پرینتر-کانن-رنگی-سه-کاره-با-چاپ-جوهرافشان-مدل-pixma-mg2541s-سایز-چاپ-a4-مجهز-به-پورت-usb",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/096f741d26d85cdd73cdf580e364b817082e573c_1787425883.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "کانن",
+      "source_id": "5451847",
+      "title": "پرینتر چندکاره جوهرافشان رنگی اچ‌پی مدل DeskJet 2320 با قابلیت پرینت، اسکن و کپی، رزولوشن چاپ 4800 × 1200 dpi و سینی 60 برگی",
+      "url": "https://www.digikala.com/product/dkp-5451847/پرینتر-چندکاره-جوهرافشان-رنگی-اچپی-مدل-deskjet-2320-با-قابلیت-پرینت-اسکن-و-کپی-رزولوشن-چاپ-4800-1200-dpi-و-سینی-60-برگی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e052e4eb9ecc3582dae2814d2b76771728d27905_1787425878.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
-      "price": 14180000,
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 15200000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 2.7,
-      "rating_count": 364,
+      "rating": 3.3,
+      "rating_count": 89,
       "seller": "رایانه خاورمیانه",
-      "rank": 10,
+      "rank": 9,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -103478,15 +103441,15 @@
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "پرینتر"
+        "query": "پرینتر ماشین اداری"
       },
       "supplier": {
         "name": "رایانه خاورمیانه",
         "url": "https://www.digikala.com/seller/AFCXF/"
       },
       "signals": {
-        "price_change_pct": -0.98,
-        "rank_change": 0,
+        "price_change_pct": 0,
+        "rank_change": 5,
         "is_new": false
       }
     },
@@ -103528,6 +103491,79 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "13036002",
+      "title": "پرینتر لیبل زن فوممو مدل M110",
+      "url": "https://www.digikala.com/product/dkp-13036002/پرینتر-لیبل-زن-فوممو-مدل-m110",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ba394f81cb27844893f354bbf56d3ff311e92ff0_1697669421.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "فومیمو",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 10800000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 239,
+      "seller": "فروشگاه ویراشاپ",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {
+        "name": "مهسان سیستم گستر",
+        "url": "https://www.digikala.com/seller/GUA57/"
+      },
+      "signals": {
+        "price_change_pct": -1.82,
+        "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8484728",
+      "title": "پرینتر اچ‌پی تک رنگ تک کاره با چاپ لیزری مدل M111w، سایز چاپ A4",
+      "url": "https://www.digikala.com/product/dkp-8484728/پرینتر-اچپی-تک-رنگ-تک-کاره-با-چاپ-لیزری-مدل-m111w-سایز-چاپ-a4",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9f62585f46e9cfdd5ad231807c55c0ff9b1b259c_1787425879.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 40350000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 393,
+      "seller": "تامین مهام",
+      "rank": 11,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {
+        "name": "چاپگر تهران",
+        "url": "https://www.digikala.com/seller/GKMSY/"
+      },
+      "signals": {
+        "price_change_pct": -0.37,
+        "rank_change": -5,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "21863680",
       "title": "ست ماشین بازی مدل وانت مشاغل مجموعه 4 عددی",
       "url": "https://www.digikala.com/product/dkp-21863680/ست-ماشین-بازی-مدل-وانت-مشاغل-مجموعه-۴-عددی",
@@ -103557,42 +103593,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "8484298",
-      "title": "پرینتر اچ‌پی تک رنگ سه کاره با چاپ لیزری مدل LaserJet MFP M141a، سایز چاپ A4",
-      "url": "https://www.digikala.com/product/dkp-8484298/پرینتر-اچپی-تک-رنگ-سه-کاره-با-چاپ-لیزری-مدل-laserjet-mfp-m141a-سایز-چاپ-a4",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1d903545f091deb97961c4f04311d5e0cd9dad63_1787425879.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
-      "price": 46350000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 784,
-      "seller": "سرزمین پرینتر",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
-        "price_change_pct": -0.51,
-        "rank_change": -3,
         "is_new": false
       }
     },
@@ -103665,6 +103665,44 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "8484298",
+      "title": "پرینتر اچ‌پی تک رنگ سه کاره با چاپ لیزری مدل LaserJet MFP M141a، سایز چاپ A4",
+      "url": "https://www.digikala.com/product/dkp-8484298/پرینتر-اچپی-تک-رنگ-سه-کاره-با-چاپ-لیزری-مدل-laserjet-mfp-m141a-سایز-چاپ-a4",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1d903545f091deb97961c4f04311d5e0cd9dad63_1787425879.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 46299000,
+      "list_price": 48000000,
+      "discount_percent": 4,
+      "rating": 4.1,
+      "rating_count": 784,
+      "seller": "رایانه خاورمیانه",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": -0.11,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -103848,104 +103886,37 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "18063871",
-      "title": "پرینتر لیبل زن فومیمو مدل M220 به همراه کاغذ",
-      "url": "https://www.digikala.com/product/dkp-18063871/پرینتر-لیبل-زن-فومیمو-مدل-m220-به-همراه-کاغذ",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1c6b553beff6061f0a7ccb03f4f5a61f94136892_1737287070.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "فومیمو",
+      "source_id": "17227195",
+      "title": "پرینتر کانن رنگی سه کاره با چاپ جوهرافشان مدل PIXMA MG2541S، سایز چاپ A4، مجهز به پورت USB",
+      "url": "https://www.digikala.com/product/dkp-17227195/پرینتر-کانن-رنگی-سه-کاره-با-چاپ-جوهرافشان-مدل-pixma-mg2541s-سایز-چاپ-a4-مجهز-به-پورت-usb",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/096f741d26d85cdd73cdf580e364b817082e573c_1787425883.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "کانن",
       "category_key": "office",
       "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:57:43.999Z",
-      "price": 15500000,
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 14079000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 54,
-      "seller": "الی رزا اکسسوری",
-      "rank": 12,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "پرینتر ماشین اداری"
-      },
-      "supplier": {
-        "name": "الی رزا اکسسوری",
-        "url": "https://www.digikala.com/seller/F5J6P/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "300",
-      "title": "پرینتر اچ پی تک رنگ تک کاره با چاپ لیزری مدل LaserJet P2035، سایز چاپ A4",
-      "url": "https://www.digikala.com/product/dkp-300/پرینتر-اچ-پی-تک-رنگ-تک-کاره-با-چاپ-لیزری-مدل-laserjet-p2035-سایز-چاپ-a4",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/bff4021bff381ad6f4b03b4b5d840e316678a862_1787425872.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
-      "price": 88380000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 263,
-      "seller": "رایان پرینتر",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "رایان پرینتر",
-        "url": "https://www.digikala.com/seller/HJU5X/"
-      },
-      "signals": {
-        "price_change_pct": -0.11,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "13036002",
-      "title": "پرینتر لیبل زن فوممو مدل M110",
-      "url": "https://www.digikala.com/product/dkp-13036002/پرینتر-لیبل-زن-فوممو-مدل-m110",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ba394f81cb27844893f354bbf56d3ff311e92ff0_1697669421.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "فومیمو",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:01:33.533Z",
-      "price": 11000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 239,
-      "seller": "سوران سرویس نویان",
+      "rating": 2.7,
+      "rating_count": 365,
+      "seller": "سرزمین پرینتر",
       "rank": 13,
       "available": true,
       "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "پرینتر ماشین اداری"
       },
       "supplier": {
-        "name": "مهسان سیستم گستر",
-        "url": "https://www.digikala.com/seller/GUA57/"
+        "name": "رایانه خاورمیانه",
+        "url": "https://www.digikala.com/seller/AFCXF/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "price_change_pct": -0.71,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -104018,42 +103989,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "3896919",
-      "title": "کاغذ کش مدل 1005 مناسب برای پرینتر اچ پی",
-      "url": "https://www.digikala.com/product/dkp-3896919/کاغذ-کش-مدل-1005-مناسب-برای-پرینتر-اچ-پی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1d088792facef99dde1b03ec287364873d5caea6_1606933563.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-16T20:57:43.999Z",
-      "price": 150000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 313,
-      "seller": "نیکاژه",
-      "rank": 13,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "پرینتر ماشین اداری"
-      },
-      "supplier": {
-        "name": "نیکاژه",
-        "url": "https://www.digikala.com/seller/A7S5G/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 4,
         "is_new": false
       }
     },
@@ -104133,6 +104068,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "3896919",
+      "title": "کاغذ کش مدل 1005 مناسب برای پرینتر اچ پی",
+      "url": "https://www.digikala.com/product/dkp-3896919/کاغذ-کش-مدل-1005-مناسب-برای-پرینتر-اچ-پی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1d088792facef99dde1b03ec287364873d5caea6_1606933563.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 150000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 314,
+      "seller": "نیکاژه",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {
+        "name": "نیکاژه",
+        "url": "https://www.digikala.com/seller/A7S5G/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "20346000",
       "title": "دفتر لیست خرید 50 برگ خندالو طرح ماشین کلاسیک کد F4705",
       "url": "https://www.digikala.com/product/dkp-20346000/دفتر-لیست-خرید-50-برگ-خندالو-طرح-ماشین-کلاسیک-کد-f4705",
@@ -104164,43 +104135,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "5451847",
-      "title": "پرینتر چندکاره جوهرافشان رنگی اچ‌پی مدل DeskJet 2320 با قابلیت پرینت، اسکن و کپی، رزولوشن چاپ 4800 × 1200 dpi و سینی 60 برگی",
-      "url": "https://www.digikala.com/product/dkp-5451847/پرینتر-چندکاره-جوهرافشان-رنگی-اچپی-مدل-deskjet-2320-با-قابلیت-پرینت-اسکن-و-کپی-رزولوشن-چاپ-4800-1200-dpi-و-سینی-60-برگی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e052e4eb9ecc3582dae2814d2b76771728d27905_1787425878.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
-      "price": 15200000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.3,
-      "rating_count": 89,
-      "seller": "رایانه خاورمیانه",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "رایانه خاورمیانه",
-        "url": "https://www.digikala.com/seller/AFCXF/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -5,
         "is_new": false
       }
     },
@@ -104344,6 +104278,41 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "18063871",
+      "title": "پرینتر لیبل زن فومیمو مدل M220 به همراه کاغذ",
+      "url": "https://www.digikala.com/product/dkp-18063871/پرینتر-لیبل-زن-فومیمو-مدل-m220-به-همراه-کاغذ",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1c6b553beff6061f0a7ccb03f4f5a61f94136892_1737287070.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "فومیمو",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 15500000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 54,
+      "seller": "الی رزا اکسسوری",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {
+        "name": "الی رزا اکسسوری",
+        "url": "https://www.digikala.com/seller/F5J6P/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -104521,6 +104490,42 @@
       },
       "signals": {
         "price_change_pct": 2.02,
+        "rank_change": 4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20715011",
+      "title": "پرینتر لیزری 3 کاره اچ‌پی مدل LaserJet MFP 136a با قابلیت پرینت، اسکن و کپی، اتصال USB و نمایشگر",
+      "url": "https://www.digikala.com/product/dkp-20715011/پرینتر-لیزری-3-کاره-اچپی-مدل-laserjet-mfp-136a-با-قابلیت-پرینت-اسکن-و-کپی-اتصال-usb-و-نمایشگر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4fc16a9704f527522ef8530e3fcbdacad74013a7_1787425884.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 47739000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 61,
+      "seller": "تدبیر کالای چاپگر",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {
+        "name": "تدبیر کالای چاپگر",
+        "url": "https://www.digikala.com/seller/6XGTT/"
+      },
+      "signals": {
+        "price_change_pct": -0.75,
         "rank_change": 4,
         "is_new": false
       }
@@ -104817,6 +104822,40 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "21432169",
+      "title": "پرینتر جوهرافشان رنگی 3 کاره اپسون مدل EcoTank L3556 سایز A4 با قابلیت پرینت، اسکن و کپی، اتصال Wi-Fi و USB",
+      "url": "https://www.digikala.com/product/dkp-21432169/پرینتر-جوهرافشان-رنگی-3-کاره-اپسون-مدل-ecotank-l3556-سایز-a4-با-قابلیت-پرینت-اسکن-و-کپی-اتصال-wi-fi-و-usb",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c13756ce17aa288602c1fd966de9a9bd364956ce_1787425885.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 62000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "تامین مهام",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "20333420",
       "title": "دفتر لیست خرید 50 برگ خندالو طرح ماشین کلاسیک کد F3033",
       "url": "https://www.digikala.com/product/dkp-20333420/دفتر-لیست-خرید-50-برگ-خندالو-طرح-ماشین-کلاسیک-کد-f3033",
@@ -105031,39 +105070,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "225033",
-      "title": "پرینتر لیزری تک‌کاره سیاه‌وسفید اچ‌پی مدل LaserJet Pro M12w با ظرفیت سینی ورودی 150 برگ و اتصال بی‌سیم Wi-Fi به موبایل و رایانه، مجهز به درگاه USB",
-      "url": "https://www.digikala.com/product/dkp-225033/پرینتر-لیزری-تککاره-سیاهوسفید-اچپی-مدل-laserjet-pro-m12w-با-ظرفیت-سینی-ورودی-150-برگ-و-اتصال-بیسیم-wi-fi-به-موبایل-و-رایانه-مجهز-به-درگاه-usb",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/deba9ad51fdb3e13e226b7d804cfe36b781b1874_1787425873.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
-      "price": 64000000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 968,
-      "seller": "پرینتر گستر ایران",
-      "rank": 18,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "پرینتر گستر ایران",
-        "url": "https://www.digikala.com/seller/HFHN6/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "20333466",
       "title": "دفتر لیست خرید 50 برگ خندالو طرح ماشین کلاسیک کد F3063",
       "url": "https://www.digikala.com/product/dkp-20333466/دفتر-لیست-خرید-50-برگ-خندالو-طرح-ماشین-کلاسیک-کد-f3063",
@@ -105096,6 +105102,69 @@
         "price_change_pct": null,
         "rank_change": null,
         "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "18721617",
+      "title": "پرینتر لیبل زن فومیمو مدل M110",
+      "url": "https://www.digikala.com/product/dkp-18721617/پرینتر-لیبل-زن-فومیمو-مدل-m110",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/2a6d1f8d53c77759ed07ee98c89337bb12b67cbf_1743010436.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": null,
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 11500000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.8,
+      "rating_count": 10,
+      "seller": "الی رزا اکسسوری",
+      "rank": 18,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "225033",
+      "title": "پرینتر لیزری تک‌کاره سیاه‌وسفید اچ‌پی مدل LaserJet Pro M12w با ظرفیت سینی ورودی 150 برگ و اتصال بی‌سیم Wi-Fi به موبایل و رایانه، مجهز به درگاه USB",
+      "url": "https://www.digikala.com/product/dkp-225033/پرینتر-لیزری-تککاره-سیاهوسفید-اچپی-مدل-laserjet-pro-m12w-با-ظرفیت-سینی-ورودی-150-برگ-و-اتصال-بیسیم-wi-fi-به-موبایل-و-رایانه-مجهز-به-درگاه-usb",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/deba9ad51fdb3e13e226b7d804cfe36b781b1874_1787425873.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 64000000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 970,
+      "seller": "پرینتر گستر ایران",
+      "rank": 19,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {
+        "name": "پرینتر گستر ایران",
+        "url": "https://www.digikala.com/seller/HFHN6/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
       }
     },
     {
@@ -105348,6 +105417,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "300",
+      "title": "پرینتر اچ پی تک رنگ تک کاره با چاپ لیزری مدل LaserJet P2035، سایز چاپ A4",
+      "url": "https://www.digikala.com/product/dkp-300/پرینتر-اچ-پی-تک-رنگ-تک-کاره-با-چاپ-لیزری-مدل-laserjet-p2035-سایز-چاپ-a4",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/bff4021bff381ad6f4b03b4b5d840e316678a862_1787425872.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "اچ‌ پی",
+      "category_key": "office",
+      "category_label": "ماشین‌های اداری",
+      "observed_at": "2026-10-21T10:30:10.120Z",
+      "price": 88280000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 263,
+      "seller": "رایان پرینتر",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "پرینتر ماشین اداری"
+      },
+      "supplier": {
+        "name": "رایان پرینتر",
+        "url": "https://www.digikala.com/seller/HJU5X/"
+      },
+      "signals": {
+        "price_change_pct": -0.11,
+        "rank_change": -8,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "20808740",
       "title": "ماشین بازی کنترلی رود مستر مدل دودزا سواری 5 کاناله با قابلیت تولید اسپری دود و نورپردازی دیدنی، مناسب بالای 3 سال، بدنه پلاستیکی و چرخ‌های پلاستیکی",
       "url": "https://www.digikala.com/product/dkp-20808740/ماشین-بازی-کنترلی-رود-مستر-مدل-دودزا-سواری-5-کاناله-با-قابلیت-تولید-اسپری-دود-و-نورپردازی-دیدنی-مناسب-بالای-3-سال-بدنه-پلاستیکی-و-چرخهای-پلاستیکی",
@@ -105377,42 +105482,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -6,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20715011",
-      "title": "پرینتر لیزری 3 کاره اچ‌پی مدل LaserJet MFP 136a با قابلیت پرینت، اسکن و کپی، اتصال USB و نمایشگر",
-      "url": "https://www.digikala.com/product/dkp-20715011/پرینتر-لیزری-3-کاره-اچپی-مدل-laserjet-mfp-136a-با-قابلیت-پرینت-اسکن-و-کپی-اتصال-usb-و-نمایشگر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4fc16a9704f527522ef8530e3fcbdacad74013a7_1787425884.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اچ‌ پی",
-      "category_key": "office",
-      "category_label": "ماشین‌های اداری",
-      "observed_at": "2026-10-20T04:39:07.965Z",
-      "price": 48100000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 61,
-      "seller": "ارست",
-      "rank": 20,
-      "available": true,
-      "badges": [
-        "انبار دیجی‌کالا",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "پرینتر"
-      },
-      "supplier": {
-        "name": "تدبیر کالای چاپگر",
-        "url": "https://www.digikala.com/seller/6XGTT/"
-      },
-      "signals": {
-        "price_change_pct": -1.58,
-        "rank_change": -4,
         "is_new": false
       }
     },
