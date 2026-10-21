@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-21T15:31:15.006Z",
-  "count": 3861,
+  "generated_at": "2026-10-21T19:16:31.631Z",
+  "count": 3862,
   "collection": {
     "mode": "rotating",
     "categories_scanned": 4,
@@ -3334,43 +3334,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20259727",
-      "title": "ابزار باغبانی مدل Sun",
-      "url": "https://www.digikala.com/product/dkp-20259727/ابزار-باغبانی-مدل-sun",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f8b5e427abc3eba0e0de17a610e4d9d3a69ffa7a_1756125805.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "garden",
-      "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 481400,
-      "list_price": 557000,
-      "discount_percent": 14,
-      "rating": 4.3,
-      "rating_count": 3,
-      "seller": "دیجی‌کالا",
-      "rank": 1,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "لوازم باغبانی"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "11618785",
       "title": "قیچی باغبانی مدل Garden tools",
       "url": "https://www.digikala.com/product/dkp-11618785/قیچی-باغبانی-مدل-garden-tools",
@@ -3378,14 +3341,14 @@
       "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 1399000,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 1499900,
       "list_price": 1800000,
-      "discount_percent": 22,
+      "discount_percent": 17,
       "rating": 4.1,
       "rating_count": 75,
       "seller": "استور شاپ",
-      "rank": 2,
+      "rank": 1,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -3400,6 +3363,41 @@
         "url": "https://www.digikala.com/seller/CAFR6/"
       },
       "signals": {
+        "price_change_pct": 7.21,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20478513",
+      "title": "بسته لوازم تحریر مدل ملودی کد 8015 مجموعه 12 عددی",
+      "url": "https://www.digikala.com/product/dkp-20478513/بسته-لوازم-تحریر-مدل-ملودی-کد-8015-مجموعه-12-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1dcc305ea9eb4bdc1540c1697456a83023b61162_1758296943.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 835000,
+      "list_price": 940000,
+      "discount_percent": 11,
+      "rating": 3.9,
+      "rating_count": 9,
+      "seller": "جادوی رنگ",
+      "rank": 1,
+      "available": true,
+      "badges": [
+        "فروش ویژه"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "جادوی رنگ",
+        "url": "https://www.digikala.com/seller/F5SYC/"
+      },
+      "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
@@ -3408,36 +3406,109 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1914009",
-      "title": "ابزار باغبانی بهکو کد BH-2931 مجموعه 5 عددی",
-      "url": "https://www.digikala.com/product/dkp-1914009/ابزار-باغبانی-بهکو-کد-bh-2931-مجموعه-5-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/112793329.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بهکو",
+      "source_id": "7354265",
+      "title": "قیچی باغبانی مدل X5",
+      "url": "https://www.digikala.com/product/dkp-7354265/قیچی-باغبانی-مدل-x5",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/677700d0840787816a9c0beec4c971f5f67913fd_1639899395.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 2598060,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 480000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 2.3,
-      "rating_count": 3,
-      "seller": "بازرگانی اسمان",
+      "rating": 3.9,
+      "rating_count": 1218,
+      "seller": "بازرگانی سایمون",
       "rank": 2,
       "available": true,
       "badges": [
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
-        "query": "لوازم باغبانی"
+        "query": "باغبانی"
       },
       "supplier": {
-        "name": "بازرگانی اسمان",
-        "url": "https://www.digikala.com/seller/A4SKD/"
+        "name": "بازرگانی سایمون",
+        "url": "https://www.digikala.com/seller/E9AMG/"
       },
       "signals": {
-        "price_change_pct": -2.42,
-        "rank_change": 6,
+        "price_change_pct": 0,
+        "rank_change": 5,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19683146",
+      "title": "بسته لوازم تحریر مدل ملودی کد new2 مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-19683146/بسته-لوازم-تحریر-مدل-ملودی-کد-new2-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7e0a6fc5dcdca784e410b65109551f7872c9a818_1751398224.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 178000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3,
+      "rating_count": 8,
+      "seller": "چاپ فانتزی",
+      "rank": 2,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "چاپ فانتزی",
+        "url": "https://www.digikala.com/seller/CZ3GP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20259727",
+      "title": "ابزار باغبانی مدل Sun",
+      "url": "https://www.digikala.com/product/dkp-20259727/ابزار-باغبانی-مدل-sun",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f8b5e427abc3eba0e0de17a610e4d9d3a69ffa7a_1756125805.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 481400,
+      "list_price": 557000,
+      "discount_percent": 14,
+      "rating": 4.3,
+      "rating_count": 3,
+      "seller": "دیجی‌کالا",
+      "rank": 3,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "باغبانی"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -3480,69 +3551,71 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "5626585",
-      "title": "ابزار باغبانی باهکو مدل P1-20",
-      "url": "https://www.digikala.com/product/dkp-5626585/ابزار-باغبانی-باهکو-مدل-p1-20",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7ff370b3bf430c616cf593bc9e6929b51ce618cd_1625050621.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "باهکو",
+      "source_id": "20447335",
+      "title": "بسته لوازم تحریر مدل ویژه ملودی بسته 5 عددی",
+      "url": "https://www.digikala.com/product/dkp-20447335/بسته-لوازم-تحریر-مدل-ویژه-ملودی-بسته-۵-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/dd726d7cee61aaf59646fbdf022587e5c5fdc7da_1759061500.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 16800000,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 259000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4,
+      "rating": 5,
       "rating_count": 1,
-      "seller": "ایرانیان تجهیز",
+      "seller": "بانیبو آرت",
       "rank": 3,
       "available": true,
       "badges": [
-        "فروشنده معتبر",
-        "تنها 3 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
-        "query": "لوازم باغبانی"
+        "query": "لوازم"
       },
       "supplier": {
-        "name": "ایرانیان تجهیز",
-        "url": "https://www.digikala.com/seller/AUEN7/"
+        "name": "بانیبو آرت",
+        "url": "https://www.digikala.com/seller/EE3F3/"
       },
       "signals": {
-        "price_change_pct": 6.33,
-        "rank_change": 7,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "6185993",
-      "title": "قیچی باغبانی رونیکس کد RH-3108",
-      "url": "https://www.digikala.com/product/dkp-6185993/قیچی-باغبانی-رونیکس-کد-rh-3108",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/145d5f90cd366c0ce38acf875f515ba170adafd3_1629630301.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "رونیکس",
+      "source_id": "1914009",
+      "title": "ابزار باغبانی بهکو کد BH-2931 مجموعه 5 عددی",
+      "url": "https://www.digikala.com/product/dkp-1914009/ابزار-باغبانی-بهکو-کد-bh-2931-مجموعه-5-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/112793329.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بهکو",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 1350000,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 2575230,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 962,
-      "seller": "ابزارمارلیک",
+      "rating": 2.3,
+      "rating_count": 3,
+      "seller": "بازرگانی اسمان",
       "rank": 4,
       "available": true,
-      "badges": [],
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
       "raw_ref": {
         "query": "باغبانی"
       },
       "supplier": {
-        "name": "پرسیانا شاپ",
-        "url": "https://www.digikala.com/seller/HYA29/"
+        "name": "بازرگانی اسمان",
+        "url": "https://www.digikala.com/seller/A4SKD/"
       },
       "signals": {
-        "price_change_pct": -3.56,
-        "rank_change": -1,
+        "price_change_pct": -0.88,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -3587,20 +3660,20 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "918705",
-      "title": "مجموعه 6 عددی ابزار باغبانی هاردکس مدل GS02",
-      "url": "https://www.digikala.com/product/dkp-918705/مجموعه-6-عددی-ابزار-باغبانی-هاردکس-مدل-gs02",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4282760.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "17753255",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 13 عددی",
+      "url": "https://www.digikala.com/product/dkp-17753255/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-13-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b5ff411a807eed8b4818a5486f9f9802d8f3969e_1734515822.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 4995000,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 350000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 25,
-      "seller": "یار صنعت",
+      "rating": 4.4,
+      "rating_count": 5,
+      "seller": "بهتحریر",
       "rank": 4,
       "available": true,
       "badges": [
@@ -3608,15 +3681,51 @@
         "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "لوازم باغبانی"
+        "query": "لوازم"
       },
       "supplier": {
-        "name": "تراش مارکت",
-        "url": "https://www.digikala.com/seller/EGUR3/"
+        "name": "بهتحریر",
+        "url": "https://www.digikala.com/seller/6YAH7/"
       },
       "signals": {
-        "price_change_pct": 0.1,
-        "rank_change": 15,
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "5626585",
+      "title": "ابزار باغبانی باهکو مدل P1-20",
+      "url": "https://www.digikala.com/product/dkp-5626585/ابزار-باغبانی-باهکو-مدل-p1-20",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7ff370b3bf430c616cf593bc9e6929b51ce618cd_1625050621.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "باهکو",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 16800000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 1,
+      "seller": "ایرانیان تجهیز",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "باغبانی"
+      },
+      "supplier": {
+        "name": "ایرانیان تجهیز",
+        "url": "https://www.digikala.com/seller/AUEN7/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -3665,7 +3774,7 @@
       "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 289460,
       "list_price": null,
       "discount_percent": 0,
@@ -3684,7 +3793,42 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20556413",
+      "title": "بسته لوازم تحریر طرح ملودی بسته 6 عددی",
+      "url": "https://www.digikala.com/product/dkp-20556413/بسته-لوازم-تحریر-طرح-ملودی-بسته-6-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b65f324d5276dd45b79ba8ab9554dcb4392d2831_1759144016.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 699000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "بانیبو آرت",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "بانیبو آرت",
+        "url": "https://www.digikala.com/seller/EE3F3/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -3735,7 +3879,7 @@
       "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 2500000,
       "list_price": null,
       "discount_percent": 0,
@@ -3755,44 +3899,78 @@
         "url": "https://www.digikala.com/seller/5ADU7/"
       },
       "signals": {
-        "price_change_pct": 13.64,
-        "rank_change": 2,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "7354265",
-      "title": "قیچی باغبانی مدل X5",
-      "url": "https://www.digikala.com/product/dkp-7354265/قیچی-باغبانی-مدل-x5",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/677700d0840787816a9c0beec4c971f5f67913fd_1639899395.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "224192",
+      "title": "قیچی باغبانی نولان مدل 304100",
+      "url": "https://www.digikala.com/product/dkp-224192/قیچی-باغبانی-نولان-مدل-304100",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1120497.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "نولان",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 480000,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 1999000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 1218,
-      "seller": "بازرگانی سایمون",
-      "rank": 7,
+      "rating": 4.1,
+      "rating_count": 222,
+      "seller": "توسعه پایدار",
+      "rank": 6,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "لوازم باغبانی"
+        "query": "باغبانی"
       },
       "supplier": {
-        "name": "بازرگانی سایمون",
-        "url": "https://www.digikala.com/seller/E9AMG/"
+        "name": "توسعه پایدار",
+        "url": "https://www.digikala.com/seller/CFZ4D/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -6,
+        "rank_change": 11,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "22678861",
+      "title": "بسته لوازم تحریر مدل ملودی مجموعه 6 عددی",
+      "url": "https://www.digikala.com/product/dkp-22678861/بسته-لوازم-تحریر-مدل-ملودی-مجموعه-۶-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/dd32c10e37e444c5f3b67bed87fe54f8a635ef4f_1789218622.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 311000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "قشنگ افزار نیکا",
+      "rank": 6,
+      "available": true,
+      "badges": [
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "قشنگ افزار نیکا",
+        "url": "https://www.digikala.com/seller/G9EFK/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -3829,6 +4007,78 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21003930",
+      "title": "ابزار باغبانی مدل فرم دهنده شاخه گیاه کد a00 بسته 10 عددی",
+      "url": "https://www.digikala.com/product/dkp-21003930/ابزار-باغبانی-مدل-فرم-دهنده-شاخه-گیاه-کد-a00-بسته-10-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/9a1f3c84020b27d63a5d58caace6e67feeb8995e_1764577771.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 280000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 7,
+      "seller": "گلدان استار شاپ",
+      "rank": 7,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "باغبانی"
+      },
+      "supplier": {
+        "name": "گلدان استار شاپ",
+        "url": "https://www.digikala.com/seller/C7VEW/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21519071",
+      "title": "بسته لوازم تحریر مدل ملودی و کرومی مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-21519071/بسته-لوازم-تحریر-مدل-ملودی-و-کرومی-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f233a1121358240166226761488c1b3ee79add21_1771858648.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 520000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 5,
+      "rating_count": 1,
+      "seller": "هنرگلسا",
+      "rank": 7,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "هنرگلسا",
+        "url": "https://www.digikala.com/seller/DCE47/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -3916,7 +4166,7 @@
       "brand": "دلی",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 6999000,
       "list_price": null,
       "discount_percent": 0,
@@ -3937,7 +4187,115 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "14345145",
+      "title": "قیچی باغبانی شاخه زن جاب مدل JB-30021 BL",
+      "url": "https://www.digikala.com/product/dkp-14345145/قیچی-باغبانی-شاخه-زن-جاب-مدل-jb-30021-bl",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/06f0753c1effc5a79d60579ca4bb5b7905e542fa_1707214949.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "جاب",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 3190000,
+      "list_price": 5350000,
+      "discount_percent": 40,
+      "rating": 3.7,
+      "rating_count": 291,
+      "seller": "کمپکس",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "فروش ویژه"
+      ],
+      "raw_ref": {
+        "query": "باغبانی"
+      },
+      "supplier": {
+        "name": "کمپکس",
+        "url": "https://www.digikala.com/seller/9NYRH/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 8,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19988901",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 8 عددی",
+      "url": "https://www.digikala.com/product/dkp-19988901/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-8-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d4107b223575ca93bebe149a2615b64e5ad58a81_1753975889.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 648500,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 5,
+      "seller": "بهتحریر",
+      "rank": 8,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "بهتحریر",
+        "url": "https://www.digikala.com/seller/6YAH7/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "6185993",
+      "title": "قیچی باغبانی رونیکس کد RH-3108",
+      "url": "https://www.digikala.com/product/dkp-6185993/قیچی-باغبانی-رونیکس-کد-rh-3108",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/145d5f90cd366c0ce38acf875f515ba170adafd3_1629630301.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "رونیکس",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 1399900,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 962,
+      "seller": "تاج ابزار",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "باغبانی"
+      },
+      "supplier": {
+        "name": "پرسیانا شاپ",
+        "url": "https://www.digikala.com/seller/HYA29/"
+      },
+      "signals": {
+        "price_change_pct": 3.7,
+        "rank_change": -5,
         "is_new": false
       }
     },
@@ -4013,36 +4371,105 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21003930",
-      "title": "ابزار باغبانی مدل فرم دهنده شاخه گیاه کد a00 بسته 10 عددی",
-      "url": "https://www.digikala.com/product/dkp-21003930/ابزار-باغبانی-مدل-فرم-دهنده-شاخه-گیاه-کد-a00-بسته-10-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/9a1f3c84020b27d63a5d58caace6e67feeb8995e_1764577771.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "22291492",
+      "title": "بسته لوازم تحریر مدل ملودی کد 1217 بسته 7 عددی",
+      "url": "https://www.digikala.com/product/dkp-22291492/بسته-لوازم-تحریر-مدل-ملودی-کد-1217-بسته-7-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/da32861d1f370ce5374fb06e65a6c9e3525d908d_1784481387.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 280000,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 490000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 7,
-      "seller": "گلدان استار شاپ",
+      "rating": null,
+      "rating_count": 0,
+      "seller": "فروشگاه شیمر",
       "rank": 9,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "لوازم باغبانی"
+        "query": "لوازم"
       },
       "supplier": {
-        "name": "گلدان استار شاپ",
-        "url": "https://www.digikala.com/seller/C7VEW/"
+        "name": "فروشگاه شیمر",
+        "url": "https://www.digikala.com/seller/GC4R2/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 7,
+        "rank_change": -5,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1577077",
+      "title": "قیچی باغبانی مدل KS-4T",
+      "url": "https://www.digikala.com/product/dkp-1577077/قیچی-باغبانی-سامورایی-مدل-ks-4t",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/110932007.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 1622800,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 2.8,
+      "rating_count": 10,
+      "seller": "سامکو تولز",
+      "rank": 10,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "باغبانی"
+      },
+      "supplier": {
+        "name": "سامکو تولز",
+        "url": "https://www.digikala.com/seller/CA6P2/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 10,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21520402",
+      "title": "بسته لوازم تحریر مدل کرومی ملودی مجموعه 3 عددی",
+      "url": "https://www.digikala.com/product/dkp-21520402/بسته-لوازم-تحریر-مدل-کرومی-ملودی-مجموعه-3-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/55d6b8befd9e5b8eb3ddd1764b74be0963f31a0c_1771874718.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 420000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 1,
+      "seller": "هنرگلسا",
+      "rank": 10,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "هنرگلسا",
+        "url": "https://www.digikala.com/seller/DCE47/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -4056,14 +4483,14 @@
       "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 174000,
       "list_price": 250000,
       "discount_percent": 30,
       "rating": 4.4,
-      "rating_count": 2290,
+      "rating_count": 2291,
       "seller": "فروشگاه ابزار پارسا",
-      "rank": 10,
+      "rank": 11,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -4079,8 +4506,8 @@
         "url": "https://www.digikala.com/seller/ETDV2/"
       },
       "signals": {
-        "price_change_pct": -8.42,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -4122,41 +4549,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "2189568",
-      "title": "قیچی باغبانی کد 700603",
-      "url": "https://www.digikala.com/product/dkp-2189568/قیچی-باغبانی-کد-700603",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/114238907.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "garden",
-      "category_label": "باغبانی",
-      "observed_at": "2026-10-10T13:33:33.433Z",
-      "price": 470000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 137,
-      "seller": "مرلند ابزار",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "باغبانی"
-      },
-      "supplier": {
-        "name": "بازرگانی ابزارتهران",
-        "url": "https://www.digikala.com/seller/E6SR4/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "20738323",
       "title": "قیچی باغبانی وی تولز مدل VT4205 سایز 205 میلی‌متر",
       "url": "https://www.digikala.com/product/dkp-20738323/قیچی-باغبانی-وی-تولز-مدل-vt4205-سایز-205-میلیمتر",
@@ -4190,35 +4582,71 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22873637",
-      "title": "ست باغبانی اچ تی مدل YP-HTPR333 مجموعه 3 عددی",
-      "url": "https://www.digikala.com/product/dkp-22873637/ست-باغبانی-اچ-تی-مدل-yp-htpr333-مجموعه-3-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5691d0716b0e00b0c1960249db36fe91a5522bad_1790776310.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
+      "source_id": "138444",
+      "title": "قیچی باغبانی 8 اینچی بهکو مدل BP-8518H",
+      "url": "https://www.digikala.com/product/dkp-138444/قیچی-باغبانی-8-اینچی-بهکو-مدل-bp-8518h",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1131446.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بهکو",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 2499000,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 3732800,
       "list_price": null,
       "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "سامکو تولز",
+      "rating": 4.3,
+      "rating_count": 155,
+      "seller": "سیلور شارپ",
       "rank": 11,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده"
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "لوازم باغبانی"
+        "query": "باغبانی"
       },
       "supplier": {
-        "name": "سامکو تولز",
-        "url": "https://www.digikala.com/seller/CA6P2/"
+        "name": "سیلور شارپ",
+        "url": "https://www.digikala.com/seller/FVH5D/"
+      },
+      "signals": {
+        "price_change_pct": -8.96,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20435174",
+      "title": "بسته لوازم تحریر مدل فلزی طرح ملودی کد 3318 مجموعه 5 عددی",
+      "url": "https://www.digikala.com/product/dkp-20435174/بسته-لوازم-تحریر-مدل-فلزی-طرح-ملودی-کد-3318-مجموعه-5-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/1b8b83e62c00e07a832a4baada61b15879b617c3_1757853880.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 588750,
+      "list_price": 785000,
+      "discount_percent": 25,
+      "rating": 3.5,
+      "rating_count": 2,
+      "seller": "جادوی رنگ",
+      "rank": 11,
+      "available": true,
+      "badges": [
+        "فروش ویژه"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "جادوی رنگ",
+        "url": "https://www.digikala.com/seller/F5SYC/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 7,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -4253,42 +4681,6 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "138444",
-      "title": "قیچی باغبانی 8 اینچی بهکو مدل BP-8518H",
-      "url": "https://www.digikala.com/product/dkp-138444/قیچی-باغبانی-8-اینچی-بهکو-مدل-bp-8518h",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1131446.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بهکو",
-      "category_key": "garden",
-      "category_label": "باغبانی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 4100000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 155,
-      "seller": "سیلور شارپ",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "باغبانی"
-      },
-      "supplier": {
-        "name": "سیلور شارپ",
-        "url": "https://www.digikala.com/seller/FVH5D/"
-      },
-      "signals": {
-        "price_change_pct": -3.53,
         "rank_change": -2,
         "is_new": false
       }
@@ -4437,95 +4829,21 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20259081",
-      "title": "ابزار باغبانی مدل EggPlant",
-      "url": "https://www.digikala.com/product/dkp-20259081/ابزار-باغبانی-مدل-eggplant",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8719945df568722077e6a3d4e5e07c85b8b7ac71_1756125294.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "7676497",
+      "title": "نوار پیوند مدل گلخانه ای KCO4cm طول 500 متر",
+      "url": "https://www.digikala.com/product/dkp-7676497/چسب-باغبانی-مدل-kco4cm-طول-500-متر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/aebf84a6c24683f7731e9ee7b854be280a9b1598_1643290130.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 578200,
-      "list_price": 606100,
-      "discount_percent": 5,
-      "rating": 4.3,
-      "rating_count": 15,
-      "seller": "دیجی‌کالا",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "لوازم باغبانی"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 5,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20738427",
-      "title": "ابزار باغبانی وی تولز مدل VT4206 سایز 11 اینچ مجموعه 2 عددی",
-      "url": "https://www.digikala.com/product/dkp-20738427/ابزار-باغبانی-وی-تولز-مدل-vt4206-سایز-11-اینچ-مجموعه-2-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/35299a8444c133f8ffcac033460f4000e3fb02d1_1761080965.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "وی تولز",
-      "category_key": "garden",
-      "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 494500,
-      "list_price": 575600,
-      "discount_percent": 14,
-      "rating": 3.8,
-      "rating_count": 68,
-      "seller": "دیجی‌کالا",
-      "rank": 13,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "لوازم باغبانی"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
-        "price_change_pct": -0.2,
-        "rank_change": -7,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "76655",
-      "title": "قیچی باغبانی نووا مدل NTS-2310",
-      "url": "https://www.digikala.com/product/dkp-76655/قیچی-باغبانی-نووا-مدل-nts-2310",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/533129.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "نووا",
-      "category_key": "garden",
-      "category_label": "باغبانی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 2709000,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 388000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
-      "rating_count": 264,
-      "seller": "دنیای ابزار",
-      "rank": 13,
+      "rating_count": 542,
+      "seller": "اخوان استور",
+      "rank": 12,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -4535,12 +4853,85 @@
         "query": "باغبانی"
       },
       "supplier": {
-        "name": "دنیای ابزار",
-        "url": "https://www.digikala.com/seller/A4D5Y/"
+        "name": "اخوان استور",
+        "url": "https://www.digikala.com/seller/DSZ4N/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19970273",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 3 عددی",
+      "url": "https://www.digikala.com/product/dkp-19970273/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-3-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0003bb66492ae44a3fa017f0e06e129a7b1833f5_1753721132.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 235000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "بهتحریر",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "بهتحریر",
+        "url": "https://www.digikala.com/seller/6YAH7/"
       },
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "918705",
+      "title": "مجموعه 6 عددی ابزار باغبانی هاردکس مدل GS02",
+      "url": "https://www.digikala.com/product/dkp-918705/مجموعه-6-عددی-ابزار-باغبانی-هاردکس-مدل-gs02",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4282760.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 4995000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 25,
+      "seller": "یار صنعت",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "باغبانی"
+      },
+      "supplier": {
+        "name": "تراش مارکت",
+        "url": "https://www.digikala.com/seller/EGUR3/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -9,
         "is_new": false
       }
     },
@@ -4616,6 +5007,78 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "22396419",
+      "title": "بسته لوازم التحریر مدل ملودی مجموعه 7عددی‌",
+      "url": "https://www.digikala.com/product/dkp-22396419/بسته-لوازم-التحریر-مدل-ملودی-مجموعه-۷عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a7ddffa39fc63c18963e6eab843eca326a424d4e_1785505908.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 390000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "شاهین تک",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "شاهین تک",
+        "url": "https://www.digikala.com/seller/FEWN2/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20259081",
+      "title": "ابزار باغبانی مدل EggPlant",
+      "url": "https://www.digikala.com/product/dkp-20259081/ابزار-باغبانی-مدل-eggplant",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8719945df568722077e6a3d4e5e07c85b8b7ac71_1756125294.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 578200,
+      "list_price": 606100,
+      "discount_percent": 5,
+      "rating": 4.3,
+      "rating_count": 15,
+      "seller": "دیجی‌کالا",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "لوازم باغبانی"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "21768078",
       "title": "ابزار باغبانی مدل ARS TOP مجموعه 3 عددی",
       "url": "https://www.digikala.com/product/dkp-21768078/ابزار-باغبانی-مدل-ars-top-مجموعه-3-عددی",
@@ -4623,21 +5086,23 @@
       "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 1070000,
       "list_price": 1337500,
       "discount_percent": 20,
-      "rating": 5,
-      "rating_count": 1,
+      "rating": 3.5,
+      "rating_count": 2,
       "seller": "مرلند ابزار",
-      "rank": 13,
+      "rank": 14,
       "available": true,
       "badges": [
         "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "لوازم باغبانی"
+        "query": "باغبانی"
       },
       "supplier": {
         "name": "مرلند ابزار",
@@ -4645,7 +5110,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 7,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -4757,36 +5222,72 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "5615675",
-      "title": "قیچی باغبانی شاخه زن مدل Astra-1",
-      "url": "https://www.digikala.com/product/dkp-5615675/قیچی-باغبانی-شاخه-زن-مدل-astra-1",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5f84c63fc98212a05beaad3d302ef16499f185a2_1624876670.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "13382398",
+      "title": "ست لوازم التحریر مدل کرومی و ملودی مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-13382398/ست-لوازم-التحریر-مدل-کرومی-و-ملودی-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a3b90d743afd588d0c17c4847f36584792d8ee56_1700153334.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 2600860,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 178000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.9,
+      "rating_count": 85,
+      "seller": "چاپ فانتزی",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "چاپ فانتزی",
+        "url": "https://www.digikala.com/seller/CZ3GP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "76655",
+      "title": "قیچی باغبانی نووا مدل NTS-2310",
+      "url": "https://www.digikala.com/product/dkp-76655/قیچی-باغبانی-نووا-مدل-nts-2310",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/533129.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "نووا",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 2591000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
-      "rating_count": 309,
-      "seller": "سیلور شارپ",
+      "rating_count": 264,
+      "seller": "دنیای ابزار",
       "rank": 15,
       "available": true,
       "badges": [
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "باغبانی"
       },
       "supplier": {
-        "name": "يگانه",
-        "url": "https://www.digikala.com/seller/CFSK9/"
+        "name": "دنیای ابزار",
+        "url": "https://www.digikala.com/seller/A4D5Y/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "price_change_pct": -4.36,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -4980,17 +5481,16 @@
       "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 165000,
-      "list_price": 190000,
-      "discount_percent": 13,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 159000,
+      "list_price": null,
+      "discount_percent": 0,
       "rating": 4.4,
-      "rating_count": 340,
-      "seller": "فروشگاه ابزار پارسا",
+      "rating_count": 341,
+      "seller": "صدرا تابان",
       "rank": 15,
       "available": true,
       "badges": [
-        "فروش ویژه",
         "فروشنده معتبر"
       ],
       "raw_ref": {
@@ -5001,43 +5501,79 @@
         "url": "https://www.digikala.com/seller/ETDV2/"
       },
       "signals": {
-        "price_change_pct": -5.71,
-        "rank_change": 5,
+        "price_change_pct": -3.64,
+        "rank_change": 0,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "14345145",
-      "title": "قیچی باغبانی شاخه زن جاب مدل JB-30021 BL",
-      "url": "https://www.digikala.com/product/dkp-14345145/قیچی-باغبانی-شاخه-زن-جاب-مدل-jb-30021-bl",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/06f0753c1effc5a79d60579ca4bb5b7905e542fa_1707214949.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "جاب",
+      "source_id": "17295163",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی بسته 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-17295163/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-بسته-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ee35eaec535f1aa6e908bda016161ee57e467293_1730918168.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 3190000,
-      "list_price": 5350000,
-      "discount_percent": 40,
-      "rating": 3.7,
-      "rating_count": 291,
-      "seller": "کمپکس",
-      "rank": 16,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 178000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.1,
+      "rating_count": 11,
+      "seller": "چاپ فانتزی",
+      "rank": 15,
       "available": true,
       "badges": [
-        "فروش ویژه"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "لوازم باغبانی"
+        "query": "لوازم"
       },
       "supplier": {
-        "name": "کمپکس",
-        "url": "https://www.digikala.com/seller/9NYRH/"
+        "name": "چاپ فانتزی",
+        "url": "https://www.digikala.com/seller/CZ3GP/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -7,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "22873637",
+      "title": "ست باغبانی اچ تی مدل YP-HTPR333 مجموعه 3 عددی",
+      "url": "https://www.digikala.com/product/dkp-22873637/ست-باغبانی-اچ-تی-مدل-yp-htpr333-مجموعه-3-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5691d0716b0e00b0c1960249db36fe91a5522bad_1790776310.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 2499000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "سامکو تولز",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "باغبانی"
+      },
+      "supplier": {
+        "name": "سامکو تولز",
+        "url": "https://www.digikala.com/seller/CA6P2/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -5,
         "is_new": false
       }
     },
@@ -5153,35 +5689,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "224192",
-      "title": "قیچی باغبانی نولان مدل 304100",
-      "url": "https://www.digikala.com/product/dkp-224192/قیچی-باغبانی-نولان-مدل-304100",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1120497.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "نولان",
+      "source_id": "20323482",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی 4 بسته 6 عددی",
+      "url": "https://www.digikala.com/product/dkp-20323482/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-4-بسته-6-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5f8a43034699bca830a17177c84c44344facd364_1757250092.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 1999000,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 445000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 222,
-      "seller": "توسعه پایدار",
-      "rank": 17,
+      "rating": null,
+      "rating_count": 0,
+      "seller": " سرای چاپ فانتزی",
+      "rank": 16,
       "available": true,
       "badges": [
+        "ارسال توسط فروشنده",
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "لوازم باغبانی"
+        "query": "لوازم"
       },
       "supplier": {
-        "name": "توسعه پایدار",
-        "url": "https://www.digikala.com/seller/CFZ4D/"
+        "name": " سرای چاپ فانتزی",
+        "url": "https://www.digikala.com/seller/CR5XH/"
       },
       "signals": {
-        "price_change_pct": 3.44,
-        "rank_change": -3,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -5292,36 +5829,103 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "7676497",
-      "title": "نوار پیوند مدل گلخانه ای KCO4cm طول 500 متر",
-      "url": "https://www.digikala.com/product/dkp-7676497/چسب-باغبانی-مدل-kco4cm-طول-500-متر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/aebf84a6c24683f7731e9ee7b854be280a9b1598_1643290130.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "21102536",
+      "title": "بسته لوازم تحریر مدل مای ملودی بسته 6 عددی",
+      "url": "https://www.digikala.com/product/dkp-21102536/بسته-لوازم-تحریر-مدل-مای-ملودی-بسته-6-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d8ce5ab2477a6d3e93db5550fa7f50792d00518d_1765874041.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 388000,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 299000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 542,
-      "seller": "اخوان استور",
-      "rank": 18,
+      "rating": 3.7,
+      "rating_count": 3,
+      "seller": "رنگیما",
+      "rank": 17,
       "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
+      "badges": [],
       "raw_ref": {
-        "query": "لوازم باغبانی"
+        "query": "لوازم"
       },
       "supplier": {
-        "name": "اخوان استور",
-        "url": "https://www.digikala.com/seller/DSZ4N/"
+        "name": "رنگیما",
+        "url": "https://www.digikala.com/seller/HANHS/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -9,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21921182",
+      "title": "قیچی باغبانی مدل M35",
+      "url": "https://www.digikala.com/product/dkp-21921182/قیچی-باغبانی-مدل-m35",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/302c06cab7f5e8c42fedd461c17a49913516b003_1780387679.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 1130000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "اولین مارکتها",
+      "rank": 17,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "باغبانی"
+      },
+      "supplier": {
+        "name": "اولین مارکتها",
+        "url": "https://www.digikala.com/seller/9P4TH/"
+      },
+      "signals": {
+        "price_change_pct": null,
+        "rank_change": null,
+        "is_new": true
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20738427",
+      "title": "ابزار باغبانی وی تولز مدل VT4206 سایز 11 اینچ مجموعه 2 عددی",
+      "url": "https://www.digikala.com/product/dkp-20738427/ابزار-باغبانی-وی-تولز-مدل-vt4206-سایز-11-اینچ-مجموعه-2-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/35299a8444c133f8ffcac033460f4000e3fb02d1_1761080965.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "وی تولز",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 495500,
+      "list_price": 575600,
+      "discount_percent": 14,
+      "rating": 3.8,
+      "rating_count": 68,
+      "seller": "دیجی‌کالا",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "باغبانی"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": 0.2,
+        "rank_change": -5,
         "is_new": false
       }
     },
@@ -5663,6 +6267,80 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "19800711",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new4 مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-19800711/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new4-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/280f3dc2cbf9252869c5db45807eb07e6c1cdc74_1752344085.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 178000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 2.9,
+      "rating_count": 7,
+      "seller": "چاپ فانتزی",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "چاپ فانتزی",
+        "url": "https://www.digikala.com/seller/CZ3GP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "5615675",
+      "title": "قیچی باغبانی شاخه زن مدل Astra-1",
+      "url": "https://www.digikala.com/product/dkp-5615675/قیچی-باغبانی-شاخه-زن-مدل-astra-1",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/5f84c63fc98212a05beaad3d302ef16499f185a2_1624876670.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 2600000,
+      "list_price": 2700000,
+      "discount_percent": 4,
+      "rating": 4.2,
+      "rating_count": 310,
+      "seller": "يگانه",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "باغبانی"
+      },
+      "supplier": {
+        "name": "يگانه",
+        "url": "https://www.digikala.com/seller/CFSK9/"
+      },
+      "signals": {
+        "price_change_pct": -0.03,
+        "rank_change": -4,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "10871723",
       "title": "قیچی باغبانی اینکو مدل HPS-0109",
       "url": "https://www.digikala.com/product/dkp-10871723/قیچی-باغبانی-اینکو-مدل-hps-0109",
@@ -5670,7 +6348,7 @@
       "brand": "اینکو",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 1598000,
       "list_price": 2300000,
       "discount_percent": 31,
@@ -5694,7 +6372,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -14,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -5943,33 +6621,71 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1577077",
-      "title": "قیچی باغبانی مدل KS-4T",
-      "url": "https://www.digikala.com/product/dkp-1577077/قیچی-باغبانی-سامورایی-مدل-ks-4t",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/110932007.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "source_id": "15165938",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 7 عددی",
+      "url": "https://www.digikala.com/product/dkp-15165938/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-7-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/6ad6f47631d4183e267dc5547e1452cd31fb99d7_1713552562.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
       "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 1622800,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 550000,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 2.8,
-      "rating_count": 10,
-      "seller": "سامکو تولز",
+      "rating": 3.6,
+      "rating_count": 11,
+      "seller": "چاپ فانتزی",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "چاپ فانتزی",
+        "url": "https://www.digikala.com/seller/CZ3GP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "2189568",
+      "title": "قیچی باغبانی کد 700603",
+      "url": "https://www.digikala.com/product/dkp-2189568/قیچی-باغبانی-کد-700603",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/114238907.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 480000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4,
+      "rating_count": 142,
+      "seller": "مرلند ابزار",
       "rank": 20,
       "available": true,
-      "badges": [],
+      "badges": [
+        "فروشنده معتبر"
+      ],
       "raw_ref": {
         "query": "باغبانی"
       },
       "supplier": {
-        "name": "سامکو تولز",
-        "url": "https://www.digikala.com/seller/CA6P2/"
+        "name": "بازرگانی ابزارتهران",
+        "url": "https://www.digikala.com/seller/E6SR4/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -3,
+        "price_change_pct": 2.13,
+        "rank_change": -9,
         "is_new": false
       }
     },
@@ -6194,10 +6910,10 @@
       "title": "ست ابزار باغبانی پولیوارک مدل Calpa Gardener",
       "url": "https://www.digikala.com/product/dkp-18356073/ست-ابزار-باغبانی-پولیوارک-مدل-calpa-gardener",
       "image": "https://dkstatics-public.digikala.com/digikala-products/b969bae94d4163567ac51f946b015036fde613e6_1739805719.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": null,
+      "brand": "متفرقه",
       "category_key": "garden",
       "category_label": "باغبانی",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 1500000,
       "list_price": 2000000,
       "discount_percent": 25,
@@ -6214,11 +6930,50 @@
       "raw_ref": {
         "query": "لوازم باغبانی"
       },
-      "supplier": {},
+      "supplier": {
+        "name": "آپاداناسول",
+        "url": "https://www.digikala.com/seller/FHT7J/"
+      },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19800798",
+      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new6 مجموعه 4 عددی",
+      "url": "https://www.digikala.com/product/dkp-19800798/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new6-مجموعه-4-عددی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/753a99acd0f9fc14c6724a6e030835c821ac6677_1752344513.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "garden",
+      "category_label": "باغبانی",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 145000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": null,
+      "rating_count": 0,
+      "seller": "چاپ فانتزی",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "لوازم"
+      },
+      "supplier": {
+        "name": "چاپ فانتزی",
+        "url": "https://www.digikala.com/seller/CZ3GP/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
       }
     },
     {
@@ -23771,77 +24526,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20478513",
-      "title": "بسته لوازم تحریر مدل ملودی کد 8015 مجموعه 12 عددی",
-      "url": "https://www.digikala.com/product/dkp-20478513/بسته-لوازم-تحریر-مدل-ملودی-کد-8015-مجموعه-12-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1dcc305ea9eb4bdc1540c1697456a83023b61162_1758296943.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T00:03:47.794Z",
-      "price": 835000,
-      "list_price": 940000,
-      "discount_percent": 11,
-      "rating": 3.9,
-      "rating_count": 9,
-      "seller": "جادوی رنگ",
-      "rank": 1,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "جادوی رنگ",
-        "url": "https://www.digikala.com/seller/F5SYC/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "19683146",
-      "title": "بسته لوازم تحریر مدل ملودی کد new2 مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-19683146/بسته-لوازم-تحریر-مدل-ملودی-کد-new2-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7e0a6fc5dcdca784e410b65109551f7872c9a818_1751398224.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 178000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3,
-      "rating_count": 8,
-      "seller": "چاپ فانتزی",
-      "rank": 1,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "چاپ فانتزی",
-        "url": "https://www.digikala.com/seller/CZ3GP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "18825798",
       "title": "نظم دهنده لوازم حیوانات خانگی شرن بائو کد 67",
       "url": "https://www.digikala.com/product/dkp-18825798/نظم-دهنده-لوازم-حیوانات-خانگی-شرن-بائو-کد-67",
@@ -24009,41 +24693,6 @@
       "supplier": {
         "name": "اسباب بازی نیما",
         "url": "https://www.digikala.com/seller/AHM55/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20447335",
-      "title": "بسته لوازم تحریر مدل ویژه ملودی بسته 5 عددی",
-      "url": "https://www.digikala.com/product/dkp-20447335/بسته-لوازم-تحریر-مدل-ویژه-ملودی-بسته-۵-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/dd726d7cee61aaf59646fbdf022587e5c5fdc7da_1759061500.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 259000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 5,
-      "rating_count": 1,
-      "seller": "بانیبو آرت",
-      "rank": 3,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "بانیبو آرت",
-        "url": "https://www.digikala.com/seller/EE3F3/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -24235,42 +24884,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "22291492",
-      "title": "بسته لوازم تحریر مدل ملودی کد 1217 بسته 7 عددی",
-      "url": "https://www.digikala.com/product/dkp-22291492/بسته-لوازم-تحریر-مدل-ملودی-کد-1217-بسته-7-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/da32861d1f370ce5374fb06e65a6c9e3525d908d_1784481387.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 490000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "فروشگاه شیمر",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "فروشگاه شیمر",
-        "url": "https://www.digikala.com/seller/GC4R2/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 5,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "7448081",
       "title": "فیگور نیکی تویز طرح حیوانات اهلی مدل FARM ANIMALS بسته 14 عددی",
       "url": "https://www.digikala.com/product/dkp-7448081/فیگور-نیکی-تویز-طرح-حیوانات-اهلی-مدل-farm-animals-بسته-14-عددی",
@@ -24376,42 +24989,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17753255",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 13 عددی",
-      "url": "https://www.digikala.com/product/dkp-17753255/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-13-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/b5ff411a807eed8b4818a5486f9f9802d8f3969e_1734515822.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 350000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 5,
-      "seller": "بهتحریر",
-      "rank": 5,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "بهتحریر",
-        "url": "https://www.digikala.com/seller/6YAH7/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "22178242",
       "title": "فیگور طرح حیوانات اهلی و وحشی مدل سگ کد 1831 ارتفاع 8 سانتی‌متر",
       "url": "https://www.digikala.com/product/dkp-22178242/فیگور-طرح-حیوانات-اهلی-و-وحشی-مدل-سگ-کد-1831-ارتفاع-8-سانتیمتر",
@@ -24439,41 +25016,6 @@
       "supplier": {
         "name": "تامین کالای ملودی",
         "url": "https://www.digikala.com/seller/A2REW/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20556413",
-      "title": "بسته لوازم تحریر طرح ملودی بسته 6 عددی",
-      "url": "https://www.digikala.com/product/dkp-20556413/بسته-لوازم-تحریر-طرح-ملودی-بسته-6-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/b65f324d5276dd45b79ba8ab9554dcb4392d2831_1759144016.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 699000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "بانیبو آرت",
-      "rank": 6,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "بانیبو آرت",
-        "url": "https://www.digikala.com/seller/EE3F3/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -24617,41 +25159,6 @@
       "supplier": {
         "name": "افی تویز",
         "url": "https://www.digikala.com/seller/HA2V6/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "22678861",
-      "title": "بسته لوازم تحریر مدل ملودی مجموعه 6 عددی",
-      "url": "https://www.digikala.com/product/dkp-22678861/بسته-لوازم-تحریر-مدل-ملودی-مجموعه-۶-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/dd32c10e37e444c5f3b67bed87fe54f8a635ef4f_1789218622.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 311000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "قشنگ افزار نیکا",
-      "rank": 7,
-      "available": true,
-      "badges": [
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "قشنگ افزار نیکا",
-        "url": "https://www.digikala.com/seller/G9EFK/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -24839,42 +25346,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21519071",
-      "title": "بسته لوازم تحریر مدل ملودی و کرومی مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-21519071/بسته-لوازم-تحریر-مدل-ملودی-و-کرومی-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f233a1121358240166226761488c1b3ee79add21_1771858648.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 520000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 5,
-      "rating_count": 1,
-      "seller": "هنرگلسا",
-      "rank": 8,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "هنرگلسا",
-        "url": "https://www.digikala.com/seller/DCE47/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "13295345",
       "title": "کوله پشتی حمل و نگهداری سگ مدل C200",
       "url": "https://www.digikala.com/product/dkp-13295345/کوله-پشتی-حمل-و-نگهداری-سگ-مدل-c200",
@@ -25020,42 +25491,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19988901",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 8 عددی",
-      "url": "https://www.digikala.com/product/dkp-19988901/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-8-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d4107b223575ca93bebe149a2615b64e5ad58a81_1753975889.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 648500,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 5,
-      "seller": "بهتحریر",
-      "rank": 9,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "بهتحریر",
-        "url": "https://www.digikala.com/seller/6YAH7/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "13334222",
       "title": "زیرانداز بهداشتی حیوانات خانگی مدل 8301 وزن 150 گرم بسته 2 عددی",
       "url": "https://www.digikala.com/product/dkp-13334222/زیرانداز-بهداشتی-حیوانات-خانگی-مدل-8301-وزن-150-گرم-بسته-2-عددی",
@@ -25193,42 +25628,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "21520402",
-      "title": "بسته لوازم تحریر مدل کرومی ملودی مجموعه 3 عددی",
-      "url": "https://www.digikala.com/product/dkp-21520402/بسته-لوازم-تحریر-مدل-کرومی-ملودی-مجموعه-3-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/55d6b8befd9e5b8eb3ddd1764b74be0963f31a0c_1771874718.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 420000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 1,
-      "seller": "هنرگلسا",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "هنرگلسا",
-        "url": "https://www.digikala.com/seller/DCE47/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
         "is_new": false
       }
     },
@@ -25408,41 +25807,6 @@
       "signals": {
         "price_change_pct": 1.86,
         "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20435174",
-      "title": "بسته لوازم تحریر مدل فلزی طرح ملودی کد 3318 مجموعه 5 عددی",
-      "url": "https://www.digikala.com/product/dkp-20435174/بسته-لوازم-تحریر-مدل-فلزی-طرح-ملودی-کد-3318-مجموعه-5-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/1b8b83e62c00e07a832a4baada61b15879b617c3_1757853880.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 588750,
-      "list_price": 785000,
-      "discount_percent": 25,
-      "rating": 4,
-      "rating_count": 1,
-      "seller": "جادوی رنگ",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "جادوی رنگ",
-        "url": "https://www.digikala.com/seller/F5SYC/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
         "is_new": false
       }
     },
@@ -25665,43 +26029,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19970273",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 3 عددی",
-      "url": "https://www.digikala.com/product/dkp-19970273/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-3-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0003bb66492ae44a3fa017f0e06e129a7b1833f5_1753721132.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 235000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "بهتحریر",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "بهتحریر",
-        "url": "https://www.digikala.com/seller/6YAH7/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "21601138",
       "title": "باکس حمل سگ کد 1005",
       "url": "https://www.digikala.com/product/dkp-21601138/باکس-حمل-سگ-کد-۱۰۰۵",
@@ -25806,41 +26133,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "22396419",
-      "title": "بسته لوازم التحریر مدل ملودی مجموعه 7عددی‌",
-      "url": "https://www.digikala.com/product/dkp-22396419/بسته-لوازم-التحریر-مدل-ملودی-مجموعه-۷عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a7ddffa39fc63c18963e6eab843eca326a424d4e_1785505908.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 390000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "شاهین تک",
-      "rank": 13,
-      "available": true,
-      "badges": [
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "شاهین تک",
-        "url": "https://www.digikala.com/seller/FEWN2/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
         "is_new": false
       }
     },
@@ -26054,42 +26346,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "13382398",
-      "title": "ست لوازم التحریر مدل کرومی و ملودی مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-13382398/ست-لوازم-التحریر-مدل-کرومی-و-ملودی-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a3b90d743afd588d0c17c4847f36584792d8ee56_1700153334.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 178000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.9,
-      "rating_count": 85,
-      "seller": "چاپ فانتزی",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "چاپ فانتزی",
-        "url": "https://www.digikala.com/seller/CZ3GP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
         "is_new": false
       }
     },
@@ -26489,42 +26745,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17295163",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی بسته 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-17295163/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-بسته-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ee35eaec535f1aa6e908bda016161ee57e467293_1730918168.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 178000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.1,
-      "rating_count": 11,
-      "seller": "چاپ فانتزی",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "چاپ فانتزی",
-        "url": "https://www.digikala.com/seller/CZ3GP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "21637930",
       "title": "کیسه جمع اوری فضولات حیوانات خانگی کد 04 بسته 4 عددی به همراه محفظه",
       "url": "https://www.digikala.com/product/dkp-21637930/کیسه-جمع-آوری-فضولات-حیوانات-خانگی-کد-04-بسته-4-عددی-به-همراه-محفظه",
@@ -26875,42 +27095,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20323482",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی 4 بسته 6 عددی",
-      "url": "https://www.digikala.com/product/dkp-20323482/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-4-بسته-6-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/5f8a43034699bca830a17177c84c44344facd364_1757250092.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 445000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": " سرای چاپ فانتزی",
-      "rank": 16,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": " سرای چاپ فانتزی",
-        "url": "https://www.digikala.com/seller/CR5XH/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
         "is_new": false
       }
     },
@@ -27524,39 +27708,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21102536",
-      "title": "بسته لوازم تحریر مدل مای ملودی بسته 6 عددی",
-      "url": "https://www.digikala.com/product/dkp-21102536/بسته-لوازم-تحریر-مدل-مای-ملودی-بسته-6-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d8ce5ab2477a6d3e93db5550fa7f50792d00518d_1765874041.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 299000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.7,
-      "rating_count": 3,
-      "seller": "رنگیما",
-      "rank": 17,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "رنگیما",
-        "url": "https://www.digikala.com/seller/HANHS/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "22407282",
       "title": "فیگور طرح حیوانات اهلی و وحشی مدل سگ کد 1879 ارتفاع 8 سانتی‌متر",
       "url": "https://www.digikala.com/product/dkp-22407282/فیگور-طرح-حیوانات-اهلی-و-وحشی-مدل-سگ-کد-1879-ارتفاع-8-سانتیمتر",
@@ -27588,42 +27739,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "19800711",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new4 مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-19800711/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new4-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/280f3dc2cbf9252869c5db45807eb07e6c1cdc74_1752344085.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 178000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 2.9,
-      "rating_count": 7,
-      "seller": "چاپ فانتزی",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "چاپ فانتزی",
-        "url": "https://www.digikala.com/seller/CZ3GP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
         "is_new": false
       }
     },
@@ -27906,42 +28021,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "19800798",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی کد new6 مجموعه 4 عددی",
-      "url": "https://www.digikala.com/product/dkp-19800798/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-کد-new6-مجموعه-4-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/753a99acd0f9fc14c6724a6e030835c821ac6677_1752344513.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T00:03:47.794Z",
-      "price": 145000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": null,
-      "rating_count": 0,
-      "seller": "چاپ فانتزی",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "چاپ فانتزی",
-        "url": "https://www.digikala.com/seller/CZ3GP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
         "is_new": false
       }
     },
@@ -28303,42 +28382,6 @@
         "price_change_pct": null,
         "rank_change": null,
         "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "15165938",
-      "title": "بسته لوازم تحریر مدل کرومی و ملودی مجموعه 7 عددی",
-      "url": "https://www.digikala.com/product/dkp-15165938/بسته-لوازم-تحریر-مدل-کرومی-و-ملودی-مجموعه-7-عددی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/6ad6f47631d4183e267dc5547e1452cd31fb99d7_1713552562.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "pets",
-      "category_label": "حیوانات خانگی",
-      "observed_at": "2026-10-21T10:01:39.870Z",
-      "price": 550000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.6,
-      "rating_count": 11,
-      "seller": "چاپ فانتزی",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "لوازم"
-      },
-      "supplier": {
-        "name": "چاپ فانتزی",
-        "url": "https://www.digikala.com/seller/CZ3GP/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
       }
     },
     {
@@ -82825,7 +82868,7 @@
       "brand": "انتشارات کتاب پرنده",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 1078100,
       "list_price": null,
       "discount_percent": 0,
@@ -82846,8 +82889,8 @@
         "url": "https://www.digikala.com/seller/5AMDY/"
       },
       "signals": {
-        "price_change_pct": 0.93,
-        "rank_change": 12,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -82896,7 +82939,7 @@
       "brand": "انتشارات کتاب پرنده",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 559030,
       "list_price": null,
       "discount_percent": 0,
@@ -82932,8 +82975,8 @@
       "brand": "انتشارات کتاب پرنده",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 781440,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 703280,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.6,
@@ -82942,7 +82985,6 @@
       "rank": 3,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
         "ارسال توسط فروشنده",
         "فروشنده معتبر"
       ],
@@ -82954,8 +82996,8 @@
         "url": "https://www.digikala.com/seller/5AMDY/"
       },
       "signals": {
-        "price_change_pct": 13.55,
-        "rank_change": -2,
+        "price_change_pct": -10,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -83041,7 +83083,7 @@
       "brand": "انتشارات کتاب پرنده",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 1071380,
       "list_price": null,
       "discount_percent": 0,
@@ -83059,45 +83101,8 @@
         "url": "https://www.digikala.com/seller/G2ZYG/"
       },
       "signals": {
-        "price_change_pct": 21.06,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "13796262",
-      "title": "ساک لوازم کودک و نوزاد دلیجان مدل دیبا کاملیا",
-      "url": "https://www.digikala.com/product/dkp-13796262/ساک-لوازم-کودک-و-نوزاد-دیبا-مدل-کاملیا",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/080046aa296995fb9d39d033d66bbd89c4d4ac41_1702985282.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "دلیجان",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-18T21:46:04.014Z",
-      "price": 1741300,
-      "list_price": 1795200,
-      "discount_percent": 3,
-      "rating": 4.3,
-      "rating_count": 287,
-      "seller": "دیجی‌کالا",
-      "rank": 5,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "کودک و نوزاد"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -83111,8 +83116,8 @@
       "brand": "انتشارات کتاب پرنده",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 1072680,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 937910,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
@@ -83132,8 +83137,45 @@
         "url": "https://www.digikala.com/seller/DVJTS/"
       },
       "signals": {
-        "price_change_pct": 21.69,
-        "rank_change": 5,
+        "price_change_pct": -12.56,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "39706",
+      "title": "کتاب شیوه های تقویت هوش نوزاد (6 تا 9 ماهه) نشر بافرزندان",
+      "url": "https://www.digikala.com/product/dkp-39706/کتاب-شیوه-های-تقویت-هوش-نوزاد-6-تا-9-ماهه-نشر-بافرزندان",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/67bb44a0f4d05914b1a3cfee6ae408a1ebc7e167_1658317642.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بافرزندان",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 340000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 683,
+      "seller": "بادخان",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": "کوچه کتاب",
+        "url": "https://www.digikala.com/seller/GY2UN/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 7,
         "is_new": false
       }
     },
@@ -83178,7 +83220,7 @@
       "brand": "انتشارات اتوسا",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 210000,
       "list_price": null,
       "discount_percent": 0,
@@ -83201,7 +83243,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -83215,7 +83257,7 @@
       "brand": "انتشارات کتاب پرنده",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 597600,
       "list_price": null,
       "discount_percent": 0,
@@ -83226,7 +83268,8 @@
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "کودک"
@@ -83237,7 +83280,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -4,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -83286,12 +83329,12 @@
       "brand": "دلیجان",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 3183000,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 3157300,
       "list_price": 3459500,
-      "discount_percent": 8,
+      "discount_percent": 9,
       "rating": 4.4,
-      "rating_count": 546,
+      "rating_count": 547,
       "seller": "دیجی‌کالا",
       "rank": 8,
       "available": true,
@@ -83308,8 +83351,8 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -2,
+        "price_change_pct": -0.81,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -83393,8 +83436,8 @@
       "brand": "انتشارات پرتقال",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 334850,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 283250,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.6,
@@ -83415,8 +83458,8 @@
         "url": "https://www.digikala.com/seller/DVJTS/"
       },
       "signals": {
-        "price_change_pct": 21.08,
-        "rank_change": 1,
+        "price_change_pct": -15.41,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -83539,7 +83582,7 @@
       "brand": "انتشارات کتاب پرنده",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 1058220,
       "list_price": null,
       "discount_percent": 0,
@@ -83560,8 +83603,44 @@
         "url": "https://www.digikala.com/seller/G2ZYG/"
       },
       "signals": {
-        "price_change_pct": 1.34,
-        "rank_change": 9,
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "326960",
+      "title": "کتاب کلیدهای مراقبت از نوزاد از تولد تا یک سالگی اثر تکلا اس نی",
+      "url": "https://www.digikala.com/product/dkp-326960/کتاب-کلیدهای-مراقبت-از-نوزاد-از-تولد-تا-یک-سالگی-اثر-تکلا-اس-نی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/268046.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "انتشارات صابرین",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 750350,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 72,
+      "seller": "  شهر کتاب و سرگرمی",
+      "rank": 9,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": "بوک باکس",
+        "url": "https://www.digikala.com/seller/DVJTS/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -83677,50 +83756,14 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "326960",
-      "title": "کتاب کلیدهای مراقبت از نوزاد از تولد تا یک سالگی اثر تکلا اس نی",
-      "url": "https://www.digikala.com/product/dkp-326960/کتاب-کلیدهای-مراقبت-از-نوزاد-از-تولد-تا-یک-سالگی-اثر-تکلا-اس-نی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/268046.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "انتشارات صابرین",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 750350,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 72,
-      "seller": "  شهر کتاب و سرگرمی",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "کودک و نوزاد"
-      },
-      "supplier": {
-        "name": "بوک باکس",
-        "url": "https://www.digikala.com/seller/DVJTS/"
-      },
-      "signals": {
-        "price_change_pct": -13.69,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "1821125",
       "title": "پیجر تصویری اتاق کودک کد601",
       "url": "https://www.digikala.com/product/dkp-1821125/پیجر-تصویری-اتاق-کودک-کد601",
       "image": "https://dkstatics-public.digikala.com/digikala-products/112324046.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": null,
+      "brand": "متفرقه",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 9990000,
       "list_price": null,
       "discount_percent": 0,
@@ -83733,11 +83776,14 @@
       "raw_ref": {
         "query": "کودک"
       },
-      "supplier": {},
+      "supplier": {
+        "name": "لوکس بازار",
+        "url": "https://www.digikala.com/seller/6YWSP/"
+      },
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
       }
     },
     {
@@ -83750,8 +83796,8 @@
       "brand": "انتشارات کتاب پرنده",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 148980,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 149980,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
@@ -83771,7 +83817,7 @@
         "url": "https://www.digikala.com/seller/5AMDY/"
       },
       "signals": {
-        "price_change_pct": 48.98,
+        "price_change_pct": 0.67,
         "rank_change": 0,
         "is_new": false
       }
@@ -83884,37 +83930,38 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "39706",
-      "title": "کتاب شیوه های تقویت هوش نوزاد (6 تا 9 ماهه) نشر بافرزندان",
-      "url": "https://www.digikala.com/product/dkp-39706/کتاب-شیوه-های-تقویت-هوش-نوزاد-6-تا-9-ماهه-نشر-بافرزندان",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/67bb44a0f4d05914b1a3cfee6ae408a1ebc7e167_1658317642.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بافرزندان",
+      "source_id": "2334881",
+      "title": "ست 9 تکه لباس نوزاد کد t77285493 _7109845",
+      "url": "https://www.digikala.com/product/dkp-2334881/ست-9-تکه-لباس-نوزاد-کد-t77285493-7109845",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/119224368.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 340000,
-      "list_price": null,
-      "discount_percent": 0,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 1080000,
+      "list_price": 1200000,
+      "discount_percent": 10,
       "rating": 4.3,
-      "rating_count": 683,
-      "seller": "بادخان",
-      "rank": 12,
+      "rating_count": 197,
+      "seller": "ناو استایل",
+      "rank": 11,
       "available": true,
       "badges": [
+        "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
+        "ارسال توسط فروشنده",
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "کودک"
+        "query": "کودک و نوزاد"
       },
       "supplier": {
-        "name": "کوچه کتاب",
-        "url": "https://www.digikala.com/seller/GY2UN/"
+        "name": "ناو استایل",
+        "url": "https://www.digikala.com/seller/CNXAD/"
       },
       "signals": {
-        "price_change_pct": 54.55,
-        "rank_change": -5,
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -83995,44 +84042,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "2334881",
-      "title": "ست 9 تکه لباس نوزاد کد t77285493 _7109845",
-      "url": "https://www.digikala.com/product/dkp-2334881/ست-9-تکه-لباس-نوزاد-کد-t77285493-7109845",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/119224368.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 1080000,
-      "list_price": 1200000,
-      "discount_percent": 10,
-      "rating": 4.3,
-      "rating_count": 197,
-      "seller": "ناو استایل",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "کودک و نوزاد"
-      },
-      "supplier": {
-        "name": "ناو استایل",
-        "url": "https://www.digikala.com/seller/CNXAD/"
-      },
-      "signals": {
-        "price_change_pct": -4.34,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "2308742",
       "title": "استیکر کودک کد ER324 بسته 5 عددی",
       "url": "https://www.digikala.com/product/dkp-2308742/استیکر-کودک-کد-er324-بسته-5-عددی",
@@ -84040,18 +84049,16 @@
       "brand": "متفرقه",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 180000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.8,
       "rating_count": 124,
-      "seller": "شادی کیدیز",
-      "rank": 13,
+      "seller": "آسمان بالون",
+      "rank": 12,
       "available": true,
-      "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
+      "badges": [],
       "raw_ref": {
         "query": "کودک"
       },
@@ -84061,7 +84068,44 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "21813451",
+      "title": "کوله پشتی لوازم کودک مدل 001",
+      "url": "https://www.digikala.com/product/dkp-21813451/کوله-پشتی-لوازم-کودک-مدل-001",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/cae5d9e0117135224b6c5c8e6f59b0c79d887fff_1780003617.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 2550000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.7,
+      "rating_count": 111,
+      "seller": "نینی دخت",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": "نینی دخت",
+        "url": "https://www.digikala.com/seller/EXEEU/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 4,
         "is_new": false
       }
     },
@@ -84255,7 +84299,7 @@
       "brand": "متفرقه",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 604000,
       "list_price": 699000,
       "discount_percent": 14,
@@ -84276,7 +84320,43 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "13834579",
+      "title": "کتاب بچه بچه است اثر بریژیت ونینگر انتشارات میچکا",
+      "url": "https://www.digikala.com/product/dkp-13834579/کتاب-بچه-بچه-است-اثر-بریژیت-ونینگر-انتشارات-میچکا",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/d8d5f12f99801cc123dfa8bc6a5125e09743c2d8_1703316831.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "انتشارات میچکا",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 133580,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.8,
+      "rating_count": 4,
+      "seller": "  شهر کتاب و سرگرمی",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کودک"
+      },
+      "supplier": {
+        "name": "  شهر کتاب و سرگرمی",
+        "url": "https://www.digikala.com/seller/D2F5S/"
+      },
+      "signals": {
+        "price_change_pct": -2.61,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -84313,41 +84393,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "13834579",
-      "title": "کتاب بچه بچه است اثر بریژیت ونینگر انتشارات میچکا",
-      "url": "https://www.digikala.com/product/dkp-13834579/کتاب-بچه-بچه-است-اثر-بریژیت-ونینگر-انتشارات-میچکا",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/d8d5f12f99801cc123dfa8bc6a5125e09743c2d8_1703316831.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "انتشارات میچکا",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 137160,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.8,
-      "rating_count": 4,
-      "seller": " کتابسرای سام",
-      "rank": 14,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "کودک"
-      },
-      "supplier": {
-        "name": "  شهر کتاب و سرگرمی",
-        "url": "https://www.digikala.com/seller/D2F5S/"
-      },
-      "signals": {
-        "price_change_pct": 2.5,
-        "rank_change": 0,
         "is_new": false
       }
     },
@@ -84540,7 +84585,7 @@
       "brand": "انتشارات ماه کوچولو",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 385530,
       "list_price": 410000,
       "discount_percent": 6,
@@ -84562,8 +84607,8 @@
         "url": "https://www.digikala.com/seller/DH45D/"
       },
       "signals": {
-        "price_change_pct": 9,
-        "rank_change": 3,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -84577,14 +84622,14 @@
       "brand": "انتشارات کتاب پرنده",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 1713120,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.6,
       "rating_count": 75,
       "seller": "  شهر کتاب و سرگرمی",
-      "rank": 15,
+      "rank": 14,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -84599,7 +84644,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -84748,42 +84793,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "6465558",
-      "title": "پک سیسمونی کودک ماما بیبی",
-      "url": "https://www.digikala.com/product/dkp-6465558/پک-سیسمونی-کودک-ماما-بیبی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0ebe1c7be2663b25096a566f199cedc42cf983f5_1631737832.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "مامابیبی",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 1300000,
-      "list_price": 1600000,
-      "discount_percent": 19,
-      "rating": 4.5,
-      "rating_count": 425,
-      "seller": "بازرگانی گلبهی",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "کودک و نوزاد"
-      },
-      "supplier": {
-        "name": "بازرگانی گلبهی",
-        "url": "https://www.digikala.com/seller/FNEPT/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "3044163",
       "title": "صندلی کودک نیلپر مدل KCR 518kc",
       "url": "https://www.digikala.com/product/dkp-3044163/صندلی-کودک-نیلپر-مدل-kcr-518kc",
@@ -84791,14 +84800,14 @@
       "brand": "نیلپر",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 9411000,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 10595900,
       "list_price": 10890000,
-      "discount_percent": 14,
+      "discount_percent": 3,
       "rating": 4.4,
       "rating_count": 181,
       "seller": "دیجی‌کالا",
-      "rank": 16,
+      "rank": 15,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -84812,8 +84821,82 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": -5.75,
-        "rank_change": -3,
+        "price_change_pct": 12.59,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17930368",
+      "title": "ساک لوازم کودک و نوزاد دلیجان مدل هانا کد 001",
+      "url": "https://www.digikala.com/product/dkp-17930368/ساک-لوازم-کودک-و-نوزاد-دلیجان-مدل-هانا-کد-001",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/217f25dafe510168153097c958d77705df4ff8f6_1766489876.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "دلیجان",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 4409800,
+      "list_price": 4862000,
+      "discount_percent": 9,
+      "rating": 4.5,
+      "rating_count": 140,
+      "seller": "دیجی‌کالا",
+      "rank": 15,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "6465558",
+      "title": "پک سیسمونی کودک ماما بیبی",
+      "url": "https://www.digikala.com/product/dkp-6465558/پک-سیسمونی-کودک-ماما-بیبی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0ebe1c7be2663b25096a566f199cedc42cf983f5_1631737832.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "مامابیبی",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 1200000,
+      "list_price": 1600000,
+      "discount_percent": 25,
+      "rating": 4.5,
+      "rating_count": 425,
+      "seller": "بازرگانی گلبهی",
+      "rank": 16,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": "بازرگانی گلبهی",
+        "url": "https://www.digikala.com/seller/FNEPT/"
+      },
+      "signals": {
+        "price_change_pct": -7.69,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -84920,79 +85003,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "21813451",
-      "title": "کوله پشتی لوازم کودک مدل 001",
-      "url": "https://www.digikala.com/product/dkp-21813451/کوله-پشتی-لوازم-کودک-مدل-001",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/cae5d9e0117135224b6c5c8e6f59b0c79d887fff_1780003617.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 2550000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.7,
-      "rating_count": 111,
-      "seller": "نینی دخت",
-      "rank": 16,
-      "available": true,
-      "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کودک و نوزاد"
-      },
-      "supplier": {
-        "name": "نینی دخت",
-        "url": "https://www.digikala.com/seller/EXEEU/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "17930368",
-      "title": "ساک لوازم کودک و نوزاد دلیجان مدل هانا کد 001",
-      "url": "https://www.digikala.com/product/dkp-17930368/ساک-لوازم-کودک-و-نوزاد-دلیجان-مدل-هانا-کد-001",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/217f25dafe510168153097c958d77705df4ff8f6_1766489876.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "دلیجان",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 4409800,
-      "list_price": 4862000,
-      "discount_percent": 9,
-      "rating": 4.5,
-      "rating_count": 140,
-      "seller": "دیجی‌کالا",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کودک و نوزاد"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": -9,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "39712",
       "title": "کتاب شیوه های تقویت هوش نوزاد (9 تا 12 ماهه)",
       "url": "https://www.digikala.com/product/dkp-39712/کتاب-شیوه-های-تقویت-هوش-نوزاد-9-تا-12-ماهه",
@@ -85000,14 +85010,14 @@
       "brand": "بافرزندان",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 225750,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.3,
       "rating_count": 615,
       "seller": "کوچه کتاب",
-      "rank": 17,
+      "rank": 16,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -85018,8 +85028,8 @@
         "url": "https://www.digikala.com/seller/G2ZYG/"
       },
       "signals": {
-        "price_change_pct": 0.65,
-        "rank_change": -7,
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -85209,14 +85219,14 @@
       "brand": "انتشارات کتاب پرنده",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 557760,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
       "rating_count": 206,
       "seller": "  شهر کتاب و سرگرمی",
-      "rank": 18,
+      "rank": 17,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -85231,7 +85241,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -14,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -85245,7 +85255,7 @@
       "brand": "مای بیبی",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 680060,
       "list_price": null,
       "discount_percent": 0,
@@ -85267,8 +85277,8 @@
         "url": "https://www.digikala.com/seller/CR654/"
       },
       "signals": {
-        "price_change_pct": 2.45,
-        "rank_change": -4,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -85632,23 +85642,24 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "39710",
-      "title": "کتاب شیوه های تقویت هوش نوزاد 3 تا 6 ماهه اثر بئاتریس میلتر",
-      "url": "https://www.digikala.com/product/dkp-39710/کتاب-شیوه-های-تقویت-هوش-نوزاد-3-تا-6-ماهه-اثر-بئاتریس-میلتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/121317084.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "بافرزندان",
+      "source_id": "4333797",
+      "title": "کتاب کودک باهوش من شناخت مفاهیم ساده 3 سالگی اثر داریوش صادقی نشر کتاب پرنده",
+      "url": "https://www.digikala.com/product/dkp-4333797/کتاب-کودک-باهوش-من-شناخت-مفاهیم-ساده-3-سالگی-اثر-داریوش-صادقی-نشر-کتاب-پرنده",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/892b122b2cb4715c4ed45483cb1f67edb33bae8f_1611759957.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "انتشارات کتاب پرنده",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 360000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 827,
-      "seller": "بادخان",
-      "rank": 19,
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 153000,
+      "list_price": 180000,
+      "discount_percent": 15,
+      "rating": 4.5,
+      "rating_count": 176,
+      "seller": "کتاب لاکپشت",
+      "rank": 18,
       "available": true,
       "badges": [
+        "فروش ویژه",
         "فروشنده معتبر",
         "تنها 1 عدد در انبار باقی مانده"
       ],
@@ -85656,12 +85667,49 @@
         "query": "کودک"
       },
       "supplier": {
-        "name": "بادخان",
-        "url": "https://www.digikala.com/seller/AATF9/"
+        "name": "کتاب لاکپشت",
+        "url": "https://www.digikala.com/seller/DGJFE/"
+      },
+      "signals": {
+        "price_change_pct": 2.23,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "13796262",
+      "title": "ساک لوازم کودک و نوزاد دلیجان مدل دیبا کاملیا",
+      "url": "https://www.digikala.com/product/dkp-13796262/ساک-لوازم-کودک-و-نوزاد-دیبا-مدل-کاملیا",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/080046aa296995fb9d39d033d66bbd89c4d4ac41_1702985282.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "دلیجان",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 1741300,
+      "list_price": 1795200,
+      "discount_percent": 3,
+      "rating": 4.4,
+      "rating_count": 291,
+      "seller": "دیجی‌کالا",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -8,
+        "rank_change": -14,
         "is_new": false
       }
     },
@@ -85843,42 +85891,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "2878318",
-      "title": "ست 5 تکه لباس نوزادی مدل z123",
-      "url": "https://www.digikala.com/product/dkp-2878318/ست-5-تکه-لباس-نوزادی-مدل-z123",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c78cec0e5c0fc55ceee4c3dc8e9e6683f91db8d6_1779277960.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
-      "price": 450000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4,
-      "rating_count": 1339,
-      "seller": " آرتمیس نوین",
-      "rank": 19,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "کودک و نوزاد"
-      },
-      "supplier": {
-        "name": " آرتمیس نوین",
-        "url": "https://www.digikala.com/seller/D6R5U/"
-      },
-      "signals": {
-        "price_change_pct": -8.11,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "8703491",
       "title": "البوم خاطرات کودک مدل پسرانه 2022",
       "url": "https://www.digikala.com/product/dkp-8703491/آلبوم-خاطرات-کودک-مدل-پسرانه-2022",
@@ -85886,14 +85898,14 @@
       "brand": "متفرقه",
       "category_key": "baby",
       "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-20T23:07:46.962Z",
+      "observed_at": "2026-10-21T19:16:31.631Z",
       "price": 798000,
       "list_price": 840000,
       "discount_percent": 5,
       "rating": 4.7,
       "rating_count": 554,
       "seller": "دنیای خاطرات",
-      "rank": 20,
+      "rank": 19,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -85907,8 +85919,82 @@
         "url": "https://www.digikala.com/seller/CRR3X/"
       },
       "signals": {
-        "price_change_pct": 1.06,
-        "rank_change": -7,
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "39710",
+      "title": "کتاب شیوه های تقویت هوش نوزاد 3 تا 6 ماهه اثر بئاتریس میلتر",
+      "url": "https://www.digikala.com/product/dkp-39710/کتاب-شیوه-های-تقویت-هوش-نوزاد-3-تا-6-ماهه-اثر-بئاتریس-میلتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/121317084.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "بافرزندان",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 346140,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 827,
+      "seller": "فرهنگیاد",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کودک"
+      },
+      "supplier": {
+        "name": "بادخان",
+        "url": "https://www.digikala.com/seller/AATF9/"
+      },
+      "signals": {
+        "price_change_pct": -3.85,
+        "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "2878318",
+      "title": "ست 5 تکه لباس نوزادی مدل z123",
+      "url": "https://www.digikala.com/product/dkp-2878318/ست-5-تکه-لباس-نوزادی-مدل-z123",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c78cec0e5c0fc55ceee4c3dc8e9e6683f91db8d6_1779277960.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "brand": "متفرقه",
+      "category_key": "baby",
+      "category_label": "کودک و نوزاد",
+      "observed_at": "2026-10-21T19:16:31.631Z",
+      "price": 489700,
+      "list_price": 590000,
+      "discount_percent": 17,
+      "rating": 4,
+      "rating_count": 1340,
+      "seller": " آرتمیس نوین",
+      "rank": 20,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 2 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کودک و نوزاد"
+      },
+      "supplier": {
+        "name": " آرتمیس نوین",
+        "url": "https://www.digikala.com/seller/D6R5U/"
+      },
+      "signals": {
+        "price_change_pct": 8.82,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -85976,39 +86062,6 @@
       "supplier": {
         "name": "کیف سازان",
         "url": "https://www.digikala.com/seller/A52WM/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "4333797",
-      "title": "کتاب کودک باهوش من شناخت مفاهیم ساده 3 سالگی اثر داریوش صادقی نشر کتاب پرنده",
-      "url": "https://www.digikala.com/product/dkp-4333797/کتاب-کودک-باهوش-من-شناخت-مفاهیم-ساده-3-سالگی-اثر-داریوش-صادقی-نشر-کتاب-پرنده",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/892b122b2cb4715c4ed45483cb1f67edb33bae8f_1611759957.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "انتشارات کتاب پرنده",
-      "category_key": "baby",
-      "category_label": "کودک و نوزاد",
-      "observed_at": "2026-10-15T23:12:51.331Z",
-      "price": 149660,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 176,
-      "seller": "ماناکو",
-      "rank": 20,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "کودک"
-      },
-      "supplier": {
-        "name": "کتاب لاکپشت",
-        "url": "https://www.digikala.com/seller/DGJFE/"
       },
       "signals": {
         "price_change_pct": 0,
