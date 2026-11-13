@@ -1,0 +1,165 @@
+{
+  "generated_at": "2026-11-13T16:09:01.132Z",
+  "source": "digikala-mcp",
+  "mode": "rotating",
+  "categories": {
+    "gaming": {
+      "label": "گیمینگ",
+      "queries": [
+        "کنسول بازی گیمینگ",
+        "گیمینگ",
+        "کنسول"
+      ],
+      "results": [
+        {
+          "query": "کنسول بازی گیمینگ",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Not found upstream (404) for /v1/search/. The id is probably wrong - check \"search_digikala\" first."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "گیمینگ",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Not found upstream (404) for /v1/search/. The id is probably wrong - check \"search_digikala\" first."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "کنسول",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Not found upstream (404) for /v1/search/. The id is probably wrong - check \"search_digikala\" first."
+              }
+            ],
+            "isError": true
+          }
+        }
+      ]
+    },
+    "beverages": {
+      "label": "نوشیدنی",
+      "queries": [
+        "نوشیدنی"
+      ],
+      "results": [
+        {
+          "query": "نوشیدنی",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Not found upstream (404) for /v1/search/. The id is probably wrong - check \"search_digikala\" first."
+              }
+            ],
+            "isError": true
+          }
+        }
+      ]
+    },
+    "jewelry": {
+      "label": "ساعت و زیورآلات",
+      "queries": [
+        "زیورآلات ساعت",
+        "ساعت و زیورآلات",
+        "زیورآلات"
+      ],
+      "results": [
+        {
+          "query": "زیورآلات ساعت",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Not found upstream (404) for /v1/search/. The id is probably wrong - check \"search_digikala\" first."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "ساعت و زیورآلات",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Not found upstream (404) for /v1/search/. The id is probably wrong - check \"search_digikala\" first."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "زیورآلات",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Not found upstream (404) for /v1/search/. The id is probably wrong - check \"search_digikala\" first."
+              }
+            ],
+            "isError": true
+          }
+        }
+      ]
+    },
+    "auto": {
+      "label": "خودرو و موتورسیکلت",
+      "queries": [
+        "لوازم خودرو موتور سیکلت",
+        "خودرو و موتورسیکلت",
+        "لوازم"
+      ],
+      "results": [
+        {
+          "query": "لوازم خودرو موتور سیکلت",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Not found upstream (404) for /v1/search/. The id is probably wrong - check \"search_digikala\" first."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "خودرو و موتورسیکلت",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Not found upstream (404) for /v1/search/. The id is probably wrong - check \"search_digikala\" first."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "لوازم",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Not found upstream (404) for /v1/search/. The id is probably wrong - check \"search_digikala\" first."
+              }
+            ],
+            "isError": true
+          }
+        }
+      ]
+    }
+  }
+}
