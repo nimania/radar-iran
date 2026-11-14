@@ -1,0 +1,191 @@
+{
+  "generated_at": "2026-11-14T23:17:48.363Z",
+  "source": "digikala-mcp",
+  "mode": "rotating",
+  "categories": {
+    "network": {
+      "label": "شبکه و ذخیره‌سازی",
+      "queries": [
+        "مودم هارد حافظه",
+        "شبکه و ذخیره‌سازی",
+        "مودم"
+      ],
+      "results": [
+        {
+          "query": "مودم هارد حافظه",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala rejected the request with HTTP 403. Rephrase or narrow the query, and do not repeat it as-is."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "شبکه و ذخیره‌سازی",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala rejected the request with HTTP 403. Rephrase or narrow the query, and do not repeat it as-is."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "مودم",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala rejected the request with HTTP 403. Rephrase or narrow the query, and do not repeat it as-is."
+              }
+            ],
+            "isError": true
+          }
+        }
+      ]
+    },
+    "snacks": {
+      "label": "تنقلات و شیرینی",
+      "queries": [
+        "تنقلات شکلات بیسکویت",
+        "تنقلات و شیرینی",
+        "تنقلات"
+      ],
+      "results": [
+        {
+          "query": "تنقلات شکلات بیسکویت",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala rejected the request with HTTP 403. Rephrase or narrow the query, and do not repeat it as-is."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "تنقلات و شیرینی",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala rejected the request with HTTP 403. Rephrase or narrow the query, and do not repeat it as-is."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "تنقلات",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala rejected the request with HTTP 403. Rephrase or narrow the query, and do not repeat it as-is."
+              }
+            ],
+            "isError": true
+          }
+        }
+      ]
+    },
+    "baby": {
+      "label": "کودک و نوزاد",
+      "queries": [
+        "کودک نوزاد",
+        "کودک و نوزاد",
+        "کودک"
+      ],
+      "results": [
+        {
+          "query": "کودک نوزاد",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala rejected the request with HTTP 403. Rephrase or narrow the query, and do not repeat it as-is."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "کودک و نوزاد",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala rejected the request with HTTP 403. Rephrase or narrow the query, and do not repeat it as-is."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "کودک",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala rejected the request with HTTP 403. Rephrase or narrow the query, and do not repeat it as-is."
+              }
+            ],
+            "isError": true
+          }
+        }
+      ]
+    },
+    "garden": {
+      "label": "باغبانی",
+      "queries": [
+        "لوازم باغبانی",
+        "باغبانی",
+        "لوازم"
+      ],
+      "results": [
+        {
+          "query": "لوازم باغبانی",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala rejected the request with HTTP 403. Rephrase or narrow the query, and do not repeat it as-is."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "باغبانی",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala rejected the request with HTTP 403. Rephrase or narrow the query, and do not repeat it as-is."
+              }
+            ],
+            "isError": true
+          }
+        },
+        {
+          "query": "لوازم",
+          "result": {
+            "content": [
+              {
+                "type": "text",
+                "text": "Digikala rejected the request with HTTP 403. Rephrase or narrow the query, and do not repeat it as-is."
+              }
+            ],
+            "isError": true
+          }
+        }
+      ]
+    }
+  }
+}
