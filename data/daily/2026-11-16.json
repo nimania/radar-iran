@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16T02:58:03.906Z",
+  "generated_at": "2026-11-16T09:27:57.896Z",
   "count": 4321,
   "collection": {
     "mode": "rotating",
@@ -67600,7 +67600,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 304200,
       "list_price": 390000,
       "discount_percent": 22,
@@ -67623,7 +67623,7 @@
         "url": "https://www.digikala.com/seller/AFWMT/"
       },
       "signals": {
-        "price_change_pct": -8.24,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -67638,7 +67638,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 5450000,
       "list_price": null,
       "discount_percent": 0,
@@ -67660,7 +67660,7 @@
         "url": "https://www.digikala.com/seller/ERWDG/"
       },
       "signals": {
-        "price_change_pct": -0.55,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -67675,19 +67675,19 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 820000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
-      "rating_count": 430,
+      "rating_count": 431,
       "seller": "ارایدن پلاس",
       "rank": 3,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
         "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "کمپینگ"
@@ -67698,7 +67698,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 15,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -67814,43 +67814,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17363389",
-      "title": "چراغ کمپینگ دی پی مدل شارژی",
-      "url": "https://www.digikala.com/product/dkp-17363389/چراغ-کمپینگ-دی-پی-مدل-شارژی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/717ef5f10867637c67e4ad948a9584e83845c109_1731416878.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "دی پی",
-      "category_key": "travel",
-      "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 1130000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.4,
-      "rating_count": 217,
-      "seller": "لاله زار استور",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "کمپینگ"
-      },
-      "supplier": {
-        "name": "بازرگانی آرم ترید",
-        "url": "https://www.digikala.com/seller/H5YPM/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 16,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "7159659",
       "title": "نظم دهنده سفری مدل کمپینگ بسته 5 عددی",
       "url": "https://www.digikala.com/product/dkp-7159659/نظم-دهنده-سفری-مدل-کمپینگ-بسته-5-عددی",
@@ -67930,14 +67893,14 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 1450000,
       "list_price": 1590000,
       "discount_percent": 9,
       "rating": 4.9,
       "rating_count": 7,
       "seller": " کیف استار",
-      "rank": 5,
+      "rank": 4,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -67951,7 +67914,44 @@
         "url": "https://www.digikala.com/seller/DE526/"
       },
       "signals": {
-        "price_change_pct": -2.68,
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17363389",
+      "title": "چراغ کمپینگ دی پی مدل شارژی",
+      "url": "https://www.digikala.com/product/dkp-17363389/چراغ-کمپینگ-دی-پی-مدل-شارژی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/717ef5f10867637c67e4ad948a9584e83845c109_1731416878.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "دی پی",
+      "category_key": "travel",
+      "category_label": "سفر و کمپینگ",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 1130000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.4,
+      "rating_count": 217,
+      "seller": "لاله زار استور",
+      "rank": 5,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "کمپینگ"
+      },
+      "supplier": {
+        "name": "بازرگانی آرم ترید",
+        "url": "https://www.digikala.com/seller/H5YPM/"
+      },
+      "signals": {
+        "price_change_pct": 0,
         "rank_change": -1,
         "is_new": false
       }
@@ -68074,7 +68074,7 @@
       "brand": "لایف کمپ",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 890000,
       "list_price": null,
       "discount_percent": 0,
@@ -68148,7 +68148,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 1800000,
       "list_price": null,
       "discount_percent": 0,
@@ -68295,7 +68295,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 1720000,
       "list_price": 1800000,
       "discount_percent": 4,
@@ -68320,7 +68320,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -68334,7 +68334,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 279000,
       "list_price": 350000,
       "discount_percent": 20,
@@ -68356,7 +68356,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -68440,7 +68440,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 359000,
       "list_price": 450000,
       "discount_percent": 20,
@@ -68463,7 +68463,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -68501,44 +68501,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "15983892",
-      "title": "چراغ کمپینگ مدل 2-W891",
-      "url": "https://www.digikala.com/product/dkp-15983892/چراغ-کمپینگ-مدل-2-w891",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/19f3bac5cad30c9ca125f24435b5438e480f25b4_1720175068.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "متفرقه",
-      "category_key": "travel",
-      "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 2345000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.5,
-      "rating_count": 227,
-      "seller": "لاله زار استور",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر",
-        "تنها 3 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "کمپینگ"
-      },
-      "supplier": {
-        "name": "لاله زار استور",
-        "url": "https://www.digikala.com/seller/CZW3W/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 5,
         "is_new": false
       }
     },
@@ -68803,14 +68765,14 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 229000,
       "list_price": 300000,
       "discount_percent": 24,
       "rating": 1,
       "rating_count": 1,
       "seller": "خندالو",
-      "rank": 12,
+      "rank": 11,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -68823,6 +68785,44 @@
       "supplier": {
         "name": "خندالو",
         "url": "https://www.digikala.com/seller/5A9HF/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "15983892",
+      "title": "چراغ کمپینگ مدل 2-W891",
+      "url": "https://www.digikala.com/product/dkp-15983892/چراغ-کمپینگ-مدل-2-w891",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/19f3bac5cad30c9ca125f24435b5438e480f25b4_1720175068.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "متفرقه",
+      "category_key": "travel",
+      "category_label": "سفر و کمپینگ",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 2345000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.5,
+      "rating_count": 227,
+      "seller": "لاله زار استور",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "کمپینگ"
+      },
+      "supplier": {
+        "name": "لاله زار استور",
+        "url": "https://www.digikala.com/seller/CZW3W/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -68946,7 +68946,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 699000,
       "list_price": 800000,
       "discount_percent": 13,
@@ -69343,7 +69343,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 229000,
       "list_price": 300000,
       "discount_percent": 24,
@@ -69366,7 +69366,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -69410,7 +69410,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 329000,
       "list_price": 400000,
       "discount_percent": 18,
@@ -69433,7 +69433,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -5,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -69656,7 +69656,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 1520000,
       "list_price": null,
       "discount_percent": 0,
@@ -69674,8 +69674,8 @@
         "url": "https://www.digikala.com/seller/CEM4Y/"
       },
       "signals": {
-        "price_change_pct": 27.73,
-        "rank_change": 2,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -69723,7 +69723,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 329000,
       "list_price": 400000,
       "discount_percent": 18,
@@ -69746,7 +69746,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -69939,7 +69939,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 229000,
       "list_price": 300000,
       "discount_percent": 24,
@@ -69962,7 +69962,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -70370,7 +70370,7 @@
       "brand": "متفرقه",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 280000,
       "list_price": 350000,
       "discount_percent": 20,
@@ -70660,7 +70660,7 @@
       "brand": "خندالو",
       "category_key": "travel",
       "category_label": "سفر و کمپینگ",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 279000,
       "list_price": 350000,
       "discount_percent": 20,
@@ -80804,41 +80804,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "2076296",
-      "title": "ادکلن مردانه گلان مدل EAUDE COLOGNE حجم 90 میلی‌لیتر",
-      "url": "https://www.digikala.com/product/dkp-2076296/ادکلن-مردانه-گلان-مدل-eaude-cologne-حجم-90-میلیلیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/eef0b38bae4b5e80bff6c2a78045e630d351881d_1788950559.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "گلان",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 472110,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.7,
-      "rating_count": 13149,
-      "seller": "کیامی شاپ",
-      "rank": 1,
-      "available": true,
-      "badges": [
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "عطر و ادکلن"
-      },
-      "supplier": {
-        "name": "کیامی شاپ",
-        "url": "https://www.digikala.com/seller/J2J59/"
-      },
-      "signals": {
-        "price_change_pct": 7.52,
-        "rank_change": 3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "2908840",
       "title": "ادوکلن ارمغان مدل Sport حجم 90 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-2908840/ادوکلن-ارمغان-مدل-sport-حجم-90-میلی-لیتر",
@@ -80846,14 +80811,14 @@
       "brand": "متفرقه",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 314000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.8,
       "rating_count": 361,
       "seller": "لیانو شاپ",
-      "rank": 2,
+      "rank": 1,
       "available": true,
       "badges": [
         "فروشنده معتبر",
@@ -80867,8 +80832,117 @@
         "url": "https://www.digikala.com/seller/5A7CW/"
       },
       "signals": {
-        "price_change_pct": -3.38,
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "126057",
+      "title": "عطر جیبی زنانه ژک ساف مدل 713 حجم 20 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-126057/عطر-جیبی-زنانه-ژک-ساف-مدل-713-حجم-20-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/bd952a2b8313ec29ba1842d0acf5e8b75de84c21_1788943380.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "ژک ساف",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 527000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.2,
+      "rating_count": 2216,
+      "seller": "گالری کهن",
+      "rank": 1,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "عطر"
+      },
+      "supplier": {
+        "name": "گالری کهن",
+        "url": "https://www.digikala.com/seller/AATCE/"
+      },
+      "signals": {
+        "price_change_pct": 0,
         "rank_change": 6,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "4833434",
+      "title": "عطر جیبی مردانه اسکلاره مدل CRD Aventus حجم 35 میلی لیتر به همراه عطر جیبی مردانه مدل Silver Scent",
+      "url": "https://www.digikala.com/product/dkp-4833434/عطر-جیبی-مردانه-اسکلاره-مدل-crd-aventus-حجم-35-میلی-لیتر-به-همراه-عطر-جیبی-مردانه-مدل-silver-scent",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/debff017090f610bb88a6fc36256d394b2ba2185_1788951376.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "اسکلاره",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 850000,
+      "list_price": 1378940,
+      "discount_percent": 38,
+      "rating": 4.2,
+      "rating_count": 2042,
+      "seller": "کانتینر",
+      "rank": 2,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "عطر"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 7,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "2076296",
+      "title": "ادکلن مردانه گلان مدل EAUDE COLOGNE حجم 90 میلی‌لیتر",
+      "url": "https://www.digikala.com/product/dkp-2076296/ادکلن-مردانه-گلان-مدل-eaude-cologne-حجم-90-میلیلیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/eef0b38bae4b5e80bff6c2a78045e630d351881d_1788950559.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "گلان",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 472110,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.7,
+      "rating_count": 13150,
+      "seller": "کیامی شاپ",
+      "rank": 3,
+      "available": true,
+      "badges": [
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "عطر"
+      },
+      "supplier": {
+        "name": "کیامی شاپ",
+        "url": "https://www.digikala.com/seller/J2J59/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -80917,14 +80991,14 @@
       "brand": "ژک ساف",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 578600,
       "list_price": 756900,
       "discount_percent": 24,
       "rating": 4.2,
       "rating_count": 8261,
       "seller": "دیجی‌کالا",
-      "rank": 3,
+      "rank": 4,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -80932,15 +81006,15 @@
         "انبار دیجی‌کالا"
       ],
       "raw_ref": {
-        "query": "عطر و ادکلن"
+        "query": "عطر"
       },
       "supplier": {
         "name": "پرشین سلکت",
         "url": "https://www.digikala.com/seller/5AMPJ/"
       },
       "signals": {
-        "price_change_pct": 1.37,
-        "rank_change": 0,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -80983,43 +81057,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "12420235",
-      "title": "ادوپرفیوم مردانه فراگرنس پرشیا 116 مدل کرید اونتوس حجم 50 میلی‌لیتر",
-      "url": "https://www.digikala.com/product/dkp-12420235/ادوپرفیوم-مردانه-فراگرنس-پرشیا-116-مدل-کرید-اونتوس-حجم-50-میلیلیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c746c4409fca635f61abd81431dcdf81195ce62c_1788943188.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "فراگرنس پرشیا 116",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 684500,
-      "list_price": 1600000,
-      "discount_percent": 57,
-      "rating": 3.6,
-      "rating_count": 890,
-      "seller": "رایحه گستر قشم",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "عطر و ادکلن"
-      },
-      "supplier": {
-        "name": "رایحه گستر قشم",
-        "url": "https://www.digikala.com/seller/DZDPY/"
-      },
-      "signals": {
-        "price_change_pct": 5.32,
-        "rank_change": 10,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "2924199",
       "title": "تستر ادوکلن مردانه ارمغان مدل 1221حجم 90 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-2924199/تستر-ادوکلن-مردانه-ارمغان-مدل-1221حجم-90-میلی-لیتر",
@@ -81027,14 +81064,14 @@
       "brand": "ارمغان",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 313350,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.7,
-      "rating_count": 970,
+      "rating_count": 971,
       "seller": "لیانو شاپ",
-      "rank": 5,
+      "rank": 4,
       "available": true,
       "badges": [
         "فروشنده معتبر",
@@ -81048,8 +81085,8 @@
         "url": "https://www.digikala.com/seller/5A7CW/"
       },
       "signals": {
-        "price_change_pct": -3.58,
-        "rank_change": -2,
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -81059,23 +81096,23 @@
       "source_id": "92209",
       "title": "عطر جیبی زنانه ژک ساف مدل Sweet Love حجم 20 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-92209/عطر-جیبی-زنانه-ژک-ساف-مدل-sweet-love-حجم-20-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/a41f7f05e190b56145d0756165ec7791061f7dd8_1788951852.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/a41f7f05e190b56145d0756165ec7791061f7dd8_1788951852.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
       "brand": "ژک ساف",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-24T21:06:32.170Z",
-      "price": 541910,
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 547000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.2,
-      "rating_count": 6227,
-      "seller": "هیرلایت",
+      "rating_count": 6254,
+      "seller": "گالری کهن",
       "rank": 5,
       "available": true,
       "badges": [
+        "ارسال سریع دیجی‌کالا",
         "ارسال توسط فروشنده",
-        "فروشنده معتبر",
-        "تنها 1 عدد در انبار باقی مانده"
+        "فروشنده معتبر"
       ],
       "raw_ref": {
         "query": "عطر"
@@ -81085,7 +81122,7 @@
         "url": "https://www.digikala.com/seller/GWVKN/"
       },
       "signals": {
-        "price_change_pct": 2.25,
+        "price_change_pct": 0.94,
         "rank_change": 0,
         "is_new": false
       }
@@ -81093,20 +81130,20 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "1553531",
-      "title": "ادو پرفیوم مردانه نایس مدل Aventus حجم 85 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-1553531/ادو-پرفیوم-مردانه-نایس-مدل-aventus-حجم-85-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/3d37ee78d4254e32fc3235a5010d17754cc84a41_1788945381.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "نایس پاپت",
+      "source_id": "1947326",
+      "title": "عطر جیبی مردانه اسکلاره مدل Crd Aventus حجم 35 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-1947326/عطر-جیبی-مردانه-اسکلاره-مدل-crd-aventus-حجم-35-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3583f170d5ad814f47acfcf996fb094060477369_1788950222.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "اسکلاره",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 847780,
-      "list_price": 1637870,
-      "discount_percent": 48,
-      "rating": 3.8,
-      "rating_count": 1423,
-      "seller": "سوییت سنس",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 435000,
+      "list_price": 908750,
+      "discount_percent": 52,
+      "rating": 4,
+      "rating_count": 6492,
+      "seller": "کانتینر",
       "rank": 6,
       "available": true,
       "badges": [
@@ -81115,52 +81152,15 @@
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "عطر و ادکلن"
+        "query": "عطر"
       },
       "supplier": {
         "name": "دیجی‌کالا",
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 0.46,
-        "rank_change": 10,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "126057",
-      "title": "عطر جیبی زنانه ژک ساف مدل 713 حجم 20 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-126057/عطر-جیبی-زنانه-ژک-ساف-مدل-713-حجم-20-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/bd952a2b8313ec29ba1842d0acf5e8b75de84c21_1788943380.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "ژک ساف",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 527000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.2,
-      "rating_count": 2216,
-      "seller": "گالری کهن",
-      "rank": 7,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "عطر و ادکلن"
-      },
-      "supplier": {
-        "name": "گالری کهن",
-        "url": "https://www.digikala.com/seller/AATCE/"
-      },
-      "signals": {
-        "price_change_pct": 12.13,
-        "rank_change": -5,
+        "price_change_pct": 0,
+        "rank_change": 6,
         "is_new": false
       }
     },
@@ -81198,6 +81198,80 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "19547224",
+      "title": "ادوپرفیوم زنانه فراگرنس پرشیا 116 مدل اکلت با رایحه خنک حجم 35 میلی‌لیتر",
+      "url": "https://www.digikala.com/product/dkp-19547224/ادوپرفیوم-زنانه-فراگرنس-پرشیا-116-مدل-اکلت-با-رایحه-خنک-حجم-35-میلیلیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f8f4605f307aaaa4a2fb155a8897b6d3d3515af7_1788950223.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "فراگرنس پرشیا 116",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 450000,
+      "list_price": 570000,
+      "discount_percent": 21,
+      "rating": 3.7,
+      "rating_count": 213,
+      "seller": "عطر گلهای بهاری",
+      "rank": 7,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "عطر و ادکلن"
+      },
+      "supplier": {
+        "name": "عطر گلهای بهاری",
+        "url": "https://www.digikala.com/seller/D9CFE/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "382890",
+      "title": "عطر جیبی مردانه ژک ساف مدل FF حجم 22 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-382890/عطر-جیبی-مردانه-ژک-ساف-مدل-ff-حجم-22-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/445072dc0a1129ed0c65903f5b75d9a7f23e498d_1788951245.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "ژک ساف",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 574400,
+      "list_price": 759300,
+      "discount_percent": 24,
+      "rating": 4.2,
+      "rating_count": 5071,
+      "seller": "دیجی‌کالا",
+      "rank": 7,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "عطر"
+      },
+      "supplier": {
+        "name": "سی و هفت ده",
+        "url": "https://www.digikala.com/seller/DNR9T/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 3,
         "is_new": false
       }
     },
@@ -81308,58 +81382,21 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "19547224",
-      "title": "ادوپرفیوم زنانه فراگرنس پرشیا 116 مدل اکلت با رایحه خنک حجم 35 میلی‌لیتر",
-      "url": "https://www.digikala.com/product/dkp-19547224/ادوپرفیوم-زنانه-فراگرنس-پرشیا-116-مدل-اکلت-با-رایحه-خنک-حجم-35-میلیلیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f8f4605f307aaaa4a2fb155a8897b6d3d3515af7_1788950223.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "فراگرنس پرشیا 116",
+      "source_id": "20394927",
+      "title": "عطر جیبی زنانه نایس پاپت مدل Scandal با رایحه شیرین حجم 30 میلی‌لیتر",
+      "url": "https://www.digikala.com/product/dkp-20394927/عطر-جیبی-زنانه-نایس-پاپت-مدل-scandal-با-رایحه-شیرین-حجم-30-میلیلیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/20c271dbad5346022234f309f50a3214e26ad6da_1788950420.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "نایس پاپت",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 450000,
-      "list_price": 570000,
-      "discount_percent": 21,
-      "rating": 3.7,
-      "rating_count": 213,
-      "seller": "عطر گلهای بهاری",
-      "rank": 8,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "عطر و ادکلن"
-      },
-      "supplier": {
-        "name": "عطر گلهای بهاری",
-        "url": "https://www.digikala.com/seller/D9CFE/"
-      },
-      "signals": {
-        "price_change_pct": 16.88,
-        "rank_change": 5,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "4833434",
-      "title": "عطر جیبی مردانه اسکلاره مدل CRD Aventus حجم 35 میلی لیتر به همراه عطر جیبی مردانه مدل Silver Scent",
-      "url": "https://www.digikala.com/product/dkp-4833434/عطر-جیبی-مردانه-اسکلاره-مدل-crd-aventus-حجم-35-میلی-لیتر-به-همراه-عطر-جیبی-مردانه-مدل-silver-scent",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/debff017090f610bb88a6fc36256d394b2ba2185_1788951376.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "اسکلاره",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 850000,
-      "list_price": 1378940,
-      "discount_percent": 38,
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 604510,
+      "list_price": 1332750,
+      "discount_percent": 54,
       "rating": 4.2,
-      "rating_count": 2041,
-      "seller": "کانتینر",
-      "rank": 9,
+      "rating_count": 146,
+      "seller": "سوییت سنس",
+      "rank": 8,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -81367,15 +81404,15 @@
         "فروشنده معتبر"
       ],
       "raw_ref": {
-        "query": "عطر و ادکلن"
+        "query": "عطر"
       },
       "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
+        "name": "کانتینر",
+        "url": "https://www.digikala.com/seller/AVRZR/"
       },
       "signals": {
-        "price_change_pct": 3.66,
-        "rank_change": -8,
+        "price_change_pct": 0,
+        "rank_change": 8,
         "is_new": false
       }
     },
@@ -81385,22 +81422,21 @@
       "source_id": "19060904",
       "title": "ادوپرفیوم زنانه الحمبرا مدل یارا صورتی با رایحه شیرین حجم 35 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-19060904/ادوپرفیوم-زنانه-الحمبرا-مدل-یارا-صورتی-با-رایحه-شیرین-حجم-35-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/184bd17fbfa8d1a19a1e8ee918b67ac18b2f1b42_1788950149.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/184bd17fbfa8d1a19a1e8ee918b67ac18b2f1b42_1788950149.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
       "brand": "الحمبرا",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-24T21:06:32.170Z",
-      "price": 289000,
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 230000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.7,
-      "rating_count": 231,
-      "seller": "ایران خاتون",
+      "rating_count": 254,
+      "seller": "عطر و آرایشی سپیدار",
       "rank": 9,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "فروشنده معتبر"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
         "query": "عطر"
@@ -81410,8 +81446,8 @@
         "url": "https://www.digikala.com/seller/DAEG2/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "price_change_pct": -20.42,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -81529,43 +81565,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "382890",
-      "title": "عطر جیبی مردانه ژک ساف مدل FF حجم 22 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-382890/عطر-جیبی-مردانه-ژک-ساف-مدل-ff-حجم-22-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/445072dc0a1129ed0c65903f5b75d9a7f23e498d_1788951245.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "ژک ساف",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 574400,
-      "list_price": 759300,
-      "discount_percent": 24,
-      "rating": 4.2,
-      "rating_count": 5071,
-      "seller": "دیجی‌کالا",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "عطر و ادکلن"
-      },
-      "supplier": {
-        "name": "سی و هفت ده",
-        "url": "https://www.digikala.com/seller/DNR9T/"
-      },
-      "signals": {
-        "price_change_pct": 4.44,
-        "rank_change": -3,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "8059378",
       "title": "ادو پرفیوم مردانه بایلندو مدل اینوکتوس اسپرت حجم 100 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-8059378/ادو-پرفیوم-مردانه-بایلندو-مدل-اینوکتوس-اسپرت-حجم-100-میلی-لیتر",
@@ -81639,129 +81638,21 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "7608527",
-      "title": "ادوپرفیوم مردانه نیفتی مدل ساواج دیور با رایحه خنک حجم 100 میلی‌لیتر",
-      "url": "https://www.digikala.com/product/dkp-7608527/ادوپرفیوم-مردانه-نیفتی-مدل-ساواج-دیور-با-رایحه-خنک-حجم-100-میلیلیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/ae1dbd054edc1d607695b70df884ebb4fd9db249_1788951798.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "نیفتی",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-24T21:06:32.170Z",
-      "price": 1599000,
-      "list_price": 3300000,
-      "discount_percent": 52,
-      "rating": 3.8,
-      "rating_count": 16958,
-      "seller": " اسپیدروم",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال توسط فروشنده"
-      ],
-      "raw_ref": {
-        "query": "عطر"
-      },
-      "supplier": {
-        "name": "گالری سوسپیرو",
-        "url": "https://www.digikala.com/seller/A259N/"
-      },
-      "signals": {
-        "price_change_pct": 6.67,
-        "rank_change": 4,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "17150961",
-      "title": "ادو پرفیوم مردانه فراگرنس پرشیا 116 مدل کرید اونتوس با رایحه تلخ و خنک حجم 70 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-17150961/ادو-پرفیوم-مردانه-فراگرنس-پرشیا-116-مدل-کرید-اونتوس-با-رایحه-تلخ-و-خنک-حجم-70-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0507c4a757f0f9dd5533b8a71d0b249952f5e128_1754237262.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "فراگرنس پرشیا 116",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 799900,
-      "list_price": 1800000,
-      "discount_percent": 56,
-      "rating": 3.3,
-      "rating_count": 249,
-      "seller": "رایحه گستر قشم",
-      "rank": 11,
-      "available": true,
-      "badges": [
-        "فروش ویژه"
-      ],
-      "raw_ref": {
-        "query": "عطر و ادکلن"
-      },
-      "supplier": {
-        "name": "شیوا ناندا",
-        "url": "https://www.digikala.com/seller/GC5Z7/"
-      },
-      "signals": {
-        "price_change_pct": 48.13,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "1947326",
-      "title": "عطر جیبی مردانه اسکلاره مدل Crd Aventus حجم 35 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-1947326/عطر-جیبی-مردانه-اسکلاره-مدل-crd-aventus-حجم-35-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/3583f170d5ad814f47acfcf996fb094060477369_1788950222.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "اسکلاره",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 435000,
-      "list_price": 908750,
-      "discount_percent": 52,
-      "rating": 4,
-      "rating_count": 6492,
-      "seller": "کانتینر",
-      "rank": 12,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "عطر و ادکلن"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
-        "price_change_pct": 5.2,
-        "rank_change": -6,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "14238709",
       "title": "عطر جیبی زنانه صندل مدل ECLAT حجم 25 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-14238709/عطر-جیبی-زنانه-صندل-مدل-eclat-حجم-25-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/0806cf209132a0b6eafbc4f2c34ce46555e0c453_1788944529.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0806cf209132a0b6eafbc4f2c34ce46555e0c453_1788944529.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
       "brand": "صندل",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-24T21:06:32.170Z",
-      "price": 538900,
-      "list_price": 785000,
-      "discount_percent": 31,
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 538800,
+      "list_price": 980000,
+      "discount_percent": 45,
       "rating": 4,
-      "rating_count": 79,
+      "rating_count": 90,
       "seller": "دیجی‌کالا",
-      "rank": 12,
+      "rank": 10,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -81776,8 +81667,82 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 36.88,
-        "rank_change": -2,
+        "price_change_pct": -0.02,
+        "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "1553531",
+      "title": "ادو پرفیوم مردانه نایس مدل Aventus حجم 85 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-1553531/ادو-پرفیوم-مردانه-نایس-مدل-aventus-حجم-85-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/3d37ee78d4254e32fc3235a5010d17754cc84a41_1788945381.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "نایس پاپت",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 838120,
+      "list_price": 1637870,
+      "discount_percent": 48,
+      "rating": 3.8,
+      "rating_count": 1423,
+      "seller": "سوییت سنس",
+      "rank": 11,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "عطر"
+      },
+      "supplier": {
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": -1.14,
+        "rank_change": -5,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "12420235",
+      "title": "ادوپرفیوم مردانه فراگرنس پرشیا 116 مدل کرید اونتوس حجم 50 میلی‌لیتر",
+      "url": "https://www.digikala.com/product/dkp-12420235/ادوپرفیوم-مردانه-فراگرنس-پرشیا-116-مدل-کرید-اونتوس-حجم-50-میلیلیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c746c4409fca635f61abd81431dcdf81195ce62c_1788943188.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "فراگرنس پرشیا 116",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 684500,
+      "list_price": 1600000,
+      "discount_percent": 57,
+      "rating": 3.6,
+      "rating_count": 890,
+      "seller": "رایحه گستر قشم",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "عطر"
+      },
+      "supplier": {
+        "name": "رایحه گستر قشم",
+        "url": "https://www.digikala.com/seller/DZDPY/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -8,
         "is_new": false
       }
     },
@@ -81816,6 +81781,42 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "7608527",
+      "title": "ادوپرفیوم مردانه نیفتی مدل ساواج دیور با رایحه خنک حجم 100 میلی‌لیتر",
+      "url": "https://www.digikala.com/product/dkp-7608527/ادوپرفیوم-مردانه-نیفتی-مدل-ساواج-دیور-با-رایحه-خنک-حجم-100-میلیلیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/ae1dbd054edc1d607695b70df884ebb4fd9db249_1788951798.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "نیفتی",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 1699000,
+      "list_price": 3300000,
+      "discount_percent": 49,
+      "rating": 3.8,
+      "rating_count": 17062,
+      "seller": " اسپیدروم",
+      "rank": 13,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال توسط فروشنده"
+      ],
+      "raw_ref": {
+        "query": "عطر"
+      },
+      "supplier": {
+        "name": "گالری سوسپیرو",
+        "url": "https://www.digikala.com/seller/A259N/"
+      },
+      "signals": {
+        "price_change_pct": 6.25,
+        "rank_change": -3,
         "is_new": false
       }
     },
@@ -81974,7 +81975,7 @@
       "brand": "فراگرنس پرشیا 116",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 649500,
       "list_price": 1600000,
       "discount_percent": 59,
@@ -81996,8 +81997,8 @@
         "url": "https://www.digikala.com/seller/GC5Z7/"
       },
       "signals": {
-        "price_change_pct": 65.69,
-        "rank_change": 3,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -82011,7 +82012,7 @@
       "brand": "گلان",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 440000,
       "list_price": null,
       "discount_percent": 0,
@@ -82031,8 +82032,8 @@
         "url": "https://www.digikala.com/seller/J2J59/"
       },
       "signals": {
-        "price_change_pct": 4.76,
-        "rank_change": -1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -82223,6 +82224,42 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "2394662",
+      "title": "عطر جیبی مردانه اسکلاره مدل Dnhil حجم 35 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-2394662/عطر-جیبی-مردانه-اسکلاره-مدل-dnhil-حجم-35-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/117747757.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "اسکلاره",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 590290,
+      "list_price": 908750,
+      "discount_percent": 35,
+      "rating": 4,
+      "rating_count": 831,
+      "seller": "هایپر لند",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "عطر"
+      },
+      "supplier": {
+        "name": "مانا ایده",
+        "url": "https://www.digikala.com/seller/G5Y33/"
+      },
+      "signals": {
+        "price_change_pct": 11.27,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "16131785",
       "title": "ادو پرفیوم مردانه ایفوریا مدل اینوکتوس پاکو رابان با رایحه خنک و تند حجم 100 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-16131785/ادو-پرفیوم-مردانه-ایفوریا-مدل-اینوکتوس-پاکو-رابان-حجم-100-میلی-لیتر",
@@ -82252,43 +82289,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "2394662",
-      "title": "عطر جیبی مردانه اسکلاره مدل Dnhil حجم 35 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-2394662/عطر-جیبی-مردانه-اسکلاره-مدل-dnhil-حجم-35-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/117747757.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "اسکلاره",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-24T21:06:32.170Z",
-      "price": 530490,
-      "list_price": 908750,
-      "discount_percent": 42,
-      "rating": 4,
-      "rating_count": 826,
-      "seller": "سوییت سنس",
-      "rank": 15,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "عطر"
-      },
-      "supplier": {
-        "name": "مانا ایده",
-        "url": "https://www.digikala.com/seller/G5Y33/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
         "is_new": false
       }
     },
@@ -82330,37 +82330,36 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20394927",
-      "title": "عطر جیبی زنانه نایس پاپت مدل Scandal با رایحه شیرین حجم 30 میلی‌لیتر",
-      "url": "https://www.digikala.com/product/dkp-20394927/عطر-جیبی-زنانه-نایس-پاپت-مدل-scandal-با-رایحه-شیرین-حجم-30-میلیلیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/20c271dbad5346022234f309f50a3214e26ad6da_1788950420.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "نایس پاپت",
+      "source_id": "2284708",
+      "title": "عطر جیبی مردانه ژک ساف حجم 22 میلی لیتر بسته 3 عددی کد 04",
+      "url": "https://www.digikala.com/product/dkp-2284708/عطر-جیبی-مردانه-ژک-ساف-حجم-22-میلی-لیتر-بسته-3-عددی-کد-04",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4c6a551c4fbd85a0a657a381992b0407d9f77652_1788951250.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "ژک ساف",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 604510,
-      "list_price": 1332750,
-      "discount_percent": 54,
-      "rating": 4.2,
-      "rating_count": 145,
-      "seller": "سوییت سنس",
-      "rank": 16,
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 1887000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.3,
+      "rating_count": 4,
+      "seller": "بهنام تجارت گستر",
+      "rank": 15,
       "available": true,
       "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
-        "query": "عطر و ادکلن"
+        "query": "عطر"
       },
       "supplier": {
-        "name": "کانتینر",
-        "url": "https://www.digikala.com/seller/AVRZR/"
+        "name": "مهرداد عطر",
+        "url": "https://www.digikala.com/seller/HKRKK/"
       },
       "signals": {
-        "price_change_pct": 4.23,
-        "rank_change": -5,
+        "price_change_pct": 5.42,
+        "rank_change": 2,
         "is_new": false
       }
     },
@@ -82553,73 +82552,35 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "17870242",
-      "title": "ادوپرفیوم زنانه پینک ویژوال مدل ادوپرفیوم با رایحه معتدل حجم 100 میلی‌لیتر",
-      "url": "https://www.digikala.com/product/dkp-17870242/ادوپرفیوم-زنانه-پینک-ویژوآل-مدل-ادوپرفیوم-با-رایحه-معتدل-حجم-100-میلیلیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/f0120e4288b365e9f6e7bca22c7da935b77915af_1737784719.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "پینک ویژوال",
+      "source_id": "14491034",
+      "title": "ادوپرفیوم لطافه مدل یارا حجم 100 میلی‌لیتر",
+      "url": "https://www.digikala.com/product/dkp-14491034/ادوپرفیوم-لطافه-مدل-یارا-حجم-100-میلیلیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/8fcbc1ca769677e2d53107bbbab359a74ede1e77_1788944539.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "لطافه",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 1390100,
-      "list_price": 3105620,
-      "discount_percent": 55,
-      "rating": 4,
-      "rating_count": 449,
-      "seller": "دیجی‌کالا",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "عطر و ادکلن"
-      },
-      "supplier": {
-        "name": "دیجی‌کالا",
-        "url": "https://www.digikala.com/seller/5A52N/"
-      },
-      "signals": {
-        "price_change_pct": 4.77,
-        "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "2284708",
-      "title": "عطر جیبی مردانه ژک ساف حجم 22 میلی لیتر بسته 3 عددی کد 04",
-      "url": "https://www.digikala.com/product/dkp-2284708/عطر-جیبی-مردانه-ژک-ساف-حجم-22-میلی-لیتر-بسته-3-عددی-کد-04",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4c6a551c4fbd85a0a657a381992b0407d9f77652_1788951250.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ژک ساف",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-24T21:06:32.170Z",
-      "price": 1790000,
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 4580330,
       "list_price": null,
       "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 4,
-      "seller": "مهرداد عطر",
-      "rank": 17,
+      "rating": 3.7,
+      "rating_count": 119,
+      "seller": "عطر و آرایشی سپیدار",
+      "rank": 16,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده",
-        "تنها 1 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده"
       ],
       "raw_ref": {
         "query": "عطر"
       },
       "supplier": {
-        "name": "مهرداد عطر",
-        "url": "https://www.digikala.com/seller/HKRKK/"
+        "name": "بازرگانی سوفیا",
+        "url": "https://www.digikala.com/seller/DY7UV/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": -1,
+        "price_change_pct": 12.15,
+        "rank_change": 3,
         "is_new": false
       }
     },
@@ -82765,6 +82726,112 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": 2,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "13661523",
+      "title": "پرفیوم مردانه فراگرنس پرشیا 116 مدل ورساچه اروس حجم 100 میلی‌لیتر",
+      "url": "https://www.digikala.com/product/dkp-13661523/پرفیوم-مردانه-فراگرنس-پرشیا-116-مدل-ورساچه-اروس-حجم-100-میلیلیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/918568c263b344e65257d817c0d90edcac76b62a_1754252047.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": null,
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 1449500,
+      "list_price": 2500000,
+      "discount_percent": 42,
+      "rating": 3.8,
+      "rating_count": 785,
+      "seller": "رایحه گستر قشم",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "عطر و ادکلن"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "104535",
+      "title": "عطر جیبی مردانه ژک ساف مدل Champion حجم 22 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-104535/عطر-جیبی-مردانه-ژک-ساف-مدل-champion-حجم-22-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c220186de8c9788f90481bb4da3297bdb635c731_1788942513.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "ژک ساف",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 537800,
+      "list_price": 627440,
+      "discount_percent": 14,
+      "rating": 4.3,
+      "rating_count": 779,
+      "seller": "دیجی‌کالا",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "عطر"
+      },
+      "supplier": {
+        "name": "فروشگاه خان بانو",
+        "url": "https://www.digikala.com/seller/EKV5H/"
+      },
+      "signals": {
+        "price_change_pct": 7.56,
+        "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "17150961",
+      "title": "ادو پرفیوم مردانه فراگرنس پرشیا 116 مدل کرید اونتوس با رایحه تلخ و خنک حجم 70 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-17150961/ادو-پرفیوم-مردانه-فراگرنس-پرشیا-116-مدل-کرید-اونتوس-با-رایحه-تلخ-و-خنک-حجم-70-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/0507c4a757f0f9dd5533b8a71d0b249952f5e128_1754237262.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "فراگرنس پرشیا 116",
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 799900,
+      "list_price": 1800000,
+      "discount_percent": 56,
+      "rating": 3.3,
+      "rating_count": 249,
+      "seller": "رایحه گستر قشم",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "فروش ویژه"
+      ],
+      "raw_ref": {
+        "query": "عطر"
+      },
+      "supplier": {
+        "name": "شیوا ناندا",
+        "url": "https://www.digikala.com/seller/GC5Z7/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -7,
         "is_new": false
       }
     },
@@ -83021,40 +83088,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "13661523",
-      "title": "پرفیوم مردانه فراگرنس پرشیا 116 مدل ورساچه اروس حجم 100 میلی‌لیتر",
-      "url": "https://www.digikala.com/product/dkp-13661523/پرفیوم-مردانه-فراگرنس-پرشیا-116-مدل-ورساچه-اروس-حجم-100-میلیلیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/918568c263b344e65257d817c0d90edcac76b62a_1754252047.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": null,
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 1449500,
-      "list_price": 2500000,
-      "discount_percent": 42,
-      "rating": 3.8,
-      "rating_count": 785,
-      "seller": "رایحه گستر قشم",
-      "rank": 18,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "عطر و ادکلن"
-      },
-      "supplier": {},
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "17099923",
       "title": "ادو پرفیوم مردانه فراگرنس پرشیا 116 مدل دایویدف کول واتر با رایحه خنک حجم 35 میلی لیتر",
       "url": "https://www.digikala.com/product/dkp-17099923/ادو-پرفیوم-مردانه-فراگرنس-پرشیا-116-مدل-دایویدف-کول-واتر-با-رایحه-خنک-حجم-35-میلی-لیتر",
@@ -83062,14 +83095,14 @@
       "brand": "فراگرنس پرشیا 116",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 445000,
       "list_price": 570000,
       "discount_percent": 22,
       "rating": 3.7,
       "rating_count": 888,
       "seller": "عطر گلهای بهاری",
-      "rank": 19,
+      "rank": 18,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -83083,42 +83116,44 @@
         "url": "https://www.digikala.com/seller/D9CFE/"
       },
       "signals": {
-        "price_change_pct": 15.58,
-        "rank_change": -2,
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "14491034",
-      "title": "ادوپرفیوم لطافه مدل یارا حجم 100 میلی‌لیتر",
-      "url": "https://www.digikala.com/product/dkp-14491034/ادوپرفیوم-لطافه-مدل-یارا-حجم-100-میلیلیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/8fcbc1ca769677e2d53107bbbab359a74ede1e77_1788944539.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "لطافه",
+      "source_id": "17870242",
+      "title": "ادوپرفیوم زنانه پینک ویژوال مدل ادوپرفیوم با رایحه معتدل حجم 100 میلی‌لیتر",
+      "url": "https://www.digikala.com/product/dkp-17870242/ادوپرفیوم-زنانه-پینک-ویژوآل-مدل-ادوپرفیوم-با-رایحه-معتدل-حجم-100-میلیلیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/f0120e4288b365e9f6e7bca22c7da935b77915af_1737784719.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "پینک ویژوال",
       "category_key": "perfume",
       "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-24T21:06:32.170Z",
-      "price": 4084020,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.7,
-      "rating_count": 119,
-      "seller": "عطر و آرایشی سپیدار",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 1393800,
+      "list_price": 3105620,
+      "discount_percent": 55,
+      "rating": 4,
+      "rating_count": 449,
+      "seller": "دیجی‌کالا",
       "rank": 19,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده"
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
       ],
       "raw_ref": {
         "query": "عطر"
       },
       "supplier": {
-        "name": "بازرگانی سوفیا",
-        "url": "https://www.digikala.com/seller/DY7UV/"
+        "name": "دیجی‌کالا",
+        "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 0,
+        "price_change_pct": 0.27,
         "rank_change": -2,
         "is_new": false
       }
@@ -83271,6 +83306,41 @@
     {
       "schema_version": 1,
       "source": "digikala",
+      "source_id": "20837095",
+      "title": "ادو پرفیوم مردانه زوا مدل مگاماره با رایحه خنک حجم 50 میلی لیتر",
+      "url": "https://www.digikala.com/product/dkp-20837095/ادو-پرفیوم-مردانه-زوا-مدل-مگاماره-با-رایحه-خنک-حجم-50-میلی-لیتر",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c62a7a33f52fe41975ef6e6d0a1d02ab807dbdee_1788950623.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": null,
+      "category_key": "perfume",
+      "category_label": "عطر و ادکلن",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 989000,
+      "list_price": 1700000,
+      "discount_percent": 42,
+      "rating": 3.7,
+      "rating_count": 131,
+      "seller": "آفر ا استور",
+      "rank": 19,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "عطر و ادکلن"
+      },
+      "supplier": {},
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
       "source_id": "13767328",
       "title": "محفظه نگهدارنده عطر مدل Easy-Refill کد BB01",
       "url": "https://www.digikala.com/product/dkp-13767328/محفظه-نگهدارنده-عطر-مدل-easy-refill-کد-bb01",
@@ -83301,42 +83371,6 @@
       "signals": {
         "price_change_pct": 0,
         "rank_change": -2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "104535",
-      "title": "عطر جیبی مردانه ژک ساف مدل Champion حجم 22 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-104535/عطر-جیبی-مردانه-ژک-ساف-مدل-champion-حجم-22-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c220186de8c9788f90481bb4da3297bdb635c731_1788942513.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "ژک ساف",
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-10-24T11:28:14.136Z",
-      "price": 500000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.3,
-      "rating_count": 772,
-      "seller": "کیمیاعطر",
-      "rank": 20,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر",
-        "تنها 2 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "عطر"
-      },
-      "supplier": {
-        "name": "فروشگاه خان بانو",
-        "url": "https://www.digikala.com/seller/EKV5H/"
-      },
-      "signals": {
-        "price_change_pct": 2.04,
-        "rank_change": 0,
         "is_new": false
       }
     },
@@ -83704,41 +83738,6 @@
         "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "20837095",
-      "title": "ادو پرفیوم مردانه زوا مدل مگاماره با رایحه خنک حجم 50 میلی لیتر",
-      "url": "https://www.digikala.com/product/dkp-20837095/ادو-پرفیوم-مردانه-زوا-مدل-مگاماره-با-رایحه-خنک-حجم-50-میلی-لیتر",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c62a7a33f52fe41975ef6e6d0a1d02ab807dbdee_1788950623.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": null,
-      "category_key": "perfume",
-      "category_label": "عطر و ادکلن",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 989000,
-      "list_price": 1700000,
-      "discount_percent": 42,
-      "rating": 3.7,
-      "rating_count": 131,
-      "seller": "آفر ا استور",
-      "rank": 20,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "عطر و ادکلن"
-      },
-      "supplier": {},
-      "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
       }
     },
     {
@@ -104582,7 +104581,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 288030,
       "list_price": null,
       "discount_percent": 0,
@@ -104654,8 +104653,8 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 89000000,
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 88800000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.7,
@@ -104676,8 +104675,8 @@
         "url": "https://www.digikala.com/seller/5A52N/"
       },
       "signals": {
-        "price_change_pct": 0.01,
-        "rank_change": 1,
+        "price_change_pct": -0.22,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -104763,7 +104762,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 289000,
       "list_price": null,
       "discount_percent": 0,
@@ -104801,7 +104800,7 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 110500000,
       "list_price": null,
       "discount_percent": 0,
@@ -104824,8 +104823,8 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": -1.87,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -104872,7 +104871,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 314000,
       "list_price": null,
       "discount_percent": 0,
@@ -104907,7 +104906,7 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 85900000,
       "list_price": null,
       "discount_percent": 0,
@@ -104930,44 +104929,7 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": -3.37,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "18991772",
-      "title": "لپ‌تاپ لنوو مدل IdeaPad 1 15IJL7 با پردازنده Celeron N4500، رم DDR4 8GB با فرکانس 2933MHz، حافظه SSD با ظرفیت 256GB، نمایشگر 15.6 اینچ TN با وضوح Full HD",
-      "url": "https://www.digikala.com/product/dkp-18991772/لپتاپ-لنوو-مدل-ideapad-1-15ijl7-با-پردازنده-celeron-n4500-رم-ddr4-8gb-با-فرکانس-2933mhz-حافظه-ssd-با-ظرفیت-256gb-نمایشگر-156-اینچ-tn-با-وضوح-full-hd",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/509ef6a33068c0d055e624baf07569faa72ea082_1786538650.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/quality,q_90",
-      "brand": "لنوو",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-10T07:39:33.724Z",
-      "price": 91500000,
-      "list_price": 93000000,
-      "discount_percent": 2,
-      "rating": 4.2,
-      "rating_count": 213,
-      "seller": "دیجی‌کالا",
-      "rank": 4,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "لپ‌تاپ و کامپیوتر"
-      },
-      "supplier": {
-        "name": "طرح اندیشان سمت نو",
-        "url": "https://www.digikala.com/seller/CH4KA/"
-      },
-      "signals": {
-        "price_change_pct": -1.61,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -104982,7 +104944,7 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 106200000,
       "list_price": null,
       "discount_percent": 0,
@@ -105002,8 +104964,8 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": 1.24,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -105017,7 +104979,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 340000,
       "list_price": null,
       "discount_percent": 0,
@@ -105037,8 +104999,8 @@
         "url": "https://www.digikala.com/seller/CS7A4/"
       },
       "signals": {
-        "price_change_pct": 25.28,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -105052,7 +105014,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 329000,
       "list_price": null,
       "discount_percent": 0,
@@ -105071,7 +105033,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": -1,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -105123,7 +105085,7 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 95900000,
       "list_price": null,
       "discount_percent": 0,
@@ -105146,8 +105108,8 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": -3.71,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -105198,7 +105160,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 330000,
       "list_price": null,
       "discount_percent": 0,
@@ -105234,7 +105196,7 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 92900000,
       "list_price": null,
       "discount_percent": 0,
@@ -105257,8 +105219,8 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": -1.06,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -105308,7 +105270,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 325000,
       "list_price": null,
       "discount_percent": 0,
@@ -105329,7 +105291,7 @@
         "url": "https://www.digikala.com/seller/CPCJW/"
       },
       "signals": {
-        "price_change_pct": 5.18,
+        "price_change_pct": 0,
         "rank_change": 0,
         "is_new": false
       }
@@ -105377,21 +105339,24 @@
       "source_id": "15050068",
       "title": "لپ تاپ 15.6 اینچی لنوو مدل V15 G4 AMN-Athlon Silver 7120U 8GB 512SSD",
       "url": "https://www.digikala.com/product/dkp-15050068/لپ-تاپ-156-اینچی-لنوو-مدل-v15-g4-amn-athlon-silver-7120u-8gb-512ssd",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/debd2c3b69830c0a38aaab9e90ddc51d45d421de_1754253763.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/debd2c3b69830c0a38aaab9e90ddc51d45d421de_1754253763.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-24T21:06:32.170Z",
-      "price": 116500000,
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 114900000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
       "rating_count": 73,
-      "seller": "آی تی لند بیست و چهار",
-      "rank": 8,
+      "seller": "طرح اندیشان سمت نو",
+      "rank": 7,
       "available": true,
       "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 1 عدد در انبار باقی مانده",
+        "بهترین قیمت در ۳۰ روز گذشته"
       ],
       "raw_ref": {
         "query": "لپ‌تاپ و کامپیوتر"
@@ -105401,8 +105366,8 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
+        "price_change_pct": -1.37,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -105598,7 +105563,7 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 121890000,
       "list_price": null,
       "discount_percent": 0,
@@ -105621,8 +105586,41 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": -1.61,
-        "rank_change": 2,
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "20039029",
+      "title": "تاپ زنانه مدل 003",
+      "url": "https://www.digikala.com/product/dkp-20039029/تاپ-زنانه-مدل-003",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/307d35a174b6db7c3d901cdf2e733d7e8a5607dc_1780304536.jpg",
+      "brand": "متفرقه",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 398000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.5,
+      "rating_count": 11,
+      "seller": "تولیدی پوشاک آویسا",
+      "rank": 8,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "تاپ"
+      },
+      "supplier": {
+        "name": " فرنوشک",
+        "url": "https://www.digikala.com/seller/CS7A4/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -105702,39 +105700,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "20039029",
-      "title": "تاپ زنانه مدل 003",
-      "url": "https://www.digikala.com/product/dkp-20039029/تاپ-زنانه-مدل-003",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/307d35a174b6db7c3d901cdf2e733d7e8a5607dc_1780304536.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-24T21:06:32.170Z",
-      "price": 398000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.4,
-      "rating_count": 11,
-      "seller": "تولیدی پوشاک آویسا",
-      "rank": 9,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "تاپ"
-      },
-      "supplier": {
-        "name": " فرنوشک",
-        "url": "https://www.digikala.com/seller/CS7A4/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 0,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "16328107",
       "title": "لپ تاپ 15.6 اینچی لنوو مدل V15 G2 IJL-Celeron N4500-8GB DDR4-256GB SSD-TN-W - کاستوم شده",
       "url": "https://www.digikala.com/product/dkp-16328107/لپ-تاپ-156-اینچی-لنوو-مدل-v15-g2-ijl-celeron-n4500-8gb-ddr4-256gb-ssd-tn-w-کاستوم-شده",
@@ -105742,7 +105707,7 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 93990000,
       "list_price": null,
       "discount_percent": 0,
@@ -105766,7 +105731,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 2,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -105780,17 +105745,18 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 335000,
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 420000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 55,
-      "seller": "گالری هستی و هلنا",
+      "seller": "شامار پوش",
       "rank": 9,
       "available": true,
       "badges": [
-        "ارسال توسط فروشنده"
+        "ارسال توسط فروشنده",
+        "تنها 2 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "تاپ"
@@ -105800,8 +105766,8 @@
         "url": "https://www.digikala.com/seller/CPCJW/"
       },
       "signals": {
-        "price_change_pct": 9.26,
-        "rank_change": 3,
+        "price_change_pct": 25.37,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -105843,43 +105809,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "6027231",
-      "title": "تاپ زنانه دوک مدل تاپ بندی",
-      "url": "https://www.digikala.com/product/dkp-6027231/تاپ-زنانه-دوک-مدل-تاپ-بندی",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/4724f3ab78c93703522ec05ac2fcecd7458896d2_1778327402.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "دوک",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-22T19:11:59.363Z",
-      "price": 271400,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.6,
-      "rating_count": 27,
-      "seller": " فرنوشک",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا",
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "تاپ"
-      },
-      "supplier": {
-        "name": " فرنوشک",
-        "url": "https://www.digikala.com/seller/CS7A4/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "14026361",
       "title": "لپ تاپ 15.6 اینچی لنوو مدل V15 G2 IJL-Celeron N4500 4GB 1SSD - کاستوم شده",
       "url": "https://www.digikala.com/product/dkp-14026361/لپ-تاپ-156-اینچی-لنوو-مدل-v15-g2-ijl-celeron-n4500-4gb-1ssd-کاستوم-شده",
@@ -105887,7 +105816,7 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 103900000,
       "list_price": null,
       "discount_percent": 0,
@@ -105909,43 +105838,8 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": -1.89,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "3726983",
-      "title": "تاپ زنانه مدل Td005w",
-      "url": "https://www.digikala.com/product/dkp-3726983/تاپ-زنانه-مدل-td005w",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/c561cc204ca618afa1f32db86fb24116beb4dbb4_1778327393.jpg",
-      "brand": "متفرقه",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 299000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.3,
-      "rating_count": 812,
-      "seller": "صحبا",
-      "rank": 10,
-      "available": true,
-      "badges": [
-        "فروشنده معتبر"
-      ],
-      "raw_ref": {
-        "query": "تاپ"
-      },
-      "supplier": {
-        "name": "صحبا",
-        "url": "https://www.digikala.com/seller/CV2H5/"
-      },
-      "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -105955,23 +105849,25 @@
       "source_id": "17203429",
       "title": "تاپ زنانه مدل X0902PI",
       "url": "https://www.digikala.com/product/dkp-17203429/تاپ-زنانه-مدل-x0902pi",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/814c714b7be5216879cc734d883d80da7fd0b336_1778326899.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/814c714b7be5216879cc734d883d80da7fd0b336_1778326899.jpg",
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-24T21:06:32.170Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 5950000,
-      "list_price": 6800000,
-      "discount_percent": 13,
+      "list_price": 6900000,
+      "discount_percent": 14,
       "rating": 4.5,
       "rating_count": 11,
       "seller": "ست لوکس",
-      "rank": 11,
+      "rank": 10,
       "available": true,
       "badges": [
         "فروش ویژه",
         "ارسال سریع دیجی‌کالا",
-        "ارسال توسط فروشنده"
+        "ارسال توسط فروشنده",
+        "فروشنده معتبر",
+        "تنها 3 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "تاپ"
@@ -105982,7 +105878,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 0,
+        "rank_change": 1,
         "is_new": false
       }
     },
@@ -106034,7 +105930,7 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 107400000,
       "list_price": null,
       "discount_percent": 0,
@@ -106057,8 +105953,8 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": -1.1,
-        "rank_change": 2,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -106072,7 +105968,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 500000,
       "list_price": null,
       "discount_percent": 0,
@@ -106093,7 +105989,42 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 3,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "3726983",
+      "title": "تاپ زنانه مدل Td005w",
+      "url": "https://www.digikala.com/product/dkp-3726983/تاپ-زنانه-مدل-td005w",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/c561cc204ca618afa1f32db86fb24116beb4dbb4_1778327393.jpg",
+      "brand": "متفرقه",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 299000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.3,
+      "rating_count": 812,
+      "seller": "صحبا",
+      "rank": 12,
+      "available": true,
+      "badges": [
+        "فروشنده معتبر"
+      ],
+      "raw_ref": {
+        "query": "تاپ"
+      },
+      "supplier": {
+        "name": "صحبا",
+        "url": "https://www.digikala.com/seller/CV2H5/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": -2,
         "is_new": false
       }
     },
@@ -106213,7 +106144,7 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 110990000,
       "list_price": null,
       "discount_percent": 0,
@@ -106223,8 +106154,7 @@
       "rank": 12,
       "available": true,
       "badges": [
-        "تنها 1 عدد در انبار باقی مانده",
-        "بهترین قیمت در ۳۰ روز گذشته"
+        "تنها 1 عدد در انبار باقی مانده"
       ],
       "raw_ref": {
         "query": "لپ‌تاپ و کامپیوتر"
@@ -106234,8 +106164,8 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": -0.99,
-        "rank_change": 2,
+        "price_change_pct": 0,
+        "rank_change": 0,
         "is_new": false
       }
     },
@@ -106426,7 +106356,7 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 368700000,
       "list_price": null,
       "discount_percent": 0,
@@ -106447,8 +106377,78 @@
         "url": "https://www.digikala.com/seller/EKT6S/"
       },
       "signals": {
-        "price_change_pct": -0.35,
-        "rank_change": 2,
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "12129269",
+      "title": "تاپ زنانه مدل بندی ساده",
+      "url": "https://www.digikala.com/product/dkp-12129269/تاپ-زنانه-مدل-بندی-ساده",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/56b3c8b07432341b34afdb7958f5b1ae6da85840_1778326594.jpg",
+      "brand": "متفرقه",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 339000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.5,
+      "rating_count": 44,
+      "seller": "سعادت استایل",
+      "rank": 13,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "تاپ"
+      },
+      "supplier": {
+        "name": "سعادت استایل",
+        "url": "https://www.digikala.com/seller/EHTVN/"
+      },
+      "signals": {
+        "price_change_pct": 0,
+        "rank_change": 3,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "18991772",
+      "title": "لپ‌تاپ لنوو مدل IdeaPad 1 15IJL7 با پردازنده Celeron N4500، رم DDR4 8GB با فرکانس 2933MHz، حافظه SSD با ظرفیت 256GB، نمایشگر 15.6 اینچ TN با وضوح Full HD",
+      "url": "https://www.digikala.com/product/dkp-18991772/لپتاپ-لنوو-مدل-ideapad-1-15ijl7-با-پردازنده-celeron-n4500-رم-ddr4-8gb-با-فرکانس-2933mhz-حافظه-ssd-با-ظرفیت-256gb-نمایشگر-156-اینچ-tn-با-وضوح-full-hd",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/509ef6a33068c0d055e624baf07569faa72ea082_1786538650.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "لنوو",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 86389500,
+      "list_price": 90936300,
+      "discount_percent": 5,
+      "rating": 4.2,
+      "rating_count": 223,
+      "seller": "دیجی‌کالا",
+      "rank": 14,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا"
+      ],
+      "raw_ref": {
+        "query": "لپ‌تاپ و کامپیوتر"
+      },
+      "supplier": {
+        "name": "طرح اندیشان سمت نو",
+        "url": "https://www.digikala.com/seller/CH4KA/"
+      },
+      "signals": {
+        "price_change_pct": -5.59,
+        "rank_change": -10,
         "is_new": false
       }
     },
@@ -106462,14 +106462,14 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 6555000,
       "list_price": 6900000,
       "discount_percent": 5,
       "rating": 4.2,
       "rating_count": 23,
       "seller": "ست لوکس",
-      "rank": 13,
+      "rank": 14,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -106485,8 +106485,8 @@
         "url": "https://www.digikala.com/seller/AHEWX/"
       },
       "signals": {
-        "price_change_pct": -0.68,
-        "rank_change": 4,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -106538,14 +106538,14 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 399000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
       "rating_count": 18,
       "seller": "گالری هستی و هلنا",
-      "rank": 14,
+      "rank": 15,
       "available": true,
       "badges": [
         "ارسال سریع دیجی‌کالا",
@@ -106559,8 +106559,8 @@
         "url": "https://www.digikala.com/seller/CPCJW/"
       },
       "signals": {
-        "price_change_pct": 30.65,
-        "rank_change": 4,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -106574,14 +106574,14 @@
       "brand": null,
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 131000000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 3.8,
       "rating_count": 84,
       "seller": "آی تی لند بیست و چهار",
-      "rank": 14,
+      "rank": 15,
       "available": true,
       "badges": [
         "تنها 2 عدد در انبار باقی مانده"
@@ -106591,9 +106591,9 @@
       },
       "supplier": {},
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": -1,
+        "is_new": false
       }
     },
     {
@@ -106750,14 +106750,14 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 114700000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4,
       "rating_count": 156,
       "seller": "طرح اندیشان سمت نو",
-      "rank": 15,
+      "rank": 16,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -106773,8 +106773,8 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": -1.12,
-        "rank_change": 1,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -106788,14 +106788,14 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 500000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.1,
       "rating_count": 19,
       "seller": "انجل سکرت",
-      "rank": 15,
+      "rank": 16,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده"
@@ -106809,7 +106809,7 @@
       },
       "signals": {
         "price_change_pct": 0,
-        "rank_change": 5,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -107033,74 +107033,6 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "12129269",
-      "title": "تاپ زنانه مدل بندی ساده",
-      "url": "https://www.digikala.com/product/dkp-12129269/تاپ-زنانه-مدل-بندی-ساده",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/56b3c8b07432341b34afdb7958f5b1ae6da85840_1778326594.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
-      "brand": "متفرقه",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-24T21:06:32.170Z",
-      "price": 339000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 3.5,
-      "rating_count": 44,
-      "seller": "سعادت استایل",
-      "rank": 16,
-      "available": true,
-      "badges": [],
-      "raw_ref": {
-        "query": "تاپ"
-      },
-      "supplier": {
-        "name": "سعادت استایل",
-        "url": "https://www.digikala.com/seller/EHTVN/"
-      },
-      "signals": {
-        "price_change_pct": 0,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
-      "source_id": "15110108",
-      "title": "لپ‌تاپ لنوو مدل LOQ 15IRX9 با پردازنده Core i7-13650HX و گرافیک RTX4050 6GB، رم DDR5 24GB با فرکانس 4800MHz، حافظه SSD با ظرفیت 1TB، نمایشگر 15.6 اینچ IPS با وضح Full HD و نرخ به‌روزرسانی 144Hz، دارای نور پس‌زمینه کیبورد",
-      "url": "https://www.digikala.com/product/dkp-15110108/لپتاپ-لنوو-مدل-loq-15irx9-با-پردازنده-core-i7-13650hx-و-گرافیک-rtx4050-6gb-رم-ddr5-24gb-با-فرکانس-4800mhz-حافظه-ssd-با-ظرفیت-1tb-نمایشگر-156-اینچ-ips-با-وضح-full-hd-و-نرخ-بهروزرسانی-144hz-دارای-نور-پسزمینه-کیبورد",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/7d84321a21a3d5b0efe44e061165135fd67639fc_1754253831.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "لنوو",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 392500000,
-      "list_price": null,
-      "discount_percent": 0,
-      "rating": 4.8,
-      "rating_count": 10,
-      "seller": "پردیس  استور",
-      "rank": 16,
-      "available": true,
-      "badges": [
-        "تنها 1 عدد در انبار باقی مانده"
-      ],
-      "raw_ref": {
-        "query": "لپ‌تاپ و کامپیوتر"
-      },
-      "supplier": {
-        "name": "ائلمان سیستم",
-        "url": "https://www.digikala.com/seller/EKT6S/"
-      },
-      "signals": {
-        "price_change_pct": 1.42,
-        "rank_change": 1,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "6314428",
       "title": "تاپ زنانه مدل بندی",
       "url": "https://www.digikala.com/product/dkp-6314428/تاپ-زنانه-مدل-بندی",
@@ -107134,18 +107066,18 @@
       "source_id": "13278622",
       "title": "لپ‌تاپ لنوو مدل IdeaPad Slim 3 15IRH8 با پردازنده Core i5-13420H، رم LPDDR5 8GB با فرکانس 4800MHz، حافظه SSD با ظرفیت 512GB، نمایشگر 15.6 اینچ TN با وضوح Full HD",
       "url": "https://www.digikala.com/product/dkp-13278622/لپتاپ-لنوو-مدل-ideapad-slim-3-15irh8-با-پردازنده-core-i5-13420h-رم-lpddr5-8gb-با-فرکانس-4800mhz-حافظه-ssd-با-ظرفیت-512gb-نمایشگر-156-اینچ-tn-با-وضوح-full-hd",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/b5380e737d711896df60a537eaf5025866ea1f13_1786538653.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/b5380e737d711896df60a537eaf5025866ea1f13_1786538653.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-24T21:06:32.170Z",
-      "price": 148000000,
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 155000000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
-      "rating_count": 275,
+      "rating_count": 276,
       "seller": "رایانه نیاز",
-      "rank": 17,
+      "rank": 16,
       "available": true,
       "badges": [],
       "raw_ref": {
@@ -107154,6 +107086,74 @@
       "supplier": {
         "name": "سرزمین پرینتر",
         "url": "https://www.digikala.com/seller/DCPVG/"
+      },
+      "signals": {
+        "price_change_pct": 4.73,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "6027231",
+      "title": "تاپ زنانه دوک مدل تاپ بندی",
+      "url": "https://www.digikala.com/product/dkp-6027231/تاپ-زنانه-دوک-مدل-تاپ-بندی",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/4724f3ab78c93703522ec05ac2fcecd7458896d2_1778327402.jpg",
+      "brand": "دوک",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 450000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 3.6,
+      "rating_count": 27,
+      "seller": "آوای آرایش",
+      "rank": 17,
+      "available": true,
+      "badges": [],
+      "raw_ref": {
+        "query": "تاپ"
+      },
+      "supplier": {
+        "name": " فرنوشک",
+        "url": "https://www.digikala.com/seller/CS7A4/"
+      },
+      "signals": {
+        "price_change_pct": 65.81,
+        "rank_change": -7,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "15110108",
+      "title": "لپ‌تاپ لنوو مدل LOQ 15IRX9 با پردازنده Core i7-13650HX و گرافیک RTX4050 6GB، رم DDR5 24GB با فرکانس 4800MHz، حافظه SSD با ظرفیت 1TB، نمایشگر 15.6 اینچ IPS با وضح Full HD و نرخ به‌روزرسانی 144Hz، دارای نور پس‌زمینه کیبورد",
+      "url": "https://www.digikala.com/product/dkp-15110108/لپتاپ-لنوو-مدل-loq-15irx9-با-پردازنده-core-i7-13650hx-و-گرافیک-rtx4050-6gb-رم-ddr5-24gb-با-فرکانس-4800mhz-حافظه-ssd-با-ظرفیت-1tb-نمایشگر-156-اینچ-ips-با-وضح-full-hd-و-نرخ-بهروزرسانی-144hz-دارای-نور-پسزمینه-کیبورد",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/7d84321a21a3d5b0efe44e061165135fd67639fc_1754253831.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "لنوو",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 392500000,
+      "list_price": null,
+      "discount_percent": 0,
+      "rating": 4.8,
+      "rating_count": 10,
+      "seller": "پردیس  استور",
+      "rank": 17,
+      "available": true,
+      "badges": [
+        "تنها 1 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لپ‌تاپ و کامپیوتر"
+      },
+      "supplier": {
+        "name": "ائلمان سیستم",
+        "url": "https://www.digikala.com/seller/EKT6S/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -107385,58 +107385,21 @@
     {
       "schema_version": 1,
       "source": "digikala",
-      "source_id": "14039755",
-      "title": "لپ‌تاپ ایسوس مدل Vivobook 15 X1504VA-NJ379 با پردازنده Core i7-1355U، رم 8GB DDR4 با فرکانس 3200MHz، حافظه SSD با ظرفیت 512GB، نمایشگر 15.6 اینچ TFT با وضوح Full HD",
-      "url": "https://www.digikala.com/product/dkp-14039755/لپتاپ-ایسوس-مدل-vivobook-15-x1504va-nj379-با-پردازنده-core-i7-1355u-رم-8gb-ddr4-با-فرکانس-3200mhz-حافظه-ssd-با-ظرفیت-512gb-نمایشگر-156-اینچ-tft-با-وضوح-full-hd",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/e0562b9710c61c64020b15ec5715db7dea835d68_1786538654.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
-      "brand": "ایسوس",
-      "category_key": "laptop",
-      "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
-      "price": 169134900,
-      "list_price": 178036800,
-      "discount_percent": 5,
-      "rating": 4.3,
-      "rating_count": 73,
-      "seller": "دیجی‌کالا",
-      "rank": 17,
-      "available": true,
-      "badges": [
-        "فروش ویژه",
-        "ارسال سریع دیجی‌کالا",
-        "انبار دیجی‌کالا"
-      ],
-      "raw_ref": {
-        "query": "لپ‌تاپ و کامپیوتر"
-      },
-      "supplier": {
-        "name": "بانی نو",
-        "url": "https://www.digikala.com/seller/CAJWJ/"
-      },
-      "signals": {
-        "price_change_pct": -3.74,
-        "rank_change": 2,
-        "is_new": false
-      }
-    },
-    {
-      "schema_version": 1,
-      "source": "digikala",
       "source_id": "19297225",
-      "title": "لپ‌تاپ 15.6 اینچی لنوو مدل IdeaPad Slim 3 15IRU8 با پردازنده i3 1315U، رم 8 گیگابایت، حافظه SSD با ظرفیت 512 گیگابایت، نمایشگر Full HD مات، وبکم 720p با درپوش لنز و پشتیبانی از Wi-Fi 6",
-      "url": "https://www.digikala.com/product/dkp-19297225/لپتاپ-156-اینچی-لنوو-مدل-ideapad-slim-3-15iru8-با-پردازنده-i3-1315u-رم-8-گیگابایت-حافظه-ssd-با-ظرفیت-512-گیگابایت-نمایشگر-full-hd-مات-وبکم-720p-با-درپوش-لنز-و-پشتیبانی-از-wi-fi-6",
-      "image": "https://dkstatics-public.digikala.com/digikala-products/82df008d266afe92faabc35863670fbcaf5c0f5c_1786538649.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+      "title": "لپ‌تاپ لنوو مدل IdeaPad Slim 3 15IRU8، پردازنده Core i3-1315U، رم 8GB LPDDR5 با فرکانس 4800 مگاهرتز، حافظه 512GB SSD، نمایشگر 15.6 اینچی Full HD مات TN با نرخ نوسازی 60 هرتز، وبکم 720p با درپوش لنز، پشتیبانی از Wi-Fi 6 و شارژ سریع",
+      "url": "https://www.digikala.com/product/dkp-19297225/لپتاپ-لنوو-مدل-ideapad-slim-3-15iru8-پردازنده-core-i3-1315u-رم-8gb-lpddr5-با-فرکانس-4800-مگاهرتز-حافظه-512gb-ssd-نمایشگر-156-اینچی-full-hd-مات-tn-با-نرخ-نوسازی-60-هرتز-وبکم-720p-با-درپوش-لنز-پشتیبانی-از-wi-fi-6-و-شارژ-سریع",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/82df008d266afe92faabc35863670fbcaf5c0f5c_1786538649.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-10-24T21:06:32.170Z",
-      "price": 122000000,
-      "list_price": 125500000,
-      "discount_percent": 3,
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 116850000,
+      "list_price": 122999900,
+      "discount_percent": 5,
       "rating": 4.3,
-      "rating_count": 97,
+      "rating_count": 102,
       "seller": "دیجی‌کالا",
-      "rank": 18,
+      "rank": 17,
       "available": true,
       "badges": [
         "فروش ویژه",
@@ -107449,6 +107412,44 @@
       "supplier": {
         "name": "دیجی‌کالا",
         "url": "https://www.digikala.com/seller/5A52N/"
+      },
+      "signals": {
+        "price_change_pct": -4.22,
+        "rank_change": 1,
+        "is_new": false
+      }
+    },
+    {
+      "schema_version": 1,
+      "source": "digikala",
+      "source_id": "14039755",
+      "title": "لپ‌تاپ ایسوس مدل Vivobook 15 X1504VA-NJ379 با پردازنده Core i7-1355U، رم 8GB DDR4 با فرکانس 3200MHz، حافظه SSD با ظرفیت 512GB، نمایشگر 15.6 اینچ TFT با وضوح Full HD",
+      "url": "https://www.digikala.com/product/dkp-14039755/لپتاپ-ایسوس-مدل-vivobook-15-x1504va-nj379-با-پردازنده-core-i7-1355u-رم-8gb-ddr4-با-فرکانس-3200mhz-حافظه-ssd-با-ظرفیت-512gb-نمایشگر-156-اینچ-tft-با-وضوح-full-hd",
+      "image": "https://dkstatics-public.digikala.com/digikala-products/e0562b9710c61c64020b15ec5715db7dea835d68_1786538654.jpg?x-oss-process=image/resize,m_lfit,h_600,w_600/quality,q_90",
+      "brand": "ایسوس",
+      "category_key": "laptop",
+      "category_label": "لپ‌تاپ و کامپیوتر",
+      "observed_at": "2026-11-16T09:27:57.896Z",
+      "price": 169134900,
+      "list_price": 178036800,
+      "discount_percent": 5,
+      "rating": 4.3,
+      "rating_count": 73,
+      "seller": "دیجی‌کالا",
+      "rank": 18,
+      "available": true,
+      "badges": [
+        "فروش ویژه",
+        "ارسال سریع دیجی‌کالا",
+        "انبار دیجی‌کالا",
+        "تنها 3 عدد در انبار باقی مانده"
+      ],
+      "raw_ref": {
+        "query": "لپ‌تاپ و کامپیوتر"
+      },
+      "supplier": {
+        "name": "بانی نو",
+        "url": "https://www.digikala.com/seller/CAJWJ/"
       },
       "signals": {
         "price_change_pct": 0,
@@ -107607,7 +107608,7 @@
       "brand": "متفرقه",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 5950000,
       "list_price": 6800000,
       "discount_percent": 13,
@@ -107683,14 +107684,14 @@
       "brand": "لنوو",
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 107300000,
       "list_price": null,
       "discount_percent": 0,
       "rating": 4.5,
       "rating_count": 13,
       "seller": "طرح اندیشان سمت نو",
-      "rank": 18,
+      "rank": 19,
       "available": true,
       "badges": [
         "ارسال توسط فروشنده",
@@ -107706,8 +107707,8 @@
         "url": "https://www.digikala.com/seller/CH4KA/"
       },
       "signals": {
-        "price_change_pct": -1.01,
-        "rank_change": 0,
+        "price_change_pct": 0,
+        "rank_change": -1,
         "is_new": false
       }
     },
@@ -108191,7 +108192,7 @@
       "brand": null,
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 5950000,
       "list_price": 6900000,
       "discount_percent": 14,
@@ -108210,9 +108211,9 @@
       },
       "supplier": {},
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
       }
     },
     {
@@ -108583,12 +108584,12 @@
       "brand": null,
       "category_key": "laptop",
       "category_label": "لپ‌تاپ و کامپیوتر",
-      "observed_at": "2026-11-15T23:04:57.461Z",
+      "observed_at": "2026-11-16T09:27:57.896Z",
       "price": 240500000,
       "list_price": 258586000,
       "discount_percent": 7,
       "rating": 4.4,
-      "rating_count": 51,
+      "rating_count": 52,
       "seller": "دیجی‌کالا",
       "rank": 20,
       "available": true,
@@ -108604,9 +108605,9 @@
       },
       "supplier": {},
       "signals": {
-        "price_change_pct": null,
-        "rank_change": null,
-        "is_new": true
+        "price_change_pct": 0,
+        "rank_change": 0,
+        "is_new": false
       }
     },
     {
